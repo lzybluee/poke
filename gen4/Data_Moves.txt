@@ -4637,9 +4637,7 @@
   },
   allyswitch: {
     priority: 1,
-    stallingMove: false,
     onPrepareHit: [Function: onPrepareHit],
-    onHit: [Function: onHit],
     num: 502,
     accuracy: true,
     basePower: 0,
@@ -4647,7 +4645,13 @@
     name: 'Ally Switch',
     pp: 15,
     flags: { metronome: 1 },
-    onTryHit: [Function: onTryHit],
+    onHit: [Function: onHit],
+    condition: {
+      duration: 2,
+      counterMax: 729,
+      onStart: [Function: onStart],
+      onRestart: [Function: onRestart]
+    },
     secondary: null,
     target: 'self',
     type: 'Psychic',

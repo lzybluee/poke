@@ -949,10 +949,14 @@
     pp: 15,
     priority: 2,
     flags: { metronome: 1 },
-    stallingMove: true,
     onPrepareHit: [Function: onPrepareHit],
-    onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
+    condition: {
+      duration: 2,
+      counterMax: 729,
+      onStart: [Function: onStart],
+      onRestart: [Function: onRestart]
+    },
     secondary: null,
     target: 'self',
     type: 'Psychic',
