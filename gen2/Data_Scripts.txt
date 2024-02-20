@@ -1,0 +1,23 @@
+{
+  inherit: 'gen3',
+  gen: 2,
+  pokemon: {
+    getStat: [Function: getStat],
+    boostBy: [Function: boostBy],
+    inherit: true,
+    getActionSpeed: [Function: getActionSpeed]
+  },
+  actions: {
+    runMove: [Function: runMove],
+    tryMoveHit: [Function: tryMoveHit],
+    moveHit: [Function: moveHit],
+    getDamage: [Function: getDamage],
+    modifyDamage: [Function: modifyDamage],
+    useMoveInner: [Function: useMoveInner],
+    calcRecoilDamage: [Function: calcRecoilDamage],
+    inherit: true,
+    hitStepInvulnerabilityEvent: [Function: hitStepInvulnerabilityEvent],
+    hitStepAccuracy: [Function: hitStepAccuracy]
+  },
+  init: [Function: init]
+}

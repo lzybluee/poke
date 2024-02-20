@@ -1,0 +1,11 @@
+{
+  inherit: 'gen5',
+  gen: 4,
+  actions: {
+    inherit: true,
+    modifyDamage: [Function: modifyDamage],
+    hitStepInvulnerabilityEvent: [Function: hitStepInvulnerabilityEvent],
+    hitStepAccuracy: [Function: hitStepAccuracy],
+    calcRecoilDamage: [Function: calcRecoilDamage]
+  }
+}

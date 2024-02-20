@@ -1,0 +1,15 @@
+{
+  inherit: 'gen4',
+  gen: 3,
+  init: [Function: init],
+  pokemon: { inherit: true, getActionSpeed: [Function: getActionSpeed] },
+  actions: {
+    modifyDamage: [Function: modifyDamage],
+    useMoveInner: [Function: useMoveInner],
+    tryMoveHit: [Function: tryMoveHit],
+    calcRecoilDamage: [Function: calcRecoilDamage],
+    inherit: true,
+    hitStepInvulnerabilityEvent: [Function: hitStepInvulnerabilityEvent],
+    hitStepAccuracy: [Function: hitStepAccuracy]
+  }
+}

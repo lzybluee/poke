@@ -1,0 +1,2705 @@
+{
+  airlock: {
+    onSwitchIn: [Function: onSwitchIn],
+    onStart: [Function: onStart],
+    rating: 2,
+    onEnd: [Function: onEnd],
+    suppressWeather: true,
+    flags: {},
+    name: 'Air Lock',
+    num: 76
+  },
+  angerpoint: {
+    onAfterSubDamage: [Function: onAfterSubDamage],
+    rating: 1.5,
+    onHit: [Function: onHit],
+    flags: {},
+    name: 'Anger Point',
+    num: 83
+  },
+  baddreams: {
+    onResidualOrder: 10,
+    onResidualSubOrder: 10,
+    rating: 1.5,
+    onResidual: [Function: onResidual],
+    flags: {},
+    name: 'Bad Dreams',
+    num: 123
+  },
+  blaze: {
+    onBasePowerPriority: 2,
+    onBasePower: [Function: onBasePower],
+    name: 'Blaze',
+    rating: 2,
+    num: 66
+  },
+  cloudnine: {
+    onSwitchIn: [Function: onSwitchIn],
+    onStart: [Function: onStart],
+    rating: 2,
+    onEnd: [Function: onEnd],
+    suppressWeather: true,
+    flags: {},
+    name: 'Cloud Nine',
+    num: 13
+  },
+  colorchange: {
+    onDamagingHit: [Function: onDamagingHit],
+    onAfterMoveSecondary: [Function: onAfterMoveSecondary],
+    rating: 0,
+    flags: {},
+    name: 'Color Change',
+    num: 16
+  },
+  compoundeyes: {
+    onSourceModifyAccuracyPriority: 9,
+    onSourceModifyAccuracy: [Function: onSourceModifyAccuracy],
+    rating: 3,
+    flags: {},
+    name: 'Compound Eyes',
+    num: 14
+  },
+  cutecharm: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 0.5,
+    flags: {},
+    name: 'Cute Charm',
+    num: 56
+  },
+  effectspore: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 2,
+    flags: {},
+    name: 'Effect Spore',
+    num: 27
+  },
+  flamebody: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 2,
+    flags: {},
+    name: 'Flame Body',
+    num: 49
+  },
+  flashfire: {
+    onTryHit: [Function: onTryHit],
+    condition: {
+      noCopy: true,
+      onStart: [Function: onStart],
+      onModifyDamagePhase1: [Function: onModifyDamagePhase1],
+      onEnd: [Function: onEnd]
+    },
+    rating: 3.5,
+    onEnd: [Function: onEnd],
+    flags: { breakable: 1 },
+    name: 'Flash Fire',
+    num: 18
+  },
+  flowergift: {
+    onAllyModifyAtk: [Function: onAllyModifyAtk],
+    onAllyModifySpD: [Function: onAllyModifySpD],
+    flags: { breakable: 1 },
+    rating: 1,
+    onStart: [Function: onStart],
+    onWeatherChange: [Function: onWeatherChange],
+    onAllyModifyAtkPriority: 3,
+    onAllyModifySpDPriority: 4,
+    name: 'Flower Gift',
+    num: 122
+  },
+  forecast: {
+    flags: { notrace: 1 },
+    rating: 2,
+    onStart: [Function: onStart],
+    onWeatherChange: [Function: onWeatherChange],
+    name: 'Forecast',
+    num: 59
+  },
+  forewarn: {
+    onStart: [Function: onStart],
+    rating: 0.5,
+    flags: {},
+    name: 'Forewarn',
+    num: 108
+  },
+  frisk: {
+    onStart: [Function: onStart],
+    rating: 1.5,
+    flags: {},
+    name: 'Frisk',
+    num: 119
+  },
+  hustle: {
+    onSourceModifyAccuracyPriority: 7,
+    onSourceModifyAccuracy: [Function: onSourceModifyAccuracy],
+    rating: 3.5,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    flags: {},
+    name: 'Hustle',
+    num: 55
+  },
+  hydration: {
+    onWeather: [Function: onWeather],
+    name: 'Hydration',
+    rating: 1.5,
+    num: 93
+  },
+  insomnia: {
+    rating: 2.5,
+    onUpdate: [Function: onUpdate],
+    onSetStatus: [Function: onSetStatus],
+    onTryAddVolatile: [Function: onTryAddVolatile],
+    flags: { breakable: 1 },
+    name: 'Insomnia',
+    num: 15
+  },
+  intimidate: {
+    onStart: [Function: onStart],
+    rating: 4,
+    flags: {},
+    name: 'Intimidate',
+    num: 22
+  },
+  leafguard: {
+    onSetStatus: [Function: onSetStatus],
+    rating: 0.5,
+    onTryAddVolatile: [Function: onTryAddVolatile],
+    flags: { breakable: 1 },
+    name: 'Leaf Guard',
+    num: 102
+  },
+  lightningrod: {
+    onTryHit: [Function: onTryHit],
+    rating: 0,
+    onAnyRedirectTarget: [Function: onAnyRedirectTarget],
+    flags: { breakable: 1 },
+    name: 'Lightning Rod',
+    num: 31
+  },
+  liquidooze: {
+    onSourceTryHeal: [Function: onSourceTryHeal],
+    rating: 1.5,
+    flags: {},
+    name: 'Liquid Ooze',
+    num: 64
+  },
+  magicguard: {
+    onDamage: [Function: onDamage],
+    onSetStatus: [Function: onSetStatus],
+    name: 'Magic Guard',
+    rating: 4.5,
+    num: 98
+  },
+  minus: {
+    onModifySpA: [Function: onModifySpA],
+    name: 'Minus',
+    rating: 0,
+    num: 58
+  },
+  naturalcure: {
+    onCheckShow: [Function: onCheckShow],
+    onSwitchOut: [Function: onSwitchOut],
+    rating: 2.5,
+    flags: {},
+    name: 'Natural Cure',
+    num: 30
+  },
+  normalize: {
+    onModifyMove: [Function: onModifyMove],
+    onModifyMovePriority: 1,
+    onBasePower: [Function: onBasePower],
+    rating: -1,
+    onModifyTypePriority: 1,
+    onModifyType: [Function: onModifyType],
+    onBasePowerPriority: 23,
+    flags: {},
+    name: 'Normalize',
+    num: 96
+  },
+  overgrow: {
+    onBasePowerPriority: 2,
+    onBasePower: [Function: onBasePower],
+    name: 'Overgrow',
+    rating: 2,
+    num: 65
+  },
+  pickup: { name: 'Pickup', rating: 0, num: 53 },
+  plus: {
+    onModifySpA: [Function: onModifySpA],
+    name: 'Plus',
+    rating: 0,
+    num: 57
+  },
+  poisonpoint: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 1.5,
+    flags: {},
+    name: 'Poison Point',
+    num: 38
+  },
+  pressure: {
+    onStart: [Function: onStart],
+    onDeductPP: [Function: onDeductPP],
+    name: 'Pressure',
+    rating: 1.5,
+    num: 46
+  },
+  roughskin: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 2.5,
+    onDamagingHitOrder: 1,
+    flags: {},
+    name: 'Rough Skin',
+    num: 24
+  },
+  sandveil: {
+    onModifyAccuracyPriority: 8,
+    onModifyAccuracy: [Function: onModifyAccuracy],
+    rating: 1.5,
+    onImmunity: [Function: onImmunity],
+    flags: { breakable: 1 },
+    name: 'Sand Veil',
+    num: 8
+  },
+  serenegrace: {
+    onModifyMove: [Function: onModifyMove],
+    rating: 3.5,
+    onModifyMovePriority: -2,
+    flags: {},
+    name: 'Serene Grace',
+    num: 32
+  },
+  shedskin: {
+    onResidualOrder: 10,
+    onResidualSubOrder: 3,
+    rating: 3,
+    onResidual: [Function: onResidual],
+    flags: {},
+    name: 'Shed Skin',
+    num: 61
+  },
+  simple: {
+    onModifyBoost: [Function: onModifyBoost],
+    flags: { breakable: 1 },
+    name: 'Simple',
+    rating: 4,
+    num: 86
+  },
+  snowcloak: {
+    onModifyAccuracyPriority: 8,
+    onModifyAccuracy: [Function: onModifyAccuracy],
+    rating: 1.5,
+    onImmunity: [Function: onImmunity],
+    flags: { breakable: 1 },
+    name: 'Snow Cloak',
+    num: 81
+  },
+  speedboost: {
+    onResidualOrder: 10,
+    onResidualSubOrder: 3,
+    rating: 4.5,
+    onResidual: [Function: onResidual],
+    flags: {},
+    name: 'Speed Boost',
+    num: 3
+  },
+  static: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 2,
+    flags: {},
+    name: 'Static',
+    num: 9
+  },
+  stench: { name: 'Stench', rating: 0, num: 1 },
+  stickyhold: {
+    onTakeItem: [Function: onTakeItem],
+    rating: 2,
+    flags: { breakable: 1 },
+    name: 'Sticky Hold',
+    num: 60
+  },
+  stormdrain: {
+    onTryHit: [Function: onTryHit],
+    rating: 0,
+    onAnyRedirectTarget: [Function: onAnyRedirectTarget],
+    flags: { breakable: 1 },
+    name: 'Storm Drain',
+    num: 114
+  },
+  sturdy: {
+    onDamage: [Function: onDamage],
+    rating: 0,
+    onTryHit: [Function: onTryHit],
+    onDamagePriority: -30,
+    flags: { breakable: 1 },
+    name: 'Sturdy',
+    num: 5
+  },
+  swarm: {
+    onBasePowerPriority: 2,
+    onBasePower: [Function: onBasePower],
+    name: 'Swarm',
+    rating: 2,
+    num: 68
+  },
+  synchronize: {
+    onAfterSetStatus: [Function: onAfterSetStatus],
+    rating: 2,
+    flags: {},
+    name: 'Synchronize',
+    num: 28
+  },
+  tangledfeet: {
+    onModifyAccuracyPriority: 6,
+    onModifyAccuracy: [Function: onModifyAccuracy],
+    rating: 1,
+    flags: { breakable: 1 },
+    name: 'Tangled Feet',
+    num: 77
+  },
+  thickfat: {
+    onSourceBasePowerPriority: 1,
+    onSourceBasePower: [Function: onSourceBasePower],
+    flags: { breakable: 1 },
+    name: 'Thick Fat',
+    rating: 3.5,
+    num: 47
+  },
+  torrent: {
+    onBasePowerPriority: 2,
+    onBasePower: [Function: onBasePower],
+    name: 'Torrent',
+    rating: 2,
+    num: 67
+  },
+  trace: {
+    onUpdate: [Function: onUpdate],
+    flags: { notrace: 1 },
+    rating: 2.5,
+    onStart: [Function: onStart],
+    name: 'Trace',
+    num: 36
+  },
+  unburden: {
+    condition: { onModifySpe: [Function: onModifySpe] },
+    rating: 3.5,
+    onAfterUseItem: [Function: onAfterUseItem],
+    onTakeItem: [Function: onTakeItem],
+    onEnd: [Function: onEnd],
+    flags: {},
+    name: 'Unburden',
+    num: 84
+  },
+  vitalspirit: {
+    rating: 2.5,
+    onUpdate: [Function: onUpdate],
+    onSetStatus: [Function: onSetStatus],
+    onTryAddVolatile: [Function: onTryAddVolatile],
+    flags: { breakable: 1 },
+    name: 'Vital Spirit',
+    num: 72
+  },
+  wonderguard: {
+    onTryHit: [Function: onTryHit],
+    flags: { failroleplay: 1, noreceiver: 1, failskillswap: 1, breakable: 1 },
+    rating: 5,
+    name: 'Wonder Guard',
+    num: 25
+  },
+  anticipation: {
+    onStart: [Function: onStart],
+    rating: 0.5,
+    flags: {},
+    name: 'Anticipation',
+    num: 107
+  },
+  infiltrator: {
+    rating: 1.5,
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Infiltrator',
+    num: 151
+  },
+  keeneye: {
+    onModifyMove: [Function: onModifyMove],
+    rating: 0.5,
+    onTryBoost: [Function: onTryBoost],
+    flags: { breakable: 1 },
+    name: 'Keen Eye',
+    num: 51
+  },
+  oblivious: {
+    onUpdate: [Function: onUpdate],
+    onTryHit: [Function: onTryHit],
+    rating: 0.5,
+    onTryBoost: [Function: onTryBoost],
+    onImmunity: [Function: onImmunity],
+    flags: { breakable: 1 },
+    name: 'Oblivious',
+    num: 12
+  },
+  overcoat: {
+    onTryHit: [Function: onTryHit],
+    flags: {},
+    rating: 0.5,
+    onImmunity: [Function: onImmunity],
+    onTryHitPriority: 1,
+    name: 'Overcoat',
+    num: 142
+  },
+  sapsipper: {
+    onAllyTryHitSide: [Function: onAllyTryHitSide],
+    rating: 3,
+    onTryHitPriority: 1,
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Sap Sipper',
+    num: 157
+  },
+  soundproof: {
+    onAllyTryHitSide: [Function: onAllyTryHitSide],
+    onTryHit: [Function: onTryHit],
+    rating: 1.5,
+    flags: { breakable: 1 },
+    name: 'Soundproof',
+    num: 43
+  },
+  aerilate: {
+    onBasePower: [Function: onBasePower],
+    rating: 4.5,
+    onModifyTypePriority: -1,
+    onModifyType: [Function: onModifyType],
+    onBasePowerPriority: 23,
+    flags: {},
+    name: 'Aerilate',
+    num: 184
+  },
+  aftermath: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 2.5,
+    onDamagingHitOrder: 1,
+    flags: {},
+    name: 'Aftermath',
+    num: 106
+  },
+  galewings: {
+    onModifyPriority: [Function: onModifyPriority],
+    rating: 4,
+    flags: {},
+    name: 'Gale Wings',
+    num: 177
+  },
+  ironbarbs: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 2.5,
+    onDamagingHitOrder: 1,
+    flags: {},
+    name: 'Iron Barbs',
+    num: 160
+  },
+  parentalbond: {
+    rating: 5,
+    onPrepareHit: [Function: onPrepareHit],
+    onSourceModifySecondaries: [Function: onSourceModifySecondaries],
+    flags: {},
+    name: 'Parental Bond',
+    num: 185
+  },
+  pixilate: {
+    onBasePower: [Function: onBasePower],
+    rating: 4.5,
+    onModifyTypePriority: -1,
+    onModifyType: [Function: onModifyType],
+    onBasePowerPriority: 23,
+    flags: {},
+    name: 'Pixilate',
+    num: 182
+  },
+  refrigerate: {
+    onBasePower: [Function: onBasePower],
+    rating: 4.5,
+    onModifyTypePriority: -1,
+    onModifyType: [Function: onModifyType],
+    onBasePowerPriority: 23,
+    flags: {},
+    name: 'Refrigerate',
+    num: 174
+  },
+  stancechange: {
+    onBeforeMovePriority: 11,
+    onBeforeMove: [Function: onBeforeMove],
+    onModifyMove: [Function: onModifyMove],
+    rating: 4,
+    onModifyMovePriority: 1,
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'Stance Change',
+    num: 176
+  },
+  symbiosis: {
+    onAllyAfterUseItem: [Function: onAllyAfterUseItem],
+    rating: 0,
+    flags: {},
+    name: 'Symbiosis',
+    num: 180
+  },
+  weakarmor: {
+    onDamagingHit: [Function: onDamagingHit],
+    rating: 0.5,
+    flags: {},
+    name: 'Weak Armor',
+    num: 133
+  },
+  zenmode: {
+    flags: { failroleplay: 1, noentrain: 1, notrace: 1 },
+    rating: 0,
+    onResidualOrder: 29,
+    onResidual: [Function: onResidual],
+    onEnd: [Function: onEnd],
+    condition: { onStart: [Function: onStart], onEnd: [Function: onEnd] },
+    name: 'Zen Mode',
+    num: 161
+  },
+  disguise: {
+    onDamage: [Function: onDamage],
+    onUpdate: [Function: onUpdate],
+    rating: 3.5,
+    onDamagePriority: 1,
+    onCriticalHit: [Function: onCriticalHit],
+    onEffectiveness: [Function: onEffectiveness],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1,
+      breakable: 1,
+      notransform: 1
+    },
+    name: 'Disguise',
+    num: 209
+  },
+  darkaura: {
+    flags: { breakable: 1 },
+    rating: 3,
+    onStart: [Function: onStart],
+    onAnyBasePowerPriority: 20,
+    onAnyBasePower: [Function: onAnyBasePower],
+    name: 'Dark Aura',
+    num: 186
+  },
+  fairyaura: {
+    flags: { breakable: 1 },
+    rating: 3,
+    onStart: [Function: onStart],
+    onAnyBasePowerPriority: 20,
+    onAnyBasePower: [Function: onAnyBasePower],
+    name: 'Fairy Aura',
+    num: 187
+  },
+  innerfocus: {
+    rating: 1,
+    onTryBoost: [Function: onTryBoost],
+    onTryAddVolatile: [Function: onTryAddVolatile],
+    flags: { breakable: 1 },
+    name: 'Inner Focus',
+    num: 39
+  },
+  moody: {
+    onResidual: [Function: onResidual],
+    rating: 5,
+    onResidualOrder: 28,
+    onResidualSubOrder: 2,
+    flags: {},
+    name: 'Moody',
+    num: 141
+  },
+  owntempo: {
+    onTryBoost: [Function: onTryBoost],
+    rating: 1.5,
+    onUpdate: [Function: onUpdate],
+    onTryAddVolatile: [Function: onTryAddVolatile],
+    onHit: [Function: onHit],
+    flags: { breakable: 1 },
+    name: 'Own Tempo',
+    num: 20
+  },
+  rattled: {
+    onDamagingHit: [Function: onDamagingHit],
+    name: 'Rattled',
+    rating: 1.5,
+    num: 155
+  },
+  scrappy: {
+    onTryBoost: [Function: onTryBoost],
+    rating: 3,
+    onModifyMovePriority: -5,
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Scrappy',
+    num: 113
+  },
+  slowstart: {
+    condition: {
+      duration: 5,
+      onResidualOrder: 28,
+      onResidualSubOrder: 2,
+      onStart: [Function: onStart],
+      onModifyAtkPriority: 5,
+      onModifyAtk: [Function: onModifyAtk],
+      onModifySpAPriority: 5,
+      onModifySpA: [Function: onModifySpA],
+      onModifySpe: [Function: onModifySpe],
+      onEnd: [Function: onEnd]
+    },
+    rating: -1,
+    onStart: [Function: onStart],
+    onEnd: [Function: onEnd],
+    flags: {},
+    name: 'Slow Start',
+    num: 112
+  },
+  technician: {
+    onBasePowerPriority: 19,
+    rating: 3.5,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Technician',
+    num: 101
+  },
+  noability: {
+    rating: 0.1,
+    isNonstandard: 'Past',
+    flags: {},
+    name: 'No Ability',
+    num: 0
+  },
+  adaptability: {
+    rating: 4,
+    onModifySTAB: [Function: onModifySTAB],
+    flags: {},
+    name: 'Adaptability',
+    num: 91
+  },
+  analytic: {
+    rating: 2.5,
+    onBasePowerPriority: 21,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Analytic',
+    num: 148
+  },
+  arenatrap: {
+    rating: 5,
+    onFoeTrapPokemon: [Function: onFoeTrapPokemon],
+    onFoeMaybeTrapPokemon: [Function: onFoeMaybeTrapPokemon],
+    flags: {},
+    name: 'Arena Trap',
+    num: 71
+  },
+  aromaveil: {
+    rating: 2,
+    onAllyTryAddVolatile: [Function: onAllyTryAddVolatile],
+    flags: { breakable: 1 },
+    name: 'Aroma Veil',
+    num: 165
+  },
+  asoneglastrier: {
+    rating: 3.5,
+    onPreStart: [Function: onPreStart],
+    onEnd: [Function: onEnd],
+    onFoeTryEatItem: [Function: onFoeTryEatItem],
+    onSourceAfterFaint: [Function: onSourceAfterFaint],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'As One (Glastrier)',
+    num: 266
+  },
+  asonespectrier: {
+    rating: 3.5,
+    onPreStart: [Function: onPreStart],
+    onEnd: [Function: onEnd],
+    onFoeTryEatItem: [Function: onFoeTryEatItem],
+    onSourceAfterFaint: [Function: onSourceAfterFaint],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'As One (Spectrier)',
+    num: 267
+  },
+  aurabreak: {
+    rating: 1,
+    onStart: [Function: onStart],
+    onAnyTryPrimaryHit: [Function: onAnyTryPrimaryHit],
+    flags: { breakable: 1 },
+    name: 'Aura Break',
+    num: 188
+  },
+  ballfetch: { rating: 0, flags: {}, name: 'Ball Fetch', num: 237 },
+  battery: {
+    rating: 0,
+    onAllyBasePowerPriority: 22,
+    onAllyBasePower: [Function: onAllyBasePower],
+    flags: {},
+    name: 'Battery',
+    num: 217
+  },
+  battlearmor: {
+    rating: 1,
+    onCriticalHit: false,
+    flags: { breakable: 1 },
+    name: 'Battle Armor',
+    num: 4
+  },
+  battlebond: {
+    onSourceAfterFaint: [Function: onSourceAfterFaint],
+    onModifyMovePriority: -1,
+    onModifyMove: [Function: onModifyMove],
+    isNonstandard: null,
+    rating: 4,
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'Battle Bond',
+    num: 210
+  },
+  beastboost: {
+    rating: 3.5,
+    onSourceAfterFaint: [Function: onSourceAfterFaint],
+    flags: {},
+    name: 'Beast Boost',
+    num: 224
+  },
+  berserk: {
+    rating: 2,
+    onDamage: [Function: onDamage],
+    onTryEatItem: [Function: onTryEatItem],
+    onAfterMoveSecondary: [Function: onAfterMoveSecondary],
+    flags: {},
+    name: 'Berserk',
+    num: 201
+  },
+  bigpecks: {
+    rating: 0.5,
+    onTryBoost: [Function: onTryBoost],
+    flags: { breakable: 1 },
+    name: 'Big Pecks',
+    num: 145
+  },
+  bulletproof: {
+    rating: 3,
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Bulletproof',
+    num: 171
+  },
+  cheekpouch: {
+    rating: 2,
+    onEatItem: [Function: onEatItem],
+    flags: {},
+    name: 'Cheek Pouch',
+    num: 167
+  },
+  chillingneigh: {
+    rating: 3,
+    onSourceAfterFaint: [Function: onSourceAfterFaint],
+    flags: {},
+    name: 'Chilling Neigh',
+    num: 264
+  },
+  chlorophyll: {
+    rating: 3,
+    onModifySpe: [Function: onModifySpe],
+    flags: {},
+    name: 'Chlorophyll',
+    num: 34
+  },
+  clearbody: {
+    rating: 2,
+    onTryBoost: [Function: onTryBoost],
+    flags: { breakable: 1 },
+    name: 'Clear Body',
+    num: 29
+  },
+  comatose: {
+    rating: 4,
+    onStart: [Function: onStart],
+    onSetStatus: [Function: onSetStatus],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'Comatose',
+    num: 213
+  },
+  competitive: {
+    onAfterEachBoost: [Function: onAfterEachBoost],
+    rating: 2.5,
+    flags: {},
+    name: 'Competitive',
+    num: 172
+  },
+  contrary: {
+    rating: 4.5,
+    onChangeBoost: [Function: onChangeBoost],
+    flags: { breakable: 1 },
+    name: 'Contrary',
+    num: 126
+  },
+  corrosion: { rating: 2.5, flags: {}, name: 'Corrosion', num: 212 },
+  cottondown: {
+    rating: 2,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Cotton Down',
+    num: 238
+  },
+  curiousmedicine: {
+    rating: 0,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Curious Medicine',
+    num: 261
+  },
+  cursedbody: {
+    rating: 2,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Cursed Body',
+    num: 130
+  },
+  damp: {
+    rating: 1,
+    onAnyTryMove: [Function: onAnyTryMove],
+    onAnyDamage: [Function: onAnyDamage],
+    flags: { breakable: 1 },
+    name: 'Damp',
+    num: 6
+  },
+  dancer: { rating: 1.5, flags: {}, name: 'Dancer', num: 216 },
+  dauntlessshield: {
+    onStart: [Function: onStart],
+    rating: 3.5,
+    flags: {},
+    name: 'Dauntless Shield',
+    num: 235
+  },
+  dazzling: {
+    rating: 2.5,
+    onFoeTryMove: [Function: onFoeTryMove],
+    flags: { breakable: 1 },
+    name: 'Dazzling',
+    num: 219
+  },
+  defeatist: {
+    rating: -1,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpAPriority: 5,
+    onModifySpA: [Function: onModifySpA],
+    flags: {},
+    name: 'Defeatist',
+    num: 129
+  },
+  defiant: {
+    onAfterEachBoost: [Function: onAfterEachBoost],
+    rating: 2.5,
+    flags: {},
+    name: 'Defiant',
+    num: 128
+  },
+  deltastream: {
+    rating: 4,
+    onStart: [Function: onStart],
+    onAnySetWeather: [Function: onAnySetWeather],
+    onEnd: [Function: onEnd],
+    flags: {},
+    name: 'Delta Stream',
+    num: 191
+  },
+  desolateland: {
+    rating: 4.5,
+    onStart: [Function: onStart],
+    onAnySetWeather: [Function: onAnySetWeather],
+    onEnd: [Function: onEnd],
+    flags: {},
+    name: 'Desolate Land',
+    num: 190
+  },
+  download: {
+    rating: 3.5,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Download',
+    num: 88
+  },
+  dragonsmaw: {
+    rating: 3.5,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpAPriority: 5,
+    onModifySpA: [Function: onModifySpA],
+    flags: {},
+    name: "Dragon's Maw",
+    num: 263
+  },
+  drizzle: {
+    rating: 4,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Drizzle',
+    num: 2
+  },
+  drought: {
+    rating: 4,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Drought',
+    num: 70
+  },
+  dryskin: {
+    rating: 3,
+    onTryHit: [Function: onTryHit],
+    onSourceBasePowerPriority: 17,
+    onSourceBasePower: [Function: onSourceBasePower],
+    onWeather: [Function: onWeather],
+    flags: { breakable: 1 },
+    name: 'Dry Skin',
+    num: 87
+  },
+  earlybird: { rating: 1.5, flags: {}, name: 'Early Bird', num: 48 },
+  electricsurge: {
+    rating: 4,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Electric Surge',
+    num: 226
+  },
+  emergencyexit: {
+    rating: 1,
+    onEmergencyExit: [Function: onEmergencyExit],
+    flags: {},
+    name: 'Emergency Exit',
+    num: 194
+  },
+  filter: {
+    rating: 3,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: { breakable: 1 },
+    name: 'Filter',
+    num: 111
+  },
+  flareboost: {
+    rating: 2,
+    onBasePowerPriority: 19,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Flare Boost',
+    num: 138
+  },
+  flowerveil: {
+    rating: 0,
+    onAllyTryBoost: [Function: onAllyTryBoost],
+    onAllySetStatus: [Function: onAllySetStatus],
+    onAllyTryAddVolatile: [Function: onAllyTryAddVolatile],
+    flags: { breakable: 1 },
+    name: 'Flower Veil',
+    num: 166
+  },
+  fluffy: {
+    rating: 3.5,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: { breakable: 1 },
+    name: 'Fluffy',
+    num: 218
+  },
+  friendguard: {
+    rating: 0,
+    onAnyModifyDamage: [Function: onAnyModifyDamage],
+    flags: { breakable: 1 },
+    name: 'Friend Guard',
+    num: 132
+  },
+  fullmetalbody: {
+    rating: 2,
+    onTryBoost: [Function: onTryBoost],
+    flags: {},
+    name: 'Full Metal Body',
+    num: 230
+  },
+  furcoat: {
+    rating: 4,
+    onModifyDefPriority: 6,
+    onModifyDef: [Function: onModifyDef],
+    flags: { breakable: 1 },
+    name: 'Fur Coat',
+    num: 169
+  },
+  galvanize: {
+    rating: 4,
+    onModifyTypePriority: -1,
+    onModifyType: [Function: onModifyType],
+    onBasePowerPriority: 23,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Galvanize',
+    num: 206
+  },
+  gluttony: {
+    rating: 1.5,
+    onStart: [Function: onStart],
+    onDamage: [Function: onDamage],
+    flags: {},
+    name: 'Gluttony',
+    num: 82
+  },
+  gooey: {
+    rating: 2,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Gooey',
+    num: 183
+  },
+  gorillatactics: {
+    rating: 4.5,
+    onStart: [Function: onStart],
+    onBeforeMove: [Function: onBeforeMove],
+    onModifyMove: [Function: onModifyMove],
+    onModifyAtkPriority: 1,
+    onModifyAtk: [Function: onModifyAtk],
+    onDisableMove: [Function: onDisableMove],
+    onEnd: [Function: onEnd],
+    flags: {},
+    name: 'Gorilla Tactics',
+    num: 255
+  },
+  grasspelt: {
+    rating: 0.5,
+    onModifyDefPriority: 6,
+    onModifyDef: [Function: onModifyDef],
+    flags: { breakable: 1 },
+    name: 'Grass Pelt',
+    num: 179
+  },
+  grassysurge: {
+    rating: 4,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Grassy Surge',
+    num: 229
+  },
+  grimneigh: {
+    rating: 3,
+    onSourceAfterFaint: [Function: onSourceAfterFaint],
+    flags: {},
+    name: 'Grim Neigh',
+    num: 265
+  },
+  gulpmissile: {
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1,
+      notransform: 1
+    },
+    rating: 2.5,
+    onDamagingHit: [Function: onDamagingHit],
+    onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
+    name: 'Gulp Missile',
+    num: 241
+  },
+  guts: {
+    rating: 3,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    flags: {},
+    name: 'Guts',
+    num: 62
+  },
+  harvest: {
+    rating: 2.5,
+    onResidualOrder: 28,
+    onResidualSubOrder: 2,
+    onResidual: [Function: onResidual],
+    flags: {},
+    name: 'Harvest',
+    num: 139
+  },
+  healer: {
+    rating: 0,
+    onResidualOrder: 5,
+    onResidualSubOrder: 3,
+    onResidual: [Function: onResidual],
+    flags: {},
+    name: 'Healer',
+    num: 131
+  },
+  heatproof: {
+    onSourceModifyAtk: [Function: onSourceModifyAtk],
+    onSourceModifySpA: [Function: onSourceModifySpA],
+    onSourceBasePowerPriority: 18,
+    onSourceBasePower: [Function: onSourceBasePower],
+    rating: 2,
+    onSourceModifyAtkPriority: 6,
+    onSourceModifySpAPriority: 5,
+    onDamage: [Function: onDamage],
+    flags: { breakable: 1 },
+    name: 'Heatproof',
+    num: 85
+  },
+  heavymetal: {
+    rating: 0,
+    onModifyWeightPriority: 1,
+    onModifyWeight: [Function: onModifyWeight],
+    flags: { breakable: 1 },
+    name: 'Heavy Metal',
+    num: 134
+  },
+  honeygather: { rating: 0, flags: {}, name: 'Honey Gather', num: 118 },
+  hugepower: {
+    rating: 5,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    flags: {},
+    name: 'Huge Power',
+    num: 37
+  },
+  hungerswitch: {
+    rating: 1,
+    onResidualOrder: 29,
+    onResidual: [Function: onResidual],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Hunger Switch',
+    num: 258
+  },
+  hypercutter: {
+    rating: 1.5,
+    onTryBoost: [Function: onTryBoost],
+    flags: { breakable: 1 },
+    name: 'Hyper Cutter',
+    num: 52
+  },
+  icebody: {
+    rating: 1,
+    onWeather: [Function: onWeather],
+    onImmunity: [Function: onImmunity],
+    flags: {},
+    name: 'Ice Body',
+    num: 115
+  },
+  iceface: {
+    rating: 3,
+    onStart: [Function: onStart],
+    onDamagePriority: 1,
+    onDamage: [Function: onDamage],
+    onCriticalHit: [Function: onCriticalHit],
+    onEffectiveness: [Function: onEffectiveness],
+    onUpdate: [Function: onUpdate],
+    onWeatherChange: [Function: onWeatherChange],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1,
+      breakable: 1,
+      notransform: 1
+    },
+    name: 'Ice Face',
+    num: 248
+  },
+  icescales: {
+    rating: 4,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: { breakable: 1 },
+    name: 'Ice Scales',
+    num: 246
+  },
+  illuminate: {
+    onTryBoost: [Function: onTryBoost],
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    rating: 0,
+    name: 'Illuminate',
+    num: 35
+  },
+  illusion: {
+    rating: 4.5,
+    onBeforeSwitchIn: [Function: onBeforeSwitchIn],
+    onDamagingHit: [Function: onDamagingHit],
+    onEnd: [Function: onEnd],
+    onFaint: [Function: onFaint],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1
+    },
+    name: 'Illusion',
+    num: 149
+  },
+  immunity: {
+    rating: 2,
+    onUpdate: [Function: onUpdate],
+    onSetStatus: [Function: onSetStatus],
+    flags: { breakable: 1 },
+    name: 'Immunity',
+    num: 17
+  },
+  imposter: {
+    rating: 5,
+    onSwitchIn: [Function: onSwitchIn],
+    onStart: [Function: onStart],
+    flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
+    name: 'Imposter',
+    num: 150
+  },
+  innardsout: {
+    rating: 4,
+    onDamagingHitOrder: 1,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Innards Out',
+    num: 215
+  },
+  intrepidsword: {
+    onStart: [Function: onStart],
+    rating: 4,
+    flags: {},
+    name: 'Intrepid Sword',
+    num: 234
+  },
+  ironfist: {
+    rating: 3,
+    onBasePowerPriority: 23,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Iron Fist',
+    num: 89
+  },
+  justified: {
+    rating: 2.5,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Justified',
+    num: 154
+  },
+  klutz: {
+    rating: -1,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Klutz',
+    num: 103
+  },
+  levitate: { rating: 3.5, flags: { breakable: 1 }, name: 'Levitate', num: 26 },
+  libero: {
+    onPrepareHit: [Function: onPrepareHit],
+    onSwitchIn: [Function: onSwitchIn],
+    rating: 4.5,
+    flags: {},
+    name: 'Libero',
+    num: 236
+  },
+  lightmetal: {
+    rating: 1,
+    onModifyWeight: [Function: onModifyWeight],
+    flags: { breakable: 1 },
+    name: 'Light Metal',
+    num: 135
+  },
+  limber: {
+    rating: 2,
+    onUpdate: [Function: onUpdate],
+    onSetStatus: [Function: onSetStatus],
+    flags: { breakable: 1 },
+    name: 'Limber',
+    num: 7
+  },
+  liquidvoice: {
+    rating: 1.5,
+    onModifyTypePriority: -1,
+    onModifyType: [Function: onModifyType],
+    flags: {},
+    name: 'Liquid Voice',
+    num: 204
+  },
+  longreach: {
+    rating: 1,
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Long Reach',
+    num: 203
+  },
+  magicbounce: {
+    rating: 4,
+    onTryHitPriority: 1,
+    onTryHit: [Function: onTryHit],
+    onAllyTryHitSide: [Function: onAllyTryHitSide],
+    condition: { duration: 1 },
+    flags: { breakable: 1 },
+    name: 'Magic Bounce',
+    num: 156
+  },
+  magician: {
+    rating: 1.5,
+    onAfterMoveSecondarySelf: [Function: onAfterMoveSecondarySelf],
+    flags: {},
+    name: 'Magician',
+    num: 170
+  },
+  magmaarmor: {
+    rating: 1,
+    onUpdate: [Function: onUpdate],
+    onImmunity: [Function: onImmunity],
+    flags: { breakable: 1 },
+    name: 'Magma Armor',
+    num: 40
+  },
+  magnetpull: {
+    rating: 4,
+    onFoeTrapPokemon: [Function: onFoeTrapPokemon],
+    onFoeMaybeTrapPokemon: [Function: onFoeMaybeTrapPokemon],
+    flags: {},
+    name: 'Magnet Pull',
+    num: 42
+  },
+  marvelscale: {
+    rating: 2.5,
+    onModifyDefPriority: 6,
+    onModifyDef: [Function: onModifyDef],
+    flags: { breakable: 1 },
+    name: 'Marvel Scale',
+    num: 63
+  },
+  megalauncher: {
+    rating: 3,
+    onBasePowerPriority: 19,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Mega Launcher',
+    num: 178
+  },
+  merciless: {
+    rating: 1.5,
+    onModifyCritRatio: [Function: onModifyCritRatio],
+    flags: {},
+    name: 'Merciless',
+    num: 196
+  },
+  mimicry: {
+    rating: 0.5,
+    onStart: [Function: onStart],
+    onTerrainChange: [Function: onTerrainChange],
+    flags: {},
+    name: 'Mimicry',
+    num: 250
+  },
+  mirrorarmor: {
+    rating: 2.5,
+    onTryBoost: [Function: onTryBoost],
+    flags: { breakable: 1 },
+    name: 'Mirror Armor',
+    num: 240
+  },
+  mistysurge: {
+    rating: 3.5,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Misty Surge',
+    num: 228
+  },
+  moldbreaker: {
+    rating: 3.5,
+    onStart: [Function: onStart],
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Mold Breaker',
+    num: 104
+  },
+  motordrive: {
+    rating: 3,
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Motor Drive',
+    num: 78
+  },
+  moxie: {
+    rating: 3,
+    onSourceAfterFaint: [Function: onSourceAfterFaint],
+    flags: {},
+    name: 'Moxie',
+    num: 153
+  },
+  multiscale: {
+    rating: 3.5,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: { breakable: 1 },
+    name: 'Multiscale',
+    num: 136
+  },
+  multitype: {
+    rating: 4,
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'Multitype',
+    num: 121
+  },
+  mummy: {
+    rating: 2,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Mummy',
+    num: 152
+  },
+  neuroforce: {
+    rating: 2.5,
+    onModifyDamage: [Function: onModifyDamage],
+    flags: {},
+    name: 'Neuroforce',
+    num: 233
+  },
+  neutralizinggas: {
+    rating: 4,
+    onPreStart: [Function: onPreStart],
+    onEnd: [Function: onEnd],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Neutralizing Gas',
+    num: 256
+  },
+  noguard: {
+    rating: 4,
+    onAnyInvulnerabilityPriority: 1,
+    onAnyInvulnerability: [Function: onAnyInvulnerability],
+    onAnyAccuracy: [Function: onAnyAccuracy],
+    flags: {},
+    name: 'No Guard',
+    num: 99
+  },
+  pastelveil: {
+    rating: 2,
+    onStart: [Function: onStart],
+    onUpdate: [Function: onUpdate],
+    onAllySwitchIn: [Function: onAllySwitchIn],
+    onSetStatus: [Function: onSetStatus],
+    onAllySetStatus: [Function: onAllySetStatus],
+    flags: { breakable: 1 },
+    name: 'Pastel Veil',
+    num: 257
+  },
+  perishbody: {
+    rating: 1,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Perish Body',
+    num: 253
+  },
+  pickpocket: {
+    rating: 1,
+    onAfterMoveSecondary: [Function: onAfterMoveSecondary],
+    flags: {},
+    name: 'Pickpocket',
+    num: 124
+  },
+  poisonheal: {
+    rating: 4,
+    onDamagePriority: 1,
+    onDamage: [Function: onDamage],
+    flags: {},
+    name: 'Poison Heal',
+    num: 90
+  },
+  poisontouch: {
+    rating: 2,
+    onSourceDamagingHit: [Function: onSourceDamagingHit],
+    flags: {},
+    name: 'Poison Touch',
+    num: 143
+  },
+  powerconstruct: {
+    rating: 5,
+    onResidualOrder: 29,
+    onResidual: [Function: onResidual],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'Power Construct',
+    num: 211
+  },
+  powerofalchemy: {
+    rating: 0,
+    onAllyFaint: [Function: onAllyFaint],
+    flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
+    name: 'Power of Alchemy',
+    num: 223
+  },
+  powerspot: {
+    rating: 1,
+    onAllyBasePowerPriority: 22,
+    onAllyBasePower: [Function: onAllyBasePower],
+    flags: {},
+    name: 'Power Spot',
+    num: 249
+  },
+  prankster: {
+    rating: 4,
+    onModifyPriority: [Function: onModifyPriority],
+    flags: {},
+    name: 'Prankster',
+    num: 158
+  },
+  primordialsea: {
+    rating: 4.5,
+    onStart: [Function: onStart],
+    onAnySetWeather: [Function: onAnySetWeather],
+    onEnd: [Function: onEnd],
+    flags: {},
+    name: 'Primordial Sea',
+    num: 189
+  },
+  prismarmor: {
+    rating: 3,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: {},
+    name: 'Prism Armor',
+    num: 232
+  },
+  propellertail: {
+    rating: 0,
+    onModifyMovePriority: 1,
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Propeller Tail',
+    num: 239
+  },
+  protean: {
+    onPrepareHit: [Function: onPrepareHit],
+    onSwitchIn: [Function: onSwitchIn],
+    rating: 4.5,
+    flags: {},
+    name: 'Protean',
+    num: 168
+  },
+  psychicsurge: {
+    rating: 4,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Psychic Surge',
+    num: 227
+  },
+  punkrock: {
+    rating: 3.5,
+    onBasePowerPriority: 7,
+    onBasePower: [Function: onBasePower],
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: { breakable: 1 },
+    name: 'Punk Rock',
+    num: 244
+  },
+  purepower: {
+    rating: 5,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    flags: {},
+    name: 'Pure Power',
+    num: 74
+  },
+  queenlymajesty: {
+    rating: 2.5,
+    onFoeTryMove: [Function: onFoeTryMove],
+    flags: { breakable: 1 },
+    name: 'Queenly Majesty',
+    num: 214
+  },
+  quickdraw: {
+    rating: 2.5,
+    onFractionalPriorityPriority: -1,
+    onFractionalPriority: [Function: onFractionalPriority],
+    flags: {},
+    name: 'Quick Draw',
+    num: 259
+  },
+  quickfeet: {
+    rating: 2.5,
+    onModifySpe: [Function: onModifySpe],
+    flags: {},
+    name: 'Quick Feet',
+    num: 95
+  },
+  raindish: {
+    rating: 1.5,
+    onWeather: [Function: onWeather],
+    flags: {},
+    name: 'Rain Dish',
+    num: 44
+  },
+  receiver: {
+    rating: 0,
+    onAllyFaint: [Function: onAllyFaint],
+    flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
+    name: 'Receiver',
+    num: 222
+  },
+  reckless: {
+    rating: 3,
+    onBasePowerPriority: 23,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Reckless',
+    num: 120
+  },
+  regenerator: {
+    rating: 4.5,
+    onSwitchOut: [Function: onSwitchOut],
+    flags: {},
+    name: 'Regenerator',
+    num: 144
+  },
+  ripen: {
+    rating: 2,
+    onTryHeal: [Function: onTryHeal],
+    onChangeBoost: [Function: onChangeBoost],
+    onSourceModifyDamagePriority: -1,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    onTryEatItemPriority: -1,
+    onTryEatItem: [Function: onTryEatItem],
+    onEatItem: [Function: onEatItem],
+    flags: {},
+    name: 'Ripen',
+    num: 247
+  },
+  rivalry: {
+    rating: 0,
+    onBasePowerPriority: 24,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Rivalry',
+    num: 79
+  },
+  rkssystem: {
+    rating: 4,
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'RKS System',
+    num: 225
+  },
+  rockhead: {
+    rating: 3,
+    onDamage: [Function: onDamage],
+    flags: {},
+    name: 'Rock Head',
+    num: 69
+  },
+  runaway: { rating: 0, flags: {}, name: 'Run Away', num: 50 },
+  sandforce: {
+    rating: 2,
+    onBasePowerPriority: 21,
+    onBasePower: [Function: onBasePower],
+    onImmunity: [Function: onImmunity],
+    flags: {},
+    name: 'Sand Force',
+    num: 159
+  },
+  sandrush: {
+    rating: 3,
+    onModifySpe: [Function: onModifySpe],
+    onImmunity: [Function: onImmunity],
+    flags: {},
+    name: 'Sand Rush',
+    num: 146
+  },
+  sandspit: {
+    rating: 2,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Sand Spit',
+    num: 245
+  },
+  sandstream: {
+    rating: 4,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Sand Stream',
+    num: 45
+  },
+  schooling: {
+    rating: 3,
+    onStart: [Function: onStart],
+    onResidualOrder: 29,
+    onResidual: [Function: onResidual],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'Schooling',
+    num: 208
+  },
+  screencleaner: {
+    rating: 2,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Screen Cleaner',
+    num: 251
+  },
+  shadowshield: {
+    rating: 3.5,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: {},
+    name: 'Shadow Shield',
+    num: 231
+  },
+  shadowtag: {
+    rating: 5,
+    onFoeTrapPokemon: [Function: onFoeTrapPokemon],
+    onFoeMaybeTrapPokemon: [Function: onFoeMaybeTrapPokemon],
+    flags: {},
+    name: 'Shadow Tag',
+    num: 23
+  },
+  sheerforce: {
+    rating: 3.5,
+    onModifyMove: [Function: onModifyMove],
+    onBasePowerPriority: 21,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Sheer Force',
+    num: 125
+  },
+  shellarmor: {
+    rating: 1,
+    onCriticalHit: false,
+    flags: { breakable: 1 },
+    name: 'Shell Armor',
+    num: 75
+  },
+  shielddust: {
+    rating: 2,
+    onModifySecondaries: [Function: onModifySecondaries],
+    flags: { breakable: 1 },
+    name: 'Shield Dust',
+    num: 19
+  },
+  shieldsdown: {
+    rating: 3,
+    onStart: [Function: onStart],
+    onResidualOrder: 29,
+    onResidual: [Function: onResidual],
+    onSetStatus: [Function: onSetStatus],
+    onTryAddVolatile: [Function: onTryAddVolatile],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1
+    },
+    name: 'Shields Down',
+    num: 197
+  },
+  skilllink: {
+    rating: 3,
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Skill Link',
+    num: 92
+  },
+  slushrush: {
+    rating: 3,
+    onModifySpe: [Function: onModifySpe],
+    flags: {},
+    name: 'Slush Rush',
+    num: 202
+  },
+  sniper: {
+    rating: 2,
+    onModifyDamage: [Function: onModifyDamage],
+    flags: {},
+    name: 'Sniper',
+    num: 97
+  },
+  snowwarning: {
+    onStart: [Function: onStart],
+    rating: 4,
+    flags: {},
+    name: 'Snow Warning',
+    num: 117
+  },
+  solarpower: {
+    rating: 2,
+    onModifySpAPriority: 5,
+    onModifySpA: [Function: onModifySpA],
+    onWeather: [Function: onWeather],
+    flags: {},
+    name: 'Solar Power',
+    num: 94
+  },
+  solidrock: {
+    rating: 3,
+    onSourceModifyDamage: [Function: onSourceModifyDamage],
+    flags: { breakable: 1 },
+    name: 'Solid Rock',
+    num: 116
+  },
+  soulheart: {
+    rating: 3.5,
+    onAnyFaintPriority: 1,
+    onAnyFaint: [Function: onAnyFaint],
+    flags: {},
+    name: 'Soul-Heart',
+    num: 220
+  },
+  stakeout: {
+    rating: 4.5,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpAPriority: 5,
+    onModifySpA: [Function: onModifySpA],
+    flags: {},
+    name: 'Stakeout',
+    num: 198
+  },
+  stall: {
+    rating: -1,
+    onFractionalPriority: -0.1,
+    flags: {},
+    name: 'Stall',
+    num: 100
+  },
+  stalwart: {
+    rating: 0,
+    onModifyMovePriority: 1,
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Stalwart',
+    num: 242
+  },
+  stamina: {
+    rating: 3.5,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Stamina',
+    num: 192
+  },
+  steadfast: {
+    rating: 1,
+    onFlinch: [Function: onFlinch],
+    flags: {},
+    name: 'Steadfast',
+    num: 80
+  },
+  steamengine: {
+    rating: 2,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Steam Engine',
+    num: 243
+  },
+  steelworker: {
+    rating: 3.5,
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpAPriority: 5,
+    onModifySpA: [Function: onModifySpA],
+    flags: {},
+    name: 'Steelworker',
+    num: 200
+  },
+  steelyspirit: {
+    rating: 3.5,
+    onAllyBasePowerPriority: 22,
+    onAllyBasePower: [Function: onAllyBasePower],
+    flags: {},
+    name: 'Steely Spirit',
+    num: 252
+  },
+  strongjaw: {
+    rating: 3,
+    onBasePowerPriority: 19,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Strong Jaw',
+    num: 173
+  },
+  suctioncups: {
+    rating: 1,
+    onDragOutPriority: 1,
+    onDragOut: [Function: onDragOut],
+    flags: { breakable: 1 },
+    name: 'Suction Cups',
+    num: 21
+  },
+  superluck: {
+    rating: 1.5,
+    onModifyCritRatio: [Function: onModifyCritRatio],
+    flags: {},
+    name: 'Super Luck',
+    num: 105
+  },
+  surgesurfer: {
+    rating: 3,
+    onModifySpe: [Function: onModifySpe],
+    flags: {},
+    name: 'Surge Surfer',
+    num: 207
+  },
+  sweetveil: {
+    rating: 2,
+    onAllySetStatus: [Function: onAllySetStatus],
+    onAllyTryAddVolatile: [Function: onAllyTryAddVolatile],
+    flags: { breakable: 1 },
+    name: 'Sweet Veil',
+    num: 175
+  },
+  swiftswim: {
+    rating: 3,
+    onModifySpe: [Function: onModifySpe],
+    flags: {},
+    name: 'Swift Swim',
+    num: 33
+  },
+  tanglinghair: {
+    rating: 2,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Tangling Hair',
+    num: 221
+  },
+  telepathy: {
+    rating: 0,
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Telepathy',
+    num: 140
+  },
+  teravolt: {
+    rating: 3.5,
+    onStart: [Function: onStart],
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Teravolt',
+    num: 164
+  },
+  tintedlens: {
+    rating: 4,
+    onModifyDamage: [Function: onModifyDamage],
+    flags: {},
+    name: 'Tinted Lens',
+    num: 110
+  },
+  toughclaws: {
+    rating: 3.5,
+    onBasePowerPriority: 21,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Tough Claws',
+    num: 181
+  },
+  toxicboost: {
+    rating: 2.5,
+    onBasePowerPriority: 19,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Toxic Boost',
+    num: 137
+  },
+  transistor: {
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpA: [Function: onModifySpA],
+    rating: 3.5,
+    onModifyAtkPriority: 5,
+    onModifySpAPriority: 5,
+    flags: {},
+    name: 'Transistor',
+    num: 262
+  },
+  triage: {
+    rating: 3.5,
+    onModifyPriority: [Function: onModifyPriority],
+    flags: {},
+    name: 'Triage',
+    num: 205
+  },
+  truant: {
+    rating: -1,
+    onStart: [Function: onStart],
+    onBeforeMovePriority: 9,
+    onBeforeMove: [Function: onBeforeMove],
+    condition: {},
+    flags: {},
+    name: 'Truant',
+    num: 54
+  },
+  turboblaze: {
+    rating: 3.5,
+    onStart: [Function: onStart],
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Turboblaze',
+    num: 163
+  },
+  unaware: {
+    rating: 4,
+    onAnyModifyBoost: [Function: onAnyModifyBoost],
+    flags: { breakable: 1 },
+    name: 'Unaware',
+    num: 109
+  },
+  unnerve: {
+    rating: 1.5,
+    onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
+    onEnd: [Function: onEnd],
+    onFoeTryEatItem: [Function: onFoeTryEatItem],
+    flags: {},
+    name: 'Unnerve',
+    num: 127
+  },
+  unseenfist: {
+    rating: 2,
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Unseen Fist',
+    num: 260
+  },
+  victorystar: {
+    rating: 2,
+    onAnyModifyAccuracyPriority: -1,
+    onAnyModifyAccuracy: [Function: onAnyModifyAccuracy],
+    flags: {},
+    name: 'Victory Star',
+    num: 162
+  },
+  voltabsorb: {
+    rating: 3.5,
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Volt Absorb',
+    num: 10
+  },
+  wanderingspirit: {
+    rating: 2.5,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Wandering Spirit',
+    num: 254
+  },
+  waterabsorb: {
+    rating: 3.5,
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Water Absorb',
+    num: 11
+  },
+  waterbubble: {
+    rating: 4.5,
+    onSourceModifyAtkPriority: 5,
+    onSourceModifyAtk: [Function: onSourceModifyAtk],
+    onSourceModifySpAPriority: 5,
+    onSourceModifySpA: [Function: onSourceModifySpA],
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpA: [Function: onModifySpA],
+    onUpdate: [Function: onUpdate],
+    onSetStatus: [Function: onSetStatus],
+    flags: { breakable: 1 },
+    name: 'Water Bubble',
+    num: 199
+  },
+  watercompaction: {
+    rating: 1.5,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Water Compaction',
+    num: 195
+  },
+  waterveil: {
+    rating: 2,
+    onUpdate: [Function: onUpdate],
+    onSetStatus: [Function: onSetStatus],
+    flags: { breakable: 1 },
+    name: 'Water Veil',
+    num: 41
+  },
+  whitesmoke: {
+    rating: 2,
+    onTryBoost: [Function: onTryBoost],
+    flags: { breakable: 1 },
+    name: 'White Smoke',
+    num: 73
+  },
+  wimpout: {
+    rating: 1,
+    onEmergencyExit: [Function: onEmergencyExit],
+    flags: {},
+    name: 'Wimp Out',
+    num: 193
+  },
+  wonderskin: {
+    rating: 2,
+    onModifyAccuracyPriority: 10,
+    onModifyAccuracy: [Function: onModifyAccuracy],
+    flags: { breakable: 1 },
+    name: 'Wonder Skin',
+    num: 147
+  },
+  mountaineer: {
+    rating: 3,
+    onDamage: [Function: onDamage],
+    onTryHit: [Function: onTryHit],
+    isNonstandard: 'CAP',
+    flags: { breakable: 1 },
+    name: 'Mountaineer',
+    num: -2
+  },
+  rebound: {
+    rating: 3,
+    isNonstandard: 'CAP',
+    onTryHitPriority: 1,
+    onTryHit: [Function: onTryHit],
+    onAllyTryHitSide: [Function: onAllyTryHitSide],
+    condition: { duration: 1 },
+    flags: { breakable: 1 },
+    name: 'Rebound',
+    num: -3
+  },
+  persistent: {
+    rating: 3,
+    isNonstandard: 'CAP',
+    flags: {},
+    name: 'Persistent',
+    num: -4
+  },
+  angershell: {
+    onDamage: [Function: onDamage],
+    onTryEatItem: [Function: onTryEatItem],
+    onAfterMoveSecondary: [Function: onAfterMoveSecondary],
+    flags: {},
+    name: 'Anger Shell',
+    rating: 3,
+    num: 271
+  },
+  armortail: {
+    onFoeTryMove: [Function: onFoeTryMove],
+    flags: { breakable: 1 },
+    name: 'Armor Tail',
+    rating: 2.5,
+    num: 296
+  },
+  beadsofruin: {
+    onStart: [Function: onStart],
+    onAnyModifySpD: [Function: onAnyModifySpD],
+    flags: {},
+    name: 'Beads of Ruin',
+    rating: 4.5,
+    num: 284
+  },
+  commander: {
+    onUpdate: [Function: onUpdate],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1
+    },
+    name: 'Commander',
+    rating: 0,
+    num: 279
+  },
+  costar: {
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Costar',
+    rating: 0,
+    num: 294
+  },
+  cudchew: {
+    onEatItem: [Function: onEatItem],
+    onEnd: [Function: onEnd],
+    condition: {
+      noCopy: true,
+      duration: 2,
+      onRestart: [Function: onRestart],
+      onResidualOrder: 28,
+      onResidualSubOrder: 2,
+      onEnd: [Function: onEnd]
+    },
+    flags: {},
+    name: 'Cud Chew',
+    rating: 2,
+    num: 291
+  },
+  eartheater: {
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Earth Eater',
+    rating: 3.5,
+    num: 297
+  },
+  electromorphosis: {
+    onDamagingHitOrder: 1,
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Electromorphosis',
+    rating: 3,
+    num: 280
+  },
+  embodyaspectcornerstone: {
+    onStart: [Function: onStart],
+    onSwitchIn: [Function: onSwitchIn],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Embody Aspect (Cornerstone)',
+    rating: 3.5,
+    num: 304
+  },
+  embodyaspecthearthflame: {
+    onStart: [Function: onStart],
+    onSwitchIn: [Function: onSwitchIn],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Embody Aspect (Hearthflame)',
+    rating: 3.5,
+    num: 303
+  },
+  embodyaspectteal: {
+    onStart: [Function: onStart],
+    onSwitchIn: [Function: onSwitchIn],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Embody Aspect (Teal)',
+    rating: 3.5,
+    num: 301
+  },
+  embodyaspectwellspring: {
+    onStart: [Function: onStart],
+    onSwitchIn: [Function: onSwitchIn],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Embody Aspect (Wellspring)',
+    rating: 3.5,
+    num: 302
+  },
+  goodasgold: {
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Good as Gold',
+    rating: 5,
+    num: 283
+  },
+  guarddog: {
+    onDragOutPriority: 1,
+    onDragOut: [Function: onDragOut],
+    onTryBoost: [Function: onTryBoost],
+    flags: { breakable: 1 },
+    name: 'Guard Dog',
+    rating: 2,
+    num: 275
+  },
+  hadronengine: {
+    onStart: [Function: onStart],
+    onModifySpAPriority: 5,
+    onModifySpA: [Function: onModifySpA],
+    flags: {},
+    name: 'Hadron Engine',
+    rating: 4.5,
+    num: 289
+  },
+  hospitality: {
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Hospitality',
+    rating: 0,
+    num: 299
+  },
+  lingeringaroma: {
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Lingering Aroma',
+    rating: 2,
+    num: 268
+  },
+  mindseye: {
+    onTryBoost: [Function: onTryBoost],
+    onModifyMovePriority: -5,
+    onModifyMove: [Function: onModifyMove],
+    flags: { breakable: 1 },
+    name: "Mind's Eye",
+    rating: 0,
+    num: 300
+  },
+  myceliummight: {
+    onFractionalPriorityPriority: -1,
+    onFractionalPriority: [Function: onFractionalPriority],
+    onModifyMove: [Function: onModifyMove],
+    flags: {},
+    name: 'Mycelium Might',
+    rating: 2,
+    num: 298
+  },
+  opportunist: {
+    onFoeAfterBoost: [Function: onFoeAfterBoost],
+    flags: {},
+    name: 'Opportunist',
+    rating: 3,
+    num: 290
+  },
+  orichalcumpulse: {
+    onStart: [Function: onStart],
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    flags: {},
+    name: 'Orichalcum Pulse',
+    rating: 4.5,
+    num: 288
+  },
+  poisonpuppeteer: {
+    onAnyAfterSetStatus: [Function: onAnyAfterSetStatus],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1
+    },
+    name: 'Poison Puppeteer',
+    rating: 3,
+    num: 310
+  },
+  protosynthesis: {
+    onStart: [Function: onStart],
+    onWeatherChange: [Function: onWeatherChange],
+    onEnd: [Function: onEnd],
+    condition: {
+      noCopy: true,
+      onStart: [Function: onStart],
+      onModifyAtkPriority: 5,
+      onModifyAtk: [Function: onModifyAtk],
+      onModifyDefPriority: 6,
+      onModifyDef: [Function: onModifyDef],
+      onModifySpAPriority: 5,
+      onModifySpA: [Function: onModifySpA],
+      onModifySpDPriority: 6,
+      onModifySpD: [Function: onModifySpD],
+      onModifySpe: [Function: onModifySpe],
+      onEnd: [Function: onEnd]
+    },
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Protosynthesis',
+    rating: 3,
+    num: 281
+  },
+  purifyingsalt: {
+    onSetStatus: [Function: onSetStatus],
+    onTryAddVolatile: [Function: onTryAddVolatile],
+    onSourceModifyAtkPriority: 6,
+    onSourceModifyAtk: [Function: onSourceModifyAtk],
+    onSourceModifySpAPriority: 5,
+    onSourceModifySpA: [Function: onSourceModifySpA],
+    flags: { breakable: 1 },
+    name: 'Purifying Salt',
+    rating: 4,
+    num: 272
+  },
+  quarkdrive: {
+    onStart: [Function: onStart],
+    onTerrainChange: [Function: onTerrainChange],
+    onEnd: [Function: onEnd],
+    condition: {
+      noCopy: true,
+      onStart: [Function: onStart],
+      onModifyAtkPriority: 5,
+      onModifyAtk: [Function: onModifyAtk],
+      onModifyDefPriority: 6,
+      onModifyDef: [Function: onModifyDef],
+      onModifySpAPriority: 5,
+      onModifySpA: [Function: onModifySpA],
+      onModifySpDPriority: 6,
+      onModifySpD: [Function: onModifySpD],
+      onModifySpe: [Function: onModifySpe],
+      onEnd: [Function: onEnd]
+    },
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      notransform: 1
+    },
+    name: 'Quark Drive',
+    rating: 3,
+    num: 282
+  },
+  rockypayload: {
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpAPriority: 5,
+    onModifySpA: [Function: onModifySpA],
+    flags: {},
+    name: 'Rocky Payload',
+    rating: 3.5,
+    num: 276
+  },
+  seedsower: {
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Seed Sower',
+    rating: 2.5,
+    num: 269
+  },
+  sharpness: {
+    onBasePowerPriority: 19,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Sharpness',
+    rating: 3.5,
+    num: 292
+  },
+  supersweetsyrup: {
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Supersweet Syrup',
+    rating: 1.5,
+    num: 306
+  },
+  supremeoverlord: {
+    onStart: [Function: onStart],
+    onEnd: [Function: onEnd],
+    onBasePowerPriority: 21,
+    onBasePower: [Function: onBasePower],
+    flags: {},
+    name: 'Supreme Overlord',
+    rating: 4,
+    num: 293
+  },
+  swordofruin: {
+    onStart: [Function: onStart],
+    onAnyModifyDef: [Function: onAnyModifyDef],
+    flags: {},
+    name: 'Sword of Ruin',
+    rating: 4.5,
+    num: 285
+  },
+  tabletsofruin: {
+    onStart: [Function: onStart],
+    onAnyModifyAtk: [Function: onAnyModifyAtk],
+    flags: {},
+    name: 'Tablets of Ruin',
+    rating: 4.5,
+    num: 284
+  },
+  teraformzero: {
+    onAfterTerastallization: [Function: onAfterTerastallization],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1
+    },
+    name: 'Teraform Zero',
+    rating: 3,
+    num: 309
+  },
+  terashell: {
+    onEffectiveness: [Function: onEffectiveness],
+    onAnyAfterMove: [Function: onAnyAfterMove],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      breakable: 1
+    },
+    name: 'Tera Shell',
+    rating: 3.5,
+    num: 308
+  },
+  terashift: {
+    onPreStart: [Function: onPreStart],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1,
+      notransform: 1
+    },
+    name: 'Tera Shift',
+    rating: 3,
+    num: 307
+  },
+  thermalexchange: {
+    onDamagingHit: [Function: onDamagingHit],
+    onUpdate: [Function: onUpdate],
+    onSetStatus: [Function: onSetStatus],
+    flags: { breakable: 1 },
+    name: 'Thermal Exchange',
+    rating: 2.5,
+    num: 270
+  },
+  toxicchain: {
+    onSourceDamagingHit: [Function: onSourceDamagingHit],
+    flags: {},
+    name: 'Toxic Chain',
+    rating: 4.5,
+    num: 305
+  },
+  toxicdebris: {
+    onDamagingHit: [Function: onDamagingHit],
+    flags: {},
+    name: 'Toxic Debris',
+    rating: 3.5,
+    num: 295
+  },
+  vesselofruin: {
+    onStart: [Function: onStart],
+    onAnyModifySpA: [Function: onAnyModifySpA],
+    flags: {},
+    name: 'Vessel of Ruin',
+    rating: 4.5,
+    num: 284
+  },
+  wellbakedbody: {
+    onTryHit: [Function: onTryHit],
+    flags: { breakable: 1 },
+    name: 'Well-Baked Body',
+    rating: 3.5,
+    num: 273
+  },
+  windpower: {
+    onDamagingHitOrder: 1,
+    onDamagingHit: [Function: onDamagingHit],
+    onAllySideConditionStart: [Function: onAllySideConditionStart],
+    flags: {},
+    name: 'Wind Power',
+    rating: 1,
+    num: 277
+  },
+  windrider: {
+    onStart: [Function: onStart],
+    onTryHit: [Function: onTryHit],
+    onAllySideConditionStart: [Function: onAllySideConditionStart],
+    flags: { breakable: 1 },
+    name: 'Wind Rider',
+    rating: 3.5,
+    num: 274
+  },
+  zerotohero: {
+    onSwitchOut: [Function: onSwitchOut],
+    onSwitchIn: [Function: onSwitchIn],
+    onStart: [Function: onStart],
+    flags: {
+      failroleplay: 1,
+      noreceiver: 1,
+      noentrain: 1,
+      notrace: 1,
+      failskillswap: 1,
+      cantsuppress: 1,
+      notransform: 1
+    },
+    name: 'Zero to Hero',
+    rating: 5,
+    num: 278
+  }
+}
