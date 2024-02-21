@@ -31,9 +31,9 @@ function log_gen(gen) {
     const species = dex.species.all();
     log(prefix + 'List_Species', species);
 
-    for (let i in dex.dataCache) {
+    for (let i in dex.data) {
         if (i != 'PokemonGoData')
-            log(prefix + 'Data_' + i, dex.dataCache[i]);
+            log(prefix + 'Data_' + i, dex.data[i]);
     }
 }
 
