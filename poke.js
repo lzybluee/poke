@@ -2,8 +2,8 @@ const fs = require('fs');
 const util = require('util');
 
 function log(file, obj) {
-    fs.writeFileSync(file + '.txt', util.inspect(obj, {depth: null, maxArrayLength: null}), function() {});
-    fs.writeFileSync(file + '.json', JSON.stringify(obj), function() {});
+    fs.writeFileSync(file + '.txt', util.inspect(obj, {depth: null, maxArrayLength: null}));
+    fs.writeFileSync(file + '.json', JSON.stringify(obj));
 }
 
 const {Dex} = require('../pokemon-showdown');
