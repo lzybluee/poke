@@ -1,0 +1,21 @@
+Ability {
+  exists: true,
+  name: 'No Ability',
+  rating: 0.1,
+  isNonstandard: null,
+  flags: {},
+  num: 0,
+  desc: 'Does nothing.',
+  shortDesc: 'Does nothing.',
+  id: 'noability',
+  fullname: 'ability: No Ability',
+  effectType: 'Ability',
+  gen: 0,
+  duration: undefined,
+  noCopy: false,
+  affectsFainted: false,
+  status: undefined,
+  weather: undefined,
+  sourceEffect: '',
+  suppressWeather: false
+}
