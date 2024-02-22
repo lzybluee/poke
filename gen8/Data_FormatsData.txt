@@ -1530,7 +1530,7 @@
   irontreads: { tier: 'OU', doublesTier: '(DUU)', natDexTier: 'OU' },
   ironmoth: { tier: 'UU', doublesTier: 'DUU', natDexTier: 'UU' },
   ironhands: { tier: 'UUBL', doublesTier: 'DOU', natDexTier: 'UU' },
-  ironjugulis: { tier: 'RU', doublesTier: '(DUU)', natDexTier: 'RU' },
+  ironjugulis: { tier: 'RUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   ironthorns: { tier: 'NUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   ironbundle: { tier: 'Uber', doublesTier: 'DUU', natDexTier: 'Uber' },
   ironvaliant: { tier: 'OU', doublesTier: '(DUU)', natDexTier: 'OU' },
