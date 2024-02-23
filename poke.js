@@ -84,8 +84,13 @@ function log_moves(file, obj) {
         if (i < list.length - 1)
             text += '\n';
 
+        if (typeof(list[i].accuracy) === 'boolean')
+            dmg = list[i].basePower;
+        else
+            dmg = list[i].basePower * list[i].accuracy / 100;
+
         csv += csv_text(list[i].name, list[i].type, list[i].category,
-            list[i].basePower, list[i].accuracy, list[i].pp, list[i].priority,
+            list[i].basePower, list[i].accuracy, dmg, list[i].pp, list[i].priority,
             list[i].target, list[i].desc);
     }
     fs.writeFileSync(file + '.txt', text);
