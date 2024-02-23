@@ -154,10 +154,10 @@ function log_species(file, obj) {
         text += '\n';
 
         var abilities = [];
-        abilities.push(list[i].abilities[0] ? list[i].abilities[0] : '');
-        abilities.push(list[i].abilities[1] ? list[i].abilities[1] : '');
-        abilities.push(list[i].abilities['H'] ? list[i].abilities['H'] : '');
-        abilities.push(list[i].abilities['S'] ? list[i].abilities['S'] : '');
+        abilities.push(list[i].abilities[0] || '');
+        abilities.push(list[i].abilities[1] || '');
+        abilities.push(list[i].abilities['H'] || '');
+        abilities.push(list[i].abilities['S'] || '');
 
         if (i < list.length - 1)
             text += '\n';
