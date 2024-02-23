@@ -11,11 +11,27 @@ function log_detail(file, obj) {
     fs.writeFileSync(file + '_detail.txt', text);
 }
 
+function csv_text() {
+    var text = '';
+    for (let i in arguments) {
+        if (Array.isArray(arguments[i])) {
+            for (let j in arguments[i])
+                text += '"' + arguments[i][j].replaceAll('"', '""') + '",';
+        } else {
+            if (typeof(arguments[i]) === 'number' || typeof(arguments[i]) === 'boolean')
+                text += arguments[i] + ',';
+            else
+                text += '"' + arguments[i].replaceAll('"', '""') + '",';
+        }
+    }
+    return text + '\n';
+}
+
 function log_list(file, obj) {
     var list = [];
 
     for (let i in obj) {
-        if (obj[i].isNonstandard == null)
+        if (obj[i].isNonstandard === null)
             list.push(obj[i]);
     }
 
@@ -26,19 +42,23 @@ function log_list(file, obj) {
     });
 
     var text = '';
+    var csv = '';
     for (let i in list) {
         text += list[i].name + '\n' + list[i].desc + '\n';
         if (i < list.length - 1)
             text += '\n';
+
+        csv += csv_text(list[i].name, list[i].desc);
     }
     fs.writeFileSync(file + '.txt', text);
+    fs.writeFileSync(file + '.csv', csv);
 }
 
 function log_moves(file, obj) {
     var list = [];
 
     for (let i in obj) {
-        if (obj[i].isNonstandard == null)
+        if (obj[i].isNonstandard === null)
             list.push(obj[i]);
     }
 
@@ -49,6 +69,7 @@ function log_moves(file, obj) {
     });
 
     var text = '';
+    var csv = '';
     for (let i in list) {
         text += list[i].name + '\n' +
                 list[i].type + '\n' +
@@ -62,8 +83,13 @@ function log_moves(file, obj) {
 
         if (i < list.length - 1)
             text += '\n';
+
+        csv += csv_text(list[i].name, list[i].type, list[i].category,
+            list[i].basePower, list[i].accuracy, list[i].pp, list[i].priority,
+            list[i].target, list[i].desc);
     }
     fs.writeFileSync(file + '.txt', text);
+    fs.writeFileSync(file + '.csv', csv);
 }
 
 function log_species(file, obj) {
@@ -71,7 +97,7 @@ function log_species(file, obj) {
     var orders = [];
 
     for (let i in obj) {
-        if (obj[i].isNonstandard == null) {
+        if (obj[i].isNonstandard === null) {
             list.push(obj[i]);
             if (obj[i].formeOrder)
                 orders[obj[i].num] = obj[i].formeOrder;
@@ -81,14 +107,14 @@ function log_species(file, obj) {
     log_detail(file, list);
 
     list.sort(function (a, b) {
-        if (a.num != b.num) {
+        if (a.num != b.num)
             return a.num - b.num;
-        } else {
+        else
             return orders[a.num].indexOf(a.name) - orders[a.num].indexOf(b.name);
-        }
     });
 
     var text = '';
+    var csv = '';
     for (let i in list) {
         text += list[i].num + '\n' + list[i].name + '\n';
 
@@ -101,6 +127,12 @@ function log_species(file, obj) {
         }
         text += '\n';
 
+        var types = [];
+        for (let j in list[i].types)
+            types.push(list[i].types[j]);
+        while (types.length < 2)
+            types.push('');
+
         var sum = 0;
         k = 0;
         for (let j in list[i].baseStats) {
@@ -112,23 +144,31 @@ function log_species(file, obj) {
         }
         text += ', sum: ' + sum + '\n';
 
-        var n = 0;
         k = 0;
-        for (let j in list[i].abilities) {
-            n++;
-        }
         for (let j in list[i].abilities) {
             text += j + ": " + list[i].abilities[j];
             k++;
-            if (k < n)
+            if (k < Object.keys(list[i].abilities).length)
                 text += ', ';
         }
         text += '\n';
 
+        var abilities = [];
+        abilities.push(list[i].abilities[0] ? list[i].abilities[0] : '');
+        abilities.push(list[i].abilities[1] ? list[i].abilities[1] : '');
+        abilities.push(list[i].abilities['H'] ? list[i].abilities['H'] : '');
+        abilities.push(list[i].abilities['S'] ? list[i].abilities['S'] : '');
+
         if (i < list.length - 1)
             text += '\n';
+
+        csv += csv_text(list[i].num, list[i].name, types,
+            list[i].baseStats['hp'], list[i].baseStats['atk'], list[i].baseStats['def'],
+            list[i].baseStats['spa'], list[i].baseStats['spd'], list[i].baseStats['spe'],
+            sum, abilities);
     }
     fs.writeFileSync(file + '.txt', text);
+    fs.writeFileSync(file + '.csv', csv);
 }
 
 function log_data(file, obj) {
