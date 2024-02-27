@@ -1,4755 +1,4185 @@
 Bulbasaur
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growl : 2L4, 2S0, 1L1
-    Growth : 2L32, 1L34
-    Headbutt : 2M
-    Leech Seed : 2L7, 1L7
-    Light Screen : 2E
-    Mega Drain : 1M
-    Mimic : 1M
-    Petal Dance : 2E
-    Poison Powder : 2L15, 1L20
-    Rage : 1M
-    Razor Leaf : 2L20, 1L27
-    Razor Wind : 2E
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 2E
-    Sleep Powder : 2L15, 1L41
-    Solar Beam : 2M, 2L46, 1M, 1L48
-    Substitute : 1M
-    Swords Dance : 1M
-    Tackle : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vine Whip : 2L10, 1L13
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growl : Level 1
+    Growth : Level 34
+    Leech Seed : Level 7
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 20
+    Rage : TM
+    Razor Leaf : Level 27
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 41
+    Solar Beam : TM, Level 48
+    Substitute : TM
+    Swords Dance : TM
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
+    Vine Whip : Level 13
 
 Ivysaur
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growl : 2L4, 2L1, 1L1
-    Growth : 2L38, 1L38
-    Headbutt : 2M
-    Leech Seed : 2L7, 2L1, 1L7, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L15, 1L22
-    Rage : 1M
-    Razor Leaf : 2L22, 1L30
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sleep Powder : 2L15, 1L46
-    Solar Beam : 2M, 2L56, 1M, 1L54
-    Substitute : 1M
-    Swords Dance : 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vine Whip : 2L10, 1L13
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growl : Level 1
+    Growth : Level 38
+    Leech Seed : Level 7, Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 22
+    Rage : TM
+    Razor Leaf : Level 30
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 46
+    Solar Beam : TM, Level 54
+    Substitute : TM
+    Swords Dance : TM
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
+    Vine Whip : Level 13
 
 Venusaur
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growl : 2L4, 2L1, 1L1
-    Growth : 2L41, 1L43
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Leech Seed : 2L7, 2L1, 1L7, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L15, 2S0, 1L22
-    Rage : 1M
-    Razor Leaf : 2L22, 2S0, 1L30
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Sleep Powder : 2L15, 2S0, 1L55
-    Solar Beam : 2M, 2L65, 1M, 1L65
-    Substitute : 1M
-    Swords Dance : 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vine Whip : 2L10, 2L1, 1L13, 1L1
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growl : Level 1
+    Growth : Level 43
+    Hyper Beam : TM
+    Leech Seed : Level 7, Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 22
+    Rage : TM
+    Razor Leaf : Level 30
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 55
+    Solar Beam : TM, Level 65
+    Substitute : TM
+    Swords Dance : TM
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
+    Vine Whip : Level 13, Level 1
 
 Charmander
-    Bide : 1M
-    Bite : 2E
-    Body Slam : 1M
-    Counter : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2L43, 1M
-    Ember : 2L7, 1L9
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fire Spin : 2L49, 1L46
-    Flamethrower : 2T, 2L31, 1L38
-    Growl : 2L1, 2S0, 1L1
-    Headbutt : 2M
-    Leer : 1L15
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 2L19, 1M, 1L22
-    Reflect : 1M
-    Rest : 2M, 1M
-    Rock Slide : 2E
-    Scratch : 2L1, 2S0, 1L1
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slash : 2L37, 1L30
-    Smokescreen : 2L13
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Ember : Level 9
+    Fire Blast : TM
+    Fire Spin : Level 46
+    Flamethrower : Level 38
+    Growl : Level 1
+    Leer : Level 15
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM, Level 22
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slash : Level 30
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Charmeleon
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2L48, 1M
-    Ember : 2L7, 2L1, 1L9, 1L1
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fire Spin : 2L55, 1L56
-    Flamethrower : 2T, 2L34, 1L42
-    Growl : 2L1, 1L1
-    Headbutt : 2M
-    Leer : 1L15
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 2L20, 1M, 1L24
-    Reflect : 1M
-    Rest : 2M, 1M
-    Scratch : 2L1, 1L1
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slash : 2L41, 1L33
-    Smokescreen : 2L13
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Ember : Level 9, Level 1
+    Fire Blast : TM
+    Fire Spin : Level 56
+    Flamethrower : Level 42
+    Growl : Level 1
+    Leer : Level 15
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM, Level 24
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slash : Level 33
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Charizard
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2L54, 1M
-    Earthquake : 2M, 1M
-    Ember : 2L7, 2L1, 1L9, 1L1
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fire Spin : 2L64, 1L55
-    Fissure : 1M
-    Flamethrower : 2T, 2L34, 2S0, 1L46
-    Fly : 2M, 1M
-    Growl : 2L1, 1L1
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Leer : 1L15, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 2L20, 2S0, 1M, 1L24
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Scratch : 2L1, 1L1
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slash : 2L44, 1L36
-    Smokescreen : 2L13, 2L1
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Wing Attack : 2L36, 2S0
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Earthquake : TM
+    Ember : Level 9, Level 1
+    Fire Blast : TM
+    Fire Spin : Level 55
+    Fissure : TM
+    Flamethrower : Level 46
+    Fly : TM
+    Growl : Level 1
+    Hyper Beam : TM
+    Leer : Level 15, Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM, Level 24
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slash : Level 36
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Squirtle
-    Bide : 1M
-    Bite : 2L18, 1L22
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble : 2L7, 1L8
-    Bubble Beam : 1M
-    Confusion : 2E
-    Counter : 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Haze : 2E
-    Headbutt : 2M
-    Hydro Pump : 2L47, 1L42
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Mist : 2E
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 2L40, 1M, 1L35
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tackle : 2L1, 2S0, 1L1
-    Tail Whip : 2L4, 2S0, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L13, 1M, 1L15
-    Withdraw : 2L10, 1L28
+    Bide : TM
+    Bite : Level 22
+    Blizzard : TM
+    Body Slam : TM
+    Bubble : Level 8
+    Bubble Beam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hydro Pump : Level 42
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM, Level 35
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Tackle : Level 1
+    Tail Whip : Level 1
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 15
+    Withdraw : Level 28
 
 Wartortle
-    Bide : 1M
-    Bite : 2L19, 1L24
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble : 2L7, 2L1, 1L8, 1L1
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Headbutt : 2M
-    Hydro Pump : 2L53, 1L47
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 2L45, 1M, 1L39
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L4, 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L13, 1M, 1L15
-    Withdraw : 2L10, 1L31
+    Bide : TM
+    Bite : Level 24
+    Blizzard : TM
+    Body Slam : TM
+    Bubble : Level 8, Level 1
+    Bubble Beam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hydro Pump : Level 47
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM, Level 39
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Tackle : Level 1
+    Tail Whip : Level 1
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 15
+    Withdraw : Level 31
 
 Blastoise
-    Bide : 1M
-    Bite : 2L19, 2S0, 1L24
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble : 2L7, 2L1, 1L8, 1L1
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fissure : 1M
-    Headbutt : 2M
-    Hydro Pump : 2L68, 1L52
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Seismic Toss : 1M
-    Skull Bash : 2L55, 1M, 1L42
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L4, 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L13, 2S0, 1M, 1L15, 1L1
-    Withdraw : 2L10, 2L1, 1L31
+    Bide : TM
+    Bite : Level 24
+    Blizzard : TM
+    Body Slam : TM
+    Bubble : Level 8, Level 1
+    Bubble Beam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fissure : TM
+    Hydro Pump : Level 52
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM, Level 42
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Tackle : Level 1
+    Tail Whip : Level 1
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 15, Level 1
+    Withdraw : Level 31
 
 Caterpie
-    String Shot : 2L1, 1L1
-    Tackle : 2L1, 1L1
+    String Shot : Level 1
+    Tackle : Level 1
 
 Metapod
-    Harden : 2L7, 2L1, 1L7, 1L1
+    Harden : Level 7, Level 1
 
 Butterfree
-    Bide : 1M
-    Confusion : 2L10, 2L1, 1L10, 1L12, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M, 1M
-    Gust : 2L28, 1L28
-    Hyper Beam : 2M, 1M
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L13, 1L13, 1L15
-    Psybeam : 2L34, 1L34, 1L32
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sleep Powder : 2L15, 1L15, 1L17
-    Solar Beam : 2M, 1M
-    Stun Spore : 2L14, 1L14, 1L16
-    Substitute : 1M
-    Supersonic : 2L18, 1L18, 1L21
-    Swift : 2M, 1M
-    Take Down : 1M
-    Teleport : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 2L23, 1M, 1L23, 1L26
+    Bide : TM
+    Confusion : Level 10, Level 12, Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Gust : Level 28
+    Hyper Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 13, Level 15
+    Psybeam : Level 34, Level 32
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 15, Level 17
+    Solar Beam : TM
+    Stun Spore : Level 14, Level 16
+    Substitute : TM
+    Supersonic : Level 18, Level 21
+    Swift : TM
+    Take Down : TM
+    Teleport : TM
+    Toxic : TM
+    Whirlwind : TM, Level 23, Level 26
 
 Weedle
-    Poison Sting : 2L1, 1L1
-    String Shot : 2L1, 1L1
+    Poison Sting : Level 1
+    String Shot : Level 1
 
 Kakuna
-    Harden : 2L7, 2L1, 1L1
+    Harden : Level 1
 
 Beedrill
-    Agility : 2L40, 1L35
-    Bide : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Focus Energy : 2L15, 1L16
-    Fury Attack : 2L10, 2L1, 1L12, 1L1
-    Hyper Beam : 2M, 1M
-    Mega Drain : 1M
-    Mimic : 1M
-    Pin Missile : 2L35, 1L30
-    Rage : 2L25, 1M, 1L25
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Twineedle : 2L20, 1L20
+    Agility : Level 35
+    Bide : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Focus Energy : Level 16
+    Fury Attack : Level 12, Level 1
+    Hyper Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Pin Missile : Level 30
+    Rage : TM, Level 25
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Twineedle : Level 20
 
 Pidgey
-    Agility : 2L37, 1L36
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fly : 2M, 1M
-    Gust : 2L9, 1L1
-    Mimic : 1M
-    Mirror Move : 2L47, 1L44
-    Quick Attack : 2L15, 1L12
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sand Attack : 2L5, 1L5
-    Sky Attack : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 2L21, 1M, 1L19
-    Wing Attack : 2L29, 1L28
+    Agility : Level 36
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fly : TM
+    Gust : Level 1
+    Mimic : TM
+    Mirror Move : Level 44
+    Quick Attack : Level 12
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 5
+    Sky Attack : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM, Level 19
+    Wing Attack : Level 28
 
 Pidgeotto
-    Agility : 2L43, 1L40
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fly : 2M, 1M
-    Gust : 2L9, 2L1, 1L1
-    Mimic : 1M
-    Mirror Move : 2L55, 1L49
-    Quick Attack : 2L15, 1L12
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sand Attack : 2L5, 2L1, 1L5, 1L1
-    Sky Attack : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 2L23, 1M, 1L21
-    Wing Attack : 2L33, 1L31
+    Agility : Level 40
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fly : TM
+    Gust : Level 1
+    Mimic : TM
+    Mirror Move : Level 49
+    Quick Attack : Level 12
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 5, Level 1
+    Sky Attack : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM, Level 21
+    Wing Attack : Level 31
 
 Pidgeot
-    Agility : 2L46, 1L44
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fly : 2M, 1M
-    Gust : 2L9, 2L1, 1L1
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Mirror Move : 2L61, 1L54
-    Quick Attack : 2L15, 2L1, 1L12, 1L1
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sand Attack : 2L5, 2L1, 1L5, 1L1
-    Sky Attack : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 2L23, 1M, 1L21
-    Wing Attack : 2L33, 1L31
+    Agility : Level 44
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fly : TM
+    Gust : Level 1
+    Hyper Beam : TM
+    Mimic : TM
+    Mirror Move : Level 54
+    Quick Attack : Level 12, Level 1
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 5, Level 1
+    Sky Attack : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM, Level 21
+    Wing Attack : Level 31
 
 Rattata
-    Bide : 1M
-    Bite : 2E
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 2E
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Focus Energy : 2L20, 1L23
-    Fury Swipes : 2E
-    Headbutt : 2M
-    Hyper Fang : 2L13, 1L14
-    Mimic : 1M
-    Quick Attack : 2L7, 1L7
-    Rage : 1M
-    Rest : 2M, 1M
-    Screech : 2E
-    Skull Bash : 1M
-    Substitute : 1M
-    Super Fang : 2L34, 1L34
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L1, 1L1
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Focus Energy : Level 23
+    Hyper Fang : Level 14
+    Mimic : TM
+    Quick Attack : Level 7
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Super Fang : Level 34
+    Swift : TM
+    Tackle : Level 1
+    Tail Whip : Level 1
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Raticate
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Cut : 2M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Focus Energy : 1L27
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Hyper Fang : 2L13, 1L14
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Quick Attack : 2L7, 2L1, 1L7, 1L1
-    Rage : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Skull Bash : 1M
-    Strength : 2M
-    Substitute : 1M
-    Super Fang : 2L40, 1L41
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L1, 1L1
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Focus Energy : Level 27
+    Hyper Beam : TM
+    Hyper Fang : Level 14
+    Ice Beam : TM
+    Mimic : TM
+    Quick Attack : Level 7, Level 1
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Super Fang : Level 41
+    Swift : TM
+    Tackle : Level 1
+    Tail Whip : Level 1
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Spearow
-    Agility : 2L43, 1L36
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Drill Peck : 2L37, 1L29
-    Fly : 2M, 1M
-    Fury Attack : 2L13, 1L15
-    Growl : 2L1, 2S0, 1L1
-    Leer : 2L7, 1L9
-    Mimic : 1M
-    Mirror Move : 2L31, 1L22
-    Peck : 2L1, 2S0, 1L1
-    Quick Attack : 2E
-    Rage : 1M
-    Razor Wind : 1M
-    Rest : 2M, 1M
-    Sky Attack : 1M
-    Sonic Boom : 2S0
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 2E
-    Whirlwind : 1M
+    Agility : Level 36
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Drill Peck : Level 29
+    Fly : TM
+    Fury Attack : Level 15
+    Growl : Level 1
+    Leer : Level 9
+    Mimic : TM
+    Mirror Move : Level 22
+    Peck : Level 1
+    Rage : TM
+    Razor Wind : TM
+    Rest : TM
+    Sky Attack : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM
 
 Fearow
-    Agility : 2L47, 1L43
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Drill Peck : 2L40, 1L34
-    Fly : 2M, 1M
-    Fury Attack : 2L13, 2L1, 1L15, 1S0
-    Growl : 2L1, 1L1, 1S0
-    Hyper Beam : 2M, 1M
-    Leer : 2L7, 2L1, 1L9, 1L1, 1S0
-    Mimic : 1M
-    Mirror Move : 2L32, 1L25
-    Pay Day : 1S0
-    Peck : 2L1, 1L1
-    Rage : 1M
-    Razor Wind : 1M
-    Rest : 2M, 1M
-    Sky Attack : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 1M
+    Agility : Level 43
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Drill Peck : Level 34
+    Fly : TM
+    Fury Attack : Level 15
+    Growl : Level 1
+    Hyper Beam : TM
+    Leer : Level 9, Level 1
+    Mimic : TM
+    Mirror Move : Level 25
+    Peck : Level 1
+    Rage : TM
+    Razor Wind : TM
+    Rest : TM
+    Sky Attack : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM
 
 Ekans
-    Acid : 2L37, 1L38
-    Bide : 1M
-    Bite : 2L15, 1L17
-    Body Slam : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fissure : 1M
-    Glare : 2L23, 1L24
-    Haze : 2L43
-    Headbutt : 2M
-    Leer : 2L1, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Sting : 2L9, 1L10
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Screech : 2L29, 1L31
-    Skull Bash : 1M
-    Slam : 2E
-    Strength : 2M, 1M
-    Substitute : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Wrap : 2L1, 1L1
+    Acid : Level 38
+    Bide : TM
+    Bite : Level 17
+    Body Slam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fissure : TM
+    Glare : Level 24
+    Leer : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Poison Sting : Level 10
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Screech : Level 31
+    Skull Bash : TM
+    Strength : TM
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
+    Wrap : Level 1
 
 Arbok
-    Acid : 2L43, 1L47
-    Bide : 1M
-    Bite : 2L15, 2L1, 1L17
-    Body Slam : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fissure : 1M
-    Glare : 2L25, 1L27
-    Haze : 2L51
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Leer : 2L1, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Sting : 2L9, 2L1, 1L10, 1L1
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Screech : 2L33, 1L36
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Substitute : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Wrap : 2L1, 1L1
+    Acid : Level 47
+    Bide : TM
+    Bite : Level 17
+    Body Slam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fissure : TM
+    Glare : Level 27
+    Hyper Beam : TM
+    Leer : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Poison Sting : Level 10, Level 1
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Screech : Level 36
+    Skull Bash : TM
+    Strength : TM
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
+    Wrap : Level 1
 
 Pikachu
-    Agility : 2L33, 1L33
-    Bide : 1M
-    Body Slam : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Team : 2M, 2L15, 1M, 1L15
-    Flash : 2M, 1M
-    Fly : 1S1
-    Growl : 2L1, 1L1, 1S2
-    Headbutt : 2M
-    Light Screen : 2L50, 1L50
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Quick Attack : 2L11, 1L11, 1L16
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slam : 2L20, 1L20
-    Strength : 2M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 1T, 1S2, 1S0
-    Swift : 2M, 1M, 1L26
-    Tail Whip : 2L6, 1L6
-    Take Down : 1M
-    Thunder : 2M, 2L41, 1M, 1L41, 1L43
-    Thunderbolt : 2T, 2L26, 1M, 1L26
-    Thunder Punch : 2M
-    Thunder Shock : 2L1, 1L1, 1S2
-    Thunder Wave : 2L8, 1M, 1L8, 1L9
-    Toxic : 2M, 1M
+    Agility : Level 33
+    Bide : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM, Level 15
+    Flash : TM
+    Growl : Level 1
+    Light Screen : Level 50
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Quick Attack : Level 11, Level 16
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slam : Level 20
+    Submission : TM
+    Substitute : TM
+    Surf : Tutor
+    Swift : TM, Level 26
+    Tail Whip : Level 6
+    Take Down : TM
+    Thunder : TM, Level 41, Level 43
+    Thunderbolt : TM, Level 26
+    Thunder Shock : Level 1
+    Thunder Wave : TM, Level 8, Level 9
+    Toxic : TM
 
 Raichu
-    Bide : 1M
-    Body Slam : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M, 1M
-    Growl : 1L1
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Quick Attack : 2L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tail Whip : 2L1
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 2L1, 1M
-    Thunder Punch : 2M
-    Thunder Shock : 2L1, 1L1
-    Thunder Wave : 1M, 1L1
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Growl : Level 1
+    Hyper Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Shock : Level 1
+    Thunder Wave : TM, Level 1
+    Toxic : TM
 
 Sandshrew
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 2E
-    Cut : 2M, 1M
-    Defense Curl : 2M, 2L6
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fissure : 1M
-    Fury Swipes : 2L37, 1L38
-    Headbutt : 2M
-    Mimic : 1M
-    Poison Sting : 2L17, 1L24
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Sand Attack : 2L11, 1L10
-    Scratch : 2L1, 1L1
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slash : 2L23, 1L17
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 2L30, 1M, 1L31
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fissure : TM
+    Fury Swipes : Level 38
+    Mimic : TM
+    Poison Sting : Level 24
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Sand Attack : Level 10
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slash : Level 17
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM, Level 31
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Sandslash
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M, 2L6, 2L1
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fissure : 1M
-    Fury Swipes : 2L42, 1L47
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Poison Sting : 2L17, 1L27
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Sand Attack : 2L11, 2L1, 1L10, 1L1
-    Scratch : 2L1, 1L1
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slash : 2L24, 1L17
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 2L33, 1M, 1L36
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fissure : TM
+    Fury Swipes : Level 47
+    Hyper Beam : TM
+    Mimic : TM
+    Poison Sting : Level 27
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Sand Attack : Level 10, Level 1
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slash : Level 17
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM, Level 36
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Nidoran-F
-    Bide : 1M
-    Bite : 2L30, 1L30, 1L29
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Counter : 2E
-    Defense Curl : 2M
-    Disable : 2E
-    Double-Edge : 1M
-    Double Kick : 2L12, 1L12, 1L43
-    Double Team : 2M, 1M
-    Focus Energy : 2E
-    Fury Swipes : 2L38, 1L38, 1L36
-    Growl : 2L1, 2S2, 2S1, 2S0, 1L1
-    Headbutt : 2M
-    Lovely Kiss : 2S0
-    Mimic : 1M
-    Poison Sting : 2L17, 1L17, 1L14
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Scratch : 2L8, 1L8
-    Skull Bash : 1M
-    Substitute : 1M
-    Supersonic : 2E
-    Tackle : 2L1, 2S2, 2S1, 2S0, 1L1
-    Tail Whip : 2L23, 1L23, 1L21
-    Take Down : 2E, 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Bite : Level 30, Level 29
+    Blizzard : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Kick : Level 12, Level 43
+    Double Team : TM
+    Fury Swipes : Level 38, Level 36
+    Growl : Level 1
+    Mimic : TM
+    Poison Sting : Level 17, Level 14
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 8
+    Skull Bash : TM
+    Substitute : TM
+    Tackle : Level 1
+    Tail Whip : Level 23, Level 21
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Nidorina
-    Bide : 1M
-    Bite : 2L36, 1L36, 1L32
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Kick : 2L12, 1L12, 1L50
-    Double Team : 2M, 1M
-    Fury Swipes : 2L46, 1L46, 1L41
-    Growl : 2L1, 1L1
-    Headbutt : 2M
-    Horn Drill : 1M
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Poison Sting : 2L19, 1L19, 1L14
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Scratch : 2L8, 1L8, 1L1
-    Skull Bash : 1M
-    Strength : 2M
-    Substitute : 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L27, 1L27, 1L23
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Bite : Level 36, Level 32
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Kick : Level 12, Level 50
+    Double Team : TM
+    Fury Swipes : Level 46, Level 41
+    Growl : Level 1
+    Horn Drill : TM
+    Ice Beam : TM
+    Mimic : TM
+    Poison Sting : Level 19, Level 14
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 8, Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Tackle : Level 1
+    Tail Whip : Level 27, Level 23
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Nidoqueen
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 2L23, 1M, 1L23, 1L1
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Kick : 2L1, 1L12
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Headbutt : 2M
-    Horn Drill : 1M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Poison Sting : 1L14
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 1M
-    Scratch : 2L1, 1L8, 1L1
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L1, 1L1
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM, Level 23, Level 1
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Kick : Level 12
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Horn Drill : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Poison Sting : Level 14
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Rock Slide : TM
+    Scratch : Level 8, Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Tackle : Level 1
+    Tail Whip : Level 1
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Nidoran-M
-    Amnesia : 2E
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Confusion : 2E
-    Counter : 2E
-    Defense Curl : 2M
-    Disable : 2E
-    Double-Edge : 1M
-    Double Kick : 2L12, 1L12, 1L43
-    Double Team : 2M, 1M
-    Focus Energy : 2L23, 1L23, 1L21
-    Fury Attack : 2L30, 1L30, 1L29
-    Headbutt : 2M
-    Horn Attack : 2L8, 1L8
-    Horn Drill : 2L38, 1M, 1L38, 1L36
-    Leer : 2L1, 2S2, 2S1, 2S0, 1L1
-    Lovely Kiss : 2S0
-    Mimic : 1M
-    Poison Sting : 2L17, 1L17, 1L14
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Substitute : 1M
-    Supersonic : 2E
-    Tackle : 2L1, 2S2, 2S1, 2S0, 1L1
-    Take Down : 2E, 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Kick : Level 12, Level 43
+    Double Team : TM
+    Focus Energy : Level 23, Level 21
+    Fury Attack : Level 30, Level 29
+    Horn Attack : Level 8
+    Horn Drill : TM, Level 38, Level 36
+    Leer : Level 1
+    Mimic : TM
+    Poison Sting : Level 17, Level 14
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Tackle : Level 1
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Nidorino
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Kick : 2L12, 1L12, 1L50
-    Double Team : 2M, 1M
-    Focus Energy : 2L27, 1L27, 1L23
-    Fury Attack : 2L36, 1L36, 1L32
-    Headbutt : 2M
-    Horn Attack : 2L8, 1L8, 1L1
-    Horn Drill : 2L46, 1M, 1L46, 1L41
-    Ice Beam : 2T, 1M
-    Leer : 2L1, 1L1
-    Mimic : 1M
-    Poison Sting : 2L19, 1L19, 1L14
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Strength : 2M
-    Substitute : 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Kick : Level 12, Level 50
+    Double Team : TM
+    Focus Energy : Level 27, Level 23
+    Fury Attack : Level 36, Level 32
+    Horn Attack : Level 8, Level 1
+    Horn Drill : TM, Level 46, Level 41
+    Ice Beam : TM
+    Leer : Level 1
+    Mimic : TM
+    Poison Sting : Level 19, Level 14
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Tackle : Level 1
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Nidoking
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Kick : 2L1, 1L12
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Headbutt : 2M
-    Horn Attack : 2L1, 1L8, 1L1
-    Horn Drill : 1M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Poison Sting : 2L1, 1L14, 1L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Thrash : 2L23, 1L23, 1L1
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Kick : Level 12
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Horn Attack : Level 8, Level 1
+    Horn Drill : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Poison Sting : Level 14, Level 1
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Rock Slide : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Tackle : Level 1
+    Take Down : TM
+    Thrash : Level 23, Level 1
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Clefairy
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L26, 1L39
-    Double-Edge : 1M
-    Double Slap : 2L13, 1L18
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Growl : 2L1, 1L1
-    Headbutt : 2M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Light Screen : 2L53, 1L48
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 2L34, 1M, 1L31
-    Mimic : 1M
-    Minimize : 2L19, 1L24
-    Pound : 2L1, 1L1
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Sing : 2L8, 1L13
-    Skull Bash : 1M
-    Solar Beam : 2M, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Defense Curl : Level 39
+    Double-Edge : TM
+    Double Slap : Level 18
+    Double Team : TM
+    Fire Blast : TM
+    Flash : TM
+    Growl : Level 1
+    Ice Beam : TM
+    Light Screen : Level 48
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM, Level 31
+    Mimic : TM
+    Minimize : Level 24
+    Pound : Level 1
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Sing : Level 13
+    Skull Bash : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
 
 Clefable
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Slap : 2L1, 1L1
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 2L1, 1M, 1L1
-    Mimic : 1M
-    Minimize : 1L1
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Sing : 2L1, 1L1
-    Skull Bash : 1M
-    Solar Beam : 2M, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Slap : Level 1
+    Double Team : TM
+    Fire Blast : TM
+    Flash : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM, Level 1
+    Mimic : TM
+    Minimize : Level 1
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Sing : Level 1
+    Skull Bash : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
 
 Vulpix
-    Bide : 1M
-    Body Slam : 1M
-    Confuse Ray : 2L19, 1L28
-    Dig : 2M, 1M
-    Disable : 2E
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Ember : 2L1, 1L1
-    Fire Blast : 2M, 1M
-    Fire Spin : 2L37, 1L42
-    Flamethrower : 2T, 2L31, 1L35
-    Headbutt : 2M
-    Hypnosis : 2E
-    Mimic : 1M
-    Quick Attack : 2L7, 1L16
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2L13, 1L21
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tail Whip : 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Confuse Ray : Level 28
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Ember : Level 1
+    Fire Blast : TM
+    Fire Spin : Level 42
+    Flamethrower : Level 35
+    Mimic : TM
+    Quick Attack : Level 16
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Roar : Level 21
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Tail Whip : Level 1
+    Take Down : TM
+    Toxic : TM
 
 Ninetales
-    Bide : 1M
-    Body Slam : 1M
-    Confuse Ray : 2L1
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Ember : 2L1, 1L1
-    Fire Blast : 2M, 1M
-    Fire Spin : 2L43
-    Flamethrower : 2T
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Quick Attack : 2L1, 1L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M, 1L1
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tail Whip : 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Ember : Level 1
+    Fire Blast : TM
+    Hyper Beam : TM
+    Mimic : TM
+    Quick Attack : Level 1
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Roar : Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Tail Whip : Level 1
+    Take Down : TM
+    Toxic : TM
 
 Jigglypuff
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 2L34, 1M, 1L34
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L4, 1L19
-    Disable : 2L14, 1L14
-    Double-Edge : 2L39, 1M, 1L39
-    Double Slap : 2L24, 1L24
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pound : 2L9, 1L9
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 2L29, 1M, 1L29
-    Seismic Toss : 1M
-    Sing : 2L1, 1L1
-    Skull Bash : 1M
-    Solar Beam : 2M, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM, Level 34
+    Bubble Beam : TM
+    Counter : TM
+    Defense Curl : Level 19
+    Disable : Level 14
+    Double-Edge : TM, Level 39
+    Double Slap : Level 24
+    Double Team : TM
+    Fire Blast : TM
+    Flash : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pound : Level 9
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM, Level 29
+    Seismic Toss : TM
+    Sing : Level 1
+    Skull Bash : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
 
 Wigglytuff
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L1, 1L1
-    Disable : 2L1, 1L1
-    Double-Edge : 1M
-    Double Slap : 2L1, 1L1
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Sing : 2L1, 1L1
-    Skull Bash : 1M
-    Solar Beam : 2M, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Defense Curl : Level 1
+    Disable : Level 1
+    Double-Edge : TM
+    Double Slap : Level 1
+    Double Team : TM
+    Fire Blast : TM
+    Flash : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Sing : Level 1
+    Skull Bash : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
 
 Zubat
-    Bide : 1M
-    Bite : 2L12, 1L15
-    Confuse Ray : 2L19, 1L21
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Gust : 2E
-    Haze : 2L46, 1L36
-    Leech Life : 2L1, 2S0, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Quick Attack : 2E
-    Rage : 1M
-    Razor Wind : 1M
-    Rest : 2M, 1M
-    Substitute : 1M
-    Supersonic : 2L6, 1L10
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 2E, 1M
-    Wing Attack : 2L27, 1L28
+    Bide : TM
+    Bite : Level 15
+    Confuse Ray : Level 21
+    Double-Edge : TM
+    Double Team : TM
+    Haze : Level 36
+    Leech Life : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Rage : TM
+    Razor Wind : TM
+    Rest : TM
+    Substitute : TM
+    Supersonic : Level 10
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM
+    Wing Attack : Level 28
 
 Golbat
-    Bide : 1M
-    Bite : 2L12, 1L15, 1L1
-    Confuse Ray : 2L19, 1L21
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Haze : 2L55, 1L43
-    Hyper Beam : 2M, 1M
-    Leech Life : 2L1, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Rage : 1M
-    Razor Wind : 1M
-    Rest : 2M, 1M
-    Screech : 2L1, 1L1
-    Substitute : 1M
-    Supersonic : 2L6, 2L1, 1L10
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 1M
-    Wing Attack : 2L30, 1L32
+    Bide : TM
+    Bite : Level 15, Level 1
+    Confuse Ray : Level 21
+    Double-Edge : TM
+    Double Team : TM
+    Haze : Level 43
+    Hyper Beam : TM
+    Leech Life : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Rage : TM
+    Razor Wind : TM
+    Rest : TM
+    Screech : Level 1
+    Substitute : TM
+    Supersonic : Level 10
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM
+    Wing Attack : Level 32
 
 Oddish
-    Absorb : 2L1, 2S0, 1L1
-    Acid : 2L23, 1L24
-    Bide : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Leech Seed : 2S0
-    Mega Drain : 1M
-    Mimic : 1M
-    Petal Dance : 2L39, 1L33
-    Poison Powder : 2L14, 1L15
-    Rage : 1M
-    Razor Leaf : 2E
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sleep Powder : 2L18, 1L19
-    Solar Beam : 2M, 1M, 1L46
-    Stun Spore : 2L16, 1L17
-    Substitute : 1M
-    Swords Dance : 2E, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Absorb : Level 1
+    Acid : Level 24
+    Bide : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Mega Drain : TM
+    Mimic : TM
+    Petal Dance : Level 33
+    Poison Powder : Level 15
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 19
+    Solar Beam : TM, Level 46
+    Stun Spore : Level 17
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Gloom
-    Absorb : 2L1, 1L1
-    Acid : 2L24, 1L28
-    Bide : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Mega Drain : 1M
-    Mimic : 1M
-    Petal Dance : 2L44, 1L38
-    Poison Powder : 2L14, 2L1, 1L15, 1L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sleep Powder : 2L18, 1L19
-    Solar Beam : 2M, 1M, 1L52
-    Stun Spore : 2L16, 1L17, 1L1
-    Substitute : 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Absorb : Level 1
+    Acid : Level 28
+    Bide : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Mega Drain : TM
+    Mimic : TM
+    Petal Dance : Level 38
+    Poison Powder : Level 15, Level 1
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 19
+    Solar Beam : TM, Level 52
+    Stun Spore : Level 17, Level 1
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Vileplume
-    Absorb : 2L1
-    Acid : 1L1
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Hyper Beam : 2M, 1M
-    Mega Drain : 1M
-    Mimic : 1M
-    Petal Dance : 2L1, 1L1
-    Poison Powder : 1L15
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sleep Powder : 1L19, 1L1
-    Solar Beam : 2M, 1M
-    Stun Spore : 2L1, 1L17, 1L1
-    Substitute : 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Acid : Level 1
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hyper Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Petal Dance : Level 1
+    Poison Powder : Level 15
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 19, Level 1
+    Solar Beam : TM
+    Stun Spore : Level 17, Level 1
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Paras
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 2E
-    Cut : 2M, 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growth : 2L37, 1L41
-    Leech Life : 2L19, 1L20
-    Light Screen : 2E
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L13
-    Psybeam : 2E
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Scratch : 2L1, 2S0, 1L1
-    Screech : 2E
-    Skull Bash : 1M
-    Slash : 2L31, 1L34
-    Solar Beam : 2M, 1M
-    Spore : 2L25, 1L27
-    Stun Spore : 2L7, 1L13
-    Substitute : 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growth : Level 41
+    Leech Life : Level 20
+    Mega Drain : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 1
+    Skull Bash : TM
+    Slash : Level 34
+    Solar Beam : TM
+    Spore : Level 27
+    Stun Spore : Level 13
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Parasect
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growth : 2L46, 1L48
-    Hyper Beam : 2M, 1M
-    Leech Life : 2L19, 1L20, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L13, 2L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Scratch : 2L1, 1L1
-    Skull Bash : 1M
-    Slash : 2L37, 1L39
-    Solar Beam : 2M, 1M
-    Spore : 2L28, 1L30
-    Stun Spore : 2L7, 2L1, 1L13, 1L1
-    Substitute : 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growth : Level 48
+    Hyper Beam : TM
+    Leech Life : Level 20, Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 1
+    Skull Bash : TM
+    Slash : Level 39
+    Solar Beam : TM
+    Spore : Level 30
+    Stun Spore : Level 13, Level 1
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
 
 Venonat
-    Bide : 1M
-    Confusion : 2L17, 1L19
-    Disable : 2L1, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 1M
-    Leech Life : 2L25, 1L27
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L20, 1L22, 1L24
-    Psybeam : 2L33, 1L35
-    Psychic : 2M, 2L41, 1M, 1L43
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2E
-    Sleep Powder : 2L36, 1L38
-    Solar Beam : 2M, 1M
-    Stun Spore : 2L28, 1L30
-    Substitute : 1M
-    Supersonic : 2L9, 1L11
-    Swift : 2M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Confusion : Level 19
+    Disable : Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Leech Life : Level 27
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 22, Level 24
+    Psybeam : Level 35
+    Psychic : TM, Level 43
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 38
+    Solar Beam : TM
+    Stun Spore : Level 30
+    Substitute : TM
+    Supersonic : Level 11
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
 
 Venomoth
-    Bide : 1M
-    Confusion : 2L17, 1L1
-    Disable : 2L1, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M, 1M
-    Gust : 2L31
-    Hyper Beam : 2M, 1M
-    Leech Life : 2L25, 1L27, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L20, 1L22, 1L24, 1L1
-    Psybeam : 2L36, 1L38
-    Psychic : 2M, 2L52, 1M, 1L50
-    Psywave : 1M
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sleep Powder : 2L42, 1L43
-    Solar Beam : 2M, 1M
-    Stun Spore : 2L28, 1L30
-    Substitute : 1M
-    Supersonic : 2L9, 2L1, 1L1
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 1M
+    Bide : TM
+    Confusion : Level 1
+    Disable : Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Hyper Beam : TM
+    Leech Life : Level 27, Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 22, Level 24, Level 1
+    Psybeam : Level 38
+    Psychic : TM, Level 50
+    Psywave : TM
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 43
+    Solar Beam : TM
+    Stun Spore : Level 30
+    Substitute : TM
+    Supersonic : Level 1
+    Swift : TM
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Toxic : TM
+    Whirlwind : TM
 
 Diglett
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Dig : 2M, 2L17, 1M, 1L19
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 2L41, 1M, 1L40
-    Fissure : 2L49, 1M
-    Growl : 2L5, 1L15
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Sand Attack : 2L25, 1L24
-    Scratch : 2L1, 1L1
-    Screech : 2E
-    Slash : 2L33, 1L31
-    Substitute : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Dig : TM, Level 19
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM, Level 40
+    Fissure : TM
+    Growl : Level 15
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Sand Attack : Level 24
+    Scratch : Level 1
+    Slash : Level 31
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
 
 Dugtrio
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Dig : 2M, 2L17, 1M, 1L19, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 2L49, 1M, 1L47
-    Fissure : 2L61, 1M
-    Growl : 2L5, 2L1, 1L15, 1L1
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Sand Attack : 2L25, 1L24
-    Scratch : 2L1, 1L1
-    Slash : 2L37, 1L35
-    Substitute : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 2L1
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Dig : TM, Level 19, Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM, Level 47
+    Fissure : TM
+    Growl : Level 15, Level 1
+    Hyper Beam : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Sand Attack : Level 24
+    Scratch : Level 1
+    Slash : Level 35
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
 
 Meowth
-    Amnesia : 2E
-    Bide : 1M
-    Bite : 2L11, 1L12
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fury Swipes : 2L41, 1L33
-    Growl : 2L1, 1L1
-    Headbutt : 2M
-    Hypnosis : 2E
-    Mimic : 1M
-    Pay Day : 2L20, 1M, 1L17
-    Rage : 1M
-    Rest : 2M, 1M
-    Scratch : 2L1, 1L1
-    Screech : 2L35, 1L24
-    Skull Bash : 1M
-    Slash : 2L46, 1L44
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Bite : Level 12
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fury Swipes : Level 33
+    Growl : Level 1
+    Mimic : TM
+    Pay Day : TM, Level 17
+    Rage : TM
+    Rest : TM
+    Scratch : Level 1
+    Screech : Level 24
+    Skull Bash : TM
+    Slash : Level 44
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Persian
-    Bide : 1M
-    Bite : 2L11, 2L1, 1L12, 1L1
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fury Swipes : 2L46, 1L37
-    Growl : 2L1, 1L1
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Pay Day : 2L20, 1M, 1L17
-    Rage : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Scratch : 2L1, 1L1
-    Screech : 2L38, 1L24, 1L1
-    Skull Bash : 1M
-    Slash : 2L53, 1L51
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Bite : Level 12, Level 1
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fury Swipes : Level 37
+    Growl : Level 1
+    Hyper Beam : TM
+    Mimic : TM
+    Pay Day : TM, Level 17
+    Rage : TM
+    Rest : TM
+    Scratch : Level 1
+    Screech : Level 24, Level 1
+    Skull Bash : TM
+    Slash : Level 51
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Psyduck
-    Amnesia : 1S0
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Confusion : 2L16, 1L36
-    Counter : 1M
-    Dig : 2M, 1M
-    Disable : 2L10, 1L31
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Fury Swipes : 2L40, 1L43
-    Headbutt : 2M
-    Hydro Pump : 2L50, 1L52
-    Hypnosis : 2E
-    Ice Beam : 2T, 2E, 1M
-    Ice Punch : 2M
-    Light Screen : 2E
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Petal Dance : 2S1
-    Psybeam : 2E
-    Psychic : 2E
-    Rage : 1M
-    Rest : 2M, 1M
-    Scratch : 2L1, 2S2, 2S1, 1L1, 1S0
-    Screech : 2L23
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tail Whip : 2L5, 2S2, 2S1, 1L28
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 2S2
-    Waterfall : 2M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Confusion : Level 36
+    Counter : TM
+    Dig : TM
+    Disable : Level 31
+    Double-Edge : TM
+    Double Team : TM
+    Fury Swipes : Level 43
+    Hydro Pump : Level 52
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM
+    Rest : TM
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Tail Whip : Level 28
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM
 
 Golduck
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Confusion : 2L16, 2L1, 1L39
-    Counter : 1M
-    Dig : 2M, 1M
-    Disable : 2L10, 2L1, 1L31, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Fury Swipes : 2L44, 1L48
-    Headbutt : 2M
-    Hydro Pump : 2L58, 1L59
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Scratch : 2L1, 1L1
-    Screech : 2L23
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tail Whip : 2L5, 2L1, 1L28, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Confusion : Level 39
+    Counter : TM
+    Dig : TM
+    Disable : Level 31, Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Fury Swipes : Level 48
+    Hydro Pump : Level 59
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM
+    Rest : TM
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Tail Whip : Level 28, Level 1
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM
 
 Mankey
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 2E, 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fire Punch : 2M
-    Focus Energy : 2L27, 1L27
-    Fury Swipes : 2L21, 1L21
-    Headbutt : 2M
-    Ice Punch : 2M
-    Karate Chop : 2L15, 1L15
-    Leer : 2L1, 1L1
-    Low Kick : 2L9, 1L9
-    Meditate : 2E
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 2E, 1M
-    Scratch : 2L1, 1L1
-    Screech : 2L45, 1L45
-    Seismic Toss : 2L33, 1M, 1L33
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thrash : 2L51, 1L39
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Focus Energy : Level 27
+    Fury Swipes : Level 21
+    Karate Chop : Level 15
+    Leer : Level 1
+    Low Kick : Level 9
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Scratch : Level 1
+    Screech : Level 45
+    Seismic Toss : TM, Level 33
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Thrash : Level 39
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Primeape
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fire Punch : 2M
-    Focus Energy : 2L27, 1L27
-    Fury Swipes : 2L21, 1L21, 1L1
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Punch : 2M
-    Karate Chop : 2L15, 1L15, 1L1
-    Leer : 2L1, 1L1
-    Low Kick : 2L9, 2L1, 1L9, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Rage : 2L28, 2L1, 1M, 1L28
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Scratch : 2L1, 1L1
-    Screech : 2L54, 1L45
-    Seismic Toss : 2L36, 1M, 1L37
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thrash : 2L63, 1L46
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Focus Energy : Level 27
+    Fury Swipes : Level 21, Level 1
+    Hyper Beam : TM
+    Karate Chop : Level 15, Level 1
+    Leer : Level 1
+    Low Kick : Level 9, Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM, Level 28
+    Rest : TM
+    Rock Slide : TM
+    Scratch : Level 1
+    Screech : Level 45
+    Seismic Toss : TM, Level 37
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Thrash : Level 46
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Growlithe
-    Agility : 2L42, 1L39
-    Bide : 1M
-    Bite : 2L1, 1L1
-    Body Slam : 2E, 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 1M
-    Ember : 2L9, 1L18
-    Fire Blast : 2M, 1M
-    Fire Spin : 2E
-    Flamethrower : 2T, 2L50, 1L50
-    Headbutt : 2M
-    Leer : 2L18, 1L23
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M, 2L1, 1L1
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 2L26, 1M, 1L30
-    Thrash : 2E
-    Toxic : 2M, 1M
+    Agility : Level 39
+    Bide : TM
+    Bite : Level 1
+    Body Slam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Ember : Level 18
+    Fire Blast : TM
+    Flamethrower : Level 50
+    Leer : Level 23
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Roar : Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM, Level 30
+    Toxic : TM
 
 Arcanine
-    Bide : 1M
-    Body Slam : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 1M
-    Ember : 1L1
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Leer : 2L1, 1L1
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M, 2L1, 1L1
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 2L1, 1M, 1L1
-    Teleport : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Ember : Level 1
+    Fire Blast : TM
+    Hyper Beam : TM
+    Leer : Level 1
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Roar : Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM, Level 1
+    Teleport : TM
+    Toxic : TM
 
 Poliwag
-    Amnesia : 1L38
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 2L31, 1M, 1L31
-    Bubble : 2L1, 2S2, 2S1, 2S0, 1L1
-    Bubble Beam : 2E, 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Slap : 2L19, 1L25
-    Double Team : 2M, 1M
-    Growth : 2S0
-    Haze : 2E
-    Headbutt : 2M
-    Hydro Pump : 2L43, 1L45
-    Hypnosis : 2L7, 1L16
-    Ice Beam : 2T, 1M
-    Lovely Kiss : 2S1
-    Mimic : 1M
-    Mist : 2E
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Splash : 2E
-    Substitute : 1M
-    Surf : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L13, 1M, 1L19
+    Amnesia : Level 38
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM, Level 31
+    Bubble : Level 1
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Slap : Level 25
+    Double Team : TM
+    Hydro Pump : Level 45
+    Hypnosis : Level 16
+    Ice Beam : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 19
 
 Poliwhirl
-    Amnesia : 1L41
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 2L35, 1M, 1L33
-    Bubble : 2L1, 1L1
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Slap : 2L19, 1L26
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fissure : 1M
-    Headbutt : 2M
-    Hydro Pump : 2L51, 1L49
-    Hypnosis : 2L7, 2L1, 1L16, 1L1
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L13, 2L1, 1M, 1L19, 1L1
+    Amnesia : Level 41
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM, Level 33
+    Bubble : Level 1
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Slap : Level 26
+    Double Team : TM
+    Earthquake : TM
+    Fissure : TM
+    Hydro Pump : Level 49
+    Hypnosis : Level 16, Level 1
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 19, Level 1
 
 Poliwrath
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M, 1L1
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M
-    Double-Edge : 1M
-    Double Slap : 2L1, 1L1
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fissure : 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Hypnosis : 2L1, 1L16, 1L1
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 2L35, 2L1, 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L1, 1M, 1L19, 1L1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM, Level 1
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Slap : Level 1
+    Double Team : TM
+    Earthquake : TM
+    Fissure : TM
+    Hyper Beam : TM
+    Hypnosis : Level 16, Level 1
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 19, Level 1
 
 Abra
-    Barrier : 2E
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Punch : 2M
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Ice Punch : 2M
-    Light Screen : 2E
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 2L1, 2S0, 1M, 1L1
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM, Level 1
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
 
 Kadabra
-    Bide : 1M
-    Body Slam : 1M
-    Confusion : 2L16, 2L1, 1L16, 1L1
-    Counter : 1M
-    Dig : 2M, 1M
-    Disable : 2L18, 1L20, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Punch : 2M
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Ice Punch : 2M
-    Kinesis : 2L1, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Psybeam : 2L21, 1L27
-    Psychic : 2M, 2L38, 1M, 1L38
-    Psywave : 1M
-    Rage : 1M
-    Recover : 2L26, 1L31
-    Reflect : 2L45, 1M, 1L42
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 2L1, 1M, 1L1
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
+    Bide : TM
+    Body Slam : TM
+    Confusion : Level 16, Level 1
+    Counter : TM
+    Dig : TM
+    Disable : Level 20, Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Kinesis : Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psybeam : Level 27
+    Psychic : TM, Level 38
+    Psywave : TM
+    Rage : TM
+    Recover : Level 31
+    Reflect : TM, Level 42
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM, Level 1
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
 
 Alakazam
-    Bide : 1M
-    Body Slam : 1M
-    Confusion : 2L16, 2L1, 1L16, 1L1
-    Counter : 1M
-    Dig : 2M, 1M
-    Disable : 2L18, 1L20, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Punch : 2M
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Punch : 2M
-    Kinesis : 2L1, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Psybeam : 2L21, 1L27
-    Psychic : 2M, 2L38, 1M, 1L38
-    Psywave : 1M
-    Rage : 1M
-    Recover : 2L26, 1L31
-    Reflect : 2L45, 1M, 1L42
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 2L1, 1M, 1L1
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
+    Bide : TM
+    Body Slam : TM
+    Confusion : Level 16, Level 1
+    Counter : TM
+    Dig : TM
+    Disable : Level 20, Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Hyper Beam : TM
+    Kinesis : Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psybeam : Level 27
+    Psychic : TM, Level 38
+    Psywave : TM
+    Rage : TM
+    Recover : Level 31
+    Reflect : TM, Level 42
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM, Level 1
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
 
 Machop
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Focus Energy : 2L7, 1L32
-    Headbutt : 2M
-    Ice Punch : 2M
-    Karate Chop : 2L13, 1L1
-    Leer : 2L1, 2S1, 2S0, 1L25
-    Light Screen : 2E
-    Low Kick : 2L1, 2S1, 2S0, 1L20
-    Meditate : 2E
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Rolling Kick : 2E
-    Seismic Toss : 2L19, 1M, 1L39
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 2L49, 1M, 1L46
-    Substitute : 1M
-    Take Down : 1M
-    Thrash : 2S1
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Focus Energy : Level 32
+    Karate Chop : Level 1
+    Leer : Level 25
+    Low Kick : Level 20
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Seismic Toss : TM, Level 39
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM, Level 46
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
 
 Machoke
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Focus Energy : 2L8, 2L1, 1L36
-    Headbutt : 2M
-    Ice Punch : 2M
-    Karate Chop : 2L15, 1L1
-    Leer : 2L1, 1L25, 1L1
-    Low Kick : 2L1, 1L20, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Seismic Toss : 2L19, 1M, 1L44
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 2L61, 1M, 1L52
-    Substitute : 1M
-    Take Down : 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Focus Energy : Level 36
+    Karate Chop : Level 1
+    Leer : Level 25, Level 1
+    Low Kick : Level 20, Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Seismic Toss : TM, Level 44
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM, Level 52
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
 
 Machamp
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Focus Energy : 2L8, 2L1, 1L36
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Punch : 2M
-    Karate Chop : 2L15, 1L1
-    Leer : 2L1, 1L25, 1L1
-    Low Kick : 2L1, 1L20, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Seismic Toss : 2L19, 1M, 1L44
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 2L61, 1M, 1L52
-    Substitute : 1M
-    Take Down : 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Focus Energy : Level 36
+    Hyper Beam : TM
+    Karate Chop : Level 1
+    Leer : Level 25, Level 1
+    Low Kick : Level 20, Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Seismic Toss : TM, Level 44
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM, Level 52
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
 
 Bellsprout
-    Acid : 2L23, 1L26
-    Bide : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growth : 2L6, 1L1
-    Leech Life : 2E
-    Lovely Kiss : 2S0
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L17, 1L15
-    Rage : 1M
-    Razor Leaf : 2L37, 1L33
-    Reflect : 2E, 1M
-    Rest : 2M, 1M
-    Slam : 2L45, 1L42
-    Sleep Powder : 2L15, 1L18
-    Solar Beam : 2M, 1M
-    Stun Spore : 2L19, 1L21
-    Substitute : 1M
-    Swords Dance : 2E, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vine Whip : 2L1, 2S1, 2S0, 1L1
-    Wrap : 2L11, 1L13
+    Acid : Level 26
+    Bide : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growth : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 15
+    Rage : TM
+    Razor Leaf : Level 33
+    Reflect : TM
+    Rest : TM
+    Slam : Level 42
+    Sleep Powder : Level 18
+    Solar Beam : TM
+    Stun Spore : Level 21
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Vine Whip : Level 1
+    Wrap : Level 13
 
 Weepinbell
-    Acid : 2L24, 1L29
-    Bide : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growth : 2L6, 2L1, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 2L17, 1L15
-    Rage : 1M
-    Razor Leaf : 2L42, 1L38
-    Reflect : 1M
-    Rest : 2M, 1M
-    Slam : 2L54, 1L49
-    Sleep Powder : 2L15, 1L18
-    Solar Beam : 2M, 1M
-    Stun Spore : 2L19, 1L23
-    Substitute : 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vine Whip : 2L1, 1L1
-    Wrap : 2L11, 2L1, 1L13, 1L1
+    Acid : Level 29
+    Bide : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growth : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 15
+    Rage : TM
+    Razor Leaf : Level 38
+    Reflect : TM
+    Rest : TM
+    Slam : Level 49
+    Sleep Powder : Level 18
+    Solar Beam : TM
+    Stun Spore : Level 23
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Vine Whip : Level 1
+    Wrap : Level 13, Level 1
 
 Victreebel
-    Acid : 1L1
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Hyper Beam : 2M, 1M
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Powder : 1L15
-    Rage : 1M
-    Razor Leaf : 2L1, 1L1
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sleep Powder : 2L1, 1L18, 1L1
-    Solar Beam : 2M, 1M
-    Stun Spore : 1L1
-    Substitute : 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vine Whip : 2L1
-    Wrap : 1L13
+    Acid : Level 1
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hyper Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 15
+    Rage : TM
+    Razor Leaf : Level 1
+    Reflect : TM
+    Rest : TM
+    Sleep Powder : Level 18, Level 1
+    Solar Beam : TM
+    Stun Spore : Level 1
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Wrap : Level 13
 
 Tentacool
-    Acid : 2L19, 1L1
-    Aurora Beam : 2E
-    Barrier : 2L36, 1L33
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 2L25, 1M
-    Confuse Ray : 2S0
-    Constrict : 2L12, 1L27
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Haze : 2E
-    Hydro Pump : 2L49, 1L48
-    Ice Beam : 2T, 1M
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Sting : 2L1, 2S0, 1L18
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2L43, 1L40
-    Skull Bash : 1M
-    Substitute : 1M
-    Supersonic : 2L6, 1L7
-    Surf : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M, 1L22
-    Wrap : 2L30, 1L13
+    Acid : Level 1
+    Barrier : Level 33
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Constrict : Level 27
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hydro Pump : Level 48
+    Ice Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Poison Sting : Level 18
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Screech : Level 40
+    Skull Bash : TM
+    Substitute : TM
+    Supersonic : Level 7
+    Surf : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 22
+    Wrap : Level 13
 
 Tentacruel
-    Acid : 2L19, 1L1
-    Barrier : 2L38, 1L35
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 2L25, 1M
-    Constrict : 2L12, 2L1, 1L27
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Hydro Pump : 2L55, 1L50
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Mega Drain : 1M
-    Mimic : 1M
-    Poison Sting : 2L1, 1L18
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2L47, 1L43
-    Skull Bash : 1M
-    Substitute : 1M
-    Supersonic : 2L6, 2L1, 1L7, 1L1
-    Surf : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M, 1L22
-    Wrap : 2L30, 1L13, 1L1
+    Acid : Level 1
+    Barrier : Level 35
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Constrict : Level 27
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hydro Pump : Level 50
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Poison Sting : Level 18
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Screech : Level 43
+    Skull Bash : TM
+    Substitute : TM
+    Supersonic : Level 7, Level 1
+    Surf : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 22
+    Wrap : Level 13, Level 1
 
 Geodude
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L6, 1L11
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 2L36, 1M, 1L31
-    Explosion : 2L41, 1M, 1L36
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Harden : 2L26, 1L26
-    Headbutt : 2M
-    Mega Punch : 2E, 1M
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 2E, 1M
-    Rock Throw : 2L11, 1L16
-    Seismic Toss : 1M
-    Self-Destruct : 2L21, 1M, 1L21
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Tackle : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Defense Curl : Level 11
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM, Level 31
+    Explosion : TM, Level 36
+    Fire Blast : TM
+    Fissure : TM
+    Harden : Level 26
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Rock Throw : Level 16
+    Seismic Toss : TM
+    Self-Destruct : TM, Level 21
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
 
 Graveler
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L6, 2L1, 1L11, 1L1
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 2L41, 1M, 1L36
-    Explosion : 2L48, 1M, 1L43
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Harden : 2L27, 1L29
-    Headbutt : 2M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Slide : 1M
-    Rock Throw : 2L11, 2L1, 1L16
-    Seismic Toss : 1M
-    Self-Destruct : 2L21, 1M, 1L21
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Defense Curl : Level 11, Level 1
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM, Level 36
+    Explosion : TM, Level 43
+    Fire Blast : TM
+    Fissure : TM
+    Harden : Level 29
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Rock Throw : Level 16
+    Seismic Toss : TM
+    Self-Destruct : TM, Level 21
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
 
 Golem
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L6, 2L1, 1L11, 1L1
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 2L41, 1M, 1L36
-    Explosion : 2L48, 1M, 1L43
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Harden : 2L27, 1L29
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 1M
-    Rock Throw : 2L11, 2L1, 1L16
-    Seismic Toss : 1M
-    Self-Destruct : 2L21, 1M, 1L21
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Defense Curl : Level 11, Level 1
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM, Level 36
+    Explosion : TM, Level 43
+    Fire Blast : TM
+    Fissure : TM
+    Harden : Level 29
+    Hyper Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Rock Throw : Level 16
+    Seismic Toss : TM
+    Self-Destruct : TM, Level 21
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
 
 Ponyta
-    Agility : 2L43, 1L48
-    Bide : 1M
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Kick : 2E
-    Double Team : 2M, 1M
-    Ember : 2L13, 1L1
-    Fire Blast : 2M, 2L53, 1M
-    Fire Spin : 2L26, 1L39
-    Flamethrower : 2T
-    Growl : 2L4, 2S0, 1L35
-    Headbutt : 2M
-    Horn Drill : 1M
-    Hypnosis : 2E
-    Low Kick : 2S0
-    Mimic : 1M
-    Quick Attack : 2E
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Stomp : 2L19, 1L32
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 2S0
-    Tail Whip : 2L8, 1L30
-    Take Down : 2L34, 1M, 1L43
-    Thrash : 2E
-    Toxic : 2M, 1M
+    Agility : Level 48
+    Bide : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Ember : Level 1
+    Fire Blast : TM
+    Fire Spin : Level 39
+    Growl : Level 35
+    Horn Drill : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Stomp : Level 32
+    Substitute : TM
+    Swift : TM
+    Tail Whip : Level 30
+    Take Down : TM, Level 43
+    Toxic : TM
 
 Rapidash
-    Agility : 2L47, 1L55
-    Bide : 1M
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Ember : 2L13, 2L1, 1L1, 1S0
-    Fire Blast : 2M, 2L61, 1M
-    Fire Spin : 2L26, 1L39, 1S0
-    Flamethrower : 2T
-    Fury Attack : 2L40
-    Growl : 2L4, 2L1, 1L35, 1L1
-    Headbutt : 2M
-    Horn Drill : 1M
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Pay Day : 1S0
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Stomp : 2L19, 1L32, 1L1, 1S0
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1
-    Tail Whip : 2L8, 2L1, 1L30, 1L1
-    Take Down : 2L34, 1M, 1L47
-    Toxic : 2M, 1M
+    Agility : Level 55
+    Bide : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Ember : Level 1
+    Fire Blast : TM
+    Fire Spin : Level 39
+    Growl : Level 35, Level 1
+    Horn Drill : TM
+    Hyper Beam : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Stomp : Level 32, Level 1
+    Substitute : TM
+    Swift : TM
+    Tail Whip : Level 30, Level 1
+    Take Down : TM, Level 47
+    Toxic : TM
 
 Slowpoke
-    Amnesia : 2L43, 1L40
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Confusion : 2L20, 1L1
-    Dig : 2M, 1M
-    Disable : 2L29, 1L18
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fissure : 1M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Growl : 2L6, 1L27
-    Headbutt : 2M, 2L34, 1L22
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Psychic : 2M, 2L48, 1M, 1L48
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Stomp : 2E
-    Strength : 2M, 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tackle : 2L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 2L15, 1M, 1L33
+    Amnesia : Level 40
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Confusion : Level 1
+    Dig : TM
+    Disable : Level 18
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Flash : TM
+    Growl : Level 27
+    Headbutt : Level 22
+    Ice Beam : TM
+    Mimic : TM
+    Pay Day : TM
+    Psychic : TM, Level 48
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM, Level 33
 
 Slowbro
-    Amnesia : 2L46, 1L44
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Confusion : 2L20, 1L1
-    Counter : 1M
-    Dig : 2M, 1M
-    Disable : 2L29, 1L18, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fissure : 1M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Growl : 2L6, 2L1, 1L27
-    Headbutt : 2M, 2L34, 1L22, 1L1
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Psychic : 2M, 2L54, 1M, 1L55
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tackle : 2L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 2L15, 2L1, 1M, 1L33
-    Withdraw : 2L37, 1L37
+    Amnesia : Level 44
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Confusion : Level 1
+    Counter : TM
+    Dig : TM
+    Disable : Level 18, Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Flash : TM
+    Growl : Level 27
+    Headbutt : Level 22, Level 1
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Psychic : TM, Level 55
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM, Level 33
+    Withdraw : Level 37
 
 Magnemite
-    Agility : 2S0
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M, 1M
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2L39, 1L47
-    Sonic Boom : 2L16, 1L21
-    Substitute : 1M
-    Supersonic : 2L11, 1L29
-    Swift : 2M, 2L33, 1M, 1L41
-    Tackle : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Shock : 2L6, 1L25
-    Thunder Wave : 2L21, 1M, 1L35
-    Toxic : 2M, 1M
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Screech : Level 47
+    Sonic Boom : Level 21
+    Substitute : TM
+    Supersonic : Level 29
+    Swift : TM, Level 41
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Shock : Level 25
+    Thunder Wave : TM, Level 35
+    Toxic : TM
 
 Magneton
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M, 1M
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2L43, 1L54
-    Sonic Boom : 2L16, 2L1, 1L21, 1L1
-    Substitute : 1M
-    Supersonic : 2L11, 2L1, 1L29
-    Swift : 2M, 2L35, 1M, 1L46
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Shock : 2L6, 2L1, 1L25, 1L1
-    Thunder Wave : 2L21, 1M, 1L38
-    Toxic : 2M, 1M
-    Tri Attack : 2L35
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Hyper Beam : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Screech : Level 54
+    Sonic Boom : Level 21, Level 1
+    Substitute : TM
+    Supersonic : Level 29
+    Swift : TM, Level 46
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Shock : Level 25, Level 1
+    Thunder Wave : TM, Level 38
+    Toxic : TM
 
 Farfetch’d
-    Agility : 2L31, 2S0, 1L31
-    Bide : 1M
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fly : 2M, 1M
-    Fury Attack : 2L19, 1L15
-    Gust : 2E
-    Headbutt : 2M
-    Leer : 2L13, 1L7
-    Mimic : 1M
-    Mirror Move : 2E
-    Peck : 2L1, 2S1, 1L1
-    Quick Attack : 2E
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sand Attack : 2L7, 1L1
-    Skull Bash : 1M
-    Slash : 2L37, 2S0, 1L39
-    Substitute : 1M
-    Swift : 2M, 1M
-    Swords Dance : 2L25, 2S0, 1M, 1L23
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 1M
+    Agility : Level 31
+    Bide : TM
+    Body Slam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fly : TM
+    Fury Attack : Level 15
+    Leer : Level 7
+    Mimic : TM
+    Peck : Level 1
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 1
+    Skull Bash : TM
+    Slash : Level 39
+    Substitute : TM
+    Swift : TM
+    Swords Dance : TM, Level 23
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM
 
 Doduo
-    Agility : 2L37, 1L44
-    Bide : 1M
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Drill Peck : 2L33, 1L30
-    Fly : 2M, 1M
-    Fury Attack : 2L13, 1L24
-    Growl : 2L1, 2S0, 1L20
-    Haze : 2E
-    Low Kick : 2S0
-    Mimic : 1M
-    Peck : 2L1, 2S0, 1L1
-    Quick Attack : 2E
-    Rage : 2L25, 1M, 1L36
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Sky Attack : 1M
-    Substitute : 1M
-    Supersonic : 2E
-    Swift : 2M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 2L21, 1M, 1L40
-    Whirlwind : 1M
+    Agility : Level 44
+    Bide : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Drill Peck : Level 30
+    Fly : TM
+    Fury Attack : Level 24
+    Growl : Level 20
+    Mimic : TM
+    Peck : Level 1
+    Rage : TM, Level 36
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Sky Attack : TM
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
+    Tri Attack : TM, Level 40
+    Whirlwind : TM
 
 Dodrio
-    Agility : 2L47, 1L51
-    Bide : 1M
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Drill Peck : 2L38, 1L30
-    Fly : 2M, 1M
-    Fury Attack : 2L13, 2L1, 1L24, 1L1
-    Growl : 2L1, 1L20, 1L1
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Peck : 2L1, 1L1
-    Rage : 2L25, 1M, 1L39
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Sky Attack : 1M
-    Substitute : 1M
-    Swift : 2M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 2L21, 1M, 1L45
-    Whirlwind : 1M
+    Agility : Level 51
+    Bide : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Drill Peck : Level 30
+    Fly : TM
+    Fury Attack : Level 24, Level 1
+    Growl : Level 20, Level 1
+    Hyper Beam : TM
+    Mimic : TM
+    Peck : Level 1
+    Rage : TM, Level 39
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Sky Attack : TM
+    Substitute : TM
+    Take Down : TM
+    Toxic : TM
+    Tri Attack : TM, Level 45
+    Whirlwind : TM
 
 Seel
-    Aurora Beam : 2L16, 1L35
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Disable : 2E
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Growl : 2L5, 2S0, 1L30
-    Headbutt : 2M, 2L1, 2S0, 1L1
-    Horn Drill : 1M
-    Ice Beam : 2T, 2L37, 1M, 1L50
-    Lick : 2E
-    Mimic : 1M
-    Pay Day : 1M
-    Peck : 2E
-    Rage : 1M
-    Rest : 2M, 2L21, 1M, 1L40
-    Skull Bash : 1M
-    Slam : 2E
-    Strength : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Take Down : 2L32, 1M, 1L45
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 1M
+    Aurora Beam : Level 35
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growl : Level 30
+    Headbutt : Level 1
+    Horn Drill : TM
+    Ice Beam : TM, Level 50
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM
+    Rest : TM, Level 40
+    Skull Bash : TM
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM, Level 45
+    Toxic : TM
+    Water Gun : TM
 
 Dewgong
-    Aurora Beam : 2L16, 2L1, 1L35, 1L1
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Growl : 2L5, 2L1, 1L30, 1L1
-    Headbutt : 2M, 2L1, 1L1
-    Horn Drill : 1M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 2L43, 1M, 1L56
-    Mimic : 1M
-    Pay Day : 1M
-    Rage : 1M
-    Rest : 2M, 2L21, 1M, 1L44
-    Skull Bash : 1M
-    Strength : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Take Down : 2L32, 1M, 1L50
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 1M
+    Aurora Beam : Level 35, Level 1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growl : Level 30, Level 1
+    Headbutt : Level 1
+    Horn Drill : TM
+    Hyper Beam : TM
+    Ice Beam : TM, Level 56
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM
+    Rest : TM, Level 44
+    Skull Bash : TM
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM, Level 50
+    Toxic : TM
+    Water Gun : TM
 
 Grimer
-    Acid Armor : 2L40, 1L55
-    Bide : 1M
-    Body Slam : 1M
-    Disable : 2L10, 1L1
-    Double Team : 2M, 1M
-    Explosion : 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Harden : 2L5, 1L42
-    Haze : 2E
-    Ice Punch : 2M
-    Lick : 2E
-    Mega Drain : 1M
-    Mimic : 1M
-    Minimize : 2L23, 1L33
-    Poison Gas : 2L1, 1L30
-    Pound : 2L1, 1L1
-    Rage : 1M
-    Rest : 2M, 1M
-    Screech : 2L31, 1L48
-    Self-Destruct : 1M
-    Sludge : 2L16, 1L37
-    Substitute : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Acid Armor : Level 55
+    Bide : TM
+    Body Slam : TM
+    Disable : Level 1
+    Double Team : TM
+    Explosion : TM
+    Fire Blast : TM
+    Harden : Level 42
+    Mega Drain : TM
+    Mimic : TM
+    Minimize : Level 33
+    Poison Gas : Level 30
+    Pound : Level 1
+    Rage : TM
+    Rest : TM
+    Screech : Level 48
+    Self-Destruct : TM
+    Sludge : Level 37
+    Substitute : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Muk
-    Acid Armor : 2L45, 1L60
-    Bide : 1M
-    Body Slam : 1M
-    Disable : 2L37, 1L1
-    Double Team : 2M, 1M
-    Explosion : 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Harden : 2L33, 2L1, 1L45
-    Hyper Beam : 2M, 1M
-    Ice Punch : 2M
-    Mega Drain : 1M
-    Mimic : 1M
-    Minimize : 2L23, 1L33
-    Poison Gas : 2L1, 1L30, 1L1
-    Pound : 2L1, 1L1
-    Rage : 1M
-    Rest : 2M, 1M
-    Screech : 2L31, 1L53
-    Self-Destruct : 1M
-    Sludge : 2L45, 1L37
-    Substitute : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Acid Armor : Level 60
+    Bide : TM
+    Body Slam : TM
+    Disable : Level 1
+    Double Team : TM
+    Explosion : TM
+    Fire Blast : TM
+    Harden : Level 45
+    Hyper Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Minimize : Level 33
+    Poison Gas : Level 30, Level 1
+    Pound : Level 1
+    Rage : TM
+    Rest : TM
+    Screech : Level 53
+    Self-Destruct : TM
+    Sludge : Level 37
+    Substitute : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Shellder
-    Aurora Beam : 2L17, 1L30
-    Barrier : 2E
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 2E, 1M
-    Clamp : 2L41, 1L23
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Explosion : 1M
-    Ice Beam : 2T, 2L49, 1M, 1L50
-    Leer : 2L33, 1L39
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2E
-    Self-Destruct : 1M
-    Substitute : 1M
-    Supersonic : 2L9, 1L18
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Take Down : 2E, 1M
-    Teleport : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
-    Withdraw : 2L1, 1L1
+    Aurora Beam : Level 30
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Clamp : Level 23
+    Double-Edge : TM
+    Double Team : TM
+    Explosion : TM
+    Ice Beam : TM, Level 50
+    Leer : Level 39
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Self-Destruct : TM
+    Substitute : TM
+    Supersonic : Level 18
+    Surf : TM
+    Swift : TM
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
+    Withdraw : Level 1
 
 Cloyster
-    Aurora Beam : 2L1, 1L1
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 1M
-    Clamp : 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Explosion : 1M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Self-Destruct : 1M
-    Spike Cannon : 2L41, 1L50
-    Substitute : 1M
-    Supersonic : 2L1, 1L1
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Teleport : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
-    Withdraw : 2L1, 1L1
+    Aurora Beam : Level 1
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Clamp : Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Explosion : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Self-Destruct : TM
+    Spike Cannon : Level 50
+    Substitute : TM
+    Supersonic : Level 1
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Teleport : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
+    Withdraw : Level 1
 
 Gastly
-    Bide : 1M
-    Confuse Ray : 2L28, 1L1
-    Double Team : 2M, 1M
-    Dream Eater : 2M, 2L33, 1M, 1L35
-    Explosion : 1M
-    Haze : 2E
-    Hypnosis : 2L1, 1L27
-    Lick : 2L1, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Night Shade : 2L21, 1L1
-    Psychic : 2M, 1M
-    Psywave : 2E, 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Self-Destruct : 1M
-    Substitute : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Confuse Ray : Level 1
+    Double Team : TM
+    Dream Eater : TM, Level 35
+    Explosion : TM
+    Hypnosis : Level 27
+    Lick : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Night Shade : Level 1
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Rest : TM
+    Self-Destruct : TM
+    Substitute : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Haunter
-    Bide : 1M
-    Confuse Ray : 2L31, 1L1
-    Double Team : 2M, 1M
-    Dream Eater : 2M, 2L39, 1M, 1L38
-    Explosion : 1M
-    Hypnosis : 2L1, 1L29
-    Lick : 2L1, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Night Shade : 2L21, 1L1
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Self-Destruct : 1M
-    Substitute : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Confuse Ray : Level 1
+    Double Team : TM
+    Dream Eater : TM, Level 38
+    Explosion : TM
+    Hypnosis : Level 29
+    Lick : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Night Shade : Level 1
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Rest : TM
+    Self-Destruct : TM
+    Substitute : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Gengar
-    Bide : 1M
-    Body Slam : 1M
-    Confuse Ray : 2L31, 1L1
-    Counter : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M, 2L39, 1M, 1L38
-    Explosion : 1M
-    Fire Punch : 2M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Hypnosis : 2L1, 1L29
-    Ice Punch : 2M
-    Lick : 2L1, 1L1
-    Mega Drain : 1M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Night Shade : 2L21, 1L1
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Self-Destruct : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Confuse Ray : Level 1
+    Counter : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dream Eater : TM, Level 38
+    Explosion : TM
+    Hyper Beam : TM
+    Hypnosis : Level 29
+    Lick : Level 1
+    Mega Drain : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Night Shade : Level 1
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Rest : TM
+    Seismic Toss : TM
+    Self-Destruct : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Onix
-    Bide : 1M
-    Bind : 2L10, 1L15
-    Body Slam : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Explosion : 1M
-    Fissure : 1M
-    Harden : 2L23, 1L43
-    Headbutt : 2M
-    Mimic : 1M
-    Rage : 2L27, 1M, 1L25
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 2E, 1M
-    Rock Throw : 2L14, 1L19
-    Screech : 2L1, 2S0, 1L1
-    Self-Destruct : 1M
-    Sharpen : 2S0
-    Skull Bash : 1M
-    Slam : 2L40, 1L33
-    Strength : 2M, 1M
-    Substitute : 1M
-    Tackle : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Bind : Level 15
+    Body Slam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Explosion : TM
+    Fissure : TM
+    Harden : Level 43
+    Mimic : TM
+    Rage : TM, Level 25
+    Rest : TM
+    Rock Slide : TM
+    Rock Throw : Level 19
+    Screech : Level 1
+    Self-Destruct : TM
+    Skull Bash : TM
+    Slam : Level 33
+    Strength : TM
+    Substitute : TM
+    Tackle : Level 1
+    Take Down : TM
+    Toxic : TM
 
 Drowzee
-    Amnesia : 2S0
-    Barrier : 2E
-    Bide : 1M
-    Body Slam : 1M
-    Confusion : 2L18, 1L17
-    Counter : 1M
-    Disable : 2L10, 1L12
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M, 1M
-    Fire Punch : 2M
-    Flash : 2M, 1M
-    Headbutt : 2M, 2L25, 1L24
-    Hypnosis : 2L1, 2S0, 1L1
-    Ice Punch : 2M
-    Light Screen : 2E
-    Meditate : 2L36, 1L37
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Poison Gas : 2L31, 1L29
-    Pound : 2L1, 2S0, 1L1
-    Psychic : 2M, 2L40, 1M, 1L32
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
+    Bide : TM
+    Body Slam : TM
+    Confusion : Level 17
+    Counter : TM
+    Disable : Level 12
+    Double-Edge : TM
+    Double Team : TM
+    Dream Eater : TM
+    Flash : TM
+    Headbutt : Level 24
+    Hypnosis : Level 1
+    Meditate : Level 37
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Poison Gas : Level 29
+    Pound : Level 1
+    Psychic : TM, Level 32
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
 
 Hypno
-    Bide : 1M
-    Body Slam : 1M
-    Confusion : 2L18, 2L1, 1L17, 1L1
-    Counter : 1M
-    Disable : 2L10, 2L1, 1L12, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M, 1M
-    Fire Punch : 2M
-    Flash : 2M, 1M
-    Headbutt : 2M, 2L25, 1L24
-    Hyper Beam : 2M, 1M
-    Hypnosis : 2L1, 1L1
-    Ice Punch : 2M
-    Meditate : 2L40, 1L43
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Poison Gas : 2L33, 1L33
-    Pound : 2L1, 1L1
-    Psychic : 2M, 2L49, 1M, 1L37
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
+    Bide : TM
+    Body Slam : TM
+    Confusion : Level 17, Level 1
+    Counter : TM
+    Disable : Level 12, Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Dream Eater : TM
+    Flash : TM
+    Headbutt : Level 24
+    Hyper Beam : TM
+    Hypnosis : Level 1
+    Meditate : Level 43
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Poison Gas : Level 33
+    Pound : Level 1
+    Psychic : TM, Level 37
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
 
 Krabby
-    Amnesia : 2E
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble : 2L1, 2S0, 1L1
-    Bubble Beam : 1M
-    Crabhammer : 2L41, 1L35
-    Cut : 2M, 1M
-    Dig : 2E
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Guillotine : 2L27, 1L25
-    Harden : 2L16, 1L40
-    Haze : 2E
-    Ice Beam : 2T, 1M
-    Leer : 2L5, 2S0, 1L1
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Slam : 2E
-    Stomp : 2L23, 1L30
-    Strength : 2M, 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vise Grip : 2L12, 1L20
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble : Level 1
+    Bubble Beam : TM
+    Crabhammer : Level 35
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Guillotine : Level 25
+    Harden : Level 40
+    Ice Beam : TM
+    Leer : Level 1
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Stomp : Level 30
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Vise Grip : Level 20
+    Water Gun : TM
 
 Kingler
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble : 2L1, 1L1
-    Bubble Beam : 1M
-    Crabhammer : 2L49, 1L42
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Guillotine : 2L27, 1L25
-    Harden : 2L16, 1L49
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Leer : 2L5, 2L1, 1L1
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Stomp : 2L23, 1L34
-    Strength : 2M, 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vise Grip : 2L12, 2L1, 1L20, 1L1
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble : Level 1
+    Bubble Beam : TM
+    Crabhammer : Level 42
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Guillotine : Level 25
+    Harden : Level 49
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 1
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Stomp : Level 34
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Vise Grip : Level 20, Level 1
+    Water Gun : TM
 
 Voltorb
-    Agility : 2S0
-    Bide : 1M
-    Double Team : 2M, 1M
-    Explosion : 2L39, 1M, 1L43
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Light Screen : 2L33, 1L29
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2L9, 1L1
-    Self-Destruct : 2L23, 1M, 1L22
-    Sonic Boom : 2L17, 1L17
-    Substitute : 1M
-    Swift : 2M, 2L37, 1M, 1L36
-    Tackle : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Double Team : TM
+    Explosion : TM, Level 43
+    Flash : TM
+    Light Screen : Level 29
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Screech : Level 1
+    Self-Destruct : TM, Level 22
+    Sonic Boom : Level 17
+    Substitute : TM
+    Swift : TM, Level 36
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
 
 Electrode
-    Bide : 1M
-    Double Team : 2M, 1M
-    Explosion : 2L44, 1M, 1L50
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Light Screen : 2L34, 1L29
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2L9, 2L1, 1L1
-    Self-Destruct : 2L23, 2L1, 1M, 1L22
-    Skull Bash : 1M
-    Sonic Boom : 2L17, 2L1, 1L17, 1L1
-    Substitute : 1M
-    Swift : 2M, 2L40, 1M, 1L40
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Double Team : TM
+    Explosion : TM, Level 50
+    Flash : TM
+    Hyper Beam : TM
+    Light Screen : Level 29
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Screech : Level 1
+    Self-Destruct : TM, Level 22
+    Skull Bash : TM
+    Sonic Boom : Level 17, Level 1
+    Substitute : TM
+    Swift : TM, Level 40
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
 
 Exeggcute
-    Barrage : 2L1, 2S0, 1L1
-    Bide : 1M
-    Confusion : 2L19
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Egg Bomb : 1M
-    Explosion : 1M
-    Flash : 2M
-    Hypnosis : 2L1, 2S0, 1L1
-    Leech Seed : 2L13, 1L28
-    Mega Drain : 2E
-    Mimic : 1M
-    Poison Powder : 2L31, 1L37
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 2L7, 2E, 1M, 1L25
-    Rest : 2M, 1M
-    Self-Destruct : 1M
-    Sleep Powder : 2L37, 1L48
-    Solar Beam : 2M, 2L43, 1L42
-    Strength : 2M
-    Stun Spore : 2L25, 1L32
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Toxic : 2M, 1M
+    Barrage : Level 1
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Egg Bomb : TM
+    Explosion : TM
+    Hypnosis : Level 1
+    Leech Seed : Level 28
+    Mimic : TM
+    Poison Powder : Level 37
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM, Level 25
+    Rest : TM
+    Self-Destruct : TM
+    Sleep Powder : Level 48
+    Solar Beam : Level 42
+    Stun Spore : Level 32
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Toxic : TM
 
 Exeggutor
-    Barrage : 2L1, 1L1
-    Bide : 1M
-    Confusion : 2L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Egg Bomb : 2L31, 1M
-    Explosion : 1M
-    Flash : 2M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Hypnosis : 2L1, 1L1
-    Mega Drain : 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Self-Destruct : 1M
-    Solar Beam : 2M, 1M
-    Stomp : 2L19, 1L28
-    Strength : 2M, 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Toxic : 2M, 1M
+    Barrage : Level 1
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Egg Bomb : TM
+    Explosion : TM
+    Hyper Beam : TM
+    Hypnosis : Level 1
+    Mega Drain : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Self-Destruct : TM
+    Solar Beam : TM
+    Stomp : Level 28
+    Strength : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Toxic : TM
 
 Cubone
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bone Club : 2L9, 1L10, 1L1
-    Bonemerang : 2L25, 1L43
-    Bubble Beam : 1M
-    Counter : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Focus Energy : 2L21, 1L31
-    Fury Attack : 2S0
-    Growl : 2L1, 2S0, 1L1
-    Headbutt : 2M, 2L13, 1L18
-    Ice Beam : 2T, 1M
-    Leer : 2L17, 1L25
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 2L29, 1M, 1L46
-    Rest : 2M, 1M
-    Rock Slide : 2E
-    Screech : 2E
-    Seismic Toss : 1M
-    Skull Bash : 2E, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swords Dance : 2E
-    Tail Whip : 2L5, 2S0, 1L13
-    Take Down : 1M
-    Thrash : 2L37, 1L38
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bone Club : Level 10, Level 1
+    Bonemerang : Level 43
+    Bubble Beam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Focus Energy : Level 31
+    Growl : Level 1
+    Headbutt : Level 18
+    Ice Beam : TM
+    Leer : Level 25
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM, Level 46
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Tail Whip : Level 13
+    Take Down : TM
+    Thrash : Level 38
+    Toxic : TM
+    Water Gun : TM
 
 Marowak
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bone Club : 2L9, 2L1, 1L10, 1L1
-    Bonemerang : 2L25, 1L48
-    Bubble Beam : 1M
-    Counter : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Focus Energy : 2L21, 1L33, 1L1
-    Growl : 2L1, 1L1
-    Headbutt : 2M, 2L13, 2L1, 1L18
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Leer : 2L17, 1L25, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 2L32, 1M, 1L55
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Tail Whip : 2L5, 2L1, 1L13, 1L1
-    Take Down : 1M
-    Thrash : 2L46, 1L41
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bone Club : Level 10, Level 1
+    Bonemerang : Level 48
+    Bubble Beam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Focus Energy : Level 33, Level 1
+    Growl : Level 1
+    Headbutt : Level 18
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 25, Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM, Level 55
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Tail Whip : Level 13, Level 1
+    Take Down : TM
+    Thrash : Level 41
+    Toxic : TM
+    Water Gun : TM
 
 Hitmonlee
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Double-Edge : 1M
-    Double Kick : 2L1, 1L1, 1S0
-    Double Team : 2M, 1M
-    Focus Energy : 2L21, 1L43
-    Headbutt : 2M
-    High Jump Kick : 2L26, 1L48
-    Jump Kick : 2L16, 1L38
-    Meditate : 2L6, 1L1, 1S0
-    Mega Kick : 2L46, 1M, 1L53
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rolling Kick : 2L11, 1L33
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Kick : Level 1
+    Double Team : TM
+    Focus Energy : Level 43
+    High Jump Kick : Level 48
+    Jump Kick : Level 38
+    Meditate : Level 1
+    Mega Kick : TM, Level 53
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rolling Kick : Level 33
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
 
 Hitmonchan
-    Agility : 2L7, 1L1, 1S0
-    Bide : 1M
-    Body Slam : 1M
-    Comet Punch : 2L1, 1L1, 1S0
-    Counter : 2L50, 1M, 1L53
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fire Punch : 2M, 2L26, 1L33
-    Headbutt : 2M
-    Ice Punch : 2M, 2L26, 1L38
-    Mega Kick : 1M
-    Mega Punch : 2L38, 1M, 1L48
-    Metronome : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thunder Punch : 2M, 2L26, 1L43
-    Toxic : 2M, 1M
+    Agility : Level 1
+    Bide : TM
+    Body Slam : TM
+    Comet Punch : Level 1
+    Counter : TM, Level 53
+    Double-Edge : TM
+    Double Team : TM
+    Fire Punch : Level 33
+    Ice Punch : Level 38
+    Mega Kick : TM
+    Mega Punch : TM, Level 48
+    Metronome : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Thunder Punch : Level 43
+    Toxic : TM
 
 Lickitung
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 2E, 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M, 2L13, 1L23
-    Disable : 2L31, 1L15
-    Double-Edge : 1M
-    Double Slap : 2S0
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Lick : 2L1, 2S0
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Screech : 2L43, 1L39
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slam : 2L37, 1L31
-    Stomp : 2L19, 1L7
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Supersonic : 2L7, 1L1
-    Surf : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
-    Wrap : 2L25, 1L1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Cut : TM
+    Defense Curl : Level 23
+    Disable : Level 15
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Screech : Level 39
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slam : Level 31
+    Stomp : Level 7
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Supersonic : Level 1
+    Surf : TM
+    Swords Dance : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
+    Wrap : Level 1
 
 Koffing
-    Bide : 1M
-    Double Team : 2M, 1M
-    Explosion : 2L41, 1M, 1L48
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Haze : 2L33, 1L45
-    Mimic : 1M
-    Poison Gas : 2L1
-    Psybeam : 2E
-    Psywave : 2E
-    Rage : 1M
-    Rest : 2M, 1M
-    Screech : 2E
-    Self-Destruct : 2L17, 1M, 1L40
-    Sludge : 2L21, 1L32
-    Smog : 2L9, 1L1
-    Smokescreen : 2L25, 1L37
-    Substitute : 1M
-    Tackle : 2L1, 1L1
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Double Team : TM
+    Explosion : TM, Level 48
+    Fire Blast : TM
+    Haze : Level 45
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Self-Destruct : TM, Level 40
+    Sludge : Level 32
+    Smog : Level 1
+    Smokescreen : Level 37
+    Substitute : TM
+    Tackle : Level 1
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Weezing
-    Bide : 1M
-    Double Team : 2M, 1M
-    Explosion : 2L44, 1M, 1L53
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Haze : 2L33, 1L49
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Poison Gas : 2L1
-    Rage : 1M
-    Rest : 2M, 1M
-    Self-Destruct : 2L17, 2L1, 1M, 1L43
-    Sludge : 2L21, 1L32, 1L1
-    Smog : 2L9, 2L1, 1L1
-    Smokescreen : 2L25, 1L39
-    Substitute : 1M
-    Tackle : 2L1, 1L1
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Double Team : TM
+    Explosion : TM, Level 53
+    Fire Blast : TM
+    Haze : Level 49
+    Hyper Beam : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Self-Destruct : TM, Level 43
+    Sludge : Level 32, Level 1
+    Smog : Level 1
+    Smokescreen : Level 39
+    Substitute : TM
+    Tackle : Level 1
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Rhyhorn
-    Bide : 1M
-    Blizzard : 2M
-    Body Slam : 1M
-    Counter : 2E
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 2L55, 1M
-    Fire Blast : 2M, 1M
-    Fissure : 1M
-    Flamethrower : 2T
-    Fury Attack : 2L19, 1L1, 1L40
-    Headbutt : 2M
-    Horn Attack : 2L1, 1L1
-    Horn Drill : 2L37, 1M, 1L45
-    Ice Beam : 2T
-    Leer : 1L50
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 2E, 1M
-    Skull Bash : 1M
-    Stomp : 2L13, 1L1, 1L30
-    Strength : 2M, 1M
-    Substitute : 1M
-    Tail Whip : 2L1, 1L1, 1L35
-    Take Down : 2L49, 1M, 1L55
-    Thrash : 2E
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Fury Attack : Level 1, Level 40
+    Horn Attack : Level 1
+    Horn Drill : TM, Level 45
+    Leer : Level 50
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Skull Bash : TM
+    Stomp : Level 1, Level 30
+    Strength : TM
+    Substitute : TM
+    Tail Whip : Level 1, Level 35
+    Take Down : TM, Level 55
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Rhydon
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 2L65, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Fury Attack : 2L19, 2L1, 1L40, 1L1
-    Headbutt : 2M
-    Horn Attack : 2L1, 1L1
-    Horn Drill : 2L37, 1M, 1L48
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Leer : 1L55
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Stomp : 2L13, 2L1, 1L30, 1L1
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tail Whip : 2L1, 1L35, 1L1
-    Take Down : 2L54, 1M, 1L64
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Fury Attack : Level 40, Level 1
+    Horn Attack : Level 1
+    Horn Drill : TM, Level 48
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 55
+    Mega Kick : TM
+    Mega Punch : TM
+    Mimic : TM
+    Pay Day : TM
+    Rage : TM
+    Rest : TM
+    Rock Slide : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Stomp : Level 30, Level 1
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Tail Whip : Level 35, Level 1
+    Take Down : TM, Level 64
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Chansey
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L41, 1L44
-    Double-Edge : 2L57, 1M, 1L54
-    Double Slap : 2L17, 1L12, 1L1
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Egg Bomb : 2L35, 1M
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Growl : 2L5, 1L30
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Light Screen : 2L49, 1L48
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 2E, 1M
-    Mimic : 1M
-    Minimize : 2L23, 1L38
-    Pound : 2L1, 2S0, 1L1
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Sing : 2L29, 1L24
-    Skull Bash : 1M
-    Soft-Boiled : 2L13, 1M
-    Solar Beam : 2M, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Tail Whip : 2L9, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Defense Curl : Level 44
+    Double-Edge : TM, Level 54
+    Double Slap : Level 12, Level 1
+    Double Team : TM
+    Egg Bomb : TM
+    Fire Blast : TM
+    Flash : TM
+    Growl : Level 30
+    Hyper Beam : TM
+    Ice Beam : TM
+    Light Screen : Level 48
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Minimize : Level 38
+    Pound : Level 1
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Sing : Level 24
+    Skull Bash : TM
+    Soft-Boiled : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Tail Whip : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
 
 Tangela
-    Absorb : 2L10, 1L27, 1L29
-    Amnesia : 2E
-    Bide : 1M
-    Bind : 2L25, 1L24, 1L1
-    Body Slam : 1M
-    Confusion : 2E
-    Constrict : 2L1, 2S0, 1L1
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M
-    Growth : 2L46, 1L48, 1L49
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mega Drain : 2L31, 2E, 1M
-    Mimic : 1M
-    Poison Powder : 2L13, 1L32
-    Rage : 1M
-    Reflect : 2E
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Slam : 2L40, 1L45
-    Sleep Powder : 2L4, 2S0, 1L39
-    Solar Beam : 2M, 1M
-    Stun Spore : 2L34, 1L36
-    Substitute : 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vine Whip : 2L19, 1L29
+    Absorb : Level 27, Level 29
+    Bide : TM
+    Bind : Level 24, Level 1
+    Body Slam : TM
+    Constrict : Level 1
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Growth : Level 48, Level 49
+    Hyper Beam : TM
+    Mega Drain : TM
+    Mimic : TM
+    Poison Powder : Level 32
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Slam : Level 45
+    Sleep Powder : Level 39
+    Solar Beam : TM
+    Stun Spore : Level 36
+    Substitute : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Vine Whip : Level 29
 
 Kangaskhan
-    Bide : 1M
-    Bite : 2L13, 1L26
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Comet Punch : 2L1, 2S0, 1L1
-    Counter : 1M
-    Disable : 2E
-    Dizzy Punch : 2L43, 1L46
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Focus Energy : 2E
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Leer : 2L7, 1L41
-    Mega Kick : 1M
-    Mega Punch : 2L25, 1M, 1L36
-    Mimic : 1M
-    Rage : 2L31, 1M, 1L1
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Stomp : 2E
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tail Whip : 2L19, 1L31
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Bite : Level 26
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Comet Punch : Level 1
+    Counter : TM
+    Dizzy Punch : Level 46
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 41
+    Mega Kick : TM
+    Mega Punch : TM, Level 36
+    Mimic : TM
+    Rage : TM, Level 1
+    Rest : TM
+    Rock Slide : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Tail Whip : Level 31
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Horsea
-    Agility : 2L36, 1L37
-    Aurora Beam : 2E
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble : 2L1, 2S0, 1L1
-    Bubble Beam : 1M
-    Disable : 2E
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2E
-    Haze : 2S0
-    Headbutt : 2M
-    Hydro Pump : 2L43, 1L45
-    Ice Beam : 2T, 1M
-    Leer : 2L15, 1L24
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Smokescreen : 2L8, 1L19
-    Splash : 2E
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L22, 1M, 1L30
+    Agility : Level 37
+    Bide : TM
+    Blizzard : TM
+    Bubble : Level 1
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hydro Pump : Level 45
+    Ice Beam : TM
+    Leer : Level 24
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Smokescreen : Level 19
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 30
 
 Seadra
-    Agility : 2L40, 1L41
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble : 2L1, 1L1
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Headbutt : 2M
-    Hydro Pump : 2L51, 1L52
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Leer : 2L15, 2L1, 1L24
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Smokescreen : 2L8, 2L1, 1L19, 1L1
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L22, 2L1, 1M, 1L30
+    Agility : Level 41
+    Bide : TM
+    Blizzard : TM
+    Bubble : Level 1
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Hydro Pump : Level 52
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 24
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Smokescreen : Level 19, Level 1
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 30
 
 Goldeen
-    Agility : 2L52, 1L54
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fury Attack : 2L29, 1L30
-    Haze : 2E
-    Horn Attack : 2L15, 1L24
-    Horn Drill : 2L43, 1M, 1L45
-    Hydro Pump : 2E
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Peck : 2L1, 2S0, 1L1
-    Psybeam : 2E
-    Rage : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Substitute : 1M
-    Supersonic : 2L10, 1L19
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Swords Dance : 2S0
-    Tail Whip : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M, 2L38, 1L37
-    Water Gun : 1M
+    Agility : Level 54
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fury Attack : Level 30
+    Horn Attack : Level 24
+    Horn Drill : TM, Level 45
+    Ice Beam : TM
+    Mimic : TM
+    Peck : Level 1
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Supersonic : Level 19
+    Surf : TM
+    Swift : TM
+    Tail Whip : Level 1
+    Take Down : TM
+    Toxic : TM
+    Waterfall : Level 37
+    Water Gun : TM
 
 Seaking
-    Agility : 2L61, 1L54
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fury Attack : 2L29, 1L30
-    Horn Attack : 2L15, 1L24
-    Horn Drill : 2L49, 1M, 1L48
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Peck : 2L1, 1L1
-    Rage : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Substitute : 1M
-    Supersonic : 2L10, 1L19, 1L1
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tail Whip : 2L1, 1L1
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M, 2L41, 1L39
-    Water Gun : 1M
+    Agility : Level 54
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fury Attack : Level 30
+    Horn Attack : Level 24
+    Horn Drill : TM, Level 48
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mimic : TM
+    Peck : Level 1
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Supersonic : Level 19, Level 1
+    Surf : TM
+    Swift : TM
+    Tail Whip : Level 1
+    Take Down : TM
+    Toxic : TM
+    Waterfall : Level 39
+    Water Gun : TM
 
 Staryu
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 2L31, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Flash : 2M, 1M
-    Harden : 2L1, 2S0, 1L22
-    Hydro Pump : 2L50, 1L47
-    Ice Beam : 2T, 1M
-    Light Screen : 2L43, 1L42
-    Mimic : 1M
-    Minimize : 2L37, 1L37
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Recover : 2L19, 1L27
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 2L25, 1M, 1L32
-    Tackle : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Waterfall : 2M
-    Water Gun : 2L7, 1M, 1L17
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Harden : Level 22
+    Hydro Pump : Level 47
+    Ice Beam : TM
+    Light Screen : Level 42
+    Mimic : TM
+    Minimize : Level 37
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Recover : Level 27
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM, Level 32
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM, Level 17
 
 Starmie
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Bubble Beam : 2L1, 1M
-    Confuse Ray : 2L37
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Flash : 2M, 1M
-    Harden : 1L1
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Recover : 2L1
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Waterfall : 2M
-    Water Gun : 1M, 1L1
+    Bide : TM
+    Blizzard : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Harden : Level 1
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM, Level 1
 
 Mr. Mime
-    Barrier : 2L1, 2S0, 1L1
-    Bide : 1M
-    Body Slam : 1M
-    Confusion : 2L6, 1L15, 1L1
-    Counter : 1M
-    Double-Edge : 1M
-    Double Slap : 2L21, 1L31
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Punch : 2M
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Hypnosis : 2E
-    Ice Punch : 2M
-    Light Screen : 2L26, 1L23
-    Meditate : 2L16, 1L39
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 2E, 1M
-    Psybeam : 2L36
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 2L26, 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Solar Beam : 2M, 1M
-    Submission : 1M
-    Substitute : 2L11, 1M, 1L47
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
+    Barrier : Level 1
+    Bide : TM
+    Body Slam : TM
+    Confusion : Level 15, Level 1
+    Counter : TM
+    Double-Edge : TM
+    Double Slap : Level 31
+    Double Team : TM
+    Flash : TM
+    Hyper Beam : TM
+    Light Screen : Level 23
+    Meditate : Level 39
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Solar Beam : TM
+    Submission : TM
+    Substitute : TM, Level 47
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
 
 Scyther
-    Agility : 2L24, 1L42
-    Bide : 1M
-    Counter : 2E
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 2L48, 1M, 1L24
-    Focus Energy : 2L6, 1L20
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Leer : 2L1, 2S0, 1L17
-    Light Screen : 2E
-    Mimic : 1M
-    Quick Attack : 2L1, 2S0, 1L1
-    Rage : 1M
-    Razor Wind : 2E
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Slash : 2L36, 1L29
-    Sonic Boom : 2S0
-    Substitute : 1M
-    Swift : 2M, 1M
-    Swords Dance : 2L42, 1M, 1L35
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Wing Attack : 2L30, 1L50
+    Agility : Level 42
+    Bide : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM, Level 24
+    Focus Energy : Level 20
+    Hyper Beam : TM
+    Leer : Level 17
+    Mimic : TM
+    Quick Attack : Level 1
+    Rage : TM
+    Rest : TM
+    Skull Bash : TM
+    Slash : Level 29
+    Substitute : TM
+    Swift : TM
+    Swords Dance : TM, Level 35
+    Take Down : TM
+    Toxic : TM
+    Wing Attack : Level 50
 
 Jynx
-    Bide : 1M
-    Blizzard : 2M, 2L57, 1M, 1L58
-    Body Slam : 2L41, 1M, 1L39
-    Bubble Beam : 1M
-    Counter : 1M
-    Double-Edge : 1M
-    Double Slap : 2L21, 1L23
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M, 2L25, 1L31
-    Lick : 2L1, 1L18
-    Lovely Kiss : 2L9, 2L1, 1L1
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Pound : 2L1, 1L1
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thrash : 1L47
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Bide : TM
+    Blizzard : TM, Level 58
+    Body Slam : TM, Level 39
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Slap : Level 23
+    Double Team : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Ice Punch : Level 31
+    Lick : Level 18
+    Lovely Kiss : Level 1
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Pound : Level 1
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Thrash : Level 47
+    Toxic : TM
+    Water Gun : TM
 
 Electabuzz
-    Bide : 1M
-    Body Slam : 1M
-    Counter : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fire Punch : 2M
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Punch : 2M
-    Leer : 2L1, 1L1
-    Light Screen : 2L17, 1L49
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Quick Attack : 2L1, 1L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Screech : 2L36, 1L37
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 2L25, 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 2L58, 1M, 1L54
-    Thunderbolt : 2T, 2L47, 1M
-    Thunder Punch : 2M, 2L9, 2L1, 1L42
-    Thunder Shock : 1L34
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Hyper Beam : TM
+    Leer : Level 1
+    Light Screen : Level 49
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Quick Attack : Level 1
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Screech : Level 37
+    Seismic Toss : TM
+    Skull Bash : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM, Level 54
+    Thunderbolt : TM
+    Thunder Punch : Level 42
+    Thunder Shock : Level 34
+    Thunder Wave : TM
+    Toxic : TM
 
 Magmar
-    Bide : 1M
-    Body Slam : 1M
-    Confuse Ray : 2L49, 1L39
-    Counter : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Ember : 2L1, 1L1
-    Fire Blast : 2M, 2L57, 1M
-    Fire Punch : 2M, 2L19, 2L1, 1L43
-    Flamethrower : 2T, 2L41, 1L55
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Leer : 2L7, 2L1, 1L36
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Smog : 2L13, 2L1, 1L52
-    Smokescreen : 2L25, 1L48
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
+    Bide : TM
+    Body Slam : TM
+    Confuse Ray : Level 39
+    Counter : TM
+    Double-Edge : TM
+    Double Team : TM
+    Ember : Level 1
+    Fire Blast : TM
+    Fire Punch : Level 43
+    Flamethrower : Level 55
+    Hyper Beam : TM
+    Leer : Level 36
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Smog : Level 52
+    Smokescreen : Level 48
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Take Down : TM
+    Teleport : TM
+    Toxic : TM
 
 Pinsir
-    Bide : 1M
-    Bind : 2L13, 1L21
-    Body Slam : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Focus Energy : 2L7, 1L36
-    Fury Attack : 2E
-    Guillotine : 2L31, 1L30
-    Harden : 2L25, 1L43
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Rage : 1M
-    Rest : 2M, 1M
-    Rock Throw : 2S0
-    Seismic Toss : 2L19, 1M, 1L25
-    Slash : 1L49
-    Strength : 2M, 1M
-    Submission : 2L37, 1M
-    Substitute : 1M
-    Swords Dance : 2L43, 1M, 1L54
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Vise Grip : 2L1, 2S0, 1L1
+    Bide : TM
+    Bind : Level 21
+    Body Slam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Focus Energy : Level 36
+    Guillotine : Level 30
+    Harden : Level 43
+    Hyper Beam : TM
+    Mimic : TM
+    Rage : TM
+    Rest : TM
+    Seismic Toss : TM, Level 25
+    Slash : Level 49
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swords Dance : TM, Level 54
+    Take Down : TM
+    Toxic : TM
+    Vise Grip : Level 1
 
 Tauros
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fissure : 1M
-    Flamethrower : 2T
-    Headbutt : 2M
-    Horn Attack : 2L13
-    Horn Drill : 1M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Leer : 1L35
-    Mimic : 1M
-    Quick Attack : 2S0
-    Rage : 2L8, 1M, 1L44
-    Rest : 2M, 2L34, 1M
-    Skull Bash : 1M
-    Stomp : 1L21
-    Strength : 2M, 1M
-    Substitute : 1M
-    Surf : 2M
-    Tackle : 2L1, 2S0, 1L1
-    Tail Whip : 2L4, 2S0, 1L28
-    Take Down : 2L53, 1M, 1L51
-    Thrash : 2L43
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Horn Drill : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 35
+    Mimic : TM
+    Rage : TM, Level 44
+    Rest : TM
+    Skull Bash : TM
+    Stomp : Level 21
+    Strength : TM
+    Substitute : TM
+    Tackle : Level 1
+    Tail Whip : Level 28
+    Take Down : TM, Level 51
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
 
 Magikarp
-    Bubble : 2S1
-    Dragon Rage : 1S0
-    Splash : 2L1, 2S2, 2S1, 1L1, 1S0
-    Tackle : 2L15, 1L15
+    Splash : Level 1
+    Tackle : Level 15
 
 Gyarados
-    Bide : 1M
-    Bite : 2L20, 1L20, 1L1
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2L25, 1M, 1L25, 1L1
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Headbutt : 2M
-    Hydro Pump : 2L40, 1L41, 1L1
-    Hyper Beam : 2M, 2L50, 1M, 1L52
-    Ice Beam : 2T, 1M
-    Leer : 2L30, 1L32, 1L1
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Skull Bash : 1M
-    Strength : 2M, 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tackle : 1L1
-    Take Down : 1M
-    Thrash : 2L1
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 1M
+    Bide : TM
+    Bite : Level 20, Level 1
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM, Level 25, Level 1
+    Fire Blast : TM
+    Hydro Pump : Level 41, Level 1
+    Hyper Beam : TM, Level 52
+    Ice Beam : TM
+    Leer : Level 32, Level 1
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Tackle : Level 1
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Lapras
-    Aurora Beam : 2E
-    Bide : 1M
-    Bite : 2S0
-    Blizzard : 2M, 1M
-    Body Slam : 2L15, 1M, 1L25
-    Bubble Beam : 1M
-    Confuse Ray : 2L22, 1L31
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 1M
-    Dream Eater : 2M
-    Growl : 2L1, 2S1, 2S0, 1L1
-    Headbutt : 2M
-    Horn Drill : 1M
-    Hydro Pump : 2L57, 1L46
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 2L36, 1M, 1L38
-    Mimic : 1M
-    Mist : 2L8, 1L20
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sing : 2L1, 2S1, 2S0, 1L16
-    Skull Bash : 1M
-    Solar Beam : 1M
-    Strength : 2M, 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Toxic : 2M, 1M
-    Water Gun : 2L1, 2S1, 2S0, 1M, 1L1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM, Level 25
+    Bubble Beam : TM
+    Confuse Ray : Level 31
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Growl : Level 1
+    Horn Drill : TM
+    Hydro Pump : Level 46
+    Hyper Beam : TM
+    Ice Beam : TM, Level 38
+    Mimic : TM
+    Mist : Level 20
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sing : Level 16
+    Skull Bash : TM
+    Solar Beam : TM
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM, Level 1
 
 Ditto
-    Transform : 2L1, 1L1
+    Transform : Level 1
 
 Eevee
-    Bide : 1M
-    Bite : 2L30, 1L30, 1L37
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Focus Energy : 2L36, 1L36
-    Growl : 2L16, 1L16
-    Growth : 2S0
-    Headbutt : 2M
-    Mimic : 1M
-    Quick Attack : 2L23, 1L23, 1L27
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sand Attack : 2L8, 1L8, 1L1
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 2S0, 1L1
-    Tail Whip : 2L1, 2S0, 1L1, 1L31
-    Take Down : 2L42, 1M, 1L42, 1L45
-    Toxic : 2M, 1M
+    Bide : TM
+    Bite : Level 30, Level 37
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Focus Energy : Level 36
+    Growl : Level 16
+    Mimic : TM
+    Quick Attack : Level 23, Level 27
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 8, Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Tackle : Level 1
+    Tail Whip : Level 1, Level 31
+    Take Down : TM, Level 42, Level 45
+    Toxic : TM
 
 Vaporeon
-    Acid Armor : 2L47, 1L47, 1L42
-    Aurora Beam : 2L36, 1L36
-    Bide : 1M
-    Bite : 2L30, 1L30, 1L40
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Haze : 2L42, 1L42, 1L44
-    Headbutt : 2M
-    Hydro Pump : 2L52, 1L52, 1L54
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Mist : 1L42, 1L48
-    Quick Attack : 2L23, 1L23, 1L27, 1L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Sand Attack : 2L8, 1L8, 1L1
-    Skull Bash : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L1, 1L1, 1L37
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 2L16, 1M, 1L16, 1L31, 1L1
+    Acid Armor : Level 47, Level 42
+    Aurora Beam : Level 36
+    Bide : TM
+    Bite : Level 30, Level 40
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Haze : Level 42, Level 44
+    Hydro Pump : Level 52, Level 54
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mimic : TM
+    Mist : Level 42, Level 48
+    Quick Attack : Level 23, Level 27, Level 1
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 8, Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Tackle : Level 1
+    Tail Whip : Level 1, Level 37
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 16, Level 31, Level 1
 
 Jolteon
-    Agility : 2L47, 1L47, 1L44
-    Bide : 1M
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Kick : 2L30, 1L30, 1L42
-    Double Team : 2M, 1M
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Mimic : 1M
-    Pin Missile : 2L36, 1L36, 1L48
-    Quick Attack : 2L23, 1L23, 1L27, 1L1
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Sand Attack : 2L8, 1L8, 1L1
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L1, 1L1, 1L37
-    Take Down : 1M
-    Thunder : 2M, 2L52, 1M, 1L52, 1L54
-    Thunderbolt : 2T, 1M
-    Thunder Shock : 2L16, 1L16, 1L31, 1L1
-    Thunder Wave : 2L42, 1M, 1L42, 1L40
-    Toxic : 2M, 1M
+    Agility : Level 47, Level 44
+    Bide : TM
+    Body Slam : TM
+    Double-Edge : TM
+    Double Kick : Level 30, Level 42
+    Double Team : TM
+    Flash : TM
+    Hyper Beam : TM
+    Mimic : TM
+    Pin Missile : Level 36, Level 48
+    Quick Attack : Level 23, Level 27, Level 1
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 8, Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Tackle : Level 1
+    Tail Whip : Level 1, Level 37
+    Take Down : TM
+    Thunder : TM, Level 52, Level 54
+    Thunderbolt : TM
+    Thunder Shock : Level 16, Level 31, Level 1
+    Thunder Wave : TM, Level 42, Level 40
+    Toxic : TM
 
 Flareon
-    Bide : 1M
-    Bite : 2L30, 1L30, 1L40
-    Body Slam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Ember : 2L16, 1L16, 1L31, 1L1
-    Fire Blast : 2M, 1M
-    Fire Spin : 2L36, 1L36, 1L44
-    Flamethrower : 2T, 2L52, 1L52, 1L54
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Leer : 2L47, 1L47, 1L42
-    Mimic : 1M
-    Quick Attack : 2L23, 1L23, 1L27, 1L1
-    Rage : 1M, 1L48
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Sand Attack : 2L8, 1L8, 1L1
-    Skull Bash : 1M
-    Smog : 2L42, 1L42
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 1L1
-    Tail Whip : 2L1, 1L1, 1L37
-    Take Down : 1M
-    Toxic : 2M, 1M
+    Bide : TM
+    Bite : Level 30, Level 40
+    Body Slam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Ember : Level 16, Level 31, Level 1
+    Fire Blast : TM
+    Fire Spin : Level 36, Level 44
+    Flamethrower : Level 52, Level 54
+    Hyper Beam : TM
+    Leer : Level 47, Level 42
+    Mimic : TM
+    Quick Attack : Level 23, Level 27, Level 1
+    Rage : TM, Level 48
+    Reflect : TM
+    Rest : TM
+    Sand Attack : Level 8, Level 1
+    Skull Bash : TM
+    Smog : Level 42
+    Substitute : TM
+    Swift : TM
+    Tackle : Level 1
+    Tail Whip : Level 1, Level 37
+    Take Down : TM
+    Toxic : TM
 
 Porygon
-    Agility : 2L9, 1L35
-    Barrier : 2S0
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Conversion : 2L1, 2S0, 1L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Flash : 2M, 1M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Mimic : 1M
-    Psybeam : 2L12, 1L23
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Recover : 2L20, 1L28
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sharpen : 2L24, 1L1
-    Skull Bash : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Tackle : 2L1, 2S0, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 2L36, 1M, 1L42
+    Agility : Level 35
+    Bide : TM
+    Blizzard : TM
+    Conversion : Level 1
+    Double-Edge : TM
+    Double Team : TM
+    Flash : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mimic : TM
+    Psybeam : Level 23
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Recover : Level 28
+    Reflect : TM
+    Rest : TM
+    Sharpen : Level 1
+    Skull Bash : TM
+    Substitute : TM
+    Swift : TM
+    Tackle : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM, Level 42
 
 Omanyte
-    Aurora Beam : 2E
-    Bide : 1M
-    Bite : 2L13
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 2E, 1M
-    Constrict : 2L1, 2S0
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Haze : 2E
-    Headbutt : 2M
-    Horn Attack : 1L34
-    Hydro Pump : 2L55, 1L53
-    Ice Beam : 2T, 1M
-    Leer : 2L31, 1L39
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Rock Throw : 2S0
-    Slam : 2E
-    Spike Cannon : 1L46
-    Substitute : 1M
-    Supersonic : 2E
-    Surf : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Water Gun : 2L19, 1M, 1L1, 1S1
-    Withdraw : 2L1, 2S0, 1L1, 1S1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Horn Attack : Level 34
+    Hydro Pump : Level 53
+    Ice Beam : TM
+    Leer : Level 39
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Spike Cannon : Level 46
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 1
+    Withdraw : Level 1
 
 Omastar
-    Bide : 1M
-    Bite : 2L13, 2L1
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Constrict : 2L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Headbutt : 2M
-    Horn Attack : 1L34, 1L1
-    Horn Drill : 1M
-    Hydro Pump : 2L65, 1L49
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Leer : 2L31, 1L39
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Spike Cannon : 2L40, 1L44
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Water Gun : 2L19, 1M, 1L1
-    Withdraw : 2L1, 1L1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Horn Attack : Level 34, Level 1
+    Horn Drill : TM
+    Hydro Pump : Level 49
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 39
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Skull Bash : TM
+    Spike Cannon : Level 44
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM, Level 1
+    Withdraw : Level 1
 
 Kabuto
-    Absorb : 2L10, 1L34
-    Aurora Beam : 2E
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 2E, 1M
-    Dig : 2E
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Harden : 2L1, 2S0, 1L1, 1S1
-    Hydro Pump : 1L49
-    Ice Beam : 2T, 1M
-    Leer : 2L19, 1L44
-    Mega Drain : 2L46
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Rock Throw : 2S0
-    Sand Attack : 2L28
-    Scratch : 2L1, 2S0, 1L1, 1S1
-    Slash : 1L39
-    Substitute : 1M
-    Surf : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Absorb : Level 34
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Harden : Level 1
+    Hydro Pump : Level 49
+    Ice Beam : TM
+    Leer : Level 44
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 1
+    Slash : Level 39
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM
 
 Kabutops
-    Absorb : 2L10, 2L1, 1L34, 1L1
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Cut : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Harden : 2L1, 1L1
-    Headbutt : 2M
-    Hydro Pump : 1L53
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Leer : 2L19, 1L46
-    Mega Drain : 2L51
-    Mega Kick : 1M
-    Mimic : 1M
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Sand Attack : 2L28
-    Scratch : 2L1, 1L1
-    Seismic Toss : 1M
-    Skull Bash : 1M
-    Slash : 2L40, 1L39
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Absorb : Level 34, Level 1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Cut : TM
+    Double-Edge : TM
+    Double Team : TM
+    Harden : Level 1
+    Hydro Pump : Level 53
+    Hyper Beam : TM
+    Ice Beam : TM
+    Leer : Level 46
+    Mega Kick : TM
+    Mimic : TM
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Scratch : Level 1
+    Seismic Toss : TM
+    Skull Bash : TM
+    Slash : Level 39
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Swords Dance : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM
 
 Aerodactyl
-    Agility : 2L8, 1L1
-    Bide : 1M
-    Bite : 2L15, 1L38
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 1M
-    Earthquake : 2M
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Fly : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 2L50, 1M, 1L54
-    Mimic : 1M
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Throw : 2S0
-    Sky Attack : 1M
-    Substitute : 1M
-    Supersonic : 2L22, 1L33
-    Swift : 2M, 1M
-    Take Down : 2L43, 1M, 1L45
-    Toxic : 2M, 1M
-    Whirlwind : 2E, 1M
-    Wing Attack : 2L1, 2S0, 1L1
+    Agility : Level 1
+    Bide : TM
+    Bite : Level 38
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Fire Blast : TM
+    Fly : TM
+    Hyper Beam : TM, Level 54
+    Mimic : TM
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sky Attack : TM
+    Substitute : TM
+    Supersonic : Level 33
+    Swift : TM
+    Take Down : TM, Level 45
+    Toxic : TM
+    Whirlwind : TM
+    Wing Attack : Level 1
 
 Snorlax
-    Amnesia : 2L8, 1L1
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 2L43, 1M, 1L35
-    Bubble Beam : 1M
-    Counter : 1M
-    Defense Curl : 2M, 2L15
-    Double-Edge : 1M, 1L48
-    Double Team : 2M, 1M
-    Earthquake : 2M, 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Harden : 1L41
-    Headbutt : 2M, 2L29, 1L1
-    Hyper Beam : 2M, 2L57, 1M, 1L56
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Lick : 2E
-    Lovely Kiss : 2S0
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Pay Day : 1M
-    Psychic : 2M, 1M
-    Psywave : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 2L36, 1M, 1L1
-    Rock Slide : 1M
-    Seismic Toss : 1M
-    Self-Destruct : 1M
-    Skull Bash : 1M
-    Solar Beam : 2M, 1M
-    Splash : 2S1
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Tackle : 2L1, 2S2, 2S1, 2S0
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Toxic : 2M, 1M
-    Water Gun : 1M
+    Amnesia : Level 1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM, Level 35
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM, Level 48
+    Double Team : TM
+    Earthquake : TM
+    Fire Blast : TM
+    Fissure : TM
+    Harden : Level 41
+    Headbutt : Level 1
+    Hyper Beam : TM, Level 56
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Pay Day : TM
+    Psychic : TM
+    Psywave : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM, Level 1
+    Rock Slide : TM
+    Seismic Toss : TM
+    Self-Destruct : TM
+    Skull Bash : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Toxic : TM
+    Water Gun : TM
 
 Articuno
-    Agility : 2L25, 2S0, 1L55
-    Bide : 1M
-    Blizzard : 2M, 2L73, 1M, 1L51
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Fly : 2M, 1M
-    Gust : 2L1
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 2L49, 2S0, 1M, 1L1
-    Mimic : 1M
-    Mist : 2L13, 2S0, 1L60
-    Peck : 1L1
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 2L61, 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Sky Attack : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Water Gun : 1M
-    Whirlwind : 1M
+    Agility : Level 55
+    Bide : TM
+    Blizzard : TM, Level 51
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fly : TM
+    Hyper Beam : TM
+    Ice Beam : TM, Level 1
+    Mimic : TM
+    Mist : Level 60
+    Peck : Level 1
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sky Attack : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Water Gun : TM
+    Whirlwind : TM
 
 Zapdos
-    Agility : 2L25, 2S0, 1L55
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Drill Peck : 2L49, 2S0, 1L1
-    Flash : 2M, 1M
-    Fly : 2M, 1M
-    Hyper Beam : 2M, 1M
-    Light Screen : 2L61, 1L60
-    Mimic : 1M
-    Peck : 2L1
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Sky Attack : 1M
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thunder : 2M, 2L73, 1M, 1L51
-    Thunderbolt : 2T, 1M
-    Thunder Shock : 2L1, 1L1
-    Thunder Wave : 2L13, 2S0, 1M
-    Toxic : 2M, 1M
-    Whirlwind : 1M
+    Agility : Level 55
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Drill Peck : Level 1
+    Flash : TM
+    Fly : TM
+    Hyper Beam : TM
+    Light Screen : Level 60
+    Mimic : TM
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sky Attack : TM
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Thunder : TM, Level 51
+    Thunderbolt : TM
+    Thunder Shock : Level 1
+    Thunder Wave : TM
+    Toxic : TM
+    Whirlwind : TM
 
 Moltres
-    Agility : 2L25, 2S0, 1L55
-    Bide : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Ember : 2L1
-    Fire Blast : 2M, 1M
-    Fire Spin : 2L13, 2S0, 1L1
-    Flamethrower : 2T, 2L49, 2S0
-    Fly : 2M, 1M
-    Hyper Beam : 2M, 1M
-    Leer : 1L51
-    Mimic : 1M
-    Peck : 1L1
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Sky Attack : 2L73, 1M, 1L60
-    Substitute : 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Toxic : 2M, 1M
-    Whirlwind : 1M
-    Wing Attack : 2L1
+    Agility : Level 55
+    Bide : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fire Blast : TM
+    Fire Spin : Level 1
+    Fly : TM
+    Hyper Beam : TM
+    Leer : Level 51
+    Mimic : TM
+    Peck : Level 1
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Sky Attack : TM, Level 60
+    Substitute : TM
+    Swift : TM
+    Take Down : TM
+    Toxic : TM
+    Whirlwind : TM
 
 Dratini
-    Agility : 2L36, 1L20
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2L22, 1M, 1L40
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Haze : 2E
-    Headbutt : 2M
-    Hydro Pump : 2S0
-    Hyper Beam : 2L57, 1L50
-    Ice Beam : 2T, 1M
-    Leer : 2L1, 2S0, 1L1
-    Light Screen : 2E
-    Mimic : 1M
-    Mist : 2E
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Slam : 2L29, 1L30
-    Substitute : 1M
-    Supersonic : 2E
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 2L8, 2S1, 1M, 1L10
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 1M
-    Wrap : 2L1, 2S1, 2S0, 1L1
+    Agility : Level 20
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM, Level 40
+    Fire Blast : TM
+    Hyper Beam : Level 50
+    Ice Beam : TM
+    Leer : Level 1
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Slam : Level 30
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM, Level 10
+    Toxic : TM
+    Water Gun : TM
+    Wrap : Level 1
 
 Dragonair
-    Agility : 2L38, 1L20
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2L22, 1M, 1L45
-    Fire Blast : 2M, 1M
-    Flamethrower : 2T
-    Headbutt : 2M
-    Horn Drill : 1M
-    Hyper Beam : 2L65, 1L55
-    Ice Beam : 2T, 1M
-    Leer : 2L1, 1L1
-    Mimic : 1M
-    Rage : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Slam : 2L29, 1L35
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Wave : 2L8, 2L1, 1M, 1L10, 1L1
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 1M
-    Wrap : 2L1, 1L1
+    Agility : Level 20
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM, Level 45
+    Fire Blast : TM
+    Horn Drill : TM
+    Hyper Beam : Level 55
+    Ice Beam : TM
+    Leer : Level 1
+    Mimic : TM
+    Rage : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Slam : Level 35
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM, Level 10, Level 1
+    Toxic : TM
+    Water Gun : TM
+    Wrap : Level 1
 
 Dragonite
-    Agility : 2L38, 1L20, 1L1
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 2L22, 1M, 1L45
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Fly : 2M
-    Headbutt : 2M
-    Horn Drill : 1M
-    Hyper Beam : 2M, 2L75, 1M, 1L60
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Leer : 2L1, 1L1
-    Mimic : 1M
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Skull Bash : 1M
-    Slam : 2L29, 1L35
-    Strength : 2M, 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Take Down : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 2L8, 2L1, 1M, 1L10, 1L1
-    Toxic : 2M, 1M
-    Waterfall : 2M
-    Water Gun : 1M
-    Wing Attack : 2L55
-    Wrap : 2L1, 1L1
+    Agility : Level 20, Level 1
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM, Level 45
+    Fire Blast : TM
+    Horn Drill : TM
+    Hyper Beam : TM, Level 60
+    Ice Beam : TM
+    Leer : Level 1
+    Mimic : TM
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Skull Bash : TM
+    Slam : Level 35
+    Strength : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Take Down : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM, Level 10, Level 1
+    Toxic : TM
+    Water Gun : TM
+    Wrap : Level 1
 
 Mewtwo
-    Amnesia : 2L77, 1L81
-    Barrier : 2L11, 1L63
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Confusion : 2L1
-    Counter : 1M
-    Disable : 2L1
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dream Eater : 2M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Headbutt : 2M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Kick : 1M
-    Mega Punch : 1M
-    Metronome : 1M
-    Mimic : 1M
-    Mist : 2L55, 2S0, 1L75
-    Pay Day : 1M
-    Psychic : 2M, 2L66, 2S0, 1M, 1L66, 1L1
-    Psywave : 1M
-    Rage : 1M
-    Recover : 2L88, 1L70
-    Reflect : 1M
-    Rest : 2M, 1M
-    Seismic Toss : 1M
-    Self-Destruct : 1M
-    Skull Bash : 1M
-    Solar Beam : 2M, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Swift : 2M, 2L22, 1L1
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Tri Attack : 1M
-    Water Gun : 1M
+    Amnesia : Level 81
+    Barrier : Level 63
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Double-Edge : TM
+    Double Team : TM
+    Fire Blast : TM
+    Flash : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Kick : TM
+    Mega Punch : TM
+    Metronome : TM
+    Mimic : TM
+    Mist : Level 75
+    Pay Day : TM
+    Psychic : TM, Level 66, Level 1
+    Psywave : TM
+    Rage : TM
+    Recover : Level 70
+    Reflect : TM
+    Rest : TM
+    Seismic Toss : TM
+    Self-Destruct : TM
+    Skull Bash : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Swift : Level 1
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Tri Attack : TM
+    Water Gun : TM
 
 Mew
-    Bide : 1M
-    Blizzard : 2M, 1M
-    Body Slam : 1M
-    Bubble Beam : 1M
-    Counter : 1M
-    Cut : 2M, 1M
-    Defense Curl : 2M
-    Dig : 2M, 1M
-    Double-Edge : 1M
-    Double Team : 2M, 1M
-    Dragon Rage : 1M
-    Dream Eater : 2M, 1M
-    Earthquake : 2M, 1M
-    Egg Bomb : 1M
-    Explosion : 1M
-    Fire Blast : 2M, 1M
-    Fire Punch : 2M
-    Fissure : 1M
-    Flamethrower : 2T
-    Flash : 2M, 1M
-    Fly : 2M, 1M
-    Headbutt : 2M
-    Horn Drill : 1M
-    Hyper Beam : 2M, 1M
-    Ice Beam : 2T, 1M
-    Ice Punch : 2M
-    Mega Drain : 1M
-    Mega Kick : 1M
-    Mega Punch : 2L20, 1M, 1L20
-    Metronome : 2L30, 1M, 1L30
-    Mimic : 1M
-    Pay Day : 1M
-    Pound : 2L1, 2S1, 1L1, 1S0
-    Psychic : 2M, 2L40, 1M, 1L40
-    Psywave : 1M
-    Rage : 1M
-    Razor Wind : 1M
-    Reflect : 1M
-    Rest : 2M, 1M
-    Roar : 2M
-    Rock Slide : 1M
-    Seismic Toss : 1M
-    Self-Destruct : 1M
-    Skull Bash : 1M
-    Sky Attack : 1M
-    Soft-Boiled : 1M
-    Solar Beam : 2M, 1M
-    Strength : 2M, 1M
-    Submission : 1M
-    Substitute : 1M
-    Surf : 2M, 1M
-    Swift : 2M, 1M
-    Swords Dance : 1M
-    Take Down : 1M
-    Teleport : 1M
-    Thunder : 2M, 1M
-    Thunderbolt : 2T, 1M
-    Thunder Punch : 2M
-    Thunder Wave : 1M
-    Toxic : 2M, 1M
-    Transform : 2L10, 1L10
-    Tri Attack : 1M
-    Waterfall : 2M
-    Water Gun : 1M
-    Whirlwind : 1M
+    Bide : TM
+    Blizzard : TM
+    Body Slam : TM
+    Bubble Beam : TM
+    Counter : TM
+    Cut : TM
+    Dig : TM
+    Double-Edge : TM
+    Double Team : TM
+    Dragon Rage : TM
+    Dream Eater : TM
+    Earthquake : TM
+    Egg Bomb : TM
+    Explosion : TM
+    Fire Blast : TM
+    Fissure : TM
+    Flash : TM
+    Fly : TM
+    Horn Drill : TM
+    Hyper Beam : TM
+    Ice Beam : TM
+    Mega Drain : TM
+    Mega Kick : TM
+    Mega Punch : TM, Level 20
+    Metronome : TM, Level 30
+    Mimic : TM
+    Pay Day : TM
+    Pound : Level 1
+    Psychic : TM, Level 40
+    Psywave : TM
+    Rage : TM
+    Razor Wind : TM
+    Reflect : TM
+    Rest : TM
+    Rock Slide : TM
+    Seismic Toss : TM
+    Self-Destruct : TM
+    Skull Bash : TM
+    Sky Attack : TM
+    Soft-Boiled : TM
+    Solar Beam : TM
+    Strength : TM
+    Submission : TM
+    Substitute : TM
+    Surf : TM
+    Swift : TM
+    Swords Dance : TM
+    Take Down : TM
+    Teleport : TM
+    Thunder : TM
+    Thunderbolt : TM
+    Thunder Wave : TM
+    Toxic : TM
+    Transform : Level 10
+    Tri Attack : TM
+    Water Gun : TM
+    Whirlwind : TM
