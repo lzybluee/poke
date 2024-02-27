@@ -7872,7 +7872,7 @@ Species {
   weightkg: 66,
   color: 'Red',
   eggGroups: [ 'Undiscovered' ],
-  tier: 'UU',
+  tier: 'UUBL',
   doublesTier: '(DUU)',
   natDexTier: 'RUBL',
   id: 'moltresgalar',

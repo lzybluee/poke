@@ -8,7 +8,7 @@ function log_detail(file, obj) {
         if (i < obj.length - 1)
             text += ',\n';
     }
-    fs.writeFileSync(file + '_detail.txt', text);
+    fs.writeFileSync(file + '.txt', text);
 }
 
 function csv_text() {
@@ -27,7 +27,7 @@ function csv_text() {
     return text + '\n';
 }
 
-function log_list(file, obj) {
+function log_list(list_folder, detail_folder, file, obj) {
     var list = [];
 
     for (let i in obj) {
@@ -35,7 +35,7 @@ function log_list(file, obj) {
             list.push(obj[i]);
     }
 
-    log_detail(file, list);
+    log_detail(detail_folder + file, list);
 
     list.sort(function (a, b) {
         return a.name.localeCompare(b.name);
@@ -50,11 +50,11 @@ function log_list(file, obj) {
 
         csv += csv_text(list[i].name, list[i].desc);
     }
-    fs.writeFileSync(file + '.txt', text);
-    fs.writeFileSync(file + '.csv', csv);
+    fs.writeFileSync(list_folder + file + '.txt', text);
+    fs.writeFileSync(list_folder + file + '.csv', csv);
 }
 
-function log_moves(file, obj) {
+function log_moves(list_folder, detail_folder, file, obj) {
     var list = [];
 
     for (let i in obj) {
@@ -62,7 +62,7 @@ function log_moves(file, obj) {
             list.push(obj[i]);
     }
 
-    log_detail(file, list);
+    log_detail(detail_folder + file, list);
 
     list.sort(function (a, b) {
         return a.name.localeCompare(b.name);
@@ -93,11 +93,11 @@ function log_moves(file, obj) {
             list[i].basePower, list[i].accuracy, dmg, list[i].pp, list[i].priority,
             list[i].target, list[i].desc);
     }
-    fs.writeFileSync(file + '.txt', text);
-    fs.writeFileSync(file + '.csv', csv);
+    fs.writeFileSync(list_folder + file + '.txt', text);
+    fs.writeFileSync(list_folder + file + '.csv', csv);
 }
 
-function log_species(file, obj) {
+function log_species(list_folder, detail_folder, file, obj) {
     var list = [];
     var orders = [];
 
@@ -109,7 +109,7 @@ function log_species(file, obj) {
         }
     }
 
-    log_detail(file, list);
+    log_detail(detail_folder + file, list);
 
     list.sort(function (a, b) {
         if (a.num != b.num)
@@ -172,8 +172,8 @@ function log_species(file, obj) {
             list[i].baseStats['spa'], list[i].baseStats['spd'], list[i].baseStats['spe'],
             sum, abilities);
     }
-    fs.writeFileSync(file + '.txt', text);
-    fs.writeFileSync(file + '.csv', csv);
+    fs.writeFileSync(list_folder + file + '.txt', text);
+    fs.writeFileSync(list_folder + file + '.csv', csv);
 }
 
 function log_data(file, obj) {
@@ -186,37 +186,55 @@ function log_json(file, obj) {
 
 const {Dex} = require('../pokemon-showdown');
 
+if (!fs.existsSync('data'))
+    fs.mkdirSync('data');
+
+if (!fs.existsSync('json'))
+    fs.mkdirSync('json');
+
 const formats = Dex.formats.all();
-log_data('Formats', formats);
-log_json('Formats', formats);
+log_data('data/Formats', formats);
+log_json('json/Formats', formats);
 
 function log_gen(gen) {
     var dex = Dex.mod(gen);
-    var prefix = gen + '/';
+    var list_folder = 'list/' + gen + '/';
+    var data_folder = 'data/' + gen + '/';
+    var json_folder = 'json/' + gen + '/';
+    var detail_folder = 'detail/' + gen + '/';
 
-    if (!fs.existsSync(gen))
-        fs.mkdirSync(gen);
+    if (!fs.existsSync(list_folder))
+        fs.mkdirSync(list_folder, { recursive: true });
+
+    if (!fs.existsSync(data_folder))
+        fs.mkdirSync(data_folder, { recursive: true });
+
+    if (!fs.existsSync(json_folder))
+        fs.mkdirSync(json_folder, { recursive: true });
+
+    if (!fs.existsSync(detail_folder))
+        fs.mkdirSync(detail_folder, { recursive: true });
 
     const abilities = dex.abilities.all();
-    log_list(prefix + 'List_Abilities', abilities);
-    log_json(prefix + 'List_Abilities', abilities);
+    log_list(list_folder, detail_folder, 'Abilities', abilities);
+    log_json(json_folder + 'List_Abilities', abilities);
 
     const items = dex.items.all();
-    log_list(prefix + 'List_Items', items);
-    log_json(prefix + 'List_Items', items);
+    log_list(list_folder, detail_folder, 'Items', items);
+    log_json(json_folder + 'List_Items', items);
 
     const moves = dex.moves.all();
-    log_moves(prefix + 'List_Moves', moves);
-    log_json(prefix + 'List_Moves', moves);
+    log_moves(list_folder, detail_folder, 'Moves', moves);
+    log_json(json_folder + 'List_Moves', moves);
 
     const species = dex.species.all();
-    log_species(prefix + 'List_Species', species);
-    log_json(prefix + 'List_Species', species);
+    log_species(list_folder, detail_folder, 'Species', species);
+    log_json(json_folder + 'List_Species', species);
 
     for (let i in dex.data) {
         if (i != 'PokemonGoData') {
-            log_data(prefix + 'Data_' + i, dex.data[i]);
-            log_json(prefix + 'Data_' + i, dex.data[i]);
+            log_data(data_folder + i, dex.data[i]);
+            log_json(json_folder + 'Data_' + i, dex.data[i]);
         }
     }
 }

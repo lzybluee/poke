@@ -263,7 +263,7 @@
   zapdos: { tier: 'UU', doublesTier: 'DUU', natDexTier: 'OU' },
   zapdosgalar: { tier: 'RU', doublesTier: '(DUU)', natDexTier: 'UU' },
   moltres: { tier: 'RU', doublesTier: '(DUU)', natDexTier: 'OU' },
-  moltresgalar: { tier: 'UU', doublesTier: '(DUU)', natDexTier: 'RUBL' },
+  moltresgalar: { tier: 'UUBL', doublesTier: '(DUU)', natDexTier: 'RUBL' },
   dratini: { tier: 'LC' },
   dragonair: { tier: 'NFE' },
   dragonite: { tier: 'OU', doublesTier: 'DOU', natDexTier: 'OU' },
