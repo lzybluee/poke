@@ -56,6 +56,7 @@ function log_list(list_folder, detail_folder, file, obj) {
 
 function log_moves(list_folder, detail_folder, file, obj) {
     var list = [];
+    var move_names = [];
 
     for (let i in obj) {
         if (obj[i].isNonstandard === null)
@@ -71,6 +72,8 @@ function log_moves(list_folder, detail_folder, file, obj) {
     var text = '';
     var csv = '';
     for (let i in list) {
+        move_names[list[i].id] = list[i].name;
+
         text += list[i].name + '\n' +
                 list[i].type + '\n' +
                 list[i].category + '\n' +
@@ -95,11 +98,14 @@ function log_moves(list_folder, detail_folder, file, obj) {
     }
     fs.writeFileSync(list_folder + file + '.txt', text);
     fs.writeFileSync(list_folder + file + '.csv', csv);
+    
+    return move_names;
 }
 
 function log_species(list_folder, detail_folder, file, obj) {
     var list = [];
     var orders = [];
+    var species_names = [];
 
     for (let i in obj) {
         if (obj[i].isNonstandard === null) {
@@ -121,6 +127,8 @@ function log_species(list_folder, detail_folder, file, obj) {
     var text = '';
     var csv = '';
     for (let i in list) {
+        species_names[list[i].id] = list[i].name;
+
         text += list[i].num + '\n' + list[i].name + '\n';
 
         var k = 0;
@@ -174,6 +182,33 @@ function log_species(list_folder, detail_folder, file, obj) {
     }
     fs.writeFileSync(list_folder + file + '.txt', text);
     fs.writeFileSync(list_folder + file + '.csv', csv);
+
+    return species_names;
+}
+
+function log_learnsets(file, dex, species_names, move_names) {
+    var text = '';
+    var count = 0;
+
+    for (let i in species_names) {
+        text += species_names[i] + '\n';
+        learnsets = dex.species.getLearnsetData(i).learnset;
+        for(let j in learnsets) {
+            text += '    ' + move_names[j] + ' : ';
+            for (let k in learnsets[j]) {
+                text += learnsets[j][k];
+                if (k < learnsets[j].length - 1)
+                    text += ', ';
+            }
+            text += '\n';
+        }
+
+        count++;
+        if (count < Object.keys(species_names).length)
+            text += '\n';
+    }
+
+    fs.writeFileSync(file + '.txt', text);
 }
 
 function log_data(file, obj) {
@@ -224,12 +259,14 @@ function log_gen(gen) {
     log_json(json_folder + 'List_Items', items);
 
     const moves = dex.moves.all();
-    log_moves(list_folder, detail_folder, 'Moves', moves);
+    var move_names = log_moves(list_folder, detail_folder, 'Moves', moves);
     log_json(json_folder + 'List_Moves', moves);
 
     const species = dex.species.all();
-    log_species(list_folder, detail_folder, 'Species', species);
+    var species_names = log_species(list_folder, detail_folder, 'Species', species);
     log_json(json_folder + 'List_Species', species);
+
+    log_learnsets(list_folder + 'Learnsets', dex, species_names, move_names);
 
     for (let i in dex.data) {
         if (i != 'PokemonGoData') {
