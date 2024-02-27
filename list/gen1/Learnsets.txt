@@ -1,317 +1,206 @@
 Bulbasaur
-    undefined : 2S0
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Growl : 2L4, 2S0, 1L1
     Growth : 2L32, 1L34
     Headbutt : 2M
-    undefined : 2M
     Leech Seed : 2L7, 1L7
     Light Screen : 2E
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
     Petal Dance : 2E
     Poison Powder : 2L15, 1L20
-    undefined : 2M
     Rage : 1M
     Razor Leaf : 2L20, 1L27
     Razor Wind : 2E
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Skull Bash : 2E
     Sleep Powder : 2L15, 1L41
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 2L46, 1M, 1L48
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L25
     Swords Dance : 1M
-    undefined : 2L39
     Tackle : 2L1, 2S0, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
     Vine Whip : 2L10, 1L13
 
 Ivysaur
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Growl : 2L4, 2L1, 1L1
     Growth : 2L38, 1L38
     Headbutt : 2M
-    undefined : 2M
     Leech Seed : 2L7, 2L1, 1L7, 1L1
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
     Poison Powder : 2L15, 1L22
-    undefined : 2M
     Rage : 1M
     Razor Leaf : 2L22, 1L30
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sleep Powder : 2L15, 1L46
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 2L56, 1M, 1L54
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L29
     Swords Dance : 1M
-    undefined : 2L47
     Tackle : 2L1, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
     Vine Whip : 2L10, 1L13
 
 Venusaur
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Growl : 2L4, 2L1, 1L1
     Growth : 2L41, 1L43
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leech Seed : 2L7, 2L1, 1L7, 1L1
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
     Poison Powder : 2L15, 2S0, 1L22
-    undefined : 2M
     Rage : 1M
     Razor Leaf : 2L22, 2S0, 1L30
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Sleep Powder : 2L15, 2S0, 1L55
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 2L65, 1M, 1L65
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L29, 2S0
     Swords Dance : 1M
-    undefined : 2L53
     Tackle : 2L1, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
     Vine Whip : 2L10, 2L1, 1L13, 1L1
 
 Charmander
-    undefined : 2E
-    undefined : 2M
-    undefined : 2E
-    undefined : 2E
     Bide : 1M
     Bite : 2E
     Body Slam : 1M
     Counter : 1M
-    undefined : 2S0
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2L43, 1M
-    undefined : 2M
     Ember : 2L7, 1L9
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fire Spin : 2L49, 1L46
     Flamethrower : 2T, 2L31, 1L38
-    undefined : 2M
-    undefined : 2M
     Growl : 2L1, 2S0, 1L1
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Leer : 1L15
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
     Rage : 2L19, 1M, 1L22
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 2E
-    undefined : 2M
-    undefined : 2L25
     Scratch : 2L1, 2S0, 1L1
     Seismic Toss : 1M
     Skull Bash : 1M
     Slash : 2L37, 1L30
-    undefined : 2M
     Smokescreen : 2L13
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
 
 Charmeleon
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2L48, 1M
-    undefined : 2M
     Ember : 2L7, 2L1, 1L9, 1L1
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fire Spin : 2L55, 1L56
     Flamethrower : 2T, 2L34, 1L42
-    undefined : 2M
-    undefined : 2M
     Growl : 2L1, 1L1
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Leer : 1L15
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 2L20, 1M, 1L24
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L27
     Scratch : 2L1, 1L1
     Seismic Toss : 1M
     Skull Bash : 1M
     Slash : 2L41, 1L33
-    undefined : 2M
     Smokescreen : 2L13
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
 
 Charizard
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2L54, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
     Ember : 2L7, 2L1, 1L9, 1L1
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fire Spin : 2L64, 1L55
     Fissure : 1M
     Flamethrower : 2T, 2L34, 2S0, 1L46
     Fly : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Growl : 2L1, 1L1
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Leer : 1L15, 1L1
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 2L20, 2S0, 1M, 1L24
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L27, 2S0
     Scratch : 2L1, 1L1
     Seismic Toss : 1M
     Skull Bash : 1M
     Slash : 2L44, 1L36
-    undefined : 2M
     Smokescreen : 2L13, 2L1
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 1M
     Take Down : 1M
@@ -319,7 +208,6 @@ Charizard
     Wing Attack : 2L36, 2S0
 
 Squirtle
-    undefined : 2M
     Bide : 1M
     Bite : 2L18, 1L22
     Blizzard : 2M, 1M
@@ -328,60 +216,37 @@ Squirtle
     Bubble Beam : 1M
     Confusion : 2E
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2E
-    undefined : 2M
     Haze : 2E
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L47, 1L42
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2E
     Mist : 2E
-    undefined : 2M
-    undefined : 2M, 2L28
     Rage : 1M
-    undefined : 2M, 2L33
-    undefined : 2L23
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 2L40, 1M, 1L35
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Tackle : 2L1, 2S0, 1L1
     Tail Whip : 2L4, 2S0, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 2L13, 1M, 1L15
-    undefined : 2M
     Withdraw : 2L10, 1L28
-    undefined : 2S0
 
 Wartortle
-    undefined : 2M
     Bide : 1M
     Bite : 2L19, 1L24
     Blizzard : 2M, 1M
@@ -389,54 +254,35 @@ Wartortle
     Bubble : 2L7, 2L1, 1L8, 1L1
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L53, 1L47
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M, 2L31
     Rage : 1M
-    undefined : 2M, 2L37
-    undefined : 2L25
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 2L45, 1M, 1L39
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Tail Whip : 2L4, 2L1, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 2L13, 1M, 1L15
-    undefined : 2M
     Withdraw : 2L10, 1L31
 
 Blastoise
-    undefined : 2M
     Bide : 1M
     Bite : 2L19, 2S0, 1L24
     Blizzard : 2M, 1M
@@ -444,54 +290,36 @@ Blastoise
     Bubble : 2L7, 2L1, 1L8, 1L1
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fissure : 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L68, 1L52
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M, 2L31, 2S0
     Rage : 1M
-    undefined : 2M, 2L42
-    undefined : 2L25, 2S0
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 2L55, 1M, 1L42
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Tail Whip : 2L4, 2L1, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 2L13, 2S0, 1M, 1L15, 1L1
-    undefined : 2M
     Withdraw : 2L10, 2L1, 1L31
 
 Caterpie
@@ -502,24 +330,16 @@ Metapod
     Harden : 2L7, 2L1, 1L7, 1L1
 
 Butterfree
-    undefined : 2M
     Bide : 1M
     Confusion : 2L10, 2L1, 1L10, 1L12, 1L1
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Gust : 2L28, 1L28
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
     Poison Powder : 2L13, 1L13, 1L15
-    undefined : 2M
     Psybeam : 2L34, 1L34, 1L32
     Psychic : 2M, 1M
     Psywave : 1M
@@ -527,18 +347,11 @@ Butterfree
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2L40
     Sleep Powder : 2L15, 1L15, 1L17
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 2L14, 1L14, 1L16
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2L18, 1L18, 1L21
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Teleport : 1M
@@ -554,37 +367,21 @@ Kakuna
 
 Beedrill
     Agility : 2L40, 1L35
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Focus Energy : 2L15, 1L16
-    undefined : 2M
     Fury Attack : 2L10, 2L1, 1L12, 1L1
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mega Drain : 1M
     Mimic : 1M
     Pin Missile : 2L35, 1L30
-    undefined : 2M
-    undefined : 2L30
     Rage : 2L25, 1M, 1L25
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 1M
     Take Down : 1M
@@ -593,224 +390,137 @@ Beedrill
 
 Pidgey
     Agility : 2L37, 1L36
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Fly : 2M, 1M
-    undefined : 2E
-    undefined : 2M
     Gust : 2L9, 1L1
-    undefined : 2M
     Mimic : 1M
     Mirror Move : 2L47, 1L44
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Quick Attack : 2L15, 1L12
     Rage : 1M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sand Attack : 2L5, 1L5
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2E
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 2L21, 1M, 1L19
     Wing Attack : 2L29, 1L28
 
 Pidgeotto
     Agility : 2L43, 1L40
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Fly : 2M, 1M
-    undefined : 2M
     Gust : 2L9, 2L1, 1L1
-    undefined : 2M
     Mimic : 1M
     Mirror Move : 2L55, 1L49
-    undefined : 2M
-    undefined : 2M
     Quick Attack : 2L15, 1L12
     Rage : 1M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sand Attack : 2L5, 2L1, 1L5, 1L1
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 2L23, 1M, 1L21
     Wing Attack : 2L33, 1L31
 
 Pidgeot
     Agility : 2L46, 1L44
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Fly : 2M, 1M
-    undefined : 2M
     Gust : 2L9, 2L1, 1L1
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mimic : 1M
     Mirror Move : 2L61, 1L54
-    undefined : 2M
-    undefined : 2M
     Quick Attack : 2L15, 2L1, 1L12, 1L1
     Rage : 1M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sand Attack : 2L5, 2L1, 1L5, 1L1
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 2L23, 1M, 1L21
     Wing Attack : 2L33, 1L31
 
 Rattata
-    undefined : 2M
     Bide : 1M
     Bite : 2E
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 2E
-    undefined : 2M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Focus Energy : 2L20, 1L23
-    undefined : 2M
     Fury Swipes : 2E
     Headbutt : 2M
-    undefined : 2M
     Hyper Fang : 2L13, 1L14
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L27
     Quick Attack : 2L7, 1L7
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
     Screech : 2E
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
     Super Fang : 2L34, 1L34
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Tail Whip : 2L1, 1L1
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 1M
     Toxic : 2M, 1M
     Water Gun : 1M
 
 Raticate
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Cut : 2M
     Defense Curl : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Focus Energy : 1L27
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Hyper Fang : 2L13, 1L14
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L30
     Quick Attack : 2L7, 2L1, 1L7, 1L1
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
-    undefined : 2L20
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M
     Substitute : 1M
-    undefined : 2M
     Super Fang : 2L40, 1L41
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Tail Whip : 2L1, 1L1
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
@@ -818,223 +528,140 @@ Raticate
 
 Spearow
     Agility : 2L43, 1L36
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Drill Peck : 2L37, 1L29
-    undefined : 2M
-    undefined : 2E
-    undefined : 2E
     Fly : 2M, 1M
-    undefined : 2M
     Fury Attack : 2L13, 1L15
     Growl : 2L1, 2S0, 1L1
-    undefined : 2M
     Leer : 2L7, 1L9
     Mimic : 1M
     Mirror Move : 2L31, 1L22
-    undefined : 2M
     Peck : 2L1, 2S0, 1L1
-    undefined : 2M
-    undefined : 2L25
     Quick Attack : 2E
     Rage : 1M
     Razor Wind : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
     Sonic Boom : 2S0
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Tri Attack : 2E
     Whirlwind : 1M
 
 Fearow
     Agility : 2L47, 1L43
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Drill Peck : 2L40, 1L34
-    undefined : 2M
     Fly : 2M, 1M
-    undefined : 2M
     Fury Attack : 2L13, 2L1, 1L15, 1S0
     Growl : 2L1, 1L1, 1S0
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leer : 2L7, 2L1, 1L9, 1L1, 1S0
     Mimic : 1M
     Mirror Move : 2L32, 1L25
-    undefined : 2M
     Pay Day : 1S0
     Peck : 2L1, 1L1
-    undefined : 2M
-    undefined : 2L26
     Rage : 1M
     Razor Wind : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 1M
 
 Ekans
     Acid : 2L37, 1L38
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Bite : 2L15, 1L17
     Body Slam : 1M
-    undefined : 2E
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fissure : 1M
-    undefined : 2M
-    undefined : 2M
     Glare : 2L23, 1L24
     Haze : 2L43
     Headbutt : 2M
-    undefined : 2M
     Leer : 2L1, 1L1
     Mega Drain : 1M
     Mimic : 1M
     Poison Sting : 2L9, 1L10
-    undefined : 2M
-    undefined : 2E
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
     Screech : 2L29, 1L31
     Skull Bash : 1M
     Slam : 2E
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Strength : 2M, 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Wrap : 2L1, 1L1
 
 Arbok
     Acid : 2L43, 1L47
-    undefined : 2M
     Bide : 1M
     Bite : 2L15, 2L1, 1L17
     Body Slam : 1M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fissure : 1M
-    undefined : 2M
-    undefined : 2M
     Glare : 2L25, 1L27
     Haze : 2L51
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leer : 2L1, 1L1
     Mega Drain : 1M
     Mimic : 1M
     Poison Sting : 2L9, 2L1, 1L10, 1L1
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
     Screech : 2L33, 1L36
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Wrap : 2L1, 1L1
 
 Pikachu
     Agility : 2L33, 1L33
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 2L15, 1M, 1L15
-    undefined : 2M
-    undefined : 2M
     Flash : 2M, 1M
     Fly : 1S1
-    undefined : 2M
     Growl : 2L1, 1L1, 1S2
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Light Screen : 2L50, 1L50
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
     Quick Attack : 2L11, 1L11, 1L16
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
     Slam : 2L20, 1L20
-    undefined : 2M
-    undefined : 2M
     Strength : 2M
     Submission : 1M
     Substitute : 1M
     Surf : 1T, 1S2, 1S0
-    undefined : 2M
     Swift : 2M, 1M, 1L26
     Tail Whip : 2L6, 1L6
     Take Down : 1M
@@ -1044,328 +671,206 @@ Pikachu
     Thunder Shock : 2L1, 1L1, 1S2
     Thunder Wave : 2L8, 1M, 1L8, 1L9
     Toxic : 2M, 1M
-    undefined : 2M
 
 Raichu
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
     Growl : 1L1
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
     Quick Attack : 2L1
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tail Whip : 2L1
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 2L1, 1M
     Thunder Punch : 2M
     Thunder Shock : 2L1, 1L1
     Thunder Wave : 1M, 1L1
     Toxic : 2M, 1M
-    undefined : 2M
 
 Sandshrew
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 2E
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M, 2L6
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fissure : 1M
-    undefined : 2E
-    undefined : 2M
-    undefined : 2M
     Fury Swipes : 2L37, 1L38
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Mimic : 1M
-    undefined : 2M
     Poison Sting : 2L17, 1L24
-    undefined : 2M
     Rage : 1M
-    undefined : 2E
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Sand Attack : 2L11, 1L10
-    undefined : 2M, 2L45
     Scratch : 2L1, 1L1
     Seismic Toss : 1M
     Skull Bash : 1M
     Slash : 2L23, 1L17
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 2L30, 1M, 1L31
     Swords Dance : 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Sandslash
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M, 2L6, 2L1
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fissure : 1M
-    undefined : 2M
-    undefined : 2M
     Fury Swipes : 2L42, 1L47
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
     Poison Sting : 2L17, 1L27
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2M
     Sand Attack : 2L11, 2L1, 1L10, 1L1
-    undefined : 2M, 2L52
     Scratch : 2L1, 1L1
     Seismic Toss : 1M
     Skull Bash : 1M
     Slash : 2L24, 1L17
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 2L33, 1M, 1L36
     Swords Dance : 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Nidoran-F
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Bite : 2L30, 1L30, 1L29
     Blizzard : 2M, 1M
     Body Slam : 1M
-    undefined : 2E
     Counter : 2E
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Disable : 2E
     Double-Edge : 1M
     Double Kick : 2L12, 1L12, 1L43
     Double Team : 2M, 1M
-    undefined : 2M
     Focus Energy : 2E
-    undefined : 2M
     Fury Swipes : 2L38, 1L38, 1L36
     Growl : 2L1, 2S2, 2S1, 2S0, 1L1
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Lovely Kiss : 2S0
     Mimic : 1M
-    undefined : 2S1
-    undefined : 2M
     Poison Sting : 2L17, 1L17, 1L14
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Scratch : 2L8, 1L8
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2E
-    undefined : 2M
-    undefined : 2S2
     Tackle : 2L1, 2S2, 2S1, 2S0, 1L1
     Tail Whip : 2L23, 1L23, 1L21
     Take Down : 2E, 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
 
 Nidorina
-    undefined : 2M
     Bide : 1M
     Bite : 2L36, 1L36, 1L32
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Kick : 2L12, 1L12, 1L50
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Fury Swipes : 2L46, 1L46, 1L41
     Growl : 2L1, 1L1
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
     Poison Sting : 2L19, 1L19, 1L14
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Scratch : 2L8, 1L8, 1L1
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Tail Whip : 2L27, 1L27, 1L23
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
     Water Gun : 1M
 
 Nidoqueen
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 2L23, 1M, 1L23, 1L1
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Kick : 2L1, 1L12
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
     Poison Sting : 1L14
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2M
     Scratch : 2L1, 1L8, 1L1
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Tail Whip : 2L1, 1L1
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Punch : 2M
@@ -1374,165 +879,107 @@ Nidoqueen
 
 Nidoran-M
     Amnesia : 2E
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Confusion : 2E
     Counter : 2E
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Disable : 2E
     Double-Edge : 1M
     Double Kick : 2L12, 1L12, 1L43
     Double Team : 2M, 1M
-    undefined : 2M
     Focus Energy : 2L23, 1L23, 1L21
-    undefined : 2M
     Fury Attack : 2L30, 1L30, 1L29
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 2L8, 1L8
     Horn Drill : 2L38, 1M, 1L38, 1L36
-    undefined : 2M
     Leer : 2L1, 2S2, 2S1, 2S0, 1L1
     Lovely Kiss : 2S0
     Mimic : 1M
-    undefined : 2S1
-    undefined : 2M
     Poison Sting : 2L17, 1L17, 1L14
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2E
-    undefined : 2M
-    undefined : 2S2
     Tackle : 2L1, 2S2, 2S1, 2S0, 1L1
     Take Down : 2E, 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
 
 Nidorino
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Kick : 2L12, 1L12, 1L50
     Double Team : 2M, 1M
-    undefined : 2M
     Focus Energy : 2L27, 1L27, 1L23
-    undefined : 2M
     Fury Attack : 2L36, 1L36, 1L32
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 2L8, 1L8, 1L1
     Horn Drill : 2L46, 1M, 1L46, 1L41
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L1, 1L1
     Mimic : 1M
-    undefined : 2M
     Poison Sting : 2L19, 1L19, 1L14
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
     Water Gun : 1M
 
 Nidoking
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Kick : 2L1, 1L12
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 2L1, 1L8, 1L1
     Horn Drill : 1M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
     Poison Sting : 2L1, 1L14, 1L1
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Take Down : 1M
-    undefined : 2M
     Thrash : 2L23, 1L23, 1L1
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
@@ -1541,65 +988,43 @@ Nidoking
     Water Gun : 1M
 
 Clefairy
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L26, 1L39
-    undefined : 2M
     Double-Edge : 1M
     Double Slap : 2L13, 1L18
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2L4
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
     Growl : 2L1, 1L1
     Headbutt : 2M
-    undefined : 2M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
     Light Screen : 2L53, 1L48
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 2L34, 1M, 1L31
     Mimic : 1M
     Minimize : 2L19, 1L24
-    undefined : 2L43
-    undefined : 2M
-    undefined : 2M
     Pound : 2L1, 1L1
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Sing : 2L8, 1L13
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
     Thunder : 2M, 1M
@@ -1609,65 +1034,43 @@ Clefairy
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
 
 Clefable
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Slap : 2L1, 1L1
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 2L1, 1M, 1L1
     Mimic : 1M
     Minimize : 1L1
-    undefined : 2L1
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Sing : 2L1, 1L1
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
     Thunder : 2M, 1M
@@ -1677,144 +1080,95 @@ Clefable
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
 
 Vulpix
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Confuse Ray : 2L19, 1L28
-    undefined : 2M
     Dig : 2M, 1M
     Disable : 2E
     Double-Edge : 1M
     Double Team : 2M, 1M
     Ember : 2L1, 1L1
-    undefined : 2M
-    undefined : 2E
     Fire Blast : 2M, 1M
     Fire Spin : 2L37, 1L42
-    undefined : 2E
     Flamethrower : 2T, 2L31, 1L35
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hypnosis : 2E
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
     Quick Attack : 2L7, 1L16
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2L13, 1L21
-    undefined : 2L25
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tail Whip : 2L1, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
 
 Ninetales
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Confuse Ray : 2L1
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Ember : 2L1, 1L1
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Spin : 2L43
     Flamethrower : 2T
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
     Quick Attack : 2L1, 1L1
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M, 1L1
-    undefined : 2L1
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tail Whip : 1L1
     Take Down : 1M
     Toxic : 2M, 1M
 
 Jigglypuff
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 2L34, 1M, 1L34
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L4, 1L19
-    undefined : 2M
     Disable : 2L14, 1L14
     Double-Edge : 2L39, 1M, 1L39
     Double Slap : 2L24, 1L24
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Pound : 2L9, 1L9
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 2L29, 1M, 1L29
-    undefined : 2M
-    undefined : 2M, 2L19
     Seismic Toss : 1M
-    undefined : 2M
     Sing : 2L1, 1L1
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
     Thunder : 2M, 1M
@@ -1824,62 +1178,42 @@ Jigglypuff
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
 
 Wigglytuff
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L1, 1L1
-    undefined : 2M
     Disable : 2L1, 1L1
     Double-Edge : 1M
     Double Slap : 2L1, 1L1
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Sing : 2L1, 1L1
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
     Thunder : 2M, 1M
@@ -1889,85 +1223,49 @@ Wigglytuff
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
 
 Zubat
-    undefined : 2M
     Bide : 1M
     Bite : 2L12, 1L15
     Confuse Ray : 2L19, 1L21
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2S0
-    undefined : 2M
-    undefined : 2M
     Gust : 2E
     Haze : 2L46, 1L36
-    undefined : 2M
     Leech Life : 2L1, 2S0, 1L1
-    undefined : 2L36
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2E
     Quick Attack : 2E
     Rage : 1M
     Razor Wind : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2L6, 1L10
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 2E, 1M
     Wing Attack : 2L27, 1L28
 
 Golbat
-    undefined : 2M
     Bide : 1M
     Bite : 2L12, 1L15, 1L1
     Confuse Ray : 2L19, 1L21
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Haze : 2L55, 1L43
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leech Life : 2L1, 1L1
-    undefined : 2L42
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
     Razor Wind : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Screech : 2L1, 1L1
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2L6, 2L1, 1L10
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 1M
     Wing Attack : 2L30, 1L32
@@ -1975,79 +1273,47 @@ Golbat
 Oddish
     Absorb : 2L1, 2S0, 1L1
     Acid : 2L23, 1L24
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Leech Seed : 2S0
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2L32
     Petal Dance : 2L39, 1L33
     Poison Powder : 2L14, 1L15
-    undefined : 2M
     Rage : 1M
     Razor Leaf : 2E
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sleep Powder : 2L18, 1L19
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M, 1L46
     Stun Spore : 2L16, 1L17
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L7
     Swords Dance : 2E, 1M
-    undefined : 2E
     Take Down : 1M
     Toxic : 2M, 1M
 
 Gloom
     Absorb : 2L1, 1L1
     Acid : 2L24, 1L28
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2L35
     Petal Dance : 2L44, 1L38
     Poison Powder : 2L14, 2L1, 1L15, 1L1
-    undefined : 2M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sleep Powder : 2L18, 1L19
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M, 1L52
     Stun Spore : 2L16, 1L17, 1L1
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L7, 2L1
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
@@ -2055,205 +1321,128 @@ Gloom
 Vileplume
     Absorb : 2L1
     Acid : 1L1
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mega Drain : 1M
     Mimic : 1M
     Petal Dance : 2L1, 1L1
     Poison Powder : 1L15
-    undefined : 2M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sleep Powder : 1L19, 1L1
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 2L1, 1L17, 1L1
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L1
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
 
 Paras
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 2E
-    undefined : 2M
     Cut : 2M, 1M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2E
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L43
     Growth : 2L37, 1L41
-    undefined : 2M
     Leech Life : 2L19, 1L20
     Light Screen : 2E
     Mega Drain : 1M
     Mimic : 1M
     Poison Powder : 2L13
-    undefined : 2M
     Psybeam : 2E
-    undefined : 2E
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Scratch : 2L1, 2S0, 1L1
     Screech : 2E
     Skull Bash : 1M
     Slash : 2L31, 1L34
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Spore : 2L25, 1L27
     Stun Spore : 2L7, 1L13
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2E
     Swords Dance : 1M
-    undefined : 2S0
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Parasect
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L55
     Growth : 2L46, 1L48
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leech Life : 2L19, 1L20, 1L1
     Mega Drain : 1M
     Mimic : 1M
     Poison Powder : 2L13, 2L1
-    undefined : 2M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Scratch : 2L1, 1L1
     Skull Bash : 1M
     Slash : 2L37, 1L39
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Spore : 2L28, 1L30
     Stun Spore : 2L7, 2L1, 1L13, 1L1
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Swords Dance : 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Venonat
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Confusion : 2L17, 1L19
-    undefined : 2M
     Disable : 2L1, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 1M
-    undefined : 2L1
-    undefined : 2M
-    undefined : 2M, 2E
-    undefined : 2M
     Leech Life : 2L25, 1L27
     Mega Drain : 1M
     Mimic : 1M
     Poison Powder : 2L20, 1L22, 1L24
-    undefined : 2M
     Psybeam : 2L33, 1L35
     Psychic : 2M, 2L41, 1M, 1L43
     Psywave : 1M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Screech : 2E
     Sleep Powder : 2L36, 1L38
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 2L28, 1L30
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2L9, 1L11
-    undefined : 2M
-    undefined : 2M
     Swift : 2M
     Tackle : 2L1, 1L1
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Venomoth
-    undefined : 2M
     Bide : 1M
     Confusion : 2L17, 1L1
-    undefined : 2M
     Disable : 2L1, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2L1
-    undefined : 2M
-    undefined : 2M
     Gust : 2L31
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leech Life : 2L25, 1L27, 1L1
     Mega Drain : 1M
     Mimic : 1M
     Poison Powder : 2L20, 1L22, 1L24, 1L1
-    undefined : 2M
     Psybeam : 2L36, 1L38
     Psychic : 2M, 2L52, 1M, 1L50
     Psywave : 1M
@@ -2261,268 +1450,160 @@ Venomoth
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sleep Powder : 2L42, 1L43
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 2L28, 1L30
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2L9, 2L1, 1L1
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 1M
 
 Diglett
-    undefined : 2E
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Dig : 2M, 2L17, 1M, 1L19
     Double-Edge : 1M
     Double Team : 2M, 1M
     Earthquake : 2M, 2L41, 1M, 1L40
-    undefined : 2M
-    undefined : 2E
     Fissure : 2L49, 1M
-    undefined : 2M
     Growl : 2L5, 1L15
-    undefined : 2M
-    undefined : 2L9
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
     Sand Attack : 2L25, 1L24
     Scratch : 2L1, 1L1
     Screech : 2E
     Slash : 2L33, 1L31
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Dugtrio
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Dig : 2M, 2L17, 1M, 1L19, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
     Earthquake : 2M, 2L49, 1M, 1L47
-    undefined : 2M
     Fissure : 2L61, 1M
-    undefined : 2M
     Growl : 2L5, 2L1, 1L15, 1L1
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2L9, 2L1
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
     Sand Attack : 2L25, 1L24
     Scratch : 2L1, 1L1
     Slash : 2L37, 1L35
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Tri Attack : 2L1
 
 Meowth
     Amnesia : 2E
-    undefined : 2M
     Bide : 1M
     Bite : 2L11, 1L12
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2E
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2L28
-    undefined : 2M
     Fury Swipes : 2L41, 1L33
     Growl : 2L1, 1L1
     Headbutt : 2M
-    undefined : 2M
     Hypnosis : 2E
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Pay Day : 2L20, 1M, 1L17
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Scratch : 2L1, 1L1
     Screech : 2L35, 1L24
-    undefined : 2M
     Skull Bash : 1M
     Slash : 2L46, 1L44
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
     Water Gun : 1M
-    undefined : 2M
 
 Persian
-    undefined : 2M
     Bide : 1M
     Bite : 2L11, 2L1, 1L12, 1L1
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2L29
-    undefined : 2M
     Fury Swipes : 2L46, 1L37
     Growl : 2L1, 1L1
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Pay Day : 2L20, 1M, 1L17
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Scratch : 2L1, 1L1
     Screech : 2L38, 1L24, 1L1
-    undefined : 2M
     Skull Bash : 1M
     Slash : 2L53, 1L51
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
     Water Gun : 1M
-    undefined : 2M
 
 Psyduck
     Amnesia : 1S0
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Confusion : 2L16, 1L36
     Counter : 1M
-    undefined : 2E
-    undefined : 2M
     Dig : 2M, 1M
     Disable : 2L10, 1L31
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Flash : 2M
-    undefined : 2E
-    undefined : 2M
     Fury Swipes : 2L40, 1L43
-    undefined : 2E
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L50, 1L52
     Hypnosis : 2E
     Ice Beam : 2T, 2E, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Light Screen : 2E
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
     Petal Dance : 2S1
-    undefined : 2M
     Psybeam : 2E
     Psychic : 2E
-    undefined : 2M, 2L31
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Scratch : 2L1, 2S2, 2S1, 1L1, 1S0
     Screech : 2L23
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tail Whip : 2L5, 2S2, 2S1, 1L28
     Take Down : 1M
@@ -2530,90 +1611,59 @@ Psyduck
     Tri Attack : 2S2
     Waterfall : 2M
     Water Gun : 1M
-    undefined : 2M
 
 Golduck
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Confusion : 2L16, 2L1, 1L39
     Counter : 1M
-    undefined : 2M
     Dig : 2M, 1M
     Disable : 2L10, 2L1, 1L31, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
     Fury Swipes : 2L44, 1L48
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L58, 1L59
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
-    undefined : 2M, 2L31
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Scratch : 2L1, 1L1
     Screech : 2L23
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tail Whip : 2L5, 2L1, 1L28, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 1M
-    undefined : 2M
 
 Mankey
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Body Slam : 1M
     Counter : 2E, 1M
-    undefined : 2L39
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M
     Focus Energy : 2L27, 1L27
-    undefined : 2E
-    undefined : 2M
     Fury Swipes : 2L21, 1L21
     Headbutt : 2M
-    undefined : 2M
     Ice Punch : 2M
-    undefined : 2M
     Karate Chop : 2L15, 1L15
     Leer : 2L1, 1L1
     Low Kick : 2L9, 1L9
@@ -2622,30 +1672,19 @@ Mankey
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Rock Slide : 2E, 1M
-    undefined : 2M
     Scratch : 2L1, 1L1
     Screech : 2L45, 1L45
     Seismic Toss : 2L33, 1M, 1L33
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Thrash : 2L51, 1L39
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
@@ -2653,28 +1692,19 @@ Mankey
     Toxic : 2M, 1M
 
 Primeape
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2L45
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M
     Focus Energy : 2L27, 1L27
-    undefined : 2M
     Fury Swipes : 2L21, 1L21, 1L1
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Punch : 2M
-    undefined : 2M
     Karate Chop : 2L15, 1L15, 1L1
     Leer : 2L1, 1L1
     Low Kick : 2L9, 2L1, 1L9, 1L1
@@ -2682,29 +1712,19 @@ Primeape
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 2L28, 2L1, 1M, 1L28
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
     Scratch : 2L1, 1L1
     Screech : 2L54, 1L45
     Seismic Toss : 2L36, 1M, 1L37
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Thrash : 2L63, 1L46
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
@@ -2713,84 +1733,51 @@ Primeape
 
 Growlithe
     Agility : 2L42, 1L39
-    undefined : 2M
     Bide : 1M
     Bite : 2L1, 1L1
     Body Slam : 2E, 1M
-    undefined : 2E
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 1M
     Ember : 2L9, 1L18
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Spin : 2E
     Flamethrower : 2T, 2L50, 1L50
-    undefined : 2L34
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L18, 1L23
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M, 2L1, 1L1
-    undefined : 2M
-    undefined : 2E
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 2L26, 1M, 1L30
     Thrash : 2E
     Toxic : 2M, 1M
 
 Arcanine
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 1M
     Ember : 1L1
-    undefined : 2M
-    undefined : 2L50
     Fire Blast : 2M, 1M
     Flamethrower : 2T
-    undefined : 2L1
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Leer : 2L1, 1L1
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M, 2L1, 1L1
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 2L1, 1M, 1L1
     Teleport : 1M
@@ -2798,294 +1785,194 @@ Arcanine
 
 Poliwag
     Amnesia : 1L38
-    undefined : 2M
-    undefined : 2L37
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 2L31, 1M, 1L31
     Bubble : 2L1, 2S2, 2S1, 2S0, 1L1
     Bubble Beam : 2E, 1M
-    undefined : 2M
     Defense Curl : 2M
     Double-Edge : 1M
     Double Slap : 2L19, 1L25
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Growth : 2S0
     Haze : 2E
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L43, 1L45
     Hypnosis : 2L7, 1L16
     Ice Beam : 2T, 1M
-    undefined : 2M
     Lovely Kiss : 2S1
     Mimic : 1M
-    undefined : 2E
     Mist : 2E
-    undefined : 2M
     Psychic : 2M, 1M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M, 2L25
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Splash : 2E
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
-    undefined : 2S2
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 2L13, 1M, 1L19
-    undefined : 2M
 
 Poliwhirl
     Amnesia : 1L41
-    undefined : 2M
-    undefined : 2L43
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 2L35, 1M, 1L33
     Bubble : 2L1, 1L1
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Slap : 2L19, 1L26
     Double Team : 2M, 1M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fissure : 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L51, 1L49
     Hypnosis : 2L7, 2L1, 1L16, 1L1
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M, 2L27
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 2L13, 2L1, 1M, 1L19, 1L1
-    undefined : 2M
 
 Poliwrath
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M, 1L1
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Slap : 2L1, 1L1
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fissure : 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Hypnosis : 2L1, 1L16, 1L1
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2L51
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 2L35, 2L1, 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 2L1, 1M, 1L19, 1L1
-    undefined : 2M
 
 Abra
-    undefined : 2M
     Barrier : 2E
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
     Fire Punch : 2M
     Flash : 2M, 1M
-    undefined : 2S0
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Ice Punch : 2M
     Light Screen : 2E
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 2L1, 2S0, 1M, 1L1
-    undefined : 2M
     Thunder Punch : 2M
     Thunder Wave : 1M
     Toxic : 2M, 1M
     Tri Attack : 1M
-    undefined : 2M
 
 Kadabra
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Confusion : 2L16, 2L1, 1L16, 1L1
     Counter : 1M
-    undefined : 2M
     Dig : 2M, 1M
     Disable : 2L18, 1L20, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2L31
     Headbutt : 2M
-    undefined : 2M
     Ice Punch : 2M
     Kinesis : 2L1, 1L1
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psybeam : 2L21, 1L27
     Psychic : 2M, 2L38, 1M, 1L38
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Recover : 2L26, 1L31
     Reflect : 2L45, 1M, 1L42
     Rest : 2M, 1M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 2L1, 1M, 1L1
-    undefined : 2M
     Thunder Punch : 2M
     Thunder Wave : 1M
     Toxic : 2M, 1M
     Tri Attack : 1M
-    undefined : 2M
 
 Alakazam
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Confusion : 2L16, 2L1, 1L16, 1L1
     Counter : 1M
-    undefined : 2M
     Dig : 2M, 1M
     Disable : 2L18, 1L20, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2L31
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Punch : 2M
     Kinesis : 2L1, 1L1
@@ -3093,61 +1980,38 @@ Alakazam
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psybeam : 2L21, 1L27
     Psychic : 2M, 2L38, 1M, 1L38
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Recover : 2L26, 1L31
     Reflect : 2L45, 1M, 1L42
     Rest : 2M, 1M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 2L1, 1M, 1L1
-    undefined : 2M
     Thunder Punch : 2M
     Thunder Wave : 1M
     Toxic : 2M, 1M
     Tri Attack : 1M
-    undefined : 2M
 
 Machop
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2L37
-    undefined : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2E
-    undefined : 2M
-    undefined : 2S0
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
     Focus Energy : 2L7, 1L32
-    undefined : 2L25
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Ice Punch : 2M
     Karate Chop : 2L13, 1L1
     Leer : 2L1, 2S1, 2S0, 1L25
@@ -3158,54 +2022,34 @@ Machop
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
     Rolling Kick : 2E
-    undefined : 2L43
     Seismic Toss : 2L19, 1M, 1L39
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 2L49, 1M, 1L46
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Thrash : 2S1
     Thunder Punch : 2M
     Toxic : 2M, 1M
-    undefined : 2L31
 
 Machoke
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2L43
-    undefined : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
     Focus Energy : 2L8, 2L1, 1L36
-    undefined : 2L25
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Ice Punch : 2M
     Karate Chop : 2L15, 1L1
     Leer : 2L1, 1L25, 1L1
@@ -3214,52 +2058,32 @@ Machoke
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2L52
     Seismic Toss : 2L19, 1M, 1L44
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 2L61, 1M, 1L52
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Thunder Punch : 2M
     Toxic : 2M, 1M
-    undefined : 2L34
 
 Machamp
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2L43
-    undefined : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
     Focus Energy : 2L8, 2L1, 1L36
-    undefined : 2L25
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Punch : 2M
     Karate Chop : 2L15, 1L1
@@ -3269,69 +2093,41 @@ Machamp
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2L52
     Seismic Toss : 2L19, 1M, 1L44
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 2L61, 1M, 1L52
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Thunder Punch : 2M
     Toxic : 2M, 1M
-    undefined : 2L34
 
 Bellsprout
     Acid : 2L23, 1L26
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2E
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
     Growth : 2L6, 1L1
-    undefined : 2M
     Leech Life : 2E
     Lovely Kiss : 2S0
     Mega Drain : 1M
     Mimic : 1M
     Poison Powder : 2L17, 1L15
-    undefined : 2M
     Rage : 1M
     Razor Leaf : 2L37, 1L33
     Reflect : 2E, 1M
     Rest : 2M, 1M
-    undefined : 2M
     Slam : 2L45, 1L42
     Sleep Powder : 2L15, 1L18
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 2L19, 1L21
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2S1
-    undefined : 2M, 2L30
     Swords Dance : 2E, 1M
-    undefined : 2E
     Take Down : 1M
     Toxic : 2M, 1M
     Vine Whip : 2L1, 2S1, 2S0, 1L1
@@ -3339,38 +2135,24 @@ Bellsprout
 
 Weepinbell
     Acid : 2L24, 1L29
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
     Growth : 2L6, 2L1, 1L1
-    undefined : 2M
     Mega Drain : 1M
     Mimic : 1M
     Poison Powder : 2L17, 1L15
-    undefined : 2M
     Rage : 1M
     Razor Leaf : 2L42, 1L38
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Slam : 2L54, 1L49
     Sleep Powder : 2L15, 1L18
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 2L19, 1L23
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L33
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
@@ -3379,38 +2161,24 @@ Weepinbell
 
 Victreebel
     Acid : 1L1
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mega Drain : 1M
     Mimic : 1M
     Poison Powder : 1L15
-    undefined : 2M
     Rage : 1M
     Razor Leaf : 2L1, 1L1
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sleep Powder : 2L1, 1L18, 1L1
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 1L1
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2L1
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
@@ -3419,7 +2187,6 @@ Victreebel
 
 Tentacool
     Acid : 2L19, 1L1
-    undefined : 2M
     Aurora Beam : 2E
     Barrier : 2L36, 1L33
     Bide : 1M
@@ -3427,281 +2194,182 @@ Tentacool
     Bubble Beam : 2L25, 1M
     Confuse Ray : 2S0
     Constrict : 2L12, 1L27
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Haze : 2E
-    undefined : 2M
     Hydro Pump : 2L49, 1L48
     Ice Beam : 2T, 1M
-    undefined : 2M
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2E
     Poison Sting : 2L1, 2S0, 1L18
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
-    undefined : 2E
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Screech : 2L43, 1L40
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Supersonic : 2L6, 1L7
     Surf : 2M, 1M
-    undefined : 2M
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
     Water Gun : 1M, 1L22
-    undefined : 2M
     Wrap : 2L30, 1L13
 
 Tentacruel
     Acid : 2L19, 1L1
-    undefined : 2M
     Barrier : 2L38, 1L35
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble Beam : 2L25, 1M
     Constrict : 2L12, 2L1, 1L27
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Hydro Pump : 2L55, 1L50
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Mega Drain : 1M
     Mimic : 1M
     Poison Sting : 2L1, 1L18
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Screech : 2L47, 1L43
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Supersonic : 2L6, 2L1, 1L7, 1L1
     Surf : 2M, 1M
-    undefined : 2M
     Swords Dance : 1M
     Take Down : 1M
     Toxic : 2M, 1M
     Water Gun : 1M, 1L22
-    undefined : 2M
     Wrap : 2L30, 1L13, 1L1
 
 Geodude
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L6, 1L11
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 2L36, 1M, 1L31
-    undefined : 2M
     Explosion : 2L41, 1M, 1L36
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
     Harden : 2L26, 1L26
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2L16
     Mega Punch : 2E, 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
-    undefined : 2S0
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 2E, 1M
-    undefined : 2M
     Rock Throw : 2L11, 1L16
-    undefined : 2M, 2L31
-    undefined : 2M
     Seismic Toss : 1M
     Self-Destruct : 2L21, 1M, 1L21
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 2S0, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
 
 Graveler
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L6, 2L1, 1L11, 1L1
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 2L41, 1M, 1L36
-    undefined : 2M
     Explosion : 2L48, 1M, 1L43
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
     Harden : 2L27, 1L29
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2L16
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
     Rock Throw : 2L11, 2L1, 1L16
-    undefined : 2M, 2L34
-    undefined : 2M
     Seismic Toss : 1M
     Self-Destruct : 2L21, 1M, 1L21
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
 
 Golem
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L6, 2L1, 1L11, 1L1
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 2L41, 1M, 1L36
-    undefined : 2M
     Explosion : 2L48, 1M, 1L43
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
-    undefined : 2M
     Harden : 2L27, 1L29
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2L16, 2L1
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Rock Slide : 1M
-    undefined : 2M
     Rock Throw : 2L11, 2L1, 1L16
-    undefined : 2M, 2L34
-    undefined : 2M
     Seismic Toss : 1M
     Self-Destruct : 2L21, 1M, 1L21
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
 
 Ponyta
     Agility : 2L43, 1L48
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2E
-    undefined : 2M
     Double-Edge : 1M
     Double Kick : 2E
     Double Team : 2M, 1M
     Ember : 2L13, 1L1
-    undefined : 2M
     Fire Blast : 2M, 2L53, 1M
     Fire Spin : 2L26, 1L39
     Flamethrower : 2T
-    undefined : 2E
-    undefined : 2M
     Growl : 2L4, 2S0, 1L35
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Hypnosis : 2E
-    undefined : 2M
     Low Kick : 2S0
     Mimic : 1M
-    undefined : 2M
     Quick Attack : 2E
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Stomp : 2L19, 1L32
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 2S0
     Tail Whip : 2L8, 1L30
@@ -3711,39 +2379,27 @@ Ponyta
 
 Rapidash
     Agility : 2L47, 1L55
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Ember : 2L13, 2L1, 1L1, 1S0
-    undefined : 2M
     Fire Blast : 2M, 2L61, 1M
     Fire Spin : 2L26, 1L39, 1S0
     Flamethrower : 2T
-    undefined : 2M
     Fury Attack : 2L40
     Growl : 2L4, 2L1, 1L35, 1L1
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Mimic : 1M
     Pay Day : 1S0
-    undefined : 2M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Stomp : 2L19, 1L32, 1L1, 1S0
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1
     Tail Whip : 2L8, 2L1, 1L30, 1L1
@@ -3752,57 +2408,36 @@ Rapidash
 
 Slowpoke
     Amnesia : 2L43, 1L40
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Confusion : 2L20, 1L1
-    undefined : 2M, 2L1
     Dig : 2M, 1M
     Disable : 2L29, 1L18
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fissure : 1M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Growl : 2L6, 1L27
     Headbutt : 2M, 2L34, 1L22
-    undefined : 2M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
     Psychic : 2M, 2L48, 1M, 1L48
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Stomp : 2E
     Strength : 2M, 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1
     Take Down : 1M
@@ -3811,67 +2446,45 @@ Slowpoke
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 2L15, 1M, 1L33
-    undefined : 2M
 
 Slowbro
     Amnesia : 2L46, 1L44
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Confusion : 2L20, 1L1
     Counter : 1M
-    undefined : 2M, 2L1
     Dig : 2M, 1M
     Disable : 2L29, 1L18, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fissure : 1M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Growl : 2L6, 2L1, 1L27
     Headbutt : 2M, 2L34, 1L22, 1L1
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
     Psychic : 2M, 2L54, 1M, 1L55
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1
     Take Down : 1M
@@ -3881,34 +2494,21 @@ Slowbro
     Tri Attack : 1M
     Water Gun : 2L15, 2L1, 1M, 1L33
     Withdraw : 2L37, 1L37
-    undefined : 2M
 
 Magnemite
     Agility : 2S0
     Bide : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L27
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Screech : 2L39, 1L47
-    undefined : 2M
-    undefined : 2M
     Sonic Boom : 2L16, 1L21
     Substitute : 1M
     Supersonic : 2L11, 1L29
-    undefined : 2M
     Swift : 2M, 2L33, 1M, 1L41
     Tackle : 2L1, 2S0, 1L1
     Take Down : 1M
@@ -3918,34 +2518,21 @@ Magnemite
     Thunder Shock : 2L6, 1L25
     Thunder Wave : 2L21, 1M, 1L35
     Toxic : 2M, 1M
-    undefined : 2M, 2L45
 
 Magneton
     Bide : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2L27
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Screech : 2L43, 1L54
-    undefined : 2M
-    undefined : 2M
     Sonic Boom : 2L16, 2L1, 1L21, 1L1
     Substitute : 1M
     Supersonic : 2L11, 2L1, 1L29
-    undefined : 2M
     Swift : 2M, 2L35, 1M, 1L46
     Tackle : 2L1, 1L1
     Take Down : 1M
@@ -3956,359 +2543,225 @@ Magneton
     Thunder Wave : 2L21, 1M, 1L38
     Toxic : 2M, 1M
     Tri Attack : 2L35
-    undefined : 2M, 2L53
 
 Farfetch’d
     Agility : 2L31, 2S0, 1L31
-    undefined : 2M
-    undefined : 2S0
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2L44
-    undefined : 2E
     Fly : 2M, 1M
-    undefined : 2E
-    undefined : 2M
     Fury Attack : 2L19, 1L15
-    undefined : 2S1
     Gust : 2E
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L13, 1L7
     Mimic : 1M
     Mirror Move : 2E
-    undefined : 2M
     Peck : 2L1, 2S1, 1L1
-    undefined : 2M
-    undefined : 2M
     Quick Attack : 2E
     Rage : 1M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sand Attack : 2L7, 1L1
     Skull Bash : 1M
     Slash : 2L37, 2S0, 1L39
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2E
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 2L25, 2S0, 1M, 1L23
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Whirlwind : 1M
 
 Doduo
     Agility : 2L37, 1L44
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Drill Peck : 2L33, 1L30
-    undefined : 2M
-    undefined : 2E
-    undefined : 2E
     Fly : 2M, 1M
-    undefined : 2M
     Fury Attack : 2L13, 1L24
     Growl : 2L1, 2S0, 1L20
     Haze : 2E
-    undefined : 2M
     Low Kick : 2S0
     Mimic : 1M
-    undefined : 2M
     Peck : 2L1, 2S0, 1L1
-    undefined : 2M
-    undefined : 2L9
     Quick Attack : 2E
     Rage : 2L25, 1M, 1L36
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2E
-    undefined : 2M
     Swift : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Tri Attack : 2L21, 1M, 1L40
     Whirlwind : 1M
 
 Dodrio
     Agility : 2L47, 1L51
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Drill Peck : 2L38, 1L30
-    undefined : 2M
     Fly : 2M, 1M
-    undefined : 2M
     Fury Attack : 2L13, 2L1, 1L24, 1L1
     Growl : 2L1, 1L20, 1L1
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mimic : 1M
-    undefined : 2M
     Peck : 2L1, 1L1
-    undefined : 2M
-    undefined : 2L9, 2L1
     Rage : 2L25, 1M, 1L39
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Tri Attack : 2L21, 1M, 1L45
     Whirlwind : 1M
 
 Seel
-    undefined : 2M
     Aurora Beam : 2L16, 1L35
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Disable : 2E
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2E
-    undefined : 2M
-    undefined : 2S0
-    undefined : 2M
     Growl : 2L5, 2S0, 1L30
     Headbutt : 2M, 2L1, 2S0, 1L1
-    undefined : 2M
     Horn Drill : 1M
     Ice Beam : 2T, 2L37, 1M, 1L50
-    undefined : 2M
     Lick : 2E
     Mimic : 1M
     Pay Day : 1M
     Peck : 2E
-    undefined : 2E
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 2L21, 1M, 1L40
-    undefined : 2M
-    undefined : 2L48
     Skull Bash : 1M
     Slam : 2E
-    undefined : 2M
-    undefined : 2M
     Strength : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Take Down : 2L32, 1M, 1L45
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 1M
-    undefined : 2M
 
 Dewgong
-    undefined : 2M
     Aurora Beam : 2L16, 2L1, 1L35, 1L1
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Growl : 2L5, 2L1, 1L30, 1L1
     Headbutt : 2M, 2L1, 1L1
-    undefined : 2M
     Horn Drill : 1M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 2L43, 1M, 1L56
-    undefined : 2M
     Mimic : 1M
     Pay Day : 1M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 2L21, 1M, 1L44
-    undefined : 2M
-    undefined : 2L60
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Take Down : 2L32, 1M, 1L50
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 1M
-    undefined : 2M
 
 Grimer
     Acid Armor : 2L40, 1L55
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Disable : 2L10, 1L1
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Explosion : 1M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
-    undefined : 2M
-    undefined : 2M
     Harden : 2L5, 1L42
     Haze : 2E
-    undefined : 2M
     Ice Punch : 2M
     Lick : 2E
-    undefined : 2E
     Mega Drain : 1M
     Mimic : 1M
     Minimize : 2L23, 1L33
-    undefined : 2M
     Poison Gas : 2L1, 1L30
     Pound : 2L1, 1L1
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Screech : 2L31, 1L48
     Self-Destruct : 1M
-    undefined : 2M
     Sludge : 2L16, 1L37
-    undefined : 2M, 2L50
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Punch : 2M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Muk
     Acid Armor : 2L45, 1L60
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
     Disable : 2L37, 1L1
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Explosion : 1M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
-    undefined : 2M
-    undefined : 2M
     Harden : 2L33, 2L1, 1L45
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Punch : 2M
     Mega Drain : 1M
     Mimic : 1M
     Minimize : 2L23, 1L33
-    undefined : 2M
     Poison Gas : 2L1, 1L30, 1L1
     Pound : 2L1, 1L1
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Screech : 2L31, 1L53
     Self-Destruct : 1M
-    undefined : 2M
     Sludge : 2L45, 1L37
-    undefined : 2M, 2L60
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Punch : 2M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Shellder
-    undefined : 2M
     Aurora Beam : 2L17, 1L30
     Barrier : 2E
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble Beam : 2E, 1M
     Clamp : 2L41, 1L23
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Explosion : 1M
-    undefined : 2M
-    undefined : 2M
     Ice Beam : 2T, 2L49, 1M, 1L50
-    undefined : 2M
     Leer : 2L33, 1L39
     Mimic : 1M
-    undefined : 2M, 2L25
     Rage : 1M
-    undefined : 2M
-    undefined : 2E
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Screech : 2E
     Self-Destruct : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Supersonic : 2L9, 1L18
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Take Down : 2E, 1M
@@ -4316,263 +2769,159 @@ Shellder
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
     Withdraw : 2L1, 1L1
 
 Cloyster
-    undefined : 2M
     Aurora Beam : 2L1, 1L1
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble Beam : 1M
     Clamp : 1L1
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Explosion : 1M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M, 2L1
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Self-Destruct : 1M
-    undefined : 2M
-    undefined : 2M
     Spike Cannon : 2L41, 1L50
-    undefined : 2L33
     Substitute : 1M
     Supersonic : 2L1, 1L1
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Teleport : 1M
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
     Withdraw : 2L1, 1L1
 
 Gastly
-    undefined : 2M
     Bide : 1M
     Confuse Ray : 2L28, 1L1
-    undefined : 2M, 2L16
-    undefined : 2L36
     Double Team : 2M, 1M
     Dream Eater : 2M, 2L33, 1M, 1L35
-    undefined : 2M
     Explosion : 1M
-    undefined : 2M
-    undefined : 2M
     Haze : 2E
-    undefined : 2M
     Hypnosis : 2L1, 1L27
     Lick : 2L1, 1L1
-    undefined : 2L13
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
     Night Shade : 2L21, 1L1
-    undefined : 2E
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 2E, 1M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
     Self-Destruct : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L8
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Haunter
-    undefined : 2M
     Bide : 1M
     Confuse Ray : 2L31, 1L1
-    undefined : 2M, 2L16
-    undefined : 2L48
     Double Team : 2M, 1M
     Dream Eater : 2M, 2L39, 1M, 1L38
-    undefined : 2M
     Explosion : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Hypnosis : 2L1, 1L29
     Lick : 2L1, 1L1
-    undefined : 2L13
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
     Night Shade : 2L21, 1L1
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
     Self-Destruct : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L8, 2L1
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Gengar
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Confuse Ray : 2L31, 1L1
     Counter : 1M
-    undefined : 2M, 2L16
-    undefined : 2L48
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M, 2L39, 1M, 1L38
-    undefined : 2M
-    undefined : 2M
     Explosion : 1M
     Fire Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Hypnosis : 2L1, 1L29
     Ice Punch : 2M
     Lick : 2L1, 1L1
-    undefined : 2L13
     Mega Drain : 1M
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
     Night Shade : 2L21, 1L1
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Self-Destruct : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L8, 2L1
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Punch : 2M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Onix
-    undefined : 2M
     Bide : 1M
     Bind : 2L10, 1L15
     Body Slam : 1M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Earthquake : 2M, 1M
-    undefined : 2M
     Explosion : 1M
     Fissure : 1M
-    undefined : 2E
-    undefined : 2M
     Harden : 2L23, 1L43
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 2L27, 1M, 1L25
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Rock Slide : 2E, 1M
-    undefined : 2M
     Rock Throw : 2L14, 1L19
-    undefined : 2M, 2L36
     Screech : 2L1, 2S0, 1L1
     Self-Destruct : 1M
     Sharpen : 2S0
     Skull Bash : 1M
     Slam : 2L40, 1L33
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 2S0, 1L1
     Take Down : 1M
     Toxic : 2M, 1M
 
 Drowzee
     Amnesia : 2S0
-    undefined : 2M
     Barrier : 2E
     Bide : 1M
     Body Slam : 1M
     Confusion : 2L18, 1L17
     Counter : 1M
-    undefined : 2M
     Disable : 2L10, 1L12
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2L45
     Headbutt : 2M, 2L25, 1L24
-    undefined : 2M
     Hypnosis : 2L1, 2S0, 1L1
     Ice Punch : 2M
     Light Screen : 2E
@@ -4581,54 +2930,36 @@ Drowzee
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
     Poison Gas : 2L31, 1L29
     Pound : 2L1, 2S0, 1L1
-    undefined : 2M
     Psychic : 2M, 2L40, 1M, 1L32
-    undefined : 2M, 2L43
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
     Thunder Punch : 2M
     Thunder Wave : 1M
     Toxic : 2M, 1M
     Tri Attack : 1M
-    undefined : 2M
 
 Hypno
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Confusion : 2L18, 2L1, 1L17, 1L1
     Counter : 1M
-    undefined : 2M
     Disable : 2L10, 2L1, 1L12, 1L1
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2L60
     Headbutt : 2M, 2L25, 1L24
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Hypnosis : 2L1, 1L1
     Ice Punch : 2M
@@ -4637,158 +2968,99 @@ Hypno
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
     Poison Gas : 2L33, 1L33
     Pound : 2L1, 1L1
-    undefined : 2M
     Psychic : 2M, 2L49, 1M, 1L37
-    undefined : 2M, 2L55
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
     Thunder Punch : 2M
     Thunder Wave : 1M
     Toxic : 2M, 1M
     Tri Attack : 1M
-    undefined : 2M
 
 Krabby
     Amnesia : 2E
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble : 2L1, 2S0, 1L1
     Bubble Beam : 1M
     Crabhammer : 2L41, 1L35
-    undefined : 2M
     Cut : 2M, 1M
     Dig : 2E
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
-    undefined : 2M
     Guillotine : 2L27, 1L25
     Harden : 2L16, 1L40
     Haze : 2E
-    undefined : 2M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L5, 2S0, 1L1
-    undefined : 2S0
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M, 2L34
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Slam : 2E
-    undefined : 2M
-    undefined : 2M
     Stomp : 2L23, 1L30
     Strength : 2M, 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swords Dance : 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Vise Grip : 2L12, 1L20
     Water Gun : 1M
-    undefined : 2M
 
 Kingler
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble : 2L1, 1L1
     Bubble Beam : 1M
     Crabhammer : 2L49, 1L42
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Guillotine : 2L27, 1L25
     Harden : 2L16, 1L49
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L5, 2L1, 1L1
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M, 2L38
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Stomp : 2L23, 1L34
     Strength : 2M, 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swords Dance : 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Vise Grip : 2L12, 2L1, 1L20, 1L1
     Water Gun : 1M
-    undefined : 2M
 
 Voltorb
     Agility : 2S0
     Bide : 1M
-    undefined : 2M
     Double Team : 2M, 1M
-    undefined : 2M
     Explosion : 2L39, 1M, 1L43
     Flash : 2M, 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Light Screen : 2L33, 1L29
     Mimic : 1M
-    undefined : 2L41
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M, 2L29
     Screech : 2L9, 1L1
     Self-Destruct : 2L23, 1M, 1L22
-    undefined : 2M
-    undefined : 2M
     Sonic Boom : 2L17, 1L17
     Substitute : 1M
-    undefined : 2M
     Swift : 2M, 2L37, 1M, 1L36
     Tackle : 2L1, 2S0, 1L1
     Take Down : 1M
@@ -4797,37 +3069,24 @@ Voltorb
     Thunderbolt : 2T, 1M
     Thunder Wave : 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Electrode
     Bide : 1M
-    undefined : 2M
     Double Team : 2M, 1M
-    undefined : 2M
     Explosion : 2L44, 1M, 1L50
     Flash : 2M, 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Light Screen : 2L34, 1L29
     Mimic : 1M
-    undefined : 2L48
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M, 2L29
     Screech : 2L9, 2L1, 1L1
     Self-Destruct : 2L23, 2L1, 1M, 1L22
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Sonic Boom : 2L17, 2L1, 1L17, 1L1
     Substitute : 1M
-    undefined : 2M
     Swift : 2M, 2L40, 1M, 1L40
     Tackle : 2L1, 1L1
     Take Down : 1M
@@ -4836,248 +3095,156 @@ Electrode
     Thunderbolt : 2T, 1M
     Thunder Wave : 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Exeggcute
-    undefined : 2E
-    undefined : 2M
     Barrage : 2L1, 2S0, 1L1
     Bide : 1M
     Confusion : 2L19
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
     Egg Bomb : 1M
-    undefined : 2M
     Explosion : 1M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Hypnosis : 2L1, 2S0, 1L1
     Leech Seed : 2L13, 1L28
     Mega Drain : 2E
     Mimic : 1M
-    undefined : 2E
-    undefined : 2M
     Poison Powder : 2L31, 1L37
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
     Reflect : 2L7, 2E, 1M, 1L25
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Self-Destruct : 1M
     Sleep Powder : 2L37, 1L48
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 2L43, 1L42
     Strength : 2M
     Stun Spore : 2L25, 1L32
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2S0
-    undefined : 2E
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Exeggutor
-    undefined : 2M
     Barrage : 2L1, 1L1
     Bide : 1M
     Confusion : 2L1
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
     Egg Bomb : 2L31, 1M
-    undefined : 2M
     Explosion : 1M
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Hypnosis : 2L1, 1L1
     Mega Drain : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Self-Destruct : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stomp : 2L19, 1L28
     Strength : 2M, 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Cubone
-    undefined : 2E
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bone Club : 2L9, 1L10, 1L1
     Bonemerang : 2L25, 1L43
-    undefined : 2L41
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
-    undefined : 2L33
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
     Focus Energy : 2L21, 1L31
-    undefined : 2M
     Fury Attack : 2S0
     Growl : 2L1, 2S0, 1L1
     Headbutt : 2M, 2L13, 1L18
-    undefined : 2M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L17, 1L25
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
     Rage : 2L29, 1M, 1L46
     Rest : 2M, 1M
-    undefined : 2M
     Rock Slide : 2E
-    undefined : 2M
-    undefined : 2M
     Screech : 2E
     Seismic Toss : 1M
     Skull Bash : 2E, 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swords Dance : 2E
     Tail Whip : 2L5, 2S0, 1L13
     Take Down : 1M
-    undefined : 2M
     Thrash : 2L37, 1L38
     Thunder Punch : 2M
     Toxic : 2M, 1M
     Water Gun : 1M
 
 Marowak
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bone Club : 2L9, 2L1, 1L10, 1L1
     Bonemerang : 2L25, 1L48
-    undefined : 2L53
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
-    undefined : 2L39
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
     Focus Energy : 2L21, 1L33, 1L1
-    undefined : 2M
     Growl : 2L1, 1L1
     Headbutt : 2M, 2L13, 2L1, 1L18
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L17, 1L25, 1L1
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 2L32, 1M, 1L55
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tail Whip : 2L5, 2L1, 1L13, 1L1
     Take Down : 1M
-    undefined : 2M
     Thrash : 2L46, 1L41
     Thunder Punch : 2M
     Toxic : 2M, 1M
     Water Gun : 1M
 
 Hitmonlee
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Kick : 2L1, 1L1, 1S0
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M, 2L41
     Focus Energy : 2L21, 1L43
-    undefined : 2L36
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     High Jump Kick : 2L26, 1L48
     Jump Kick : 2L16, 1L38
     Meditate : 2L6, 1L1, 1S0
@@ -5085,83 +3252,51 @@ Hitmonlee
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2L31
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2L51
-    undefined : 2M
     Rolling Kick : 2L11, 1L33
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
 
 Hitmonchan
     Agility : 2L7, 1L1, 1S0
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Comet Punch : 2L1, 1L1, 1S0
     Counter : 2L50, 1M, 1L53
-    undefined : 2M
-    undefined : 2M, 2L44
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M, 2L26, 1L33
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Ice Punch : 2M, 2L26, 1L38
-    undefined : 2L32
     Mega Kick : 1M
     Mega Punch : 2L38, 1M, 1L48
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L13
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
-    undefined : 2M
     Thunder Punch : 2M, 2L26, 1L43
     Toxic : 2M, 1M
 
 Lickitung
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 2E, 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M, 2L13, 1L23
     Disable : 2L31, 1L15
@@ -5169,55 +3304,33 @@ Lickitung
     Double Slap : 2S0
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Lick : 2L1, 2S0
-    undefined : 2E
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Screech : 2L43, 1L39
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
     Slam : 2L37, 1L31
-    undefined : 2M
-    undefined : 2M
     Stomp : 2L19, 1L7
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Supersonic : 2L7, 1L1
     Surf : 2M, 1M
-    undefined : 2M
     Swords Dance : 1M
     Take Down : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Punch : 2M
@@ -5226,197 +3339,121 @@ Lickitung
     Wrap : 2L25, 1L1
 
 Koffing
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
-    undefined : 2L45, 2E
     Double Team : 2M, 1M
-    undefined : 2M
     Explosion : 2L41, 1M, 1L48
     Fire Blast : 2M, 1M
     Flamethrower : 2T
-    undefined : 2M
     Haze : 2L33, 1L45
-    undefined : 2M
     Mimic : 1M
-    undefined : 2E
     Poison Gas : 2L1
-    undefined : 2M
     Psybeam : 2E
     Psywave : 2E
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Screech : 2E
     Self-Destruct : 2L17, 1M, 1L40
-    undefined : 2M
     Sludge : 2L21, 1L32
-    undefined : 2M
     Smog : 2L9, 1L1
     Smokescreen : 2L25, 1L37
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 1L1
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Weezing
-    undefined : 2M
     Bide : 1M
-    undefined : 2M
-    undefined : 2L51
     Double Team : 2M, 1M
-    undefined : 2M
     Explosion : 2L44, 1M, 1L53
     Fire Blast : 2M, 1M
     Flamethrower : 2T
-    undefined : 2M
     Haze : 2L33, 1L49
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mimic : 1M
     Poison Gas : 2L1
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Self-Destruct : 2L17, 2L1, 1M, 1L43
-    undefined : 2M
     Sludge : 2L21, 1L32, 1L1
-    undefined : 2M
     Smog : 2L9, 2L1, 1L1
     Smokescreen : 2L25, 1L39
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tackle : 2L1, 1L1
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Rhyhorn
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M
     Body Slam : 1M
     Counter : 2E
-    undefined : 2E
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Earthquake : 2M, 2L55, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
     Fury Attack : 2L19, 1L1, 1L40
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 2L1, 1L1
     Horn Drill : 2L37, 1M, 1L45
     Ice Beam : 2T
-    undefined : 2M
-    undefined : 2M
     Leer : 1L50
-    undefined : 2E
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2E
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Roar : 2M
     Rock Slide : 2E, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L31
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Stomp : 2L13, 1L1, 1L30
     Strength : 2M, 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Tail Whip : 2L1, 1L1, 1L35
     Take Down : 2L49, 1M, 1L55
     Thrash : 2E
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Rhydon
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 2L65, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
     Fury Attack : 2L19, 2L1, 1L40, 1L1
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 2L1, 1L1
     Horn Drill : 2L37, 1M, 1L48
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Leer : 1L55
     Mega Kick : 1M
     Mega Punch : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L31
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Stomp : 2L13, 2L1, 1L30, 1L1
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
     Tail Whip : 2L1, 1L35, 1L1
     Take Down : 2L54, 1M, 1L64
     Thunder : 2M, 1M
@@ -5424,71 +3461,46 @@ Rhydon
     Thunder Punch : 2M
     Toxic : 2M, 1M
     Water Gun : 1M
-    undefined : 2M
 
 Chansey
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L41, 1L44
     Double-Edge : 2L57, 1M, 1L54
     Double Slap : 2L17, 1L12, 1L1
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
     Egg Bomb : 2L35, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
     Growl : 2L5, 1L30
     Headbutt : 2M
-    undefined : 2E
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Light Screen : 2L49, 1L48
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 2E, 1M
     Mimic : 1M
     Minimize : 2L23, 1L38
-    undefined : 2M
     Pound : 2L1, 2S0, 1L1
-    undefined : 2E
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Sing : 2L29, 1L24
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Soft-Boiled : 2L13, 1M
     Solar Beam : 2M, 1M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2S0
     Tail Whip : 2L9, 1L1
     Take Down : 1M
     Teleport : 1M
@@ -5498,60 +3510,40 @@ Chansey
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
 
 Tangela
     Absorb : 2L10, 1L27, 1L29
     Amnesia : 2E
-    undefined : 2M
     Bide : 1M
     Bind : 2L25, 1L24, 1L1
     Body Slam : 1M
     Confusion : 2E
     Constrict : 2L1, 2S0, 1L1
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Flash : 2M
-    undefined : 2M
-    undefined : 2M
     Growth : 2L46, 1L48, 1L49
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mega Drain : 2L31, 2E, 1M
     Mimic : 1M
     Poison Powder : 2L13, 1L32
-    undefined : 2M
-    undefined : 2M
     Rage : 1M
     Reflect : 2E
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
     Slam : 2L40, 1L45
     Sleep Powder : 2L4, 2S0, 1L39
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Stun Spore : 2L34, 1L36
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Swords Dance : 1M
-    undefined : 2S0
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Vine Whip : 2L19, 1L29
 
 Kangaskhan
-    undefined : 2M
     Bide : 1M
     Bite : 2L13, 1L26
     Blizzard : 2M, 1M
@@ -5559,58 +3551,35 @@ Kangaskhan
     Bubble Beam : 1M
     Comet Punch : 2L1, 2S0, 1L1
     Counter : 1M
-    undefined : 2M
     Disable : 2E
     Dizzy Punch : 2L43, 1L46
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M, 2L37
-    undefined : 2S0
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
     Focus Energy : 2E
-    undefined : 2E
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L7, 1L41
     Mega Kick : 1M
     Mega Punch : 2L25, 1M, 1L36
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Rage : 2L31, 1M, 1L1
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2L49
     Roar : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Stomp : 2E
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
     Tail Whip : 2L19, 1L31
     Take Down : 1M
     Thunder : 2M, 1M
@@ -5618,131 +3587,85 @@ Kangaskhan
     Thunder Punch : 2M
     Toxic : 2M, 1M
     Water Gun : 1M
-    undefined : 2M
 
 Horsea
     Agility : 2L36, 1L37
-    undefined : 2M
     Aurora Beam : 2E
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble : 2L1, 2S0, 1L1
     Bubble Beam : 1M
-    undefined : 2M
     Disable : 2E
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2E
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
     Haze : 2S0
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L43, 1L45
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L15, 1L24
     Mimic : 1M
-    undefined : 2E
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
     Smokescreen : 2L8, 1L19
-    undefined : 2M
     Splash : 2E
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Toxic : 2M, 1M
-    undefined : 2L29
     Waterfall : 2M
     Water Gun : 2L22, 1M, 1L30
-    undefined : 2M
 
 Seadra
     Agility : 2L40, 1L41
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble : 2L1, 1L1
     Bubble Beam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L51, 1L52
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L15, 2L1, 1L24
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
     Smokescreen : 2L8, 2L1, 1L19, 1L1
-    undefined : 2M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Toxic : 2M, 1M
-    undefined : 2L29
     Waterfall : 2M
     Water Gun : 2L22, 2L1, 1M, 1L30
-    undefined : 2M
 
 Goldeen
     Agility : 2L52, 1L54
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble Beam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2L24
-    undefined : 2M
     Fury Attack : 2L29, 1L30
     Haze : 2E
-    undefined : 2M
     Horn Attack : 2L15, 1L24
     Horn Drill : 2L43, 1M, 1L45
     Hydro Pump : 2E
     Ice Beam : 2T, 1M
-    undefined : 2M
     Mimic : 1M
     Peck : 2L1, 2S0, 1L1
-    undefined : 2M
     Psybeam : 2E
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Supersonic : 2L10, 1L19
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 2S0
     Tail Whip : 2L1, 2S0, 1L1
@@ -5753,37 +3676,24 @@ Goldeen
 
 Seaking
     Agility : 2L61, 1L54
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble Beam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2L24
-    undefined : 2M
     Fury Attack : 2L29, 1L30
-    undefined : 2M
     Horn Attack : 2L15, 1L24
     Horn Drill : 2L49, 1M, 1L48
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Mimic : 1M
     Peck : 2L1, 1L1
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Supersonic : 2L10, 1L19, 1L1
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tail Whip : 2L1, 1L1
     Take Down : 1M
@@ -5792,41 +3702,27 @@ Seaking
     Water Gun : 1M
 
 Staryu
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble Beam : 2L31, 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
     Harden : 2L1, 2S0, 1L22
-    undefined : 2M
     Hydro Pump : 2L50, 1L47
     Ice Beam : 2T, 1M
-    undefined : 2M
     Light Screen : 2L43, 1L42
     Mimic : 1M
     Minimize : 2L37, 1L37
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
-    undefined : 2L13
     Recover : 2L19, 1L27
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 2L25, 1M, 1L32
     Tackle : 2L1, 2S0, 1L1
     Take Down : 1M
@@ -5836,49 +3732,31 @@ Staryu
     Thunder Wave : 1M
     Toxic : 2M, 1M
     Tri Attack : 1M
-    undefined : 2S0
     Waterfall : 2M
     Water Gun : 2L7, 1M, 1L17
-    undefined : 2M
-    undefined : 2M
 
 Starmie
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Bubble Beam : 2L1, 1M
     Confuse Ray : 2L37
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
     Harden : 1L1
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
-    undefined : 2L1
     Recover : 2L1
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Take Down : 1M
@@ -5890,31 +3768,20 @@ Starmie
     Tri Attack : 1M
     Waterfall : 2M
     Water Gun : 1M, 1L1
-    undefined : 2M
-    undefined : 2M
 
 Mr. Mime
-    undefined : 2M
     Barrier : 2L1, 2S0, 1L1
-    undefined : 2L41
     Bide : 1M
     Body Slam : 1M
     Confusion : 2L6, 1L15, 1L1
     Counter : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Slap : 2L21, 1L31
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2L31
-    undefined : 2M
     Fire Punch : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Hypnosis : 2E
     Ice Punch : 2M
@@ -5924,336 +3791,213 @@ Mr. Mime
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 2E, 1M
-    undefined : 2S0
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Psybeam : 2L36
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
     Reflect : 2L26, 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2L46
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Submission : 1M
     Substitute : 2L11, 1M, 1L47
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Punch : 2M
     Thunder Wave : 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Scyther
     Agility : 2L24, 1L42
-    undefined : 2M
-    undefined : 2E
     Bide : 1M
     Counter : 2E
-    undefined : 2M
     Cut : 2M, 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 2L48, 1M, 1L24
-    undefined : 2M
-    undefined : 2L18
     Focus Energy : 2L6, 1L20
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leer : 2L1, 2S0, 1L17
     Light Screen : 2E
     Mimic : 1M
-    undefined : 2M
-    undefined : 2L12
     Quick Attack : 2L1, 2S0, 1L1
     Rage : 1M
     Razor Wind : 2E
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
-    undefined : 2E
     Skull Bash : 1M
     Slash : 2L36, 1L29
-    undefined : 2M
-    undefined : 2M
     Sonic Boom : 2S0
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 2L42, 1M, 1L35
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Wing Attack : 2L30, 1L50
 
 Jynx
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 2L57, 1M, 1L58
     Body Slam : 2L41, 1M, 1L39
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Slap : 2L21, 1L23
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M, 2L25, 1L31
-    undefined : 2M
     Lick : 2L1, 1L18
     Lovely Kiss : 2L9, 2L1, 1L1
-    undefined : 2L35
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L51
     Pound : 2L1, 1L1
-    undefined : 2L13, 2L1
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Seismic Toss : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Thrash : 1L47
     Toxic : 2M, 1M
     Water Gun : 1M
 
 Electabuzz
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Counter : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Fire Punch : 2M
     Flash : 2M, 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Punch : 2M
-    undefined : 2M
     Leer : 2L1, 1L1
     Light Screen : 2L17, 1L49
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
     Psywave : 1M
     Quick Attack : 2L1, 1L1
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Screech : 2L36, 1L37
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Swift : 2M, 2L25, 1M
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Thunder : 2M, 2L58, 1M, 1L54
     Thunderbolt : 2T, 2L47, 1M
     Thunder Punch : 2M, 2L9, 2L1, 1L42
     Thunder Shock : 1L34
     Thunder Wave : 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Magmar
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
     Confuse Ray : 2L49, 1L39
     Counter : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Ember : 2L1, 1L1
-    undefined : 2M
     Fire Blast : 2M, 2L57, 1M
     Fire Punch : 2M, 2L19, 2L1, 1L43
     Flamethrower : 2T, 2L41, 1L55
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Leer : 2L7, 2L1, 1L36
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psychic : 2M, 1M
     Psywave : 1M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
     Smog : 2L13, 2L1, 1L52
     Smokescreen : 2L25, 1L48
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M, 2L33
-    undefined : 2M
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Thunder Punch : 2M
     Toxic : 2M, 1M
 
 Pinsir
-    undefined : 2M
     Bide : 1M
     Bind : 2L13, 1L21
     Body Slam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Focus Energy : 2L7, 1L36
-    undefined : 2M
     Fury Attack : 2E
-    undefined : 2M
     Guillotine : 2L31, 1L30
     Harden : 2L25, 1L43
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Rock Throw : 2S0
     Seismic Toss : 2L19, 1M, 1L25
     Slash : 1L49
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 2L37, 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swords Dance : 2L43, 1M, 1L54
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Vise Grip : 2L1, 2S0, 1L1
 
 Tauros
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 2L13
     Horn Drill : 1M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Leer : 1L35
     Mimic : 1M
-    undefined : 2M
-    undefined : 2L26
     Quick Attack : 2S0
     Rage : 2L8, 1M, 1L44
     Rest : 2M, 2L34, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L19
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Stomp : 1L21
     Strength : 2M, 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M
-    undefined : 2M
     Tackle : 2L1, 2S0, 1L1
     Tail Whip : 2L4, 2S0, 1L28
     Take Down : 2L53, 1M, 1L51
@@ -6261,70 +4005,48 @@ Tauros
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Magikarp
     Bubble : 2S1
     Dragon Rage : 1S0
-    undefined : 2L30
-    undefined : 2S2
     Splash : 2L1, 2S2, 2S1, 1L1, 1S0
     Tackle : 2L15, 1L15
 
 Gyarados
-    undefined : 2M
     Bide : 1M
     Bite : 2L20, 1L20, 1L1
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2L25, 1M, 1L25, 1L1
-    undefined : 2M
     Fire Blast : 2M, 1M
     Flamethrower : 2T
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L40, 1L41, 1L1
     Hyper Beam : 2M, 2L50, 1M, 1L52
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L30, 1L32, 1L1
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M, 2L45
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Tackle : 1L1
     Take Down : 1M
     Thrash : 2L1
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
-    undefined : 2L35
     Waterfall : 2M
     Water Gun : 1M
-    undefined : 2M
-    undefined : 2M
 
 Lapras
-    undefined : 2M
     Aurora Beam : 2E
     Bide : 1M
     Bite : 2S0
@@ -6332,96 +4054,56 @@ Lapras
     Body Slam : 2L15, 1M, 1L25
     Bubble Beam : 1M
     Confuse Ray : 2L22, 1L31
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2E
-    undefined : 2M
-    undefined : 2S1
     Growl : 2L1, 2S1, 2S0, 1L1
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Hydro Pump : 2L57, 1L46
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 2L36, 1M, 1L38
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
     Mist : 2L8, 1L20
-    undefined : 2M
-    undefined : 2L29
-    undefined : 2M
     Psychic : 2M, 1M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M, 2L43
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L50
     Sing : 2L1, 2S1, 2S0, 1L16
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 1M
     Strength : 2M, 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Take Down : 1M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Toxic : 2M, 1M
     Water Gun : 2L1, 2S1, 2S0, 1M, 1L1
-    undefined : 2M
-    undefined : 2M
 
 Ditto
     Transform : 2L1, 1L1
 
 Eevee
-    undefined : 2M
-    undefined : 2L36
     Bide : 1M
     Bite : 2L30, 1L30, 1L37
     Body Slam : 1M
-    undefined : 2E
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2E
     Focus Energy : 2L36, 1L36
-    undefined : 2M
     Growl : 2L16, 1L16
     Growth : 2S0
     Headbutt : 2M
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Quick Attack : 2L23, 1L23, 1L27
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sand Attack : 2L8, 1L8, 1L1
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 2S0, 1L1
     Tail Whip : 2L1, 2S0, 1L1, 1L31
@@ -6430,47 +4112,30 @@ Eevee
 
 Vaporeon
     Acid Armor : 2L47, 1L47, 1L42
-    undefined : 2M
     Aurora Beam : 2L36, 1L36
     Bide : 1M
     Bite : 2L30, 1L30, 1L40
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Haze : 2L42, 1L42, 1L44
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2L52, 1L52, 1L54
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Mimic : 1M
     Mist : 1L42, 1L48
-    undefined : 2M
-    undefined : 2M
     Quick Attack : 2L23, 1L23, 1L27, 1L1
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Sand Attack : 2L8, 1L8, 1L1
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Tail Whip : 2L1, 1L1, 1L37
@@ -6478,44 +4143,27 @@ Vaporeon
     Toxic : 2M, 1M
     Waterfall : 2M
     Water Gun : 2L16, 1M, 1L16, 1L31, 1L1
-    undefined : 2M
 
 Jolteon
     Agility : 2L47, 1L47, 1L44
-    undefined : 2M
     Bide : 1M
     Body Slam : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Kick : 2L30, 1L30, 1L42
     Double Team : 2M, 1M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
     Pin Missile : 2L36, 1L36, 1L48
-    undefined : 2M
     Quick Attack : 2L23, 1L23, 1L27, 1L1
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Sand Attack : 2L8, 1L8, 1L1
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Tail Whip : 2L1, 1L1, 1L37
@@ -6525,53 +4173,35 @@ Jolteon
     Thunder Shock : 2L16, 1L16, 1L31, 1L1
     Thunder Wave : 2L42, 1M, 1L42, 1L40
     Toxic : 2M, 1M
-    undefined : 2M
 
 Flareon
-    undefined : 2M
     Bide : 1M
     Bite : 2L30, 1L30, 1L40
     Body Slam : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Ember : 2L16, 1L16, 1L31, 1L1
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Spin : 2L36, 1L36, 1L44
     Flamethrower : 2T, 2L52, 1L52, 1L54
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
-    undefined : 2M
     Leer : 2L47, 1L47, 1L42
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Quick Attack : 2L23, 1L23, 1L27, 1L1
     Rage : 1M, 1L48
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Sand Attack : 2L8, 1L8, 1L1
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
     Smog : 2L42, 1L42
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 1L1
     Tail Whip : 2L1, 1L1, 1L37
     Take Down : 1M
     Toxic : 2M, 1M
-    undefined : 2M
 
 Porygon
     Agility : 2L9, 1L35
@@ -6579,54 +4209,34 @@ Porygon
     Bide : 1M
     Blizzard : 2M, 1M
     Conversion : 2L1, 2S0, 1L1
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L32
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Psybeam : 2L12, 1L23
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Recover : 2L20, 1L28
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Sharpen : 2L24, 1L1
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Tackle : 2L1, 2S0, 1L1
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Wave : 1M
     Toxic : 2M, 1M
     Tri Attack : 2L36, 1M, 1L42
-    undefined : 2M, 2L44
 
 Omanyte
-    undefined : 2L49
-    undefined : 2M
     Aurora Beam : 2E
     Bide : 1M
     Bite : 2L13
@@ -6634,242 +4244,147 @@ Omanyte
     Body Slam : 1M
     Bubble Beam : 2E, 1M
     Constrict : 2L1, 2S0
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Haze : 2E
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 1L34
     Hydro Pump : 2L55, 1L53
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L31, 1L39
     Mimic : 1M
-    undefined : 2M, 2L37
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Rock Throw : 2S0
-    undefined : 2M
-    undefined : 2M
     Slam : 2E
-    undefined : 2M
-    undefined : 2M
     Spike Cannon : 1L46
     Substitute : 1M
     Supersonic : 2E
     Surf : 2M, 1M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Water Gun : 2L19, 1M, 1L1, 1S1
-    undefined : 2M
     Withdraw : 2L1, 2S0, 1L1, 1S1
 
 Omastar
-    undefined : 2L54
-    undefined : 2M
     Bide : 1M
     Bite : 2L13, 2L1
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Constrict : 2L1
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Attack : 1L34, 1L1
     Horn Drill : 1M
     Hydro Pump : 2L65, 1L49
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L31, 1L39
     Mimic : 1M
-    undefined : 2M, 2L37
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Spike Cannon : 2L40, 1L44
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Water Gun : 2L19, 1M, 1L1
-    undefined : 2M
     Withdraw : 2L1, 1L1
 
 Kabuto
     Absorb : 2L10, 1L34
-    undefined : 2L55
-    undefined : 2M
     Aurora Beam : 2E
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 2E, 1M
-    undefined : 2M
     Dig : 2E
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M, 2L37
-    undefined : 2E
-    undefined : 2M
-    undefined : 2M
     Harden : 2L1, 2S0, 1L1, 1S1
-    undefined : 2M
     Hydro Pump : 1L49
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L19, 1L44
     Mega Drain : 2L46
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
-    undefined : 2E
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Rock Throw : 2S0
-    undefined : 2M
     Sand Attack : 2L28
-    undefined : 2M
     Scratch : 2L1, 2S0, 1L1, 1S1
     Slash : 1L39
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Surf : 1M
-    undefined : 2M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Water Gun : 1M
 
 Kabutops
     Absorb : 2L10, 2L1, 1L34, 1L1
-    undefined : 2L65
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M, 2L37
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Harden : 2L1, 1L1
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 1L53
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
-    undefined : 2M
     Leer : 2L19, 1L46
     Mega Drain : 2L51
     Mega Kick : 1M
     Mimic : 1M
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Sand Attack : 2L28
-    undefined : 2M
     Scratch : 2L1, 1L1
     Seismic Toss : 1M
     Skull Bash : 1M
     Slash : 2L40, 1L39
-    undefined : 2M
-    undefined : 2M
     Submission : 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swords Dance : 1M
     Take Down : 1M
-    undefined : 2M
     Toxic : 2M, 1M
     Water Gun : 1M
-    undefined : 2M
 
 Aerodactyl
     Agility : 2L8, 1L1
-    undefined : 2L29
-    undefined : 2M
     Bide : 1M
     Bite : 2L15, 1L38
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 1M
     Earthquake : 2M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Flamethrower : 2T
     Fly : 2M, 1M
-    undefined : 2E
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 2L50, 1M, 1L54
-    undefined : 2M
     Mimic : 1M
-    undefined : 2M
-    undefined : 2E
     Rage : 1M
-    undefined : 2M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
     Rock Throw : 2S0
-    undefined : 2M
-    undefined : 2L36
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M, 2E
     Substitute : 1M
     Supersonic : 2L22, 1L33
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 2L43, 1M, 1L45
     Toxic : 2M, 1M
@@ -6878,68 +4393,46 @@ Aerodactyl
 
 Snorlax
     Amnesia : 2L8, 1L1
-    undefined : 2M
-    undefined : 2L22
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 2L43, 1M, 1L35
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Defense Curl : 2M, 2L15
     Double-Edge : 1M, 1L48
     Double Team : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Fissure : 1M
     Flamethrower : 2T
-    undefined : 2M
     Harden : 1L41
     Headbutt : 2M, 2L29, 1L1
-    undefined : 2M
     Hyper Beam : 2M, 2L57, 1M, 1L56
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
     Lick : 2E
     Lovely Kiss : 2S0
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
     Psychic : 2M, 1M
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 2L36, 1M, 1L1
-    undefined : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2M, 2L50
-    undefined : 2M
     Seismic Toss : 1M
     Self-Destruct : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M, 2L36
     Solar Beam : 2M, 1M
     Splash : 2S1
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
-    undefined : 2S2
     Tackle : 2L1, 2S2, 2S1, 2S0
     Take Down : 1M
     Thunder : 2M, 1M
@@ -6947,48 +4440,28 @@ Snorlax
     Thunder Punch : 2M
     Toxic : 2M, 1M
     Water Gun : 1M
-    undefined : 2M
 
 Articuno
     Agility : 2L25, 2S0, 1L55
     Bide : 1M
     Blizzard : 2M, 2L73, 1M, 1L51
     Bubble Beam : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Fly : 2M, 1M
-    undefined : 2M
     Gust : 2L1
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 2L49, 2S0, 1M, 1L1
-    undefined : 2M
     Mimic : 1M
-    undefined : 2L37, 2S0
     Mist : 2L13, 2S0, 1L60
-    undefined : 2M
     Peck : 1L1
-    undefined : 2L1
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Razor Wind : 1M
     Reflect : 2L61, 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
-    undefined : 2M
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Toxic : 2M, 1M
@@ -6998,38 +4471,22 @@ Articuno
 Zapdos
     Agility : 2L25, 2S0, 1L55
     Bide : 1M
-    undefined : 2M
-    undefined : 2M, 2L37, 2S0
     Double-Edge : 1M
     Double Team : 2M, 1M
     Drill Peck : 2L49, 2S0, 1L1
-    undefined : 2M
     Flash : 2M, 1M
     Fly : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Light Screen : 2L61, 1L60
     Mimic : 1M
-    undefined : 2M
     Peck : 2L1
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
-    undefined : 2M
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Thunder : 2M, 2L73, 1M, 1L51
@@ -7038,46 +4495,28 @@ Zapdos
     Thunder Wave : 2L13, 2S0, 1M
     Toxic : 2M, 1M
     Whirlwind : 1M
-    undefined : 2M
 
 Moltres
     Agility : 2L25, 2S0, 1L55
     Bide : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
     Ember : 2L1
-    undefined : 2M, 2L37, 2S0
     Fire Blast : 2M, 1M
     Fire Spin : 2L13, 2S0, 1L1
     Flamethrower : 2T, 2L49, 2S0
     Fly : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Leer : 1L51
     Mimic : 1M
-    undefined : 2M
     Peck : 1L1
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
-    undefined : 2M
-    undefined : 2L61
-    undefined : 2M
     Sky Attack : 2L73, 1M, 1L60
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Toxic : 2M, 1M
@@ -7086,167 +4525,105 @@ Moltres
 
 Dratini
     Agility : 2L36, 1L20
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2L22, 1M, 1L40
-    undefined : 2M
-    undefined : 2S1
     Fire Blast : 2M, 1M
     Flamethrower : 2T
-    undefined : 2M
     Haze : 2E
     Headbutt : 2M
-    undefined : 2M
     Hydro Pump : 2S0
     Hyper Beam : 2L57, 1L50
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L1, 2S0, 1L1
     Light Screen : 2E
     Mimic : 1M
     Mist : 2E
-    undefined : 2L50
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2L43
     Skull Bash : 1M
     Slam : 2L29, 1L30
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Supersonic : 2E
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Wave : 2L8, 2S1, 1M, 1L10
     Toxic : 2M, 1M
-    undefined : 2L15, 2S1
     Waterfall : 2M
     Water Gun : 1M
     Wrap : 2L1, 2S1, 2S0, 1L1
-    undefined : 2M
 
 Dragonair
     Agility : 2L38, 1L20
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2L22, 1M, 1L45
-    undefined : 2M
     Fire Blast : 2M, 1M
     Flamethrower : 2T
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Hyper Beam : 2L65, 1L55
     Ice Beam : 2T, 1M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L1, 1L1
     Mimic : 1M
-    undefined : 2L56
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2L47
     Skull Bash : 1M
     Slam : 2L29, 1L35
-    undefined : 2M
-    undefined : 2M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Wave : 2L8, 2L1, 1M, 1L10, 1L1
     Toxic : 2M, 1M
-    undefined : 2L15, 2L1
     Waterfall : 2M
     Water Gun : 1M
     Wrap : 2L1, 1L1
-    undefined : 2M
 
 Dragonite
     Agility : 2L38, 1L20, 1L1
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
-    undefined : 2M
-    undefined : 2M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 2L22, 1M, 1L45
-    undefined : 2M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
     Fly : 2M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Hyper Beam : 2M, 2L75, 1M, 1L60
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Leer : 2L1, 1L1
     Mimic : 1M
-    undefined : 2M
-    undefined : 2L61
-    undefined : 2M
     Rage : 1M
-    undefined : 2M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L47
-    undefined : 2M
     Skull Bash : 1M
     Slam : 2L29, 1L35
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Strength : 2M, 1M
     Substitute : 1M
     Surf : 2M, 1M
-    undefined : 2M
     Swift : 2M, 1M
     Take Down : 1M
     Thunder : 2M, 1M
@@ -7254,13 +4631,10 @@ Dragonite
     Thunder Punch : 2M
     Thunder Wave : 2L8, 2L1, 1M, 1L10, 1L1
     Toxic : 2M, 1M
-    undefined : 2L15, 2L1
     Waterfall : 2M
     Water Gun : 1M
-    undefined : 2M
     Wing Attack : 2L55
     Wrap : 2L1, 1L1
-    undefined : 2M
 
 Mewtwo
     Amnesia : 2L77, 1L81
@@ -7271,59 +4645,37 @@ Mewtwo
     Bubble Beam : 1M
     Confusion : 2L1
     Counter : 1M
-    undefined : 2M
-    undefined : 2M
     Disable : 2L1
     Double-Edge : 1M
     Double Team : 2M, 1M
     Dream Eater : 2M
-    undefined : 2M
-    undefined : 2M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
     Flamethrower : 2T
     Flash : 2M, 1M
-    undefined : 2M
-    undefined : 2L44, 2S0
     Headbutt : 2M
-    undefined : 2M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Kick : 1M
     Mega Punch : 1M
     Metronome : 1M
     Mimic : 1M
     Mist : 2L55, 2S0, 1L75
-    undefined : 2M
-    undefined : 2M
     Pay Day : 1M
-    undefined : 2M
     Psychic : 2M, 2L66, 2S0, 1M, 1L66, 1L1
-    undefined : 2M, 2L33, 2S0
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Recover : 2L88, 1L70
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2L99
     Seismic Toss : 1M
     Self-Destruct : 1M
-    undefined : 2M
     Skull Bash : 1M
-    undefined : 2M
-    undefined : 2M
     Solar Beam : 2M, 1M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 2L22, 1L1
     Take Down : 1M
     Teleport : 1M
@@ -7334,30 +4686,22 @@ Mewtwo
     Toxic : 2M, 1M
     Tri Attack : 1M
     Water Gun : 1M
-    undefined : 2M
 
 Mew
-    undefined : 2L50
-    undefined : 2M
     Bide : 1M
     Blizzard : 2M, 1M
     Body Slam : 1M
     Bubble Beam : 1M
     Counter : 1M
-    undefined : 2M
     Cut : 2M, 1M
     Defense Curl : 2M
-    undefined : 2M
     Dig : 2M, 1M
     Double-Edge : 1M
     Double Team : 2M, 1M
-    undefined : 2M
     Dragon Rage : 1M
     Dream Eater : 2M, 1M
-    undefined : 2M
     Earthquake : 2M, 1M
     Egg Bomb : 1M
-    undefined : 2M
     Explosion : 1M
     Fire Blast : 2M, 1M
     Fire Punch : 2M
@@ -7365,64 +4709,40 @@ Mew
     Flamethrower : 2T
     Flash : 2M, 1M
     Fly : 2M, 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Headbutt : 2M
-    undefined : 2M
     Horn Drill : 1M
     Hyper Beam : 2M, 1M
     Ice Beam : 2T, 1M
     Ice Punch : 2M
-    undefined : 2M
-    undefined : 2M
     Mega Drain : 1M
     Mega Kick : 1M
     Mega Punch : 2L20, 1M, 1L20
     Metronome : 2L30, 1M, 1L30
     Mimic : 1M
-    undefined : 2M
-    undefined : 2M
     Pay Day : 1M
     Pound : 2L1, 2S1, 1L1, 1S0
-    undefined : 2M
     Psychic : 2M, 2L40, 1M, 1L40
-    undefined : 2M
     Psywave : 1M
     Rage : 1M
-    undefined : 2M
     Razor Wind : 1M
     Reflect : 1M
     Rest : 2M, 1M
-    undefined : 2M
     Roar : 2M
     Rock Slide : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Seismic Toss : 1M
     Self-Destruct : 1M
-    undefined : 2M
     Skull Bash : 1M
     Sky Attack : 1M
-    undefined : 2M
-    undefined : 2M
-    undefined : 2M
     Soft-Boiled : 1M
     Solar Beam : 2M, 1M
-    undefined : 2M
     Strength : 2M, 1M
     Submission : 1M
     Substitute : 1M
-    undefined : 2M
     Surf : 2M, 1M
-    undefined : 2M
-    undefined : 2M
     Swift : 2M, 1M
     Swords Dance : 1M
     Take Down : 1M
     Teleport : 1M
-    undefined : 2M
     Thunder : 2M, 1M
     Thunderbolt : 2T, 1M
     Thunder Punch : 2M
@@ -7432,6 +4752,4 @@ Mew
     Tri Attack : 1M
     Waterfall : 2M
     Water Gun : 1M
-    undefined : 2M
     Whirlwind : 1M
-    undefined : 2M

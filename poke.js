@@ -194,13 +194,15 @@ function log_learnsets(file, dex, species_names, move_names) {
         text += species_names[i] + '\n';
         learnsets = dex.species.getLearnsetData(i).learnset;
         for(let j in learnsets) {
-            text += '    ' + move_names[j] + ' : ';
-            for (let k in learnsets[j]) {
-                text += learnsets[j][k];
-                if (k < learnsets[j].length - 1)
-                    text += ', ';
+            if (move_names[j]) {
+                text += '    ' + move_names[j] + ' : ';
+                for (let k in learnsets[j]) {
+                    text += learnsets[j][k];
+                    if (k < learnsets[j].length - 1)
+                        text += ', ';
+                }
+                text += '\n';
             }
-            text += '\n';
         }
 
         count++;
