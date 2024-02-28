@@ -796,9 +796,6 @@ Grim Neigh
 As One
 人马一体
 
-As One
-人马一体
-
 Lingering Aroma
 甩不掉的气味
 
@@ -897,15 +894,6 @@ Hospitality
 
 Mind’s Eye
 心眼
-
-Embody Aspect
-面影辉映
-
-Embody Aspect
-面影辉映
-
-Embody Aspect
-面影辉映
 
 Embody Aspect
 面影辉映

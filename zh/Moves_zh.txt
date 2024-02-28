@@ -1864,17 +1864,8 @@ Hyperspace Fury
 Breakneck Blitz
 究极无敌大冲撞
 
-Breakneck Blitz
-究极无敌大冲撞
-
 All-Out Pummeling
 全力无双激烈拳
-
-All-Out Pummeling
-全力无双激烈拳
-
-Supersonic Skystrike
-极速俯冲轰烈撞
 
 Supersonic Skystrike
 极速俯冲轰烈撞
@@ -1882,17 +1873,8 @@ Supersonic Skystrike
 Acid Downpour
 强酸剧毒灭绝雨
 
-Acid Downpour
-强酸剧毒灭绝雨
-
 Tectonic Rage
 地隆啸天大终结
-
-Tectonic Rage
-地隆啸天大终结
-
-Continental Crush
-毁天灭地巨岩坠
 
 Continental Crush
 毁天灭地巨岩坠
@@ -1900,17 +1882,8 @@ Continental Crush
 Savage Spin-Out
 绝对捕食回旋斩
 
-Savage Spin-Out
-绝对捕食回旋斩
-
 Never-Ending Nightmare
 无尽暗夜之诱惑
-
-Never-Ending Nightmare
-无尽暗夜之诱惑
-
-Corkscrew Crash
-超绝螺旋连击
 
 Corkscrew Crash
 超绝螺旋连击
@@ -1918,17 +1891,8 @@ Corkscrew Crash
 Inferno Overdrive
 超强极限爆焰弹
 
-Inferno Overdrive
-超强极限爆焰弹
-
 Hydro Vortex
 超级水流大漩涡
-
-Hydro Vortex
-超级水流大漩涡
-
-Bloom Doom
-绚烂缤纷花怒放
 
 Bloom Doom
 绚烂缤纷花怒放
@@ -1936,17 +1900,8 @@ Bloom Doom
 Gigavolt Havoc
 终极伏特狂雷闪
 
-Gigavolt Havoc
-终极伏特狂雷闪
-
 Shattered Psyche
 至高精神破坏波
-
-Shattered Psyche
-至高精神破坏波
-
-Subzero Slammer
-激狂大地万里冰
 
 Subzero Slammer
 激狂大地万里冰
@@ -1954,17 +1909,8 @@ Subzero Slammer
 Devastating Drake
 究极巨龙震天地
 
-Devastating Drake
-究极巨龙震天地
-
 Black Hole Eclipse
 黑洞吞噬万物灭
-
-Black Hole Eclipse
-黑洞吞噬万物灭
-
-Twinkle Tackle
-可爱星星飞天撞
 
 Twinkle Tackle
 可爱星星飞天撞

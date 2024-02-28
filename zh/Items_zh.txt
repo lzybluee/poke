@@ -1855,9 +1855,6 @@ Medal Box
 DNA Splicers
 基因之楔
 
-DNA Splicers
-基因之楔
-
 Permit
 许可证
 
@@ -1875,9 +1872,6 @@ Grubby Hanky
 
 Colress Machine
 阿克罗玛机器
-
-Dropped Item
-遗忘物
 
 Dropped Item
 遗忘物
@@ -2188,9 +2182,6 @@ Devon Scuba Gear
 Contest Costume
 演出礼服
 
-Contest Costume
-演出礼裙
-
 Magma Suit
 熔岩装
 
@@ -2280,9 +2271,6 @@ Salamencite
 
 Beedrillite
 大针蜂进化石
-
-Meteorite
-陨石
 
 Meteorite
 陨石
@@ -2476,9 +2464,6 @@ Mewnium Z
 Pikashunium Z
 智皮卡Ｚ
 
-Pikashunium Z
-智皮卡Ｚ
-
 Forage Bag
 材料袋
 
@@ -2616,9 +2601,6 @@ Polished Mud Ball
 
 Tropical Shell
 南国贝壳
-
-Leaf Letter
-树叶信
 
 Leaf Letter
 树叶信
@@ -3697,9 +3679,6 @@ Armor Pass
 Rotom Bike
 洛托姆自行车
 
-Rotom Bike
-洛托姆自行车
-
 Exp. Charm
 经验护符
 
@@ -3708,9 +3687,6 @@ Armorite Ore
 
 Mark Charm
 证章护符
-
-Reins of Unity
-牵绊缰绳
 
 Reins of Unity
 牵绊缰绳
@@ -4197,18 +4173,6 @@ Secret Medicine
 
 Tempting Charm R
 替身护符１
-
-Lost Satchel
-他人的遗失物
-
-Lost Satchel
-他人的遗失物
-
-Lost Satchel
-他人的遗失物
-
-Lost Satchel
-他人的遗失物
 
 Lost Satchel
 他人的遗失物
@@ -5584,9 +5548,6 @@ Picnic Set
 Academy Bottle
 校园水壶
 
-Academy Bottle
-校园水壶
-
 Polka-Dot Bottle
 圆点水壶
 
@@ -5595,9 +5556,6 @@ Striped Bottle
 
 Diamond Bottle
 菱纹水壶
-
-Academy Cup
-校园水杯
 
 Academy Cup
 校园水杯
@@ -5614,9 +5572,6 @@ Flower Pattern Cup
 Academy Tablecloth
 校园桌巾
 
-Academy Tablecloth
-校园桌巾
-
 Whimsical Tablecloth
 幻彩桌巾
 
@@ -5625,9 +5580,6 @@ Leafy Tablecloth
 
 Spooky Tablecloth
 鬼祟桌巾
-
-Academy Ball
-校园球
 
 Academy Ball
 校园球
@@ -5883,9 +5835,6 @@ Swift Mochi
 
 Simple Chairs
 简约椅子
-
-Academy Chairs
-校园椅子
 
 Academy Chairs
 校园椅子

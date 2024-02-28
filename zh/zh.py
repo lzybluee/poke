@@ -1,14 +1,18 @@
 def en_zh(out, en, zh):
     with open(out, 'w', encoding='utf8') as output:
+        last = ''
         with open(en, 'r', encoding='utf8') as input_en:
             en_lines = input_en.readlines()
         with open(zh, 'r', encoding='utf8') as input_zh:
             zh_lines = input_zh.readlines()
         for i in range(len(en_lines)):
-            if en_lines[i] != zh_lines[i] and not en_lines[i].startswith('?') and not en_lines[i].startswith('—'):
-                output.write(en_lines[i].strip() + '\n')
-                output.write(zh_lines[i].strip() + '\n')
+            en_line = en_lines[i].strip()
+            zh_line = zh_lines[i].strip()
+            if en_line != zh_line and en_line != last and not en_line.startswith('?') and not en_line.startswith('—'):
+                output.write(en_line + '\n')
+                output.write(zh_line + '\n')
                 output.write('\n')
+                last = en_line
 
 
 en_zh('Items_zh.txt',
