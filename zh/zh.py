@@ -5,7 +5,7 @@ def en_zh(out, en, zh):
         with open(zh, 'r', encoding='utf8') as input_zh:
             zh_lines = input_zh.readlines()
         for i in range(len(en_lines)):
-            if en_lines[i] != zh_lines[i]:
+            if en_lines[i] != zh_lines[i] and not en_lines[i].startswith('?') and not en_lines[i].startswith('—'):
                 output.write(en_lines[i].strip() + '\n')
                 output.write(zh_lines[i].strip() + '\n')
                 output.write('\n')

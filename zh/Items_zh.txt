@@ -340,9 +340,6 @@ Griseous Orb
 Tea
 茶
 
-???
-？？？
-
 Autograph
 马志士的签名
 
@@ -357,9 +354,6 @@ Burn Drive
 
 Chill Drive
 冰冻卡带
-
-???
-？？？
 
 Pokémon Box Link
 宝可梦盒
@@ -384,21 +378,6 @@ Catching Pocket
 
 Battle Pocket
 对战口袋
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
 
 Sweet Heart
 心形甜点
@@ -1276,12 +1255,6 @@ HM05
 HM06
 秘传学习器０６
 
-???
-？？？
-
-???
-？？？
-
 Explorer Kit
 探险套装
 
@@ -1863,9 +1836,6 @@ TM95
 
 Xtransceiver
 即时通讯器
-
-???
-神石
 
 Gram 1
 配送物品１
@@ -2509,18 +2479,6 @@ Pikashunium Z
 Pikashunium Z
 智皮卡Ｚ
 
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
 Forage Bag
 材料袋
 
@@ -2541,9 +2499,6 @@ Adrenaline Orb
 
 Zygarde Cube
 基格尔德多面体
-
-???
-？？？
 
 Ice Stone
 冰之石
@@ -2575,9 +2530,6 @@ Sun Flute
 Moon Flute
 月亮之笛
 
-???
-？？？
-
 Enigmatic Card
 奇异卡片
 
@@ -2598,21 +2550,6 @@ Silver Pinap Berry
 
 Golden Pinap Berry
 金色凰梨果
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
 
 Secret Key
 秘密钥匙
@@ -2688,15 +2625,6 @@ Leaf Letter
 
 Small Bouquet
 小小花束
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
 
 Lure
 引虫香水
@@ -3172,54 +3100,6 @@ Meltan Candy
 Magmar Candy
 鸭嘴火兽的糖果
 
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
 Endorsement
 推荐函
 
@@ -3232,23 +3112,11 @@ Wishing Star
 Dynamax Band
 极巨腕带
 
-???
-？？？
-
-???
-？？？
-
 Fishing Rod
 钓竿
 
 Rotom Bike
 洛托姆自行车
-
-???
-？？？
-
-???
-？？？
 
 Sausages
 粗绞肉香肠
@@ -3300,12 +3168,6 @@ Boiled Egg
 
 Camping Gear
 露营组合
-
-???
-？？？
-
-???
-？？？
 
 Rusted Sword
 腐朽的剑
@@ -3802,9 +3664,6 @@ Rotom Bike
 Catching Charm
 防晃护符
 
-???
-？？？
-
 Old Letter
 陈旧的信
 
@@ -3813,24 +3672,6 @@ Band Autograph
 
 Sonia’s Book
 索妮亚的书
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
 
 Rotom Catalog
 洛托姆型录
@@ -3967,9 +3808,6 @@ Seed of Mastery
 Poké Ball
 精灵球
 
-???
-？？？
-
 Eternal Ice
 永恒之冰
 
@@ -4032,9 +3870,6 @@ Feather Ball
 
 Pokéshi Doll
 宝可梦木娃娃
-
-???
-？？？
 
 Smoke Bomb
 烟弹
@@ -4114,9 +3949,6 @@ Max Elixir
 Stealth Spray
 匿声喷雾
 
-???
-？？？
-
 Aux Power
 进攻药丸
 
@@ -4138,23 +3970,14 @@ Forest Balm
 Iron Chunk
 碎铁
 
-???
-？？？
-
 Black Tumblestone
 黑玉石
 
 Sky Tumblestone
 天蓝玉石
 
-???
-？？？
-
 Ball of Mud
 泥丸
-
-???
-？？？
 
 Pop Pod
 惊声藻
@@ -4188,12 +4011,6 @@ Vivichoke
 
 Pep-Up Plant
 ＰＰ草
-
-???
-？？？
-
-???
-？？？
 
 Tempting Charm B
 替身护符２
@@ -4240,23 +4057,11 @@ Ultra Ball
 Feather Ball
 飞羽球
 
-???
-？？？
-
-???
-？？？
-
 Scatter Bang
 声弹
 
 Smoke Bomb
 烟弹
-
-???
-？？？
-
-???
-？？？
 
 Pokéshi Doll
 宝可梦木娃娃
@@ -4408,23 +4213,8 @@ Lost Satchel
 Lost Satchel
 他人的遗失物
 
-???
-？？？
-
 Origin Ball
 起源球
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
-
-???
-？？？
 
 Origin Ore
 起源矿石
@@ -4440,9 +4230,6 @@ Griseous Core
 
 Blank Plate
 净空石板
-
-???
-？？？
 
 Crafting Kit
 工艺套组
@@ -4470,9 +4257,6 @@ Old Verse 3
 
 Old Verse 4
 古老诗文４
-
-???
-？？？
 
 Old Verse 5
 古老诗文５
