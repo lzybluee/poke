@@ -1,0 +1,6522 @@
+None
+无
+
+Master Ball
+大师球
+
+Ultra Ball
+高级球
+
+Great Ball
+超级球
+
+Poké Ball
+精灵球
+
+Safari Ball
+狩猎球
+
+Net Ball
+捕网球
+
+Dive Ball
+潜水球
+
+Nest Ball
+巢穴球
+
+Repeat Ball
+重复球
+
+Timer Ball
+计时球
+
+Luxury Ball
+豪华球
+
+Premier Ball
+纪念球
+
+Dusk Ball
+黑暗球
+
+Heal Ball
+治愈球
+
+Quick Ball
+先机球
+
+Cherish Ball
+贵重球
+
+Potion
+伤药
+
+Antidote
+解毒药
+
+Burn Heal
+灼伤药
+
+Ice Heal
+解冻药
+
+Awakening
+解眠药
+
+Paralyze Heal
+解麻药
+
+Full Restore
+全复药
+
+Max Potion
+全满药
+
+Hyper Potion
+厉害伤药
+
+Super Potion
+好伤药
+
+Full Heal
+万灵药
+
+Revive
+活力碎片
+
+Max Revive
+活力块
+
+Fresh Water
+美味之水
+
+Soda Pop
+劲爽汽水
+
+Lemonade
+果汁牛奶
+
+Moomoo Milk
+哞哞鲜奶
+
+Energy Powder
+元气粉
+
+Energy Root
+元气根
+
+Heal Powder
+万能粉
+
+Revival Herb
+复活草
+
+Ether
+ＰＰ单项小补剂
+
+Max Ether
+ＰＰ单项全补剂
+
+Elixir
+ＰＰ多项小补剂
+
+Max Elixir
+ＰＰ多项全补剂
+
+Lava Cookie
+釜炎仙贝
+
+Berry Juice
+树果汁
+
+Sacred Ash
+圣灰
+
+HP Up
+ＨＰ增强剂
+
+Protein
+攻击增强剂
+
+Iron
+防御增强剂
+
+Carbos
+速度增强剂
+
+Calcium
+特攻增强剂
+
+Rare Candy
+神奇糖果
+
+PP Up
+ＰＰ提升剂
+
+Zinc
+特防增强剂
+
+PP Max
+ＰＰ极限提升剂
+
+Old Gateau
+森之羊羹
+
+Guard Spec.
+能力防守
+
+Dire Hit
+要害攻击
+
+X Attack
+力量强化
+
+X Defense
+防御强化
+
+X Speed
+速度强化
+
+X Accuracy
+命中强化
+
+X Sp. Atk
+特攻强化
+
+X Sp. Def
+特防强化
+
+Poké Doll
+皮皮玩偶
+
+Fluffy Tail
+向尾喵的尾巴
+
+Blue Flute
+蓝色玻璃哨
+
+Yellow Flute
+黄色玻璃哨
+
+Red Flute
+红色玻璃哨
+
+Black Flute
+黑色玻璃哨
+
+White Flute
+白色玻璃哨
+
+Shoal Salt
+浅滩海盐
+
+Shoal Shell
+浅滩贝壳
+
+Red Shard
+红色碎片
+
+Blue Shard
+蓝色碎片
+
+Yellow Shard
+黄色碎片
+
+Green Shard
+绿色碎片
+
+Super Repel
+白银喷雾
+
+Max Repel
+黄金喷雾
+
+Escape Rope
+离洞绳
+
+Repel
+除虫喷雾
+
+Sun Stone
+日之石
+
+Moon Stone
+月之石
+
+Fire Stone
+火之石
+
+Thunder Stone
+雷之石
+
+Water Stone
+水之石
+
+Leaf Stone
+叶之石
+
+Tiny Mushroom
+小蘑菇
+
+Big Mushroom
+大蘑菇
+
+Pearl
+珍珠
+
+Big Pearl
+大珍珠
+
+Stardust
+星星沙子
+
+Star Piece
+星星碎片
+
+Nugget
+金珠
+
+Heart Scale
+心之鳞片
+
+Honey
+甜甜蜜
+
+Growth Mulch
+速速肥
+
+Damp Mulch
+湿湿肥
+
+Stable Mulch
+久久肥
+
+Gooey Mulch
+粘粘肥
+
+Root Fossil
+根状化石
+
+Claw Fossil
+爪子化石
+
+Helix Fossil
+贝壳化石
+
+Dome Fossil
+甲壳化石
+
+Old Amber
+秘密琥珀
+
+Armor Fossil
+盾甲化石
+
+Skull Fossil
+头盖化石
+
+Rare Bone
+贵重骨头
+
+Shiny Stone
+光之石
+
+Dusk Stone
+暗之石
+
+Dawn Stone
+觉醒之石
+
+Oval Stone
+浑圆之石
+
+Odd Keystone
+楔石
+
+Griseous Orb
+白金宝珠
+
+Tea
+茶
+
+???
+？？？
+
+Autograph
+马志士的签名
+
+Douse Drive
+水流卡带
+
+Shock Drive
+闪电卡带
+
+Burn Drive
+火焰卡带
+
+Chill Drive
+冰冻卡带
+
+???
+？？？
+
+Pokémon Box Link
+宝可梦盒
+
+Medicine Pocket
+回复口袋
+
+TM Case
+招式学习器盒
+
+Candy Jar
+糖果罐
+
+Power-Up Pocket
+强化口袋
+
+Clothing Trunk
+换装箱
+
+Catching Pocket
+捕捉口袋
+
+Battle Pocket
+对战口袋
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+Sweet Heart
+心形甜点
+
+Adamant Orb
+金刚宝珠
+
+Lustrous Orb
+白玉宝珠
+
+Greet Mail
+初次邮件
+
+Favored Mail
+喜爱邮件
+
+RSVP Mail
+邀请邮件
+
+Thanks Mail
+感谢邮件
+
+Inquiry Mail
+询问邮件
+
+Like Mail
+推荐邮件
+
+Reply Mail
+回复邮件
+
+Bridge Mail S
+桥梁邮件Ｓ
+
+Bridge Mail D
+桥梁邮件Ｈ
+
+Bridge Mail T
+桥梁邮件Ｃ
+
+Bridge Mail V
+桥梁邮件Ｖ
+
+Bridge Mail M
+桥梁邮件Ｗ
+
+Cheri Berry
+樱子果
+
+Chesto Berry
+零余果
+
+Pecha Berry
+桃桃果
+
+Rawst Berry
+莓莓果
+
+Aspear Berry
+利木果
+
+Leppa Berry
+苹野果
+
+Oran Berry
+橙橙果
+
+Persim Berry
+柿仔果
+
+Lum Berry
+木子果
+
+Sitrus Berry
+文柚果
+
+Figy Berry
+勿花果
+
+Wiki Berry
+异奇果
+
+Mago Berry
+芒芒果
+
+Aguav Berry
+乐芭果
+
+Iapapa Berry
+芭亚果
+
+Razz Berry
+蔓莓果
+
+Bluk Berry
+墨莓果
+
+Nanab Berry
+蕉香果
+
+Wepear Berry
+西梨果
+
+Pinap Berry
+凰梨果
+
+Pomeg Berry
+榴石果
+
+Kelpsy Berry
+藻根果
+
+Qualot Berry
+比巴果
+
+Hondew Berry
+哈密果
+
+Grepa Berry
+萄葡果
+
+Tamato Berry
+茄番果
+
+Cornn Berry
+玉黍果
+
+Magost Berry
+岳竹果
+
+Rabuta Berry
+茸丹果
+
+Nomel Berry
+檬柠果
+
+Spelon Berry
+刺角果
+
+Pamtre Berry
+椰木果
+
+Watmel Berry
+瓜西果
+
+Durin Berry
+金枕果
+
+Belue Berry
+靛莓果
+
+Occa Berry
+巧可果
+
+Passho Berry
+千香果
+
+Wacan Berry
+烛木果
+
+Rindo Berry
+罗子果
+
+Yache Berry
+番荔果
+
+Chople Berry
+莲蒲果
+
+Kebia Berry
+通通果
+
+Shuca Berry
+腰木果
+
+Coba Berry
+棱瓜果
+
+Payapa Berry
+福禄果
+
+Tanga Berry
+扁樱果
+
+Charti Berry
+草蚕果
+
+Kasib Berry
+佛柑果
+
+Haban Berry
+莓榴果
+
+Colbur Berry
+刺耳果
+
+Babiri Berry
+霹霹果
+
+Chilan Berry
+灯浆果
+
+Liechi Berry
+枝荔果
+
+Ganlon Berry
+龙睛果
+
+Salac Berry
+沙鳞果
+
+Petaya Berry
+龙火果
+
+Apicot Berry
+杏仔果
+
+Lansat Berry
+兰萨果
+
+Starf Berry
+星桃果
+
+Enigma Berry
+谜芝果
+
+Micle Berry
+奇秘果
+
+Custap Berry
+释陀果
+
+Jaboca Berry
+嘉珍果
+
+Rowap Berry
+雾莲果
+
+Bright Powder
+光粉
+
+White Herb
+白色香草
+
+Macho Brace
+强制锻炼器
+
+Exp. Share
+学习装置
+
+Quick Claw
+先制之爪
+
+Soothe Bell
+安抚之铃
+
+Mental Herb
+心灵香草
+
+Choice Band
+讲究头带
+
+King’s Rock
+王者之证
+
+Silver Powder
+银粉
+
+Amulet Coin
+护符金币
+
+Cleanse Tag
+洁净之符
+
+Soul Dew
+心之水滴
+
+Deep Sea Tooth
+深海之牙
+
+Deep Sea Scale
+深海鳞片
+
+Smoke Ball
+烟雾球
+
+Everstone
+不变之石
+
+Focus Band
+气势头带
+
+Lucky Egg
+幸运蛋
+
+Scope Lens
+焦点镜
+
+Metal Coat
+金属膜
+
+Leftovers
+吃剩的东西
+
+Dragon Scale
+龙之鳞片
+
+Light Ball
+电气球
+
+Soft Sand
+柔软沙子
+
+Hard Stone
+硬石头
+
+Miracle Seed
+奇迹种子
+
+Black Glasses
+黑色眼镜
+
+Black Belt
+黑带
+
+Magnet
+磁铁
+
+Mystic Water
+神秘水滴
+
+Sharp Beak
+锐利鸟嘴
+
+Poison Barb
+毒针
+
+Never-Melt Ice
+不融冰
+
+Spell Tag
+咒术之符
+
+Twisted Spoon
+弯曲的汤匙
+
+Charcoal
+木炭
+
+Dragon Fang
+龙之牙
+
+Silk Scarf
+丝绸围巾
+
+Upgrade
+升级数据
+
+Shell Bell
+贝壳之铃
+
+Sea Incense
+海潮薰香
+
+Lax Incense
+悠闲薰香
+
+Lucky Punch
+吉利拳
+
+Metal Powder
+金属粉
+
+Thick Club
+粗骨头
+
+Leek
+大葱
+
+Red Scarf
+红色头巾
+
+Blue Scarf
+蓝色头巾
+
+Pink Scarf
+粉红头巾
+
+Green Scarf
+绿色头巾
+
+Yellow Scarf
+黄色头巾
+
+Wide Lens
+广角镜
+
+Muscle Band
+力量头带
+
+Wise Glasses
+博识眼镜
+
+Expert Belt
+达人带
+
+Light Clay
+光之黏土
+
+Life Orb
+生命宝珠
+
+Power Herb
+强力香草
+
+Toxic Orb
+剧毒宝珠
+
+Flame Orb
+火焰宝珠
+
+Quick Powder
+速度粉
+
+Focus Sash
+气势披带
+
+Zoom Lens
+对焦镜
+
+Metronome
+节拍器
+
+Iron Ball
+黑色铁球
+
+Lagging Tail
+后攻之尾
+
+Destiny Knot
+红线
+
+Black Sludge
+黑色污泥
+
+Icy Rock
+冰冷岩石
+
+Smooth Rock
+沙沙岩石
+
+Heat Rock
+炽热岩石
+
+Damp Rock
+潮湿岩石
+
+Grip Claw
+紧缠钩爪
+
+Choice Scarf
+讲究围巾
+
+Sticky Barb
+附着针
+
+Power Bracer
+力量护腕
+
+Power Belt
+力量腰带
+
+Power Lens
+力量镜
+
+Power Band
+力量束带
+
+Power Anklet
+力量护踝
+
+Power Weight
+力量负重
+
+Shed Shell
+美丽空壳
+
+Big Root
+大根茎
+
+Choice Specs
+讲究眼镜
+
+Flame Plate
+火球石板
+
+Splash Plate
+水滴石板
+
+Zap Plate
+雷电石板
+
+Meadow Plate
+碧绿石板
+
+Icicle Plate
+冰柱石板
+
+Fist Plate
+拳头石板
+
+Toxic Plate
+剧毒石板
+
+Earth Plate
+大地石板
+
+Sky Plate
+蓝天石板
+
+Mind Plate
+神奇石板
+
+Insect Plate
+玉虫石板
+
+Stone Plate
+岩石石板
+
+Spooky Plate
+妖怪石板
+
+Draco Plate
+龙之石板
+
+Dread Plate
+恶颜石板
+
+Iron Plate
+钢铁石板
+
+Odd Incense
+奇异薰香
+
+Rock Incense
+岩石薰香
+
+Full Incense
+饱腹薰香
+
+Wave Incense
+涟漪薰香
+
+Rose Incense
+花朵薰香
+
+Luck Incense
+幸运薰香
+
+Pure Incense
+洁净薰香
+
+Protector
+护具
+
+Electirizer
+电力增幅器
+
+Magmarizer
+熔岩增幅器
+
+Dubious Disc
+可疑补丁
+
+Reaper Cloth
+灵界之布
+
+Razor Claw
+锐利之爪
+
+Razor Fang
+锐利之牙
+
+TM01
+招式学习器０１
+
+TM02
+招式学习器０２
+
+TM03
+招式学习器０３
+
+TM04
+招式学习器０４
+
+TM05
+招式学习器０５
+
+TM06
+招式学习器０６
+
+TM07
+招式学习器０７
+
+TM08
+招式学习器０８
+
+TM09
+招式学习器０９
+
+TM10
+招式学习器１０
+
+TM11
+招式学习器１１
+
+TM12
+招式学习器１２
+
+TM13
+招式学习器１３
+
+TM14
+招式学习器１４
+
+TM15
+招式学习器１５
+
+TM16
+招式学习器１６
+
+TM17
+招式学习器１７
+
+TM18
+招式学习器１８
+
+TM19
+招式学习器１９
+
+TM20
+招式学习器２０
+
+TM21
+招式学习器２１
+
+TM22
+招式学习器２２
+
+TM23
+招式学习器２３
+
+TM24
+招式学习器２４
+
+TM25
+招式学习器２５
+
+TM26
+招式学习器２６
+
+TM27
+招式学习器２７
+
+TM28
+招式学习器２８
+
+TM29
+招式学习器２９
+
+TM30
+招式学习器３０
+
+TM31
+招式学习器３１
+
+TM32
+招式学习器３２
+
+TM33
+招式学习器３３
+
+TM34
+招式学习器３４
+
+TM35
+招式学习器３５
+
+TM36
+招式学习器３６
+
+TM37
+招式学习器３７
+
+TM38
+招式学习器３８
+
+TM39
+招式学习器３９
+
+TM40
+招式学习器４０
+
+TM41
+招式学习器４１
+
+TM42
+招式学习器４２
+
+TM43
+招式学习器４３
+
+TM44
+招式学习器４４
+
+TM45
+招式学习器４５
+
+TM46
+招式学习器４６
+
+TM47
+招式学习器４７
+
+TM48
+招式学习器４８
+
+TM49
+招式学习器４９
+
+TM50
+招式学习器５０
+
+TM51
+招式学习器５１
+
+TM52
+招式学习器５２
+
+TM53
+招式学习器５３
+
+TM54
+招式学习器５４
+
+TM55
+招式学习器５５
+
+TM56
+招式学习器５６
+
+TM57
+招式学习器５７
+
+TM58
+招式学习器５８
+
+TM59
+招式学习器５９
+
+TM60
+招式学习器６０
+
+TM61
+招式学习器６１
+
+TM62
+招式学习器６２
+
+TM63
+招式学习器６３
+
+TM64
+招式学习器６４
+
+TM65
+招式学习器６５
+
+TM66
+招式学习器６６
+
+TM67
+招式学习器６７
+
+TM68
+招式学习器６８
+
+TM69
+招式学习器６９
+
+TM70
+招式学习器７０
+
+TM71
+招式学习器７１
+
+TM72
+招式学习器７２
+
+TM73
+招式学习器７３
+
+TM74
+招式学习器７４
+
+TM75
+招式学习器７５
+
+TM76
+招式学习器７６
+
+TM77
+招式学习器７７
+
+TM78
+招式学习器７８
+
+TM79
+招式学习器７９
+
+TM80
+招式学习器８０
+
+TM81
+招式学习器８１
+
+TM82
+招式学习器８２
+
+TM83
+招式学习器８３
+
+TM84
+招式学习器８４
+
+TM85
+招式学习器８５
+
+TM86
+招式学习器８６
+
+TM87
+招式学习器８７
+
+TM88
+招式学习器８８
+
+TM89
+招式学习器８９
+
+TM90
+招式学习器９０
+
+TM91
+招式学习器９１
+
+TM92
+招式学习器９２
+
+HM01
+秘传学习器０１
+
+HM02
+秘传学习器０２
+
+HM03
+秘传学习器０３
+
+HM04
+秘传学习器０４
+
+HM05
+秘传学习器０５
+
+HM06
+秘传学习器０６
+
+???
+？？？
+
+???
+？？？
+
+Explorer Kit
+探险套装
+
+Loot Sack
+宝物袋
+
+Rule Book
+规则书
+
+Poké Radar
+宝可追踪
+
+Point Card
+点数卡
+
+Guidebook
+冒险笔记
+
+Sticker Case
+贴纸盒
+
+Fashion Case
+饰品盒
+
+Sticker Bag
+贴纸袋
+
+Pal Pad
+朋友手册
+
+Works Key
+发电厂钥匙
+
+Old Charm
+古代护符
+
+Galactic Key
+银河队钥匙
+
+Red Chain
+红色锁链
+
+Town Map
+城镇地图
+
+Vs. Seeker
+对战搜寻器
+
+Coin Case
+代币盒
+
+Old Rod
+破旧钓竿
+
+Good Rod
+好钓竿
+
+Super Rod
+厉害钓竿
+
+Sprayduck
+可达鸭喷壶
+
+Poffin Case
+宝芬盒
+
+Bike
+自行车
+
+Suite Key
+房间钥匙
+
+Oak’s Letter
+大木的信
+
+Lunar Feather
+新月之羽
+
+Member Card
+会员卡
+
+Azure Flute
+天界之笛
+
+S.S. Ticket
+船票
+
+Contest Pass
+华丽大赛参加证
+
+Magma Stone
+火山镇石
+
+Parcel
+包裹
+
+Coupon 1
+兑换券１
+
+Coupon 2
+兑换券２
+
+Coupon 3
+兑换券３
+
+Storage Key
+仓库钥匙
+
+Secret Medicine
+秘传之药
+
+Vs. Recorder
+对战记录器
+
+Gracidea
+葛拉西蒂亚花
+
+Secret Key
+秘密钥匙
+
+Apricorn Box
+球果盒
+
+Unown Report
+未知图腾笔记
+
+Berry Pots
+树果种植盆
+
+Dowsing Machine
+探宝器
+
+Blue Card
+蓝卡
+
+Slowpoke Tail
+美味尾巴
+
+Clear Bell
+透明铃铛
+
+Card Key
+钥匙卡
+
+Basement Key
+地下钥匙
+
+Squirt Bottle
+杰尼龟喷壶
+
+Red Scale
+红色鳞片
+
+Lost Item
+遗失物
+
+Pass
+磁浮列车自由票
+
+Machine Part
+机械零件
+
+Silver Feather
+银色之羽
+
+Rainbow Feather
+虹色之羽
+
+Mystery Egg
+神奇蛋
+
+Red Apricorn
+红球果
+
+Blue Apricorn
+蓝球果
+
+Yellow Apricorn
+黄球果
+
+Green Apricorn
+绿球果
+
+Pink Apricorn
+粉球果
+
+White Apricorn
+白球果
+
+Black Apricorn
+黑球果
+
+Fast Ball
+速度球
+
+Level Ball
+等级球
+
+Lure Ball
+诱饵球
+
+Heavy Ball
+沉重球
+
+Love Ball
+甜蜜球
+
+Friend Ball
+友友球
+
+Moon Ball
+月亮球
+
+Sport Ball
+竞赛球
+
+Park Ball
+公园球
+
+Photo Album
+相册
+
+GB Sounds
+ＧＢ播放器
+
+Tidal Bell
+海声铃铛
+
+Rage Candy Bar
+愤怒馒头
+
+Data Card 01
+数据卡０１
+
+Data Card 02
+数据卡０２
+
+Data Card 03
+数据卡０３
+
+Data Card 04
+数据卡０４
+
+Data Card 05
+数据卡０５
+
+Data Card 06
+数据卡０６
+
+Data Card 07
+数据卡０７
+
+Data Card 08
+数据卡０８
+
+Data Card 09
+数据卡０９
+
+Data Card 10
+数据卡１０
+
+Data Card 11
+数据卡１１
+
+Data Card 12
+数据卡１２
+
+Data Card 13
+数据卡１３
+
+Data Card 14
+数据卡１４
+
+Data Card 15
+数据卡１５
+
+Data Card 16
+数据卡１６
+
+Data Card 17
+数据卡１７
+
+Data Card 18
+数据卡１８
+
+Data Card 19
+数据卡１９
+
+Data Card 20
+数据卡２０
+
+Data Card 21
+数据卡２１
+
+Data Card 22
+数据卡２２
+
+Data Card 23
+数据卡２３
+
+Data Card 24
+数据卡２４
+
+Data Card 25
+数据卡２５
+
+Data Card 26
+数据卡２６
+
+Data Card 27
+数据卡２７
+
+Jade Orb
+草绿色宝珠
+
+Lock Capsule
+上锁的容器
+
+Red Orb
+朱红色宝珠
+
+Blue Orb
+靛蓝色宝珠
+
+Enigma Stone
+谜之水晶
+
+Prism Scale
+美丽鳞片
+
+Eviolite
+进化奇石
+
+Float Stone
+轻石
+
+Rocky Helmet
+凸凸头盔
+
+Air Balloon
+气球
+
+Red Card
+红牌
+
+Ring Target
+标靶
+
+Binding Band
+紧绑束带
+
+Absorb Bulb
+球根
+
+Cell Battery
+充电电池
+
+Eject Button
+逃脱按键
+
+Fire Gem
+火之宝石
+
+Water Gem
+水之宝石
+
+Electric Gem
+电之宝石
+
+Grass Gem
+草之宝石
+
+Ice Gem
+冰之宝石
+
+Fighting Gem
+格斗宝石
+
+Poison Gem
+毒之宝石
+
+Ground Gem
+地面宝石
+
+Flying Gem
+飞行宝石
+
+Psychic Gem
+超能力宝石
+
+Bug Gem
+虫之宝石
+
+Rock Gem
+岩石宝石
+
+Ghost Gem
+幽灵宝石
+
+Dragon Gem
+龙之宝石
+
+Dark Gem
+恶之宝石
+
+Steel Gem
+钢之宝石
+
+Normal Gem
+一般宝石
+
+Health Feather
+体力之羽
+
+Muscle Feather
+肌力之羽
+
+Resist Feather
+抵抗之羽
+
+Genius Feather
+智力之羽
+
+Clever Feather
+精神之羽
+
+Swift Feather
+瞬发之羽
+
+Pretty Feather
+美丽之羽
+
+Cover Fossil
+背盖化石
+
+Plume Fossil
+羽毛化石
+
+Liberty Pass
+自由船票
+
+Pass Orb
+释出之玉
+
+Dream Ball
+梦境球
+
+Poké Toy
+宝可尾草
+
+Prop Case
+物品箱
+
+Dragon Skull
+龙之骨
+
+Balm Mushroom
+芳香蘑菇
+
+Big Nugget
+巨大金珠
+
+Pearl String
+丸子珍珠
+
+Comet Shard
+彗星碎片
+
+Relic Copper
+古代铜币
+
+Relic Silver
+古代银币
+
+Relic Gold
+古代金币
+
+Relic Vase
+古代之壶
+
+Relic Band
+古代手镯
+
+Relic Statue
+古代石像
+
+Relic Crown
+古代王冠
+
+Casteliacone
+飞云冰淇淋
+
+Dire Hit 2
+要害攻击２
+
+X Speed 2
+速度强化２
+
+X Sp. Atk 2
+特攻强化２
+
+X Sp. Def 2
+特防强化２
+
+X Defense 2
+防御强化２
+
+X Attack 2
+力量强化２
+
+X Accuracy 2
+命中强化２
+
+X Speed 3
+速度强化３
+
+X Sp. Atk 3
+特攻强化３
+
+X Sp. Def 3
+特防强化３
+
+X Defense 3
+防御强化３
+
+X Attack 3
+力量强化３
+
+X Accuracy 3
+命中强化３
+
+X Speed 6
+速度强化６
+
+X Sp. Atk 6
+特攻强化６
+
+X Sp. Def 6
+特防强化６
+
+X Defense 6
+防御强化６
+
+X Attack 6
+力量强化６
+
+X Accuracy 6
+命中强化６
+
+Ability Urge
+？？？
+
+Item Drop
+？？？
+
+Item Urge
+？？？
+
+Reset Urge
+？？？
+
+Dire Hit 3
+要害攻击３
+
+Light Stone
+光明石
+
+Dark Stone
+黑暗石
+
+TM93
+招式学习器９３
+
+TM94
+招式学习器９４
+
+TM95
+招式学习器９５
+
+Xtransceiver
+即时通讯器
+
+???
+神石
+
+Gram 1
+配送物品１
+
+Gram 2
+配送物品２
+
+Gram 3
+配送物品３
+
+Xtransceiver
+即时通讯器
+
+Medal Box
+奖牌盒
+
+DNA Splicers
+基因之楔
+
+DNA Splicers
+基因之楔
+
+Permit
+许可证
+
+Oval Charm
+圆形护符
+
+Shiny Charm
+闪耀护符
+
+Plasma Card
+等离子卡
+
+Grubby Hanky
+脏手帕
+
+Colress Machine
+阿克罗玛机器
+
+Dropped Item
+遗忘物
+
+Dropped Item
+遗忘物
+
+Reveal Glass
+现形镜
+
+Weakness Policy
+弱点保险
+
+Assault Vest
+突击背心
+
+Holo Caster
+全息影像通讯器
+
+Prof’s Letter
+博士的信
+
+Roller Skates
+轮滑鞋
+
+Pixie Plate
+妖精石板
+
+Ability Capsule
+特性胶囊
+
+Whipped Dream
+泡沫奶油
+
+Sachet
+香袋
+
+Luminous Moss
+光苔
+
+Snowball
+雪球
+
+Safety Goggles
+防尘护目镜
+
+Poké Flute
+宝可梦之笛
+
+Rich Mulch
+硕果肥
+
+Surprise Mulch
+吃惊肥
+
+Boost Mulch
+劲劲肥
+
+Amaze Mulch
+超效肥
+
+Gengarite
+耿鬼进化石
+
+Gardevoirite
+沙奈朵进化石
+
+Ampharosite
+电龙进化石
+
+Venusaurite
+妙蛙花进化石
+
+Charizardite X
+喷火龙进化石Ｘ
+
+Blastoisinite
+水箭龟进化石
+
+Mewtwonite X
+超梦进化石Ｘ
+
+Mewtwonite Y
+超梦进化石Ｙ
+
+Blazikenite
+火焰鸡进化石
+
+Medichamite
+恰雷姆进化石
+
+Houndoominite
+黑鲁加进化石
+
+Aggronite
+波士可多拉进化石
+
+Banettite
+诅咒娃娃进化石
+
+Tyranitarite
+班基拉斯进化石
+
+Scizorite
+巨钳螳螂进化石
+
+Pinsirite
+凯罗斯进化石
+
+Aerodactylite
+化石翼龙进化石
+
+Lucarionite
+路卡利欧进化石
+
+Abomasite
+暴雪王进化石
+
+Kangaskhanite
+袋兽进化石
+
+Gyaradosite
+暴鲤龙进化石
+
+Absolite
+阿勃梭鲁进化石
+
+Charizardite Y
+喷火龙进化石Ｙ
+
+Alakazite
+胡地进化石
+
+Heracronite
+赫拉克罗斯进化石
+
+Mawilite
+大嘴娃进化石
+
+Manectite
+雷电兽进化石
+
+Garchompite
+烈咬陆鲨进化石
+
+Latiasite
+拉帝亚斯进化石
+
+Latiosite
+拉帝欧斯进化石
+
+Roseli Berry
+洛玫果
+
+Kee Berry
+亚开果
+
+Maranga Berry
+香罗果
+
+Sprinklotad
+莲叶童子喷壶
+
+TM96
+招式学习器９６
+
+TM97
+招式学习器９７
+
+TM98
+招式学习器９８
+
+TM99
+招式学习器９９
+
+TM100
+招式学习器１００
+
+Power Plant Pass
+发电厂通行证
+
+Mega Ring
+超级环
+
+Intriguing Stone
+似珍石
+
+Common Stone
+常见石
+
+Discount Coupon
+折价券
+
+Elevator Key
+电梯钥匙
+
+TMV Pass
+ＴＭＶ自由票
+
+Honor of Kalos
+卡洛斯勋章
+
+Adventure Guide
+探险心得
+
+Strange Souvenir
+神秘摆设
+
+Lens Case
+隐形眼镜盒
+
+Makeup Bag
+化妆包
+
+Travel Trunk
+衣物箱
+
+Lumiose Galette
+密阿雷格雷派饼
+
+Shalour Sable
+娑罗沙布蕾
+
+Jaw Fossil
+颚之化石
+
+Sail Fossil
+鳍之化石
+
+Looker Ticket
+帅哥券
+
+Bike
+自行车
+
+Holo Caster
+全息影像通讯器
+
+Fairy Gem
+妖精宝石
+
+Mega Charm
+超级坠饰
+
+Mega Glove
+超级手套
+
+Mach Bike
+音速自行车
+
+Acro Bike
+越野自行车
+
+Wailmer Pail
+吼吼鲸喷壶
+
+Devon Parts
+得文的物品
+
+Soot Sack
+集灰袋
+
+Basement Key
+地下钥匙
+
+Pokéblock Kit
+宝可方块套装
+
+Letter
+给大吾的信
+
+Eon Ticket
+无限船票
+
+Scanner
+探测器
+
+Go-Goggles
+ＧＯＧＯ护目镜
+
+Meteorite
+陨石
+
+Key to Room 1
+１号客房的钥匙
+
+Key to Room 2
+２号客房的钥匙
+
+Key to Room 4
+４号客房的钥匙
+
+Key to Room 6
+６号客房的钥匙
+
+Storage Key
+仓库钥匙
+
+Devon Scope
+得文侦测镜
+
+S.S. Ticket
+船票
+
+HM07
+秘传学习器０７
+
+Devon Scuba Gear
+得文潜水装备
+
+Contest Costume
+演出礼服
+
+Contest Costume
+演出礼裙
+
+Magma Suit
+熔岩装
+
+Aqua Suit
+海洋装
+
+Pair of Tickets
+双人票
+
+Mega Bracelet
+超级手镯
+
+Mega Pendant
+超级吊坠
+
+Mega Glasses
+超级眼镜
+
+Mega Anchor
+超级船锚
+
+Mega Stickpin
+超级领针
+
+Mega Tiara
+超级头冠
+
+Mega Anklet
+超级脚镯
+
+Meteorite
+陨石
+
+Swampertite
+巨沼怪进化石
+
+Sceptilite
+蜥蜴王进化石
+
+Sablenite
+勾魂眼进化石
+
+Altarianite
+七夕青鸟进化石
+
+Galladite
+艾路雷朵进化石
+
+Audinite
+差不多娃娃进化石
+
+Metagrossite
+巨金怪进化石
+
+Sharpedonite
+巨牙鲨进化石
+
+Slowbronite
+呆壳兽进化石
+
+Steelixite
+大钢蛇进化石
+
+Pidgeotite
+大比鸟进化石
+
+Glalitite
+冰鬼护进化石
+
+Diancite
+蒂安希进化石
+
+Prison Bottle
+惩戒之壶
+
+Mega Cuff
+超级护腕
+
+Cameruptite
+喷火驼进化石
+
+Lopunnite
+长耳兔进化石
+
+Salamencite
+暴飞龙进化石
+
+Beedrillite
+大针蜂进化石
+
+Meteorite
+陨石
+
+Meteorite
+陨石
+
+Key Stone
+钥石
+
+Meteorite Shard
+陨石碎片
+
+Eon Flute
+无限之笛
+
+Normalium Z
+一般Ｚ
+
+Firium Z
+火Ｚ
+
+Waterium Z
+水Ｚ
+
+Electrium Z
+电Ｚ
+
+Grassium Z
+草Ｚ
+
+Icium Z
+冰Ｚ
+
+Fightinium Z
+格斗Ｚ
+
+Poisonium Z
+毒Ｚ
+
+Groundium Z
+地面Ｚ
+
+Flyinium Z
+飞行Ｚ
+
+Psychium Z
+超能力Ｚ
+
+Buginium Z
+虫Ｚ
+
+Rockium Z
+岩石Ｚ
+
+Ghostium Z
+幽灵Ｚ
+
+Dragonium Z
+龙Ｚ
+
+Darkinium Z
+恶Ｚ
+
+Steelium Z
+钢Ｚ
+
+Fairium Z
+妖精Ｚ
+
+Pikanium Z
+皮卡丘Ｚ
+
+Bottle Cap
+银色王冠
+
+Gold Bottle Cap
+金色王冠
+
+Z-Ring
+Ｚ手环
+
+Decidium Z
+狙射树枭Ｚ
+
+Incinium Z
+炽焰咆哮虎Ｚ
+
+Primarium Z
+西狮海壬Ｚ
+
+Tapunium Z
+卡璞Ｚ
+
+Marshadium Z
+玛夏多Ｚ
+
+Aloraichium Z
+阿罗雷Ｚ
+
+Snorlium Z
+卡比兽Ｚ
+
+Eevium Z
+伊布Ｚ
+
+Mewnium Z
+梦幻Ｚ
+
+Normalium Z
+一般Ｚ
+
+Firium Z
+火Ｚ
+
+Waterium Z
+水Ｚ
+
+Electrium Z
+电Ｚ
+
+Grassium Z
+草Ｚ
+
+Icium Z
+冰Ｚ
+
+Fightinium Z
+格斗Ｚ
+
+Poisonium Z
+毒Ｚ
+
+Groundium Z
+地面Ｚ
+
+Flyinium Z
+飞行Ｚ
+
+Psychium Z
+超能力Ｚ
+
+Buginium Z
+虫Ｚ
+
+Rockium Z
+岩石Ｚ
+
+Ghostium Z
+幽灵Ｚ
+
+Dragonium Z
+龙Ｚ
+
+Darkinium Z
+恶Ｚ
+
+Steelium Z
+钢Ｚ
+
+Fairium Z
+妖精Ｚ
+
+Pikanium Z
+皮卡丘Ｚ
+
+Decidium Z
+狙射树枭Ｚ
+
+Incinium Z
+炽焰咆哮虎Ｚ
+
+Primarium Z
+西狮海壬Ｚ
+
+Tapunium Z
+卡璞Ｚ
+
+Marshadium Z
+玛夏多Ｚ
+
+Aloraichium Z
+阿罗雷Ｚ
+
+Snorlium Z
+卡比兽Ｚ
+
+Eevium Z
+伊布Ｚ
+
+Mewnium Z
+梦幻Ｚ
+
+Pikashunium Z
+智皮卡Ｚ
+
+Pikashunium Z
+智皮卡Ｚ
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+Forage Bag
+材料袋
+
+Fishing Rod
+钓竿
+
+Professor’s Mask
+博士的面罩
+
+Festival Ticket
+圆庆票
+
+Sparkling Stone
+光辉石
+
+Adrenaline Orb
+胆怯球
+
+Zygarde Cube
+基格尔德多面体
+
+???
+？？？
+
+Ice Stone
+冰之石
+
+Ride Pager
+骑行装置
+
+Beast Ball
+究极球
+
+Big Malasada
+大马拉萨达
+
+Red Nectar
+朱红色花蜜
+
+Yellow Nectar
+金黄色花蜜
+
+Pink Nectar
+桃粉色花蜜
+
+Purple Nectar
+兰紫色花蜜
+
+Sun Flute
+太阳之笛
+
+Moon Flute
+月亮之笛
+
+???
+？？？
+
+Enigmatic Card
+奇异卡片
+
+Silver Razz Berry
+银色蔓莓果
+
+Golden Razz Berry
+金色蔓莓果
+
+Silver Nanab Berry
+银色蕉香果
+
+Golden Nanab Berry
+金色蕉香果
+
+Silver Pinap Berry
+银色凰梨果
+
+Golden Pinap Berry
+金色凰梨果
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+Secret Key
+秘密钥匙
+
+S.S. Ticket
+船票
+
+Silph Scope
+西尔佛检视镜
+
+Parcel
+包裹
+
+Card Key
+钥匙卡
+
+Gold Teeth
+金假牙
+
+Lift Key
+电梯钥匙
+
+Terrain Extender
+大地膜
+
+Protective Pads
+部位护具
+
+Electric Seed
+电气种子
+
+Psychic Seed
+精神种子
+
+Misty Seed
+薄雾种子
+
+Grassy Seed
+青草种子
+
+Stretchy Spring
+松掉的弹簧
+
+Chalky Stone
+粉笔石
+
+Marble
+弹珠
+
+Lone Earring
+一边的耳环
+
+Beach Glass
+海边的玻璃
+
+Gold Leaf
+金色叶子
+
+Silver Leaf
+银色叶子
+
+Polished Mud Ball
+光滑泥球
+
+Tropical Shell
+南国贝壳
+
+Leaf Letter
+树叶信
+
+Leaf Letter
+树叶信
+
+Small Bouquet
+小小花束
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+Lure
+引虫香水
+
+Super Lure
+白银香水
+
+Max Lure
+黄金香水
+
+Pewter Crunchies
+深灰米果
+
+Fighting Memory
+战斗存储碟
+
+Flying Memory
+飞翔存储碟
+
+Poison Memory
+毒存储碟
+
+Ground Memory
+大地存储碟
+
+Rock Memory
+岩石存储碟
+
+Bug Memory
+虫子存储碟
+
+Ghost Memory
+幽灵存储碟
+
+Steel Memory
+钢铁存储碟
+
+Fire Memory
+火焰存储碟
+
+Water Memory
+清水存储碟
+
+Grass Memory
+青草存储碟
+
+Electric Memory
+电子存储碟
+
+Psychic Memory
+精神存储碟
+
+Ice Memory
+冰雪存储碟
+
+Dragon Memory
+龙存储碟
+
+Dark Memory
+黑暗存储碟
+
+Fairy Memory
+妖精存储碟
+
+Solganium Z
+索尔迦雷欧Ｚ
+
+Lunalium Z
+露奈雅拉Ｚ
+
+Ultranecrozium Z
+究极奈克洛Ｚ
+
+Mimikium Z
+谜拟丘Ｚ
+
+Lycanium Z
+鬃岩狼人Ｚ
+
+Kommonium Z
+杖尾鳞甲龙Ｚ
+
+Solganium Z
+索尔迦雷欧Ｚ
+
+Lunalium Z
+露奈雅拉Ｚ
+
+Ultranecrozium Z
+究极奈克洛Ｚ
+
+Mimikium Z
+谜拟丘Ｚ
+
+Lycanium Z
+鬃岩狼人Ｚ
+
+Kommonium Z
+杖尾鳞甲龙Ｚ
+
+Z-Power Ring
+Ｚ强力手环
+
+Pink Petal
+粉红花瓣
+
+Orange Petal
+橙色花瓣
+
+Blue Petal
+蓝色花瓣
+
+Red Petal
+红色花瓣
+
+Green Petal
+绿色花瓣
+
+Yellow Petal
+黄色花瓣
+
+Purple Petal
+紫色花瓣
+
+Rainbow Flower
+虹色之花
+
+Surge Badge
+桔色徽章
+
+N-Solarizer
+奈克洛索尔合体器
+
+N-Lunarizer
+奈克洛露奈合体器
+
+N-Solarizer
+奈克洛索尔合体器
+
+N-Lunarizer
+奈克洛露奈合体器
+
+Ilima’s Normalium Z
+伊利马一般Ｚ
+
+Left Poké Ball
+留下的精灵球
+
+Roto Hatch
+孵蛋碰碰
+
+Roto Bargain
+优惠碰碰
+
+Roto Prize Money
+零花钱碰碰
+
+Roto Exp. Points
+经验碰碰
+
+Roto Friendship
+亲密碰碰
+
+Roto Encounter
+相遇碰碰
+
+Roto Stealth
+隐身碰碰
+
+Roto HP Restore
+ＨＰ回复碰碰
+
+Roto PP Restore
+ＰＰ回复碰碰
+
+Roto Boost
+加油碰碰
+
+Roto Catch
+捕捉碰碰
+
+Health Candy
+元气糖果
+
+Mighty Candy
+力量糖果
+
+Tough Candy
+守护糖果
+
+Smart Candy
+知识糖果
+
+Courage Candy
+心灵糖果
+
+Quick Candy
+敏捷糖果
+
+Health Candy L
+元气糖果Ｌ
+
+Mighty Candy L
+力量糖果Ｌ
+
+Tough Candy L
+守护糖果Ｌ
+
+Smart Candy L
+知识糖果Ｌ
+
+Courage Candy L
+心灵糖果Ｌ
+
+Quick Candy L
+敏捷糖果Ｌ
+
+Health Candy XL
+元气糖果ＸＬ
+
+Mighty Candy XL
+力量糖果ＸＬ
+
+Tough Candy XL
+守护糖果ＸＬ
+
+Smart Candy XL
+知识糖果ＸＬ
+
+Courage Candy XL
+心灵糖果ＸＬ
+
+Quick Candy XL
+敏捷糖果ＸＬ
+
+Bulbasaur Candy
+妙蛙种子的糖果
+
+Charmander Candy
+小火龙的糖果
+
+Squirtle Candy
+杰尼龟的糖果
+
+Caterpie Candy
+绿毛虫的糖果
+
+Weedle Candy
+独角虫的糖果
+
+Pidgey Candy
+波波的糖果
+
+Rattata Candy
+小拉达的糖果
+
+Spearow Candy
+烈雀的糖果
+
+Ekans Candy
+阿柏蛇的糖果
+
+Pikachu Candy
+皮卡丘的糖果
+
+Sandshrew Candy
+穿山鼠的糖果
+
+Nidoran♀ Candy
+尼多兰的糖果
+
+Nidoran♂ Candy
+尼多朗的糖果
+
+Clefairy Candy
+皮皮的糖果
+
+Vulpix Candy
+六尾的糖果
+
+Jigglypuff Candy
+胖丁的糖果
+
+Zubat Candy
+超音蝠的糖果
+
+Oddish Candy
+走路草的糖果
+
+Paras Candy
+派拉斯的糖果
+
+Venonat Candy
+毛球的糖果
+
+Diglett Candy
+地鼠的糖果
+
+Meowth Candy
+喵喵的糖果
+
+Psyduck Candy
+可达鸭的糖果
+
+Mankey Candy
+猴怪的糖果
+
+Growlithe Candy
+卡蒂狗的糖果
+
+Poliwag Candy
+蚊香蝌蚪的糖果
+
+Abra Candy
+凯西的糖果
+
+Machop Candy
+腕力的糖果
+
+Bellsprout Candy
+喇叭芽的糖果
+
+Tentacool Candy
+玛瑙水母的糖果
+
+Geodude Candy
+小拳石的糖果
+
+Ponyta Candy
+小火马的糖果
+
+Slowpoke Candy
+呆呆兽的糖果
+
+Magnemite Candy
+小磁怪的糖果
+
+Farfetch’d Candy
+大葱鸭的糖果
+
+Doduo Candy
+嘟嘟的糖果
+
+Seel Candy
+小海狮的糖果
+
+Grimer Candy
+臭泥的糖果
+
+Shellder Candy
+大舌贝的糖果
+
+Gastly Candy
+鬼斯的糖果
+
+Onix Candy
+大岩蛇的糖果
+
+Drowzee Candy
+催眠貘的糖果
+
+Krabby Candy
+大钳蟹的糖果
+
+Voltorb Candy
+霹雳电球的糖果
+
+Exeggcute Candy
+蛋蛋的糖果
+
+Cubone Candy
+卡拉卡拉的糖果
+
+Hitmonlee Candy
+飞腿郎的糖果
+
+Hitmonchan Candy
+快拳郎的糖果
+
+Lickitung Candy
+大舌头的糖果
+
+Koffing Candy
+瓦斯弹的糖果
+
+Rhyhorn Candy
+独角犀牛的糖果
+
+Chansey Candy
+吉利蛋的糖果
+
+Tangela Candy
+蔓藤怪的糖果
+
+Kangaskhan Candy
+袋兽的糖果
+
+Horsea Candy
+墨海马的糖果
+
+Goldeen Candy
+角金鱼的糖果
+
+Staryu Candy
+海星星的糖果
+
+Mr. Mime Candy
+魔墙人偶的糖果
+
+Scyther Candy
+飞天螳螂的糖果
+
+Jynx Candy
+迷唇姐的糖果
+
+Electabuzz Candy
+电击兽的糖果
+
+Pinsir Candy
+凯罗斯的糖果
+
+Tauros Candy
+肯泰罗的糖果
+
+Magikarp Candy
+鲤鱼王的糖果
+
+Lapras Candy
+拉普拉斯的糖果
+
+Ditto Candy
+百变怪的糖果
+
+Eevee Candy
+伊布的糖果
+
+Porygon Candy
+多边兽的糖果
+
+Omanyte Candy
+菊石兽的糖果
+
+Kabuto Candy
+化石盔的糖果
+
+Aerodactyl Candy
+化石翼龙的糖果
+
+Snorlax Candy
+卡比兽的糖果
+
+Articuno Candy
+急冻鸟的糖果
+
+Zapdos Candy
+闪电鸟的糖果
+
+Moltres Candy
+火焰鸟的糖果
+
+Dratini Candy
+迷你龙的糖果
+
+Mewtwo Candy
+超梦的糖果
+
+Mew Candy
+梦幻的糖果
+
+Meltan Candy
+美录坦的糖果
+
+Magmar Candy
+鸭嘴火兽的糖果
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+Endorsement
+推荐函
+
+Pokémon Box Link
+宝可梦盒
+
+Wishing Star
+许愿星
+
+Dynamax Band
+极巨腕带
+
+???
+？？？
+
+???
+？？？
+
+Fishing Rod
+钓竿
+
+Rotom Bike
+洛托姆自行车
+
+???
+？？？
+
+???
+？？？
+
+Sausages
+粗绞肉香肠
+
+Bob’s Food Tin
+饱伯罐头
+
+Bach’s Food Tin
+巴哈罐头
+
+Tin of Beans
+豆子罐头
+
+Bread
+吐司面包
+
+Pasta
+通心粉
+
+Mixed Mushrooms
+袋装蕈菇
+
+Smoke-Poke Tail
+烟熏尾巴
+
+Large Leek
+粗枝大葱
+
+Fancy Apple
+特选苹果
+
+Brittle Bones
+细骨
+
+Pack of Potatoes
+袋装土豆
+
+Pungent Root
+水边香草
+
+Salad Mix
+袋装蔬菜
+
+Fried Food
+炸物拼盘
+
+Boiled Egg
+水煮蛋
+
+Camping Gear
+露营组合
+
+???
+？？？
+
+???
+？？？
+
+Rusted Sword
+腐朽的剑
+
+Rusted Shield
+腐朽的盾
+
+Fossilized Bird
+化石鸟
+
+Fossilized Fish
+化石鱼
+
+Fossilized Drake
+化石龙
+
+Fossilized Dino
+化石海兽
+
+Strawberry Sweet
+草莓糖饰
+
+Love Sweet
+爱心糖饰
+
+Berry Sweet
+野莓糖饰
+
+Clover Sweet
+幸运草糖饰
+
+Flower Sweet
+花朵糖饰
+
+Star Sweet
+星星糖饰
+
+Ribbon Sweet
+蝴蝶结糖饰
+
+Sweet Apple
+甜甜苹果
+
+Tart Apple
+酸酸苹果
+
+Throat Spray
+爽喉喷雾
+
+Eject Pack
+避难背包
+
+Heavy-Duty Boots
+厚底靴
+
+Blunder Policy
+打空保险
+
+Room Service
+客房服务
+
+Utility Umbrella
+万能伞
+
+Exp. Candy XS
+经验糖果ＸＳ
+
+Exp. Candy S
+经验糖果Ｓ
+
+Exp. Candy M
+经验糖果Ｍ
+
+Exp. Candy L
+经验糖果Ｌ
+
+Exp. Candy XL
+经验糖果ＸＬ
+
+Dynamax Candy
+极巨糖果
+
+TR00
+招式记录００
+
+TR01
+招式记录０１
+
+TR02
+招式记录０２
+
+TR03
+招式记录０３
+
+TR04
+招式记录０４
+
+TR05
+招式记录０５
+
+TR06
+招式记录０６
+
+TR07
+招式记录０７
+
+TR08
+招式记录０８
+
+TR09
+招式记录０９
+
+TR10
+招式记录１０
+
+TR11
+招式记录１１
+
+TR12
+招式记录１２
+
+TR13
+招式记录１３
+
+TR14
+招式记录１４
+
+TR15
+招式记录１５
+
+TR16
+招式记录１６
+
+TR17
+招式记录１７
+
+TR18
+招式记录１８
+
+TR19
+招式记录１９
+
+TR20
+招式记录２０
+
+TR21
+招式记录２１
+
+TR22
+招式记录２２
+
+TR23
+招式记录２３
+
+TR24
+招式记录２４
+
+TR25
+招式记录２５
+
+TR26
+招式记录２６
+
+TR27
+招式记录２７
+
+TR28
+招式记录２８
+
+TR29
+招式记录２９
+
+TR30
+招式记录３０
+
+TR31
+招式记录３１
+
+TR32
+招式记录３２
+
+TR33
+招式记录３３
+
+TR34
+招式记录３４
+
+TR35
+招式记录３５
+
+TR36
+招式记录３６
+
+TR37
+招式记录３７
+
+TR38
+招式记录３８
+
+TR39
+招式记录３９
+
+TR40
+招式记录４０
+
+TR41
+招式记录４１
+
+TR42
+招式记录４２
+
+TR43
+招式记录４３
+
+TR44
+招式记录４４
+
+TR45
+招式记录４５
+
+TR46
+招式记录４６
+
+TR47
+招式记录４７
+
+TR48
+招式记录４８
+
+TR49
+招式记录４９
+
+TR50
+招式记录５０
+
+TR51
+招式记录５１
+
+TR52
+招式记录５２
+
+TR53
+招式记录５３
+
+TR54
+招式记录５４
+
+TR55
+招式记录５５
+
+TR56
+招式记录５６
+
+TR57
+招式记录５７
+
+TR58
+招式记录５８
+
+TR59
+招式记录５９
+
+TR60
+招式记录６０
+
+TR61
+招式记录６１
+
+TR62
+招式记录６２
+
+TR63
+招式记录６３
+
+TR64
+招式记录６４
+
+TR65
+招式记录６５
+
+TR66
+招式记录６６
+
+TR67
+招式记录６７
+
+TR68
+招式记录６８
+
+TR69
+招式记录６９
+
+TR70
+招式记录７０
+
+TR71
+招式记录７１
+
+TR72
+招式记录７２
+
+TR73
+招式记录７３
+
+TR74
+招式记录７４
+
+TR75
+招式记录７５
+
+TR76
+招式记录７６
+
+TR77
+招式记录７７
+
+TR78
+招式记录７８
+
+TR79
+招式记录７９
+
+TR80
+招式记录８０
+
+TR81
+招式记录８１
+
+TR82
+招式记录８２
+
+TR83
+招式记录８３
+
+TR84
+招式记录８４
+
+TR85
+招式记录８５
+
+TR86
+招式记录８６
+
+TR87
+招式记录８７
+
+TR88
+招式记录８８
+
+TR89
+招式记录８９
+
+TR90
+招式记录９０
+
+TR91
+招式记录９１
+
+TR92
+招式记录９２
+
+TR93
+招式记录９３
+
+TR94
+招式记录９４
+
+TR95
+招式记录９５
+
+TR96
+招式记录９６
+
+TR97
+招式记录９７
+
+TR98
+招式记录９８
+
+TR99
+招式记录９９
+
+TM00
+招式学习器００
+
+Lonely Mint
+怕寂寞薄荷
+
+Adamant Mint
+固执薄荷
+
+Naughty Mint
+顽皮薄荷
+
+Brave Mint
+勇敢薄荷
+
+Bold Mint
+大胆薄荷
+
+Impish Mint
+淘气薄荷
+
+Lax Mint
+乐天薄荷
+
+Relaxed Mint
+悠闲薄荷
+
+Modest Mint
+内敛薄荷
+
+Mild Mint
+慢吞吞薄荷
+
+Rash Mint
+马虎薄荷
+
+Quiet Mint
+冷静薄荷
+
+Calm Mint
+温和薄荷
+
+Gentle Mint
+温顺薄荷
+
+Careful Mint
+慎重薄荷
+
+Sassy Mint
+自大薄荷
+
+Timid Mint
+胆小薄荷
+
+Hasty Mint
+急躁薄荷
+
+Jolly Mint
+爽朗薄荷
+
+Naive Mint
+天真薄荷
+
+Serious Mint
+认真薄荷
+
+Wishing Piece
+许愿星块
+
+Cracked Pot
+破裂的茶壶
+
+Chipped Pot
+缺损的茶壶
+
+Hi-tech Earbuds
+厉害耳塞
+
+Fruit Bunch
+袋装果实
+
+Moomoo Cheese
+哞哞乳酪
+
+Spice Mix
+香料组合
+
+Fresh Cream
+鲜鲜奶油
+
+Packaged Curry
+即食咖喱
+
+Coconut Milk
+椰奶
+
+Instant Noodles
+即食面
+
+Precooked Burger
+即食肉排
+
+Gigantamix
+超极粉
+
+Wishing Chip
+许愿星碎片
+
+Rotom Bike
+洛托姆自行车
+
+Catching Charm
+防晃护符
+
+???
+？？？
+
+Old Letter
+陈旧的信
+
+Band Autograph
+乐队的签名
+
+Sonia’s Book
+索妮亚的书
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+Rotom Catalog
+洛托姆型录
+
+Max Honey
+极巨甜蜜
+
+Max Mushrooms
+极巨菇菇
+
+Galarica Twig
+伽勒豆蔻枝
+
+Galarica Cuff
+伽勒豆蔻手环
+
+Style Card
+时尚名人卡
+
+Armor Pass
+铠甲车票
+
+Rotom Bike
+洛托姆自行车
+
+Rotom Bike
+洛托姆自行车
+
+Exp. Charm
+经验护符
+
+Armorite Ore
+铠甲矿石
+
+Mark Charm
+证章护符
+
+Reins of Unity
+牵绊缰绳
+
+Reins of Unity
+牵绊缰绳
+
+Galarica Wreath
+伽勒豆蔻花圈
+
+Legendary Clue 1
+传说笔记１
+
+Legendary Clue 2
+传说笔记２
+
+Legendary Clue 3
+传说笔记３
+
+Legendary Clue?
+传说笔记？
+
+Crown Pass
+王冠车票
+
+Wooden Crown
+木雕王冠
+
+Radiant Petal
+光辉花瓣
+
+White Mane Hair
+白色鬃毛
+
+Black Mane Hair
+黑色鬃毛
+
+Iceroot Carrot
+冰萝卜
+
+Shaderoot Carrot
+黑萝卜
+
+Dynite Ore
+极矿石
+
+Carrot Seeds
+萝卜种子
+
+Ability Patch
+特性膏药
+
+Reins of Unity
+牵绊缰绳
+
+Time Balm
+时之镇宝
+
+Space Balm
+空之镇宝
+
+Mysterious Balm
+镇宝
+
+Linking Cord
+联系绳
+
+Hometown Muffin
+家乡玛芬
+
+Apricorn
+球果果
+
+Jubilife Muffin
+祝庆玛芬
+
+Aux Powerguard
+多重强化
+
+Dire Hit
+要害攻击
+
+Choice Dumpling
+讲究粽
+
+Twice-Spiced Radish
+双倍腌菜
+
+Swap Snack
+颠倒烧
+
+Caster Fern
+弹子萁
+
+Seed of Mastery
+精通种子
+
+Poké Ball
+精灵球
+
+???
+？？？
+
+Eternal Ice
+永恒之冰
+
+Uxie’s Claw
+由克希之爪
+
+Azelf’s Fang
+亚克诺姆之牙
+
+Mesprit’s Plume
+艾姆利多之翅
+
+Tumblestone
+玉石
+
+Celestica Flute
+神阖之笛
+
+Remedy
+中药
+
+Fine Remedy
+好中药
+
+Dazzling Honey
+晶晶蜜
+
+Hearty Grains
+旺旺谷
+
+Plump Beans
+滚滚豆
+
+Springy Mushroom
+糯糯菇
+
+Crunchy Salt
+坚坚矿
+
+Wood
+木材
+
+King’s Leaf
+皇叶
+
+Marsh Balm
+沼之镇宝
+
+Poké Ball
+精灵球
+
+Great Ball
+超级球
+
+Ultra Ball
+高级球
+
+Feather Ball
+飞羽球
+
+Pokéshi Doll
+宝可梦木娃娃
+
+???
+？？？
+
+Smoke Bomb
+烟弹
+
+Scatter Bang
+声弹
+
+Sticky Glob
+黏丸
+
+Star Piece
+星星碎片
+
+Mushroom Cake
+菇诱团
+
+Bugwort
+除虫草
+
+Honey Cake
+蜜诱团
+
+Grain Cake
+谷诱团
+
+Bean Cake
+豆诱团
+
+Salt Cake
+矿诱团
+
+Potion
+伤药
+
+Super Potion
+好伤药
+
+Hyper Potion
+厉害伤药
+
+Max Potion
+全满药
+
+Full Restore
+全复药
+
+Remedy
+中药
+
+Fine Remedy
+好中药
+
+Superb Remedy
+厉害中药
+
+Old Gateau
+森之羊羹
+
+Jubilife Muffin
+祝庆玛芬
+
+Full Heal
+万灵药
+
+Revive
+活力碎片
+
+Max Revive
+活力块
+
+Max Ether
+ＰＰ单项全补剂
+
+Max Elixir
+ＰＰ多项全补剂
+
+Stealth Spray
+匿声喷雾
+
+???
+？？？
+
+Aux Power
+进攻药丸
+
+Aux Guard
+防守药丸
+
+Dire Hit
+要害攻击
+
+Aux Evasion
+闪避强化
+
+Aux Powerguard
+多重强化
+
+Forest Balm
+森之镇宝
+
+Iron Chunk
+碎铁
+
+???
+？？？
+
+Black Tumblestone
+黑玉石
+
+Sky Tumblestone
+天蓝玉石
+
+???
+？？？
+
+Ball of Mud
+泥丸
+
+???
+？？？
+
+Pop Pod
+惊声藻
+
+Sootfoot Root
+烟芋
+
+Spoiled Apricorn
+蛀球果
+
+Snowball
+雪丸
+
+Sticky Glob
+黏丸
+
+Black Augurite
+黑奇石
+
+Peat Block
+泥炭块
+
+Stealth Spray
+匿声喷雾
+
+Medicinal Leek
+疗草
+
+Vivichoke
+活力蕾
+
+Pep-Up Plant
+ＰＰ草
+
+???
+？？？
+
+???
+？？？
+
+Tempting Charm B
+替身护符２
+
+Tempting Charm P
+替身护符３
+
+Swordcap
+剑舞菇
+
+Iron Barktongue
+铁壁木耳
+
+Doppel Bonnets
+影分菇
+
+Direshroom
+要害松露
+
+Sand Radish
+沙滩萝卜
+
+Tempting Charm T
+替身护符４
+
+Tempting Charm Y
+替身护符５
+
+Candy Truffle
+甜松露
+
+Cake-Lure Base
+诱团原料
+
+Poké Ball
+精灵球
+
+Great Ball
+超级球
+
+Ultra Ball
+高级球
+
+Feather Ball
+飞羽球
+
+???
+？？？
+
+???
+？？？
+
+Scatter Bang
+声弹
+
+Smoke Bomb
+烟弹
+
+???
+？？？
+
+???
+？？？
+
+Pokéshi Doll
+宝可梦木娃娃
+
+Volcano Balm
+火山镇宝
+
+Mountain Balm
+山之镇宝
+
+Snow Balm
+雪之镇宝
+
+Honey Cake
+蜜诱团
+
+Grain Cake
+谷诱团
+
+Bean Cake
+豆诱团
+
+Mushroom Cake
+菇诱团
+
+Salt Cake
+矿诱团
+
+Swap Snack
+颠倒烧
+
+Choice Dumpling
+讲究粽
+
+Twice-Spiced Radish
+双倍腌菜
+
+Survival Charm R
+安全护符１
+
+Survival Charm B
+安全护符２
+
+Survival Charm P
+安全护符３
+
+Survival Charm T
+安全护符４
+
+Survival Charm Y
+安全护符５
+
+Torn Journal
+破损日记
+
+Warding Charm R
+健康护符１
+
+Warding Charm B
+健康护符２
+
+Warding Charm P
+健康护符３
+
+Warding Charm T
+健康护符４
+
+Warding Charm Y
+健康护符５
+
+Wall Fragment
+石板碎块
+
+Basculegion Food
+幽尾玄鱼丸
+
+Old Journal
+古老日记
+
+Wing Ball
+飞翼球
+
+Jet Ball
+飞梭球
+
+Heavy Ball
+沉重球
+
+Leaden Ball
+超重球
+
+Gigaton Ball
+巨重球
+
+Wing Ball
+飞翼球
+
+Jet Ball
+飞梭球
+
+Heavy Ball
+沉重球
+
+Hopo Berry
+花啤果
+
+Superb Remedy
+厉害中药
+
+Aux Power
+进攻药丸
+
+Aux Guard
+防守药丸
+
+Aux Evasion
+闪避强化
+
+Grit Dust
+奋斗沙
+
+Grit Gravel
+奋斗砾
+
+Grit Pebble
+奋斗石
+
+Grit Rock
+奋斗岩
+
+Secret Medicine
+秘传之药
+
+Tempting Charm R
+替身护符１
+
+Lost Satchel
+他人的遗失物
+
+Lost Satchel
+他人的遗失物
+
+Lost Satchel
+他人的遗失物
+
+Lost Satchel
+他人的遗失物
+
+Lost Satchel
+他人的遗失物
+
+???
+？？？
+
+Origin Ball
+起源球
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+???
+？？？
+
+Origin Ore
+起源矿石
+
+Adamant Crystal
+大金刚宝玉
+
+Lustrous Globe
+大白宝玉
+
+Griseous Core
+大白金宝玉
+
+Blank Plate
+净空石板
+
+???
+？？？
+
+Crafting Kit
+工艺套组
+
+Leaden Ball
+超重球
+
+Gigaton Ball
+巨重球
+
+Strange Ball
+奇异球
+
+Pokédex
+宝可梦图鉴
+
+Old Verse 1
+古老诗文１
+
+Old Verse 2
+古老诗文２
+
+Old Verse 3
+古老诗文３
+
+Old Verse 4
+古老诗文４
+
+???
+？？？
+
+Old Verse 5
+古老诗文５
+
+Old Verse 6
+古老诗文６
+
+Old Verse 7
+古老诗文７
+
+Old Verse 8
+古老诗文８
+
+Old Verse 9
+古老诗文９
+
+Old Verse 10
+古老诗文１０
+
+Old Verse 11
+古老诗文１１
+
+Old Verse 12
+古老诗文１２
+
+Old Verse 13
+古老诗文１３
+
+Old Verse 14
+古老诗文１４
+
+Old Verse 15
+古老诗文１５
+
+Old Verse 16
+古老诗文１６
+
+Old Verse 17
+古老诗文１７
+
+Old Verse 18
+古老诗文１８
+
+Old Verse 19
+古老诗文１９
+
+Old Verse 20
+古老诗文２０
+
+Mysterious Shard S
+谜之碎片Ｓ
+
+Mysterious Shard L
+谜之碎片Ｌ
+
+Digger Drill
+挖洞钻
+
+Kanto Slate
+关都石板
+
+Johto Slate
+城都石板
+
+Soul Slate
+心之石板
+
+Rainbow Slate
+彩虹石板
+
+Squall Slate
+暴风石板
+
+Oceanic Slate
+大海石板
+
+Tectonic Slate
+大陆石板
+
+Stratospheric Slate
+天空石板
+
+Genome Slate
+基因石板
+
+Discovery Slate
+引导石板
+
+Distortion Slate
+毁坏石板
+
+DS Sounds
+ＤＳ播放器
+
+Legend Plate
+传说石板
+
+Rotom Phone
+手机洛托姆
+
+Sandwich
+三明治
+
+Koraidon’s Poké Ball
+故勒顿的球
+
+Miraidon’s Poké Ball
+密勒顿的球
+
+Tera Orb
+太晶珠
+
+Scarlet Book
+朱之书
+
+Violet Book
+紫之书
+
+Kofu’s Wallet
+海岱的钱包
+
+Tiny Bamboo Shoot
+小竹笋
+
+Big Bamboo Shoot
+大竹笋
+
+Scroll of Darkness
+恶之挂轴
+
+Scroll of Waters
+水之挂轴
+
+Malicious Armor
+咒术之铠
+
+Normal Tera Shard
+一般太晶碎块
+
+Fire Tera Shard
+火太晶碎块
+
+Water Tera Shard
+水太晶碎块
+
+Electric Tera Shard
+电太晶碎块
+
+Grass Tera Shard
+草太晶碎块
+
+Ice Tera Shard
+冰太晶碎块
+
+Fighting Tera Shard
+格斗太晶碎块
+
+Poison Tera Shard
+毒太晶碎块
+
+Ground Tera Shard
+地面太晶碎块
+
+Flying Tera Shard
+飞行太晶碎块
+
+Psychic Tera Shard
+超能力太晶碎块
+
+Bug Tera Shard
+虫太晶碎块
+
+Rock Tera Shard
+岩石太晶碎块
+
+Ghost Tera Shard
+幽灵太晶碎块
+
+Dragon Tera Shard
+龙太晶碎块
+
+Dark Tera Shard
+恶太晶碎块
+
+Steel Tera Shard
+钢太晶碎块
+
+Fairy Tera Shard
+妖精太晶碎块
+
+Booster Energy
+驱劲能量
+
+Ability Shield
+特性护具
+
+Clear Amulet
+清净坠饰
+
+Mirror Herb
+模仿香草
+
+Punching Glove
+拳击手套
+
+Covert Cloak
+密探斗篷
+
+Loaded Dice
+机变骰子
+
+Baguette
+长棍面包
+
+Mayonnaise
+蛋黄酱
+
+Ketchup
+番茄酱
+
+Mustard
+黄芥末酱
+
+Butter
+黄油
+
+Peanut Butter
+花生酱
+
+Chili Sauce
+辣酱
+
+Salt
+盐
+
+Pepper
+胡椒
+
+Yogurt
+酸奶
+
+Whipped Cream
+鲜奶油
+
+Cream Cheese
+奶油芝士
+
+Jam
+莓果酱
+
+Marmalade
+橘子酱
+
+Olive Oil
+橄榄油
+
+Vinegar
+醋
+
+Sweet Herba Mystica
+秘传：甜味料
+
+Salty Herba Mystica
+秘传：咸味料
+
+Sour Herba Mystica
+秘传：酸味料
+
+Bitter Herba Mystica
+秘传：苦味料
+
+Spicy Herba Mystica
+秘传：辣味料
+
+Lettuce
+生菜
+
+Tomato
+番茄片
+
+Cherry Tomatoes
+小番茄块
+
+Cucumber
+小黄瓜片
+
+Pickle
+酸黄瓜片
+
+Onion
+洋葱片
+
+Red Onion
+红洋葱
+
+Green Bell Pepper
+青椒片
+
+Red Bell Pepper
+红椒片
+
+Yellow Bell Pepper
+黄椒片
+
+Avocado
+牛油果
+
+Bacon
+煎培根
+
+Ham
+火腿片
+
+Prosciutto
+生火腿
+
+Chorizo
+煎辣香肠
+
+Herbed Sausage
+香草香肠
+
+Hamburger
+汉堡排
+
+Klawf Stick
+毛崖蟹棒
+
+Smoked Fillet
+烟熏鱼片
+
+Fried Fillet
+炸鱼片
+
+Egg
+水煮蛋片
+
+Potato Tortilla
+烘蛋
+
+Tofu
+豆腐
+
+Rice
+米饭
+
+Noodles
+面条
+
+Potato Salad
+土豆沙拉
+
+Cheese
+芝士片
+
+Banana
+香蕉片
+
+Strawberry
+草莓片
+
+Apple
+苹果片
+
+Kiwi
+奇异果片
+
+Pineapple
+凤梨片
+
+Jalapeño
+小辣椒
+
+Horseradish
+辣根
+
+Curry Powder
+咖喱粉
+
+Wasabi
+芥末酱
+
+Watercress
+豆瓣菜
+
+Basil
+罗勒
+
+Venonat Fang
+毛球的牙
+
+Diglett Dirt
+地鼠的土
+
+Meowth Fur
+喵喵的毛
+
+Psyduck Down
+可达鸭的羽绒
+
+Mankey Fur
+猴怪的毛
+
+Growlithe Fur
+卡蒂狗的毛
+
+Slowpoke Claw
+呆呆兽的爪子
+
+Magnemite Screw
+小磁怪的螺丝
+
+Grimer Toxin
+臭泥的毒素
+
+Shellder Pearl
+大舌贝的珍珠
+
+Gastly Gas
+鬼斯的气体
+
+Drowzee Fur
+催眠貘的毛
+
+Voltorb Sparks
+霹雳电球的电力
+
+Scyther Claw
+飞天螳螂的爪子
+
+Tauros Hair
+肯泰罗的毛
+
+Magikarp Scales
+鲤鱼王的鳞片
+
+Ditto Goo
+百变怪的黏糊
+
+Eevee Fur
+伊布的毛
+
+Dratini Scales
+迷你龙的鳞片
+
+Pichu Fur
+皮丘的毛
+
+Igglybuff Fluff
+宝宝丁的毛
+
+Mareep Wool
+咩利羊的毛球
+
+Hoppip Leaf
+毽子草的叶片
+
+Sunkern Leaf
+向日种子的叶片
+
+Murkrow Bauble
+黑暗鸦的宝物
+
+Misdreavus Tears
+梦妖的眼泪
+
+Girafarig Fur
+麒麟奇的毛
+
+Pineco Husk
+榛果球的壳
+
+Dunsparce Scales
+土龙弟弟的鳞片
+
+Qwilfish Spines
+千针鱼的刺
+
+Heracross Claw
+赫拉克罗斯的爪子
+
+Sneasel Claw
+狃拉的爪子
+
+Teddiursa Claw
+熊宝宝的爪子
+
+Delibird Parcel
+信使鸟的行李
+
+Houndour Fang
+戴鲁比的牙
+
+Phanpy Nail
+小小象的爪子
+
+Stantler Hair
+惊角鹿的毛
+
+Larvitar Claw
+幼基拉斯的爪子
+
+Wingull Feather
+长翅鸥的羽毛
+
+Ralts Dust
+拉鲁拉丝的掉落物
+
+Surskit Syrup
+溜溜糖球的蜜
+
+Shroomish Spores
+蘑蘑菇的孢子
+
+Slakoth Fur
+懒人獭的毛
+
+Makuhita Sweat
+幕下力士的汗
+
+Azurill Fur
+露力丽的毛
+
+Sableye Gem
+勾魂眼的宝石
+
+Meditite Sweat
+玛沙那的汗
+
+Gulpin Mucus
+溶食兽的黏液
+
+Numel Lava
+呆火驼的熔岩
+
+Torkoal Coal
+煤炭龟的煤炭
+
+Spoink Pearl
+跳跳猪的珍珠
+
+Cacnea Needle
+刺球仙人掌的刺
+
+Swablu Fluff
+青绵鸟的羽毛
+
+Zangoose Claw
+猫鼬斩的爪子
+
+Seviper Fang
+饭匙蛇的牙
+
+Barboach Slime
+泥泥鳅的黏液
+
+Shuppet Scrap
+怨影娃娃的残片
+
+Tropius Leaf
+热带龙的叶片
+
+Snorunt Fur
+雪童子的毛
+
+Luvdisc Scales
+爱心鱼的鳞片
+
+Bagon Scales
+宝贝龙的鳞片
+
+Starly Feather
+姆克儿的羽毛
+
+Kricketot Shell
+圆法师的蜕壳
+
+Shinx Fang
+小猫怪的牙
+
+Combee Honey
+三蜜蜂的蜜
+
+Pachirisu Fur
+帕奇利兹的毛
+
+Buizel Fur
+泳圈鼬的毛
+
+Shellos Mucus
+无壳海兔的黏液
+
+Drifloon Gas
+飘飘球的气体
+
+Stunky Fur
+臭鼬噗的毛
+
+Bronzor Fragment
+铜镜怪的碎片
+
+Bonsly Tears
+盆才怪的眼泪
+
+Happiny Dust
+小福蛋的掉落物
+
+Spiritomb Fragment
+花岩怪的碎片
+
+Gible Scales
+圆陆鲨的鳞片
+
+Riolu Fur
+利欧路的毛
+
+Hippopotas Sand
+沙河马的沙
+
+Croagunk Poison
+不良蛙的毒素
+
+Finneon Scales
+荧光鱼的鳞片
+
+Snover Berries
+雪笠怪的果实
+
+Rotom Sparks
+洛托姆的电力
+
+Petilil Leaf
+百合根娃娃的叶片
+
+Basculin Fang
+野蛮鲈鱼的牙
+
+Sandile Claw
+黑眼鳄的爪子
+
+Zorua Fur
+索罗亚的毛
+
+Gothita Eyelash
+哥德宝宝的睫毛
+
+Deerling Hair
+四季鹿的毛
+
+Foongus Spores
+哎呀球菇的孢子
+
+Alomomola Mucus
+保姆曼波的黏液
+
+Tynamo Slime
+麻麻小鱼的黏液
+
+Axew Scales
+牙牙的鳞片
+
+Cubchoo Fur
+喷嚏熊的毛
+
+Cryogonal Ice
+几何雪花的冰
+
+Pawniard Blade
+驹刀小兵的刀
+
+Rufflet Feather
+毛头小鹰的羽毛
+
+Deino Scales
+单首龙的鳞片
+
+Larvesta Fuzz
+燃烧虫的毛
+
+Fletchling Feather
+小箭雀的羽毛
+
+Scatterbug Powder
+粉蝶虫的粉
+
+Litleo Tuft
+小狮狮的鬃毛
+
+Flabébé Pollen
+花蓓蓓的花粉
+
+Skiddo Leaf
+坐骑小羊的叶片
+
+Skrelp Kelp
+垃垃藻的碎藻
+
+Clauncher Claw
+铁臂枪虾的钳子
+
+Hawlucha Down
+摔角鹰人的羽绒
+
+Dedenne Fur
+咚咚鼠的毛
+
+Goomy Goo
+黏黏宝的黏液
+
+Klefki Key
+钥圈儿的钥匙
+
+Bergmite Ice
+冰宝的冰
+
+Noibat Fur
+嗡蝠的毛
+
+Yungoos Fur
+猫鼬少的毛
+
+Crabrawler Shell
+好胜蟹的壳
+
+Oricorio Feather
+花舞鸟的羽毛
+
+Rockruff Rock
+岩狗狗的岩石
+
+Mareanie Spike
+好坏星的刺
+
+Mudbray Mud
+泥驴仔的泥巴
+
+Fomantis Leaf
+伪螳草的叶片
+
+Salandit Gas
+夜盗火蜥的气体
+
+Bounsweet Sweat
+甜竹竹的汗
+
+Oranguru Fur
+智挥猩的毛
+
+Passimian Fur
+投掷猴的毛
+
+Sandygast Sand
+沙丘娃的沙
+
+Komala Claw
+树枕尾熊的爪子
+
+Mimikyu Scrap
+谜拟丘的残片
+
+Bruxish Tooth
+磨牙彩皮鱼的牙齿
+
+Chewtle Claw
+咬咬龟的爪子
+
+Skwovet Fur
+贪心栗鼠的毛
+
+Arrokuda Scales
+刺梭鱼的鳞片
+
+Rookidee Feather
+稚山雀的羽毛
+
+Toxel Sparks
+电音婴的电力
+
+Falinks Sweat
+列阵兵的汗
+
+Cufant Tarnish
+铜象的锈
+
+Rolycoly Coal
+小炭仔的煤炭
+
+Silicobra Sand
+沙包蛇的沙
+
+Indeedee Fur
+爱管侍的毛
+
+Pincurchin Spines
+啪嚓海胆的针
+
+Snom Thread
+雪吞虫的丝
+
+Impidimp Hair
+捣蛋小妖的毛
+
+Applin Juice
+啃果虫的果汁
+
+Sinistea Chip
+来悲茶的碎片
+
+Hatenna Dust
+迷布莉姆的掉落物
+
+Stonjourner Stone
+巨石丁的岩石
+
+Eiscue Down
+冰砌鹅的羽绒
+
+Dreepy Powder
+多龙梅西亚的粉
+
+Lechonk Hair
+爱吃豚的毛
+
+Tarountula Thread
+团珠蛛的丝
+
+Nymble Claw
+豆蟋蟀的爪子
+
+Rellor Mud
+虫滚泥的泥巴
+
+Greavard Wax
+墓仔狗的蜡
+
+Flittle Down
+飘飘雏的羽绒
+
+Wiglett Sand
+海地鼠的沙
+
+Dondozo Whisker
+吃吼霸的胡须
+
+Veluza Fillet
+轻身鳕的鱼片
+
+Finizen Mucus
+波普海豚的黏液
+
+Smoliv Oil
+迷你芙的油
+
+Capsakid Seed
+热辣娃的种子
+
+Tadbulb Mucus
+光蚪仔的黏液
+
+Varoom Fume
+噗隆隆的气体
+
+Orthworm Tarnish
+拖拖蚓的锈
+
+Tandemaus Fur
+一对鼠的毛
+
+Cetoddle Grease
+走鲸的油脂
+
+Frigibax Scales
+凉脊龙的鳞片
+
+Tatsugiri Scales
+米立龙的鳞片
+
+Cyclizar Scales
+摩托蜥的鳞片
+
+Pawmi Fur
+布拨的毛
+
+Wattrel Feather
+电海燕的羽毛
+
+Bombirdier Feather
+下石鸟的羽毛
+
+Squawkabilly Feather
+怒鹦哥的羽毛
+
+Flamigo Down
+缠红鹤的羽绒
+
+Klawf Claw
+毛崖蟹的钳子
+
+Nacli Salt
+盐石宝的盐
+
+Glimmet Crystal
+晶光芽的结晶
+
+Shroodle Ink
+滋汁鼹的墨汁
+
+Fidough Fur
+狗仔包的毛
+
+Maschiff Fang
+偶叫獒的牙
+
+Bramblin Twig
+纳噬草的枝条
+
+Gimmighoul Coin
+索财灵的硬币
+
+Tinkatink Hair
+小锻匠的毛
+
+Charcadet Soot
+炭小侍的煤灰
+
+Toedscool Flaps
+原野水母的薄片
+
+Wooper Slime
+乌波的黏液
+
+TM100
+招式学习器１００
+
+TM101
+招式学习器１０１
+
+TM102
+招式学习器１０２
+
+TM103
+招式学习器１０３
+
+TM104
+招式学习器１０４
+
+TM105
+招式学习器１０５
+
+TM106
+招式学习器１０６
+
+TM107
+招式学习器１０７
+
+TM108
+招式学习器１０８
+
+TM109
+招式学习器１０９
+
+TM110
+招式学习器１１０
+
+TM111
+招式学习器１１１
+
+TM112
+招式学习器１１２
+
+TM113
+招式学习器１１３
+
+TM114
+招式学习器１１４
+
+TM115
+招式学习器１１５
+
+TM116
+招式学习器１１６
+
+TM117
+招式学习器１１７
+
+TM118
+招式学习器１１８
+
+TM119
+招式学习器１１９
+
+TM120
+招式学习器１２０
+
+TM121
+招式学习器１２１
+
+TM122
+招式学习器１２２
+
+TM123
+招式学习器１２３
+
+TM124
+招式学习器１２４
+
+TM125
+招式学习器１２５
+
+TM126
+招式学习器１２６
+
+TM127
+招式学习器１２７
+
+TM128
+招式学习器１２８
+
+TM129
+招式学习器１２９
+
+TM130
+招式学习器１３０
+
+TM131
+招式学习器１３１
+
+TM132
+招式学习器１３２
+
+TM133
+招式学习器１３３
+
+TM134
+招式学习器１３４
+
+TM135
+招式学习器１３５
+
+TM136
+招式学习器１３６
+
+TM137
+招式学习器１３７
+
+TM138
+招式学习器１３８
+
+TM139
+招式学习器１３９
+
+TM140
+招式学习器１４０
+
+TM141
+招式学习器１４１
+
+TM142
+招式学习器１４２
+
+TM143
+招式学习器１４３
+
+TM144
+招式学习器１４４
+
+TM145
+招式学习器１４５
+
+TM146
+招式学习器１４６
+
+TM147
+招式学习器１４７
+
+TM148
+招式学习器１４８
+
+TM149
+招式学习器１４９
+
+TM150
+招式学习器１５０
+
+TM151
+招式学习器１５１
+
+TM152
+招式学习器１５２
+
+TM153
+招式学习器１５３
+
+TM154
+招式学习器１５４
+
+TM155
+招式学习器１５５
+
+TM156
+招式学习器１５６
+
+TM157
+招式学习器１５７
+
+TM158
+招式学习器１５８
+
+TM159
+招式学习器１５９
+
+TM160
+招式学习器１６０
+
+TM161
+招式学习器１６１
+
+TM162
+招式学习器１６２
+
+TM163
+招式学习器１６３
+
+TM164
+招式学习器１６４
+
+TM165
+招式学习器１６５
+
+TM166
+招式学习器１６６
+
+TM167
+招式学习器１６７
+
+TM168
+招式学习器１６８
+
+TM169
+招式学习器１６９
+
+TM170
+招式学习器１７０
+
+TM171
+招式学习器１７１
+
+TM172
+招式学习器１７２
+
+TM173
+招式学习器１７３
+
+TM174
+招式学习器１７４
+
+TM175
+招式学习器１７５
+
+TM176
+招式学习器１７６
+
+TM177
+招式学习器１７７
+
+TM178
+招式学习器１７８
+
+TM179
+招式学习器１７９
+
+TM180
+招式学习器１８０
+
+TM181
+招式学习器１８１
+
+TM182
+招式学习器１８２
+
+TM183
+招式学习器１８３
+
+TM184
+招式学习器１８４
+
+TM185
+招式学习器１８５
+
+TM186
+招式学习器１８６
+
+TM187
+招式学习器１８７
+
+TM188
+招式学习器１８８
+
+TM189
+招式学习器１８９
+
+TM190
+招式学习器１９０
+
+TM191
+招式学习器１９１
+
+TM192
+招式学习器１９２
+
+TM193
+招式学习器１９３
+
+TM194
+招式学习器１９４
+
+TM195
+招式学习器１９５
+
+TM196
+招式学习器１９６
+
+TM197
+招式学习器１９７
+
+TM198
+招式学习器１９８
+
+TM199
+招式学习器１９９
+
+TM200
+招式学习器２００
+
+TM201
+招式学习器２０１
+
+TM202
+招式学习器２０２
+
+TM203
+招式学习器２０３
+
+TM204
+招式学习器２０４
+
+TM205
+招式学习器２０５
+
+TM206
+招式学习器２０６
+
+TM207
+招式学习器２０７
+
+TM208
+招式学习器２０８
+
+TM209
+招式学习器２０９
+
+TM210
+招式学习器２１０
+
+TM211
+招式学习器２１１
+
+TM212
+招式学习器２１２
+
+TM213
+招式学习器２１３
+
+TM214
+招式学习器２１４
+
+TM215
+招式学习器２１５
+
+TM216
+招式学习器２１６
+
+TM217
+招式学习器２１７
+
+TM218
+招式学习器２１８
+
+TM219
+招式学习器２１９
+
+TM220
+招式学习器２２０
+
+TM221
+招式学习器２２１
+
+TM222
+招式学习器２２２
+
+TM223
+招式学习器２２３
+
+TM224
+招式学习器２２４
+
+TM225
+招式学习器２２５
+
+TM226
+招式学习器２２６
+
+TM227
+招式学习器２２７
+
+TM228
+招式学习器２２８
+
+TM229
+招式学习器２２９
+
+Picnic Set
+野餐组合
+
+Academy Bottle
+校园水壶
+
+Academy Bottle
+校园水壶
+
+Polka-Dot Bottle
+圆点水壶
+
+Striped Bottle
+条纹水壶
+
+Diamond Bottle
+菱纹水壶
+
+Academy Cup
+校园水杯
+
+Academy Cup
+校园水杯
+
+Striped Cup
+直条纹水杯
+
+Polka-Dot Cup
+圆点水杯
+
+Flower Pattern Cup
+花朵水杯
+
+Academy Tablecloth
+校园桌巾
+
+Academy Tablecloth
+校园桌巾
+
+Whimsical Tablecloth
+幻彩桌巾
+
+Leafy Tablecloth
+大自然桌巾
+
+Spooky Tablecloth
+鬼祟桌巾
+
+Academy Ball
+校园球
+
+Academy Ball
+校园球
+
+Marill Ball
+玛力露球
+
+Yarn Ball
+毛线球
+
+Cyber Ball
+电竞球
+
+Gold Pick
+金色三明治签
+
+Silver Pick
+银色三明治签
+
+Red-Flag Pick
+红旗子三明治签
+
+Blue-Flag Pick
+蓝旗子三明治签
+
+Pika-Pika Pick
+皮卡丘三明治签
+
+Winking Pika Pick
+眨眼皮卡丘三明治签
+
+Vee-Vee Pick
+伊布三明治签
+
+Smiling Vee Pick
+笑脸伊布三明治签
+
+Blue Poké Ball Pick
+蓝珠珠三明治签
+
+Auspicious Armor
+庆祝之铠
+
+Leader’s Crest
+头领凭证
+
+Pink Bottle
+粉红水壶
+
+Blue Bottle
+蓝色水壶
+
+Yellow Bottle
+黄色水壶
+
+Steel Bottle (R)
+红纹不锈钢水壶
+
+Steel Bottle (Y)
+黄纹不锈钢水壶
+
+Steel Bottle (B)
+蓝纹不锈钢水壶
+
+Silver Bottle
+银钛水壶
+
+Barred Cup
+横条纹水杯
+
+Diamond Pattern Cup
+菱纹水杯
+
+Fire Pattern Cup
+火焰水杯
+
+Pink Cup
+粉红水杯
+
+Blue Cup
+蓝色水杯
+
+Yellow Cup
+黄色水杯
+
+Pikachu Cup
+皮卡丘水杯
+
+Eevee Cup
+伊布水杯
+
+Slowpoke Cup
+呆呆兽水杯
+
+Silver Cup
+银钛水杯
+
+Exercise Ball
+瑜珈球
+
+Plaid Tablecloth (Y)
+黄色格子桌巾
+
+Plaid Tablecloth (B)
+蓝色格子桌巾
+
+Plaid Tablecloth (R)
+红色格子桌巾
+
+B&W Grass Tablecloth
+黑白草丛桌巾
+
+Battle Tablecloth
+对决桌巾
+
+Monstrous Tablecloth
+怪兽桌巾
+
+Striped Tablecloth
+条纹桌巾
+
+Diamond Tablecloth
+菱纹桌巾
+
+Polka-Dot Tablecloth
+圆点桌巾
+
+Lilac Tablecloth
+紫色桌巾
+
+Mint Tablecloth
+浅绿桌巾
+
+Peach Tablecloth
+米色桌巾
+
+Yellow Tablecloth
+黄色桌巾
+
+Blue Tablecloth
+蓝色桌巾
+
+Pink Tablecloth
+粉红桌巾
+
+Gold Bottle
+金钛水壶
+
+Bronze Bottle
+铜钛水壶
+
+Gold Cup
+金钛水杯
+
+Bronze Cup
+铜钛水杯
+
+Green Poké Ball Pick
+绿珠珠三明治签
+
+Red Poké Ball Pick
+红珠珠三明治签
+
+Party Sparkler Pick
+烟花祝庆三明治签
+
+Heroic Sword Pick
+勇者之剑三明治签
+
+Magical Star Pick
+魔法星星三明治签
+
+Magical Heart Pick
+魔法甜心三明治签
+
+Parasol Pick
+阳伞三明治签
+
+Blue-Sky Flower Pick
+晴空花三明治签
+
+Sunset Flower Pick
+夕阳花三明治签
+
+Sunrise Flower Pick
+朝霞花三明治签
+
+Blue Dish
+蓝色盘子
+
+Green Dish
+绿色盘子
+
+Orange Dish
+橘色盘子
+
+Red Dish
+红色盘子
+
+White Dish
+白色盘子
+
+Yellow Dish
+黄色盘子
+
+Fairy Feather
+妖精之羽
+
+Syrupy Apple
+蜜汁苹果
+
+Unremarkable Teacup
+凡作茶碗
+
+Masterpiece Teacup
+杰作茶碗
+
+Teal Mask
+碧草面具
+
+Cornerstone Mask
+础石面具
+
+Wellspring Mask
+水井面具
+
+Hearthflame Mask
+火灶面具
+
+Teal Style Card
+碧之时尚名人卡
+
+Crystal Cluster
+结晶碎片
+
+Health Mochi
+体力粘糕
+
+Muscle Mochi
+肌力粘糕
+
+Resist Mochi
+抵抗粘糕
+
+Genius Mochi
+智力粘糕
+
+Clever Mochi
+精神粘糕
+
+Swift Mochi
+瞬发粘糕
+
+Simple Chairs
+简约椅子
+
+Academy Chairs
+校园椅子
+
+Academy Chairs
+校园椅子
+
+Whimsical Chairs
+幻彩椅子
+
+Leafy Chairs
+大自然椅子
+
+Spooky Chairs
+鬼祟椅子
+
+Plaid Chairs (Y)
+黄色格子椅子
+
+Plaid Chairs (B)
+蓝色格子椅子
+
+Plaid Chairs (R)
+红色格子椅子
+
+B&W Grass Chairs
+草丛椅子
+
+Battle Chairs
+对决椅子
+
+Monstrous Chairs
+怪兽椅子
+
+Striped Chairs
+条纹椅子
+
+Diamond Chairs
+菱纹椅子
+
+Polka-Dot Chairs
+圆点椅子
+
+Lilac Chairs
+紫色椅子
+
+Mint Chairs
+浅绿椅子
+
+Peach Chairs
+米色椅子
+
+Yellow Chairs
+黄色椅子
+
+Blue Chairs
+蓝色椅子
+
+Pink Chairs
+粉红椅子
+
+Ekans Fang
+阿柏蛇的牙
+
+Sandshrew Claw
+穿山鼠的爪子
+
+Cleffa Fur
+皮宝宝的毛
+
+Vulpix Fur
+六尾的毛
+
+Poliwag Slime
+蚊香蝌蚪的黏液
+
+Bellsprout Vine
+喇叭芽的藤蔓
+
+Geodude Fragment
+小拳石的碎片
+
+Koffing Gas
+瓦斯弹的气体
+
+Munchlax Fang
+小卡比兽的牙
+
+Sentret Fur
+尾立的毛
+
+Hoothoot Feather
+咕咕的羽毛
+
+Spinarak Thread
+圆丝蛛的丝
+
+Aipom Hair
+长尾怪手的毛
+
+Yanma Spike
+蜻蜻蜓的刺
+
+Gligar Fang
+天蝎的牙
+
+Slugma Lava
+熔岩虫的熔岩
+
+Swinub Hair
+小山猪的毛
+
+Poochyena Fang
+土狼犬的牙
+
+Lotad Leaf
+莲叶童子的叶片
+
+Seedot Stem
+橡实果的枝条
+
+Nosepass Fragment
+朝北鼻的碎片
+
+Volbeat Fluid
+电萤虫的汁液
+
+Illumise Fluid
+甜甜萤的汁液
+
+Corphish Shell
+龙虾小兵的壳
+
+Feebas Scales
+丑丑鱼的鳞片
+
+Duskull Fragment
+夜巡灵的碎片
+
+Chingling Fragment
+铃铛响的碎片
+
+Timburr Sweat
+搬运小匠的汗
+
+Sewaddle Leaf
+虫宝包的叶片
+
+Ducklett Feather
+鸭宝宝的羽毛
+
+Litwick Soot
+烛光灵的煤灰
+
+Mienfoo Claw
+功夫鼬的爪子
+
+Vullaby Feather
+秃鹰丫头的羽毛
+
+Carbink Jewel
+小碎钻的宝石
+
+Phantump Twig
+小木灵的枝条
+
+Grubbin Thread
+强颚鸡母虫的丝
+
+Cutiefly Powder
+萌虻的粉
+
+Jangmo-o Scales
+心鳞宝的鳞片
+
+Cramorant Down
+古月鸟的羽绒
+
+Morpeko Snack
+莫鲁贝可的种子
+
+Poltchageist Powder
+斯魔茶的粉
+
+Fresh-Start Mochi
+净空粘糕
+
+Roto-Stick
+洛拍棒
+
+Glimmering Charm
+晶耀护符
+
+Metal Alloy
+复合金属
+
+Indigo Style Card
+蓝之时尚名人卡
+
+Oddish Leaf
+走路草的叶片
+
+Tentacool Stinger
+玛瑙水母的针
+
+Doduo Down
+嘟嘟的羽绒
+
+Seel Fur
+小海狮的毛
+
+Exeggcute Shell
+蛋蛋的壳
+
+Tyrogue Sweat
+无畏小子的汗
+
+Rhyhorn Fang
+独角犀牛的牙
+
+Horsea Ink
+墨海马的墨汁
+
+Elekid Fur
+电击怪的毛
+
+Magby Hair
+鸭嘴宝宝的毛
+
+Lapras Teardrop
+拉普拉斯的眼泪
+
+Porygon Fragment
+多边兽的碎片
+
+Chinchou Sparks
+灯笼鱼的电力
+
+Snubbull Hair
+布鲁的毛
+
+Skarmory Feather
+盔甲鸟的羽毛
+
+Smeargle Paint
+图图犬的墨汁
+
+Plusle Fur
+正电拍拍的毛
+
+Minun Fur
+负电拍拍的毛
+
+Trapinch Shell
+大颚蚁的壳
+
+Beldum Claw
+铁哑铃的爪子
+
+Cranidos Spike
+头盖龙的刺
+
+Shieldon Claw
+盾甲龙的爪子
+
+Blitzle Mane Hair
+斑斑马的鬃毛
+
+Drilbur Claw
+螺钉地鼠的爪子
+
+Cottonee Fluff
+木棉球的棉絮
+
+Scraggy Sweat
+滑滑小子的汗
+
+Minccino Fur
+泡沫栗鼠的毛
+
+Solosis Gel
+单卵细胞球的凝胶
+
+Joltik Thread
+电电虫的丝
+
+Golett Shard
+泥偶小人的碎片
+
+Espurr Fur
+妙喵的毛
+
+Inkay Ink
+好啦鱿的墨汁
+
+Pikipek Feather
+小笃儿的羽毛
+
+Dewpider Thread
+滴蛛的丝
+
+Comfey Flower
+花疗环环的花
+
+Minior Shell
+小陨星的壳
+
+Milcery Cream
+小仙奶的奶油
+
+Duraludon Tarnish
+铝钢龙的锈
+
+Articuno Treat
+急冻鸟的点心
+
+Zapdos Treat
+闪电鸟的点心
+
+Moltres Treat
+火焰鸟的点心
+
+Raikou Treat
+雷公的点心
+
+Entei Treat
+炎帝的点心
+
+Suicune Treat
+水君的点心
+
+Lugia Treat
+洛奇亚的点心
+
+Ho-Oh Treat
+凤王的点心
+
+Latias Treat
+拉帝亚斯的点心
+
+Latios Treat
+拉帝欧斯的点心
+
+Kyogre Treat
+盖欧卡的点心
+
+Groudon Treat
+固拉多的点心
+
+Rayquaza Treat
+烈空坐的点心
+
+Cobalion Treat
+勾帕路翁的点心
+
+Terrakion Treat
+代拉基翁的点心
+
+Virizion Treat
+毕力吉翁的点心
+
+Reshiram Treat
+莱希拉姆的点心
+
+Zekrom Treat
+捷克罗姆的点心
+
+Kyurem Treat
+酋雷姆的点心
+
+Solgaleo Treat
+索尔迦雷欧的点心
+
+Lunala Treat
+露奈雅拉的点心
+
+Necrozma Treat
+奈克洛兹玛的点心
+
+Kubfu Treat
+熊徒弟的点心
+
+Glastrier Treat
+雪暴马的点心
+
+Spectrier Treat
+灵幽马的点心
+
+Indigo Disk
+蓝之光碟
+
+Fiery Pick
+鸭嘴炎兽三明治签
+
+Stellar Tera Shard
+星晶太晶碎块
+
+Mythical Pecha Berry
+幻之桃桃果
+
+Blueberry Tablecloth
+蓝莓桌巾
+
+Blueberry Chairs
+蓝莓椅子
+
+Synchro Machine
+同步器
+
+Meteorite
+陨石
+
+Scarlet Book
+朱之书
+
+Violet Book
+紫之书
+
+Briar’s Book
+零之秘宝
+
