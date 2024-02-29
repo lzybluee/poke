@@ -103,7 +103,7 @@ function log_moves(list_folder, detail_folder, file, obj) {
 }
 
 function log_species(list_folder, detail_folder, file, obj) {
-    var species_names = [];
+    var species_info = [];
     let list = [];
     let orders = [];
 
@@ -127,18 +127,11 @@ function log_species(list_folder, detail_folder, file, obj) {
     let text = '';
     let csv = '';
     for (let i in list) {
-        species_names[list[i].id] = list[i].name;
+        species_info[list[i].id] = { name: list[i].name, evos: list[i].evos };
 
         text += list[i].num + '\n' + list[i].name + '\n';
 
-        let k = 0;
-        for (let j in list[i].types) {
-            text += list[i].types[j];
-            k++;
-            if (k < list[i].types.length)
-                text += ', ';
-        }
-        text += '\n';
+        text += list[i].types.join(', ') + '\n';
 
         let types = [];
         for (let j in list[i].types)
@@ -147,17 +140,13 @@ function log_species(list_folder, detail_folder, file, obj) {
             types.push('');
 
         let sum = 0;
-        k = 0;
         for (let j in list[i].baseStats) {
-            text += j + ": " + list[i].baseStats[j];
+            text += j + ": " + list[i].baseStats[j] + ', ';
             sum += list[i].baseStats[j];
-            k++;
-            if (k < 6)
-                text += ', ';
         }
-        text += ', sum: ' + sum + '\n';
+        text += 'sum: ' + sum + '\n';
 
-        k = 0;
+        let k = 0;
         for (let j in list[i].abilities) {
             text += j + ": " + list[i].abilities[j];
             k++;
@@ -183,15 +172,15 @@ function log_species(list_folder, detail_folder, file, obj) {
     fs.writeFileSync(list_folder + file + '.txt', text);
     fs.writeFileSync(list_folder + file + '.csv', csv);
 
-    return species_names;
+    return species_info;
 }
 
-function log_learnsets(file, dex, gen, species_names, move_names) {
+function log_learnsets(file, dex, gen, species_info, move_names) {
     let text = '';
     let count = 0;
 
-    for (let i in species_names) {
-        text += species_names[i] + '\n';
+    for (let i in species_info) {
+        text += species_info[i].name + '\n';
         learnsets = dex.species.getLearnsetData(i).learnset;
         for(let j in learnsets) {
             if (move_names[j]) {
@@ -225,21 +214,28 @@ function log_learnsets(file, dex, gen, species_names, move_names) {
                         }
                     }
                 }
-                if (methods.length > 0) {
-                    text += '    ' + move_names[j] + ' : ';
-                    for (let k in methods) {
-                        text += methods[k];
-                        if (k < methods.length - 1)
-                            text += ', ';
-                    }
-                    text += '\n';
-                }
+                if (methods.length > 0)
+                    text += '    ' + move_names[j] + ' : ' + methods.join(', ') + '\n';
             }
         }
 
         count++;
-        if (count < Object.keys(species_names).length)
+        if (count < Object.keys(species_info).length)
             text += '\n';
+    }
+
+    fs.writeFileSync(file + '.txt', text);
+}
+
+function log_evolves(file, species_info) {
+    let text = '';
+    let count = 0;
+
+    for (let i in species_info) {
+        count++;
+        if (species_info[i].evos.length > 0) {
+            text += species_info[i].name + ' -> ' + species_info[i].evos.join(', ') + '\n';
+        }
     }
 
     fs.writeFileSync(file + '.txt', text);
@@ -297,10 +293,12 @@ function log_gen(gen) {
     log_json(json_folder + 'List_Moves', moves);
 
     const species = dex.species.all();
-    var species_names = log_species(list_folder, detail_folder, 'Species', species);
+    var species_info = log_species(list_folder, detail_folder, 'Species', species);
     log_json(json_folder + 'List_Species', species);
 
-    log_learnsets(list_folder + 'Learnsets', dex, gen, species_names, move_names);
+    log_learnsets(list_folder + 'Learnsets', dex, gen, species_info, move_names);
+
+    log_evolves(list_folder + 'Evolves', species_info);
 
     for (let i in dex.data) {
         if (i != 'PokemonGoData') {

@@ -1,0 +1,83 @@
+Bulbasaur -> Ivysaur
+Ivysaur -> Venusaur
+Charmander -> Charmeleon
+Charmeleon -> Charizard
+Squirtle -> Wartortle
+Wartortle -> Blastoise
+Caterpie -> Metapod
+Metapod -> Butterfree
+Weedle -> Kakuna
+Kakuna -> Beedrill
+Pidgey -> Pidgeotto
+Pidgeotto -> Pidgeot
+Rattata -> Raticate
+Spearow -> Fearow
+Ekans -> Arbok
+Pikachu -> Raichu, Raichu-Alola
+Sandshrew -> Sandslash
+Nidoran-F -> Nidorina
+Nidorina -> Nidoqueen
+Nidoran-M -> Nidorino
+Nidorino -> Nidoking
+Clefairy -> Clefable
+Vulpix -> Ninetales
+Jigglypuff -> Wigglytuff
+Zubat -> Golbat
+Golbat -> Crobat
+Oddish -> Gloom
+Gloom -> Vileplume, Bellossom
+Paras -> Parasect
+Venonat -> Venomoth
+Diglett -> Dugtrio
+Meowth -> Persian
+Psyduck -> Golduck
+Mankey -> Primeape
+Primeape -> Annihilape
+Growlithe -> Arcanine
+Poliwag -> Poliwhirl
+Poliwhirl -> Poliwrath, Politoed
+Abra -> Kadabra
+Kadabra -> Alakazam
+Machop -> Machoke
+Machoke -> Machamp
+Bellsprout -> Weepinbell
+Weepinbell -> Victreebel
+Tentacool -> Tentacruel
+Geodude -> Graveler
+Graveler -> Golem
+Ponyta -> Rapidash
+Slowpoke -> Slowbro, Slowking
+Magnemite -> Magneton
+Magneton -> Magnezone
+Doduo -> Dodrio
+Seel -> Dewgong
+Grimer -> Muk
+Shellder -> Cloyster
+Gastly -> Haunter
+Haunter -> Gengar
+Onix -> Steelix
+Drowzee -> Hypno
+Krabby -> Kingler
+Voltorb -> Electrode
+Exeggcute -> Exeggutor, Exeggutor-Alola
+Cubone -> Marowak, Marowak-Alola
+Lickitung -> Lickilicky
+Koffing -> Weezing, Weezing-Galar
+Rhyhorn -> Rhydon
+Rhydon -> Rhyperior
+Chansey -> Blissey
+Tangela -> Tangrowth
+Horsea -> Seadra
+Seadra -> Kingdra
+Goldeen -> Seaking
+Staryu -> Starmie
+Scyther -> Scizor, Kleavor
+Electabuzz -> Electivire
+Magmar -> Magmortar
+Magikarp -> Gyarados
+Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
+Porygon -> Porygon2
+Omanyte -> Omastar
+Kabuto -> Kabutops
+Dratini -> Dragonair
+Dragonair -> Dragonite
