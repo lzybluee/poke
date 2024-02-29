@@ -3,16 +3,19 @@ const util = require('util');
 
 function log_detail(file, obj) {
     let text = '';
+
     for (let i in obj) {
         text += util.inspect(obj[i], {depth: null, maxArrayLength: null});
         if (i < obj.length - 1)
             text += ',\n';
     }
+
     fs.writeFileSync(file + '.txt', text);
 }
 
 function csv_text() {
     let text = '';
+
     for (let i in arguments) {
         if (Array.isArray(arguments[i])) {
             for (let j in arguments[i])
@@ -24,6 +27,7 @@ function csv_text() {
                 text += '"' + arguments[i].replaceAll('"', '""') + '",';
         }
     }
+
     return text + '\n';
 }
 
@@ -50,6 +54,7 @@ function log_list(list_folder, detail_folder, file, obj) {
 
         csv += csv_text(list[i].name, list[i].desc);
     }
+
     fs.writeFileSync(list_folder + file + '.txt', text);
     fs.writeFileSync(list_folder + file + '.csv', csv);
 }
