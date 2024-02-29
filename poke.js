@@ -184,7 +184,7 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
         learnsets = dex.species.getLearnsetData(i).learnset;
         for(let j in learnsets) {
             if (move_names[j]) {
-                let methods = new Array();
+                let methods = [];
                 for (let k in learnsets[j]) {
                     let result = learnsets[j][k].match(/^\d+/);
                     if (result && result[0] == gen) {
@@ -227,24 +227,44 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
     fs.writeFileSync(file + '.txt', text);
 }
 
+function log_evolve(name, evos_list, evos_processed) {
+    let text = ''
+    if (evos_list[name].length == 1) {
+        let evolve_name = evos_list[name][0];
+        text += ' -> ' + evolve_name;
+        if (Object.keys(evos_list).includes(evolve_name) && evos_list[evolve_name].length == 1) {
+            evos_processed.push(evolve_name);
+            text += log_evolve(evolve_name, evos_list, evos_processed);
+        }
+    } else {
+        text += ' -> ' + evos_list[name].join(', ');
+    }
+    return text;
+}
+
 function log_evolves(file, species_info) {
     let text = '';
-    let count = 0;
+    let evos_list = new Array();
+    let evos_processed = [];
 
-    let species_names = new Array();
+    let species_names = [];
     for(let i in species_info)
         species_names.push(species_info[i].name)
 
     for (let i in species_info) {
-        count++;
         if (species_info[i].evos.length > 0) {
             let evos = species_info[i].evos.filter(
                 function(item) {
                     return species_names.includes(item);
                 });
             if (evos.length > 0)
-                text += species_info[i].name + ' -> ' + evos.join(', ') + '\n';
+                evos_list[species_info[i].name] = evos;
         }
+    }
+
+    for (let i in evos_list) {
+        if (!evos_processed.includes(i))
+            text += i + log_evolve(i, evos_list, evos_processed) + '\n';
     }
 
     fs.writeFileSync(file + '.txt', text);

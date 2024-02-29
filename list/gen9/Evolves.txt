@@ -1,9 +1,6 @@
-Bulbasaur -> Ivysaur
-Ivysaur -> Venusaur
-Charmander -> Charmeleon
-Charmeleon -> Charizard
-Squirtle -> Wartortle
-Wartortle -> Blastoise
+Bulbasaur -> Ivysaur -> Venusaur
+Charmander -> Charmeleon -> Charizard
+Squirtle -> Wartortle -> Blastoise
 Ekans -> Arbok
 Pikachu -> Raichu, Raichu-Alola
 Sandshrew -> Sandslash
@@ -21,66 +18,53 @@ Meowth -> Persian
 Meowth-Alola -> Persian-Alola
 Meowth-Galar -> Perrserker
 Psyduck -> Golduck
-Mankey -> Primeape
-Primeape -> Annihilape
+Mankey -> Primeape -> Annihilape
 Growlithe -> Arcanine
 Growlithe-Hisui -> Arcanine-Hisui
 Poliwag -> Poliwhirl
 Poliwhirl -> Poliwrath, Politoed
-Bellsprout -> Weepinbell
-Weepinbell -> Victreebel
+Bellsprout -> Weepinbell -> Victreebel
 Tentacool -> Tentacruel
-Geodude -> Graveler
-Geodude-Alola -> Graveler-Alola
-Graveler -> Golem
-Graveler-Alola -> Golem-Alola
+Geodude -> Graveler -> Golem
+Geodude-Alola -> Graveler-Alola -> Golem-Alola
 Slowpoke -> Slowbro, Slowking
 Slowpoke-Galar -> Slowbro-Galar, Slowking-Galar
-Magnemite -> Magneton
-Magneton -> Magnezone
+Magnemite -> Magneton -> Magnezone
 Doduo -> Dodrio
 Seel -> Dewgong
 Grimer -> Muk
 Grimer-Alola -> Muk-Alola
 Shellder -> Cloyster
-Gastly -> Haunter
-Haunter -> Gengar
+Gastly -> Haunter -> Gengar
 Drowzee -> Hypno
 Voltorb -> Electrode
 Voltorb-Hisui -> Electrode-Hisui
 Exeggcute -> Exeggutor, Exeggutor-Alola
 Koffing -> Weezing, Weezing-Galar
-Rhyhorn -> Rhydon
-Rhydon -> Rhyperior
+Rhyhorn -> Rhydon -> Rhyperior
 Chansey -> Blissey
-Horsea -> Seadra
-Seadra -> Kingdra
+Horsea -> Seadra -> Kingdra
 Scyther -> Scizor, Kleavor
 Electabuzz -> Electivire
 Magmar -> Magmortar
 Magikarp -> Gyarados
 Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
-Porygon -> Porygon2
-Dratini -> Dragonair
-Dragonair -> Dragonite
-Chikorita -> Bayleef
-Bayleef -> Meganium
+Porygon -> Porygon2 -> Porygon-Z
+Dratini -> Dragonair -> Dragonite
+Chikorita -> Bayleef -> Meganium
 Cyndaquil -> Quilava
 Quilava -> Typhlosion, Typhlosion-Hisui
-Totodile -> Croconaw
-Croconaw -> Feraligatr
+Totodile -> Croconaw -> Feraligatr
 Sentret -> Furret
 Hoothoot -> Noctowl
 Spinarak -> Ariados
 Chinchou -> Lanturn
 Pichu -> Pikachu
-Cleffa -> Clefairy
-Igglybuff -> Jigglypuff
-Mareep -> Flaaffy
-Flaaffy -> Ampharos
+Cleffa -> Clefairy -> Clefable
+Igglybuff -> Jigglypuff -> Wigglytuff
+Mareep -> Flaaffy -> Ampharos
 Marill -> Azumarill
-Hoppip -> Skiploom
-Skiploom -> Jumpluff
+Hoppip -> Skiploom -> Jumpluff
 Aipom -> Ambipom
 Sunkern -> Sunflora
 Yanma -> Yanmega
@@ -96,71 +80,52 @@ Snubbull -> Granbull
 Qwilfish-Hisui -> Overqwil
 Sneasel -> Weavile
 Sneasel-Hisui -> Sneasler
-Teddiursa -> Ursaring
-Ursaring -> Ursaluna
+Teddiursa -> Ursaring -> Ursaluna
 Slugma -> Magcargo
-Swinub -> Piloswine
-Piloswine -> Mamoswine
+Swinub -> Piloswine -> Mamoswine
 Houndour -> Houndoom
 Phanpy -> Donphan
-Porygon2 -> Porygon-Z
 Stantler -> Wyrdeer
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
-Elekid -> Electabuzz
-Magby -> Magmar
-Larvitar -> Pupitar
-Pupitar -> Tyranitar
-Treecko -> Grovyle
-Grovyle -> Sceptile
-Torchic -> Combusken
-Combusken -> Blaziken
-Mudkip -> Marshtomp
-Marshtomp -> Swampert
+Elekid -> Electabuzz -> Electivire
+Magby -> Magmar -> Magmortar
+Larvitar -> Pupitar -> Tyranitar
+Treecko -> Grovyle -> Sceptile
+Torchic -> Combusken -> Blaziken
+Mudkip -> Marshtomp -> Swampert
 Poochyena -> Mightyena
-Lotad -> Lombre
-Lombre -> Ludicolo
-Seedot -> Nuzleaf
-Nuzleaf -> Shiftry
+Lotad -> Lombre -> Ludicolo
+Seedot -> Nuzleaf -> Shiftry
 Wingull -> Pelipper
 Ralts -> Kirlia
 Kirlia -> Gardevoir, Gallade
 Surskit -> Masquerain
 Shroomish -> Breloom
-Slakoth -> Vigoroth
-Vigoroth -> Slaking
+Slakoth -> Vigoroth -> Slaking
 Makuhita -> Hariyama
-Azurill -> Marill
+Azurill -> Marill -> Azumarill
 Nosepass -> Probopass
 Meditite -> Medicham
 Gulpin -> Swalot
 Numel -> Camerupt
 Spoink -> Grumpig
-Trapinch -> Vibrava
-Vibrava -> Flygon
+Trapinch -> Vibrava -> Flygon
 Cacnea -> Cacturne
 Swablu -> Altaria
 Barboach -> Whiscash
 Corphish -> Crawdaunt
 Feebas -> Milotic
 Shuppet -> Banette
-Duskull -> Dusclops
-Dusclops -> Dusknoir
+Duskull -> Dusclops -> Dusknoir
 Snorunt -> Glalie, Froslass
-Bagon -> Shelgon
-Shelgon -> Salamence
-Beldum -> Metang
-Metang -> Metagross
-Turtwig -> Grotle
-Grotle -> Torterra
-Chimchar -> Monferno
-Monferno -> Infernape
-Piplup -> Prinplup
-Prinplup -> Empoleon
-Starly -> Staravia
-Staravia -> Staraptor
+Bagon -> Shelgon -> Salamence
+Beldum -> Metang -> Metagross
+Turtwig -> Grotle -> Torterra
+Chimchar -> Monferno -> Infernape
+Piplup -> Prinplup -> Empoleon
+Starly -> Staravia -> Staraptor
 Kricketot -> Kricketune
-Shinx -> Luxio
-Luxio -> Luxray
+Shinx -> Luxio -> Luxray
 Cranidos -> Rampardos
 Shieldon -> Bastiodon
 Combee -> Vespiquen
@@ -171,73 +136,55 @@ Chingling -> Chimecho
 Stunky -> Skuntank
 Bronzor -> Bronzong
 Bonsly -> Sudowoodo
-Happiny -> Chansey
-Gible -> Gabite
-Gabite -> Garchomp
+Happiny -> Chansey -> Blissey
+Gible -> Gabite -> Garchomp
 Munchlax -> Snorlax
 Riolu -> Lucario
 Hippopotas -> Hippowdon
 Croagunk -> Toxicroak
 Finneon -> Lumineon
 Snover -> Abomasnow
-Snivy -> Servine
-Servine -> Serperior
-Tepig -> Pignite
-Pignite -> Emboar
+Snivy -> Servine -> Serperior
+Tepig -> Pignite -> Emboar
 Oshawott -> Dewott
 Dewott -> Samurott, Samurott-Hisui
 Blitzle -> Zebstrika
 Drilbur -> Excadrill
-Timburr -> Gurdurr
-Gurdurr -> Conkeldurr
-Sewaddle -> Swadloon
-Swadloon -> Leavanny
+Timburr -> Gurdurr -> Conkeldurr
+Sewaddle -> Swadloon -> Leavanny
 Cottonee -> Whimsicott
 Petilil -> Lilligant, Lilligant-Hisui
 Basculin-White-Striped -> Basculegion, Basculegion-F
-Sandile -> Krokorok
-Krokorok -> Krookodile
+Sandile -> Krokorok -> Krookodile
 Scraggy -> Scrafty
 Zorua -> Zoroark
 Zorua-Hisui -> Zoroark-Hisui
 Minccino -> Cinccino
-Gothita -> Gothorita
-Gothorita -> Gothitelle
-Solosis -> Duosion
-Duosion -> Reuniclus
+Gothita -> Gothorita -> Gothitelle
+Solosis -> Duosion -> Reuniclus
 Ducklett -> Swanna
 Deerling -> Sawsbuck
 Foongus -> Amoonguss
 Joltik -> Galvantula
-Tynamo -> Eelektrik
-Eelektrik -> Eelektross
-Litwick -> Lampent
-Lampent -> Chandelure
-Axew -> Fraxure
-Fraxure -> Haxorus
+Tynamo -> Eelektrik -> Eelektross
+Litwick -> Lampent -> Chandelure
+Axew -> Fraxure -> Haxorus
 Cubchoo -> Beartic
 Mienfoo -> Mienshao
 Golett -> Golurk
-Pawniard -> Bisharp
-Bisharp -> Kingambit
+Pawniard -> Bisharp -> Kingambit
 Rufflet -> Braviary, Braviary-Hisui
 Vullaby -> Mandibuzz
-Deino -> Zweilous
-Zweilous -> Hydreigon
+Deino -> Zweilous -> Hydreigon
 Larvesta -> Volcarona
-Chespin -> Quilladin
-Quilladin -> Chesnaught
-Fennekin -> Braixen
-Braixen -> Delphox
-Froakie -> Frogadier
-Frogadier -> Greninja
-Fletchling -> Fletchinder
-Fletchinder -> Talonflame
+Chespin -> Quilladin -> Chesnaught
+Fennekin -> Braixen -> Delphox
+Froakie -> Frogadier -> Greninja
+Fletchling -> Fletchinder -> Talonflame
 Scatterbug -> Spewpa
 Spewpa -> Vivillon, Vivillon-Fancy
 Litleo -> Pyroar
-Flabébé -> Floette
-Floette -> Florges
+Flabébé -> Floette -> Florges
 Skiddo -> Gogoat
 Espurr -> Meowstic, Meowstic-F
 Inkay -> Malamar
@@ -251,15 +198,11 @@ Bergmite -> Avalugg, Avalugg-Hisui
 Noibat -> Noivern
 Rowlet -> Dartrix
 Dartrix -> Decidueye, Decidueye-Hisui
-Litten -> Torracat
-Torracat -> Incineroar
-Popplio -> Brionne
-Brionne -> Primarina
-Pikipek -> Trumbeak
-Trumbeak -> Toucannon
+Litten -> Torracat -> Incineroar
+Popplio -> Brionne -> Primarina
+Pikipek -> Trumbeak -> Toucannon
 Yungoos -> Gumshoos
-Grubbin -> Charjabug
-Charjabug -> Vikavolt
+Grubbin -> Charjabug -> Vikavolt
 Crabrawler -> Crabominable
 Cutiefly -> Ribombee
 Rockruff -> Lycanroc, Lycanroc-Midnight, Lycanroc-Dusk
@@ -268,59 +211,43 @@ Mudbray -> Mudsdale
 Dewpider -> Araquanid
 Fomantis -> Lurantis
 Salandit -> Salazzle
-Bounsweet -> Steenee
-Steenee -> Tsareena
+Bounsweet -> Steenee -> Tsareena
 Sandygast -> Palossand
-Jangmo-o -> Hakamo-o
-Hakamo-o -> Kommo-o
+Jangmo-o -> Hakamo-o -> Kommo-o
 Cosmog -> Cosmoem
 Cosmoem -> Solgaleo, Lunala
-Grookey -> Thwackey
-Thwackey -> Rillaboom
-Scorbunny -> Raboot
-Raboot -> Cinderace
-Sobble -> Drizzile
-Drizzile -> Inteleon
+Grookey -> Thwackey -> Rillaboom
+Scorbunny -> Raboot -> Cinderace
+Sobble -> Drizzile -> Inteleon
 Skwovet -> Greedent
-Rookidee -> Corvisquire
-Corvisquire -> Corviknight
+Rookidee -> Corvisquire -> Corviknight
 Chewtle -> Drednaw
-Rolycoly -> Carkol
-Carkol -> Coalossal
+Rolycoly -> Carkol -> Coalossal
 Applin -> Flapple, Appletun, Dipplin
 Silicobra -> Sandaconda
 Arrokuda -> Barraskewda
 Toxel -> Toxtricity, Toxtricity-Low-Key
 Sinistea -> Polteageist
 Sinistea-Antique -> Polteageist-Antique
-Hatenna -> Hattrem
-Hattrem -> Hatterene
-Impidimp -> Morgrem
-Morgrem -> Grimmsnarl
+Hatenna -> Hattrem -> Hatterene
+Impidimp -> Morgrem -> Grimmsnarl
 Milcery -> Alcremie
 Snom -> Frosmoth
 Cufant -> Copperajah
 Duraludon -> Archaludon
-Dreepy -> Drakloak
-Drakloak -> Dragapult
+Dreepy -> Drakloak -> Dragapult
 Kubfu -> Urshifu, Urshifu-Rapid-Strike
-Sprigatito -> Floragato
-Floragato -> Meowscarada
-Fuecoco -> Crocalor
-Crocalor -> Skeledirge
-Quaxly -> Quaxwell
-Quaxwell -> Quaquaval
+Sprigatito -> Floragato -> Meowscarada
+Fuecoco -> Crocalor -> Skeledirge
+Quaxly -> Quaxwell -> Quaquaval
 Lechonk -> Oinkologne, Oinkologne-F
 Tarountula -> Spidops
 Nymble -> Lokix
-Pawmi -> Pawmo
-Pawmo -> Pawmot
+Pawmi -> Pawmo -> Pawmot
 Tandemaus -> Maushold, Maushold-Four
 Fidough -> Dachsbun
-Smoliv -> Dolliv
-Dolliv -> Arboliva
-Nacli -> Naclstack
-Naclstack -> Garganacl
+Smoliv -> Dolliv -> Arboliva
+Nacli -> Naclstack -> Garganacl
 Charcadet -> Armarouge, Ceruledge
 Tadbulb -> Bellibolt
 Wattrel -> Kilowattrel
@@ -331,16 +258,14 @@ Toedscool -> Toedscruel
 Capsakid -> Scovillain
 Rellor -> Rabsca
 Flittle -> Espathra
-Tinkatink -> Tinkatuff
-Tinkatuff -> Tinkaton
+Tinkatink -> Tinkatuff -> Tinkaton
 Wiglett -> Wugtrio
 Finizen -> Palafin
 Varoom -> Revavroom
 Glimmet -> Glimmora
 Greavard -> Houndstone
 Cetoddle -> Cetitan
-Frigibax -> Arctibax
-Arctibax -> Baxcalibur
+Frigibax -> Arctibax -> Baxcalibur
 Gimmighoul -> Gholdengo
 Gimmighoul-Roaming -> Gholdengo
 Dipplin -> Hydrapple

@@ -1,29 +1,20 @@
-Bulbasaur -> Ivysaur
-Ivysaur -> Venusaur
-Charmander -> Charmeleon
-Charmeleon -> Charizard
-Squirtle -> Wartortle
-Wartortle -> Blastoise
-Caterpie -> Metapod
-Metapod -> Butterfree
-Weedle -> Kakuna
-Kakuna -> Beedrill
-Pidgey -> Pidgeotto
-Pidgeotto -> Pidgeot
+Bulbasaur -> Ivysaur -> Venusaur
+Charmander -> Charmeleon -> Charizard
+Squirtle -> Wartortle -> Blastoise
+Caterpie -> Metapod -> Butterfree
+Weedle -> Kakuna -> Beedrill
+Pidgey -> Pidgeotto -> Pidgeot
 Rattata -> Raticate
 Spearow -> Fearow
 Ekans -> Arbok
 Pikachu -> Raichu
 Sandshrew -> Sandslash
-Nidoran-F -> Nidorina
-Nidorina -> Nidoqueen
-Nidoran-M -> Nidorino
-Nidorino -> Nidoking
+Nidoran-F -> Nidorina -> Nidoqueen
+Nidoran-M -> Nidorino -> Nidoking
 Clefairy -> Clefable
 Vulpix -> Ninetales
 Jigglypuff -> Wigglytuff
-Zubat -> Golbat
-Golbat -> Crobat
+Zubat -> Golbat -> Crobat
 Oddish -> Gloom
 Gloom -> Vileplume, Bellossom
 Paras -> Parasect
@@ -35,15 +26,11 @@ Mankey -> Primeape
 Growlithe -> Arcanine
 Poliwag -> Poliwhirl
 Poliwhirl -> Poliwrath, Politoed
-Abra -> Kadabra
-Kadabra -> Alakazam
-Machop -> Machoke
-Machoke -> Machamp
-Bellsprout -> Weepinbell
-Weepinbell -> Victreebel
+Abra -> Kadabra -> Alakazam
+Machop -> Machoke -> Machamp
+Bellsprout -> Weepinbell -> Victreebel
 Tentacool -> Tentacruel
-Geodude -> Graveler
-Graveler -> Golem
+Geodude -> Graveler -> Golem
 Ponyta -> Rapidash
 Slowpoke -> Slowbro, Slowking
 Magnemite -> Magneton
@@ -51,8 +38,7 @@ Doduo -> Dodrio
 Seel -> Dewgong
 Grimer -> Muk
 Shellder -> Cloyster
-Gastly -> Haunter
-Haunter -> Gengar
+Gastly -> Haunter -> Gengar
 Onix -> Steelix
 Drowzee -> Hypno
 Krabby -> Kingler
@@ -62,8 +48,7 @@ Cubone -> Marowak
 Koffing -> Weezing
 Rhyhorn -> Rhydon
 Chansey -> Blissey
-Horsea -> Seadra
-Seadra -> Kingdra
+Horsea -> Seadra -> Kingdra
 Goldeen -> Seaking
 Staryu -> Starmie
 Scyther -> Scizor
@@ -72,29 +57,23 @@ Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon
 Porygon -> Porygon2
 Omanyte -> Omastar
 Kabuto -> Kabutops
-Dratini -> Dragonair
-Dragonair -> Dragonite
-Chikorita -> Bayleef
-Bayleef -> Meganium
-Cyndaquil -> Quilava
-Quilava -> Typhlosion
-Totodile -> Croconaw
-Croconaw -> Feraligatr
+Dratini -> Dragonair -> Dragonite
+Chikorita -> Bayleef -> Meganium
+Cyndaquil -> Quilava -> Typhlosion
+Totodile -> Croconaw -> Feraligatr
 Sentret -> Furret
 Hoothoot -> Noctowl
 Ledyba -> Ledian
 Spinarak -> Ariados
 Chinchou -> Lanturn
-Pichu -> Pikachu
-Cleffa -> Clefairy
-Igglybuff -> Jigglypuff
+Pichu -> Pikachu -> Raichu
+Cleffa -> Clefairy -> Clefable
+Igglybuff -> Jigglypuff -> Wigglytuff
 Togepi -> Togetic
 Natu -> Xatu
-Mareep -> Flaaffy
-Flaaffy -> Ampharos
+Mareep -> Flaaffy -> Ampharos
 Marill -> Azumarill
-Hoppip -> Skiploom
-Skiploom -> Jumpluff
+Hoppip -> Skiploom -> Jumpluff
 Sunkern -> Sunflora
 Wooper -> Quagsire
 Pineco -> Forretress
@@ -109,5 +88,4 @@ Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
 Smoochum -> Jynx
 Elekid -> Electabuzz
 Magby -> Magmar
-Larvitar -> Pupitar
-Pupitar -> Tyranitar
+Larvitar -> Pupitar -> Tyranitar
