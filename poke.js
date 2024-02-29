@@ -279,7 +279,9 @@ function log_evolves(file, species_info) {
 
     for (let i in evos_list) {
         if (!evos_processed.includes(i)) {
-            species_name = pre_evos[i] ?? i;
+            species_name = i;
+            while (pre_evos[species_name])
+                species_name = pre_evos[species_name];
             evolves = log_evolve(species_name, evos_list, evos_processed);
             for (let j in evolves) {
                 text += species_name + evolves[j] + '\n';
