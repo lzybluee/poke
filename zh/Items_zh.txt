@@ -1846,9 +1846,6 @@ Gram 2
 Gram 3
 配送物品３
 
-Xtransceiver
-即时通讯器
-
 Medal Box
 奖牌盒
 
@@ -2101,12 +2098,6 @@ Sail Fossil
 Looker Ticket
 帅哥券
 
-Bike
-自行车
-
-Holo Caster
-全息影像通讯器
-
 Fairy Gem
 妖精宝石
 
@@ -2130,9 +2121,6 @@ Devon Parts
 
 Soot Sack
 集灰袋
-
-Basement Key
-地下钥匙
 
 Pokéblock Kit
 宝可方块套装
@@ -2164,14 +2152,8 @@ Key to Room 4
 Key to Room 6
 ６号客房的钥匙
 
-Storage Key
-仓库钥匙
-
 Devon Scope
 得文侦测镜
-
-S.S. Ticket
-船票
 
 HM07
 秘传学习器０７
@@ -2211,9 +2193,6 @@ Mega Tiara
 
 Mega Anklet
 超级脚镯
-
-Meteorite
-陨石
 
 Swampertite
 巨沼怪进化石
@@ -2271,9 +2250,6 @@ Salamencite
 
 Beedrillite
 大针蜂进化石
-
-Meteorite
-陨石
 
 Key Stone
 钥石
@@ -2377,90 +2353,6 @@ Eevium Z
 Mewnium Z
 梦幻Ｚ
 
-Normalium Z
-一般Ｚ
-
-Firium Z
-火Ｚ
-
-Waterium Z
-水Ｚ
-
-Electrium Z
-电Ｚ
-
-Grassium Z
-草Ｚ
-
-Icium Z
-冰Ｚ
-
-Fightinium Z
-格斗Ｚ
-
-Poisonium Z
-毒Ｚ
-
-Groundium Z
-地面Ｚ
-
-Flyinium Z
-飞行Ｚ
-
-Psychium Z
-超能力Ｚ
-
-Buginium Z
-虫Ｚ
-
-Rockium Z
-岩石Ｚ
-
-Ghostium Z
-幽灵Ｚ
-
-Dragonium Z
-龙Ｚ
-
-Darkinium Z
-恶Ｚ
-
-Steelium Z
-钢Ｚ
-
-Fairium Z
-妖精Ｚ
-
-Pikanium Z
-皮卡丘Ｚ
-
-Decidium Z
-狙射树枭Ｚ
-
-Incinium Z
-炽焰咆哮虎Ｚ
-
-Primarium Z
-西狮海壬Ｚ
-
-Tapunium Z
-卡璞Ｚ
-
-Marshadium Z
-玛夏多Ｚ
-
-Aloraichium Z
-阿罗雷Ｚ
-
-Snorlium Z
-卡比兽Ｚ
-
-Eevium Z
-伊布Ｚ
-
-Mewnium Z
-梦幻Ｚ
-
 Pikashunium Z
 智皮卡Ｚ
 
@@ -2536,20 +2428,8 @@ Silver Pinap Berry
 Golden Pinap Berry
 金色凰梨果
 
-Secret Key
-秘密钥匙
-
-S.S. Ticket
-船票
-
 Silph Scope
 西尔佛检视镜
-
-Parcel
-包裹
-
-Card Key
-钥匙卡
 
 Gold Teeth
 金假牙
@@ -2689,24 +2569,6 @@ Lycanium Z
 Kommonium Z
 杖尾鳞甲龙Ｚ
 
-Solganium Z
-索尔迦雷欧Ｚ
-
-Lunalium Z
-露奈雅拉Ｚ
-
-Ultranecrozium Z
-究极奈克洛Ｚ
-
-Mimikium Z
-谜拟丘Ｚ
-
-Lycanium Z
-鬃岩狼人Ｚ
-
-Kommonium Z
-杖尾鳞甲龙Ｚ
-
 Z-Power Ring
 Ｚ强力手环
 
@@ -2736,12 +2598,6 @@ Rainbow Flower
 
 Surge Badge
 桔色徽章
-
-N-Solarizer
-奈克洛索尔合体器
-
-N-Lunarizer
-奈克洛露奈合体器
 
 N-Solarizer
 奈克洛索尔合体器
@@ -3085,17 +2941,11 @@ Magmar Candy
 Endorsement
 推荐函
 
-Pokémon Box Link
-宝可梦盒
-
 Wishing Star
 许愿星
 
 Dynamax Band
 极巨腕带
-
-Fishing Rod
-钓竿
 
 Rotom Bike
 洛托姆自行车
@@ -3640,9 +3490,6 @@ Gigantamix
 Wishing Chip
 许愿星碎片
 
-Rotom Bike
-洛托姆自行车
-
 Catching Charm
 防晃护符
 
@@ -3675,9 +3522,6 @@ Style Card
 
 Armor Pass
 铠甲车票
-
-Rotom Bike
-洛托姆自行车
 
 Exp. Charm
 经验护符
@@ -3736,9 +3580,6 @@ Carrot Seeds
 Ability Patch
 特性膏药
 
-Reins of Unity
-牵绊缰绳
-
 Time Balm
 时之镇宝
 
@@ -3763,9 +3604,6 @@ Jubilife Muffin
 Aux Powerguard
 多重强化
 
-Dire Hit
-要害攻击
-
 Choice Dumpling
 讲究粽
 
@@ -3780,9 +3618,6 @@ Caster Fern
 
 Seed of Mastery
 精通种子
-
-Poké Ball
-精灵球
 
 Eternal Ice
 永恒之冰
@@ -3832,15 +3667,6 @@ King’s Leaf
 Marsh Balm
 沼之镇宝
 
-Poké Ball
-精灵球
-
-Great Ball
-超级球
-
-Ultra Ball
-高级球
-
 Feather Ball
 飞羽球
 
@@ -3855,9 +3681,6 @@ Scatter Bang
 
 Sticky Glob
 黏丸
-
-Star Piece
-星星碎片
 
 Mushroom Cake
 菇诱团
@@ -3877,50 +3700,8 @@ Bean Cake
 Salt Cake
 矿诱团
 
-Potion
-伤药
-
-Super Potion
-好伤药
-
-Hyper Potion
-厉害伤药
-
-Max Potion
-全满药
-
-Full Restore
-全复药
-
-Remedy
-中药
-
-Fine Remedy
-好中药
-
 Superb Remedy
 厉害中药
-
-Old Gateau
-森之羊羹
-
-Jubilife Muffin
-祝庆玛芬
-
-Full Heal
-万灵药
-
-Revive
-活力碎片
-
-Max Revive
-活力块
-
-Max Ether
-ＰＰ单项全补剂
-
-Max Elixir
-ＰＰ多项全补剂
 
 Stealth Spray
 匿声喷雾
@@ -3931,14 +3712,8 @@ Aux Power
 Aux Guard
 防守药丸
 
-Dire Hit
-要害攻击
-
 Aux Evasion
 闪避强化
-
-Aux Powerguard
-多重强化
 
 Forest Balm
 森之镇宝
@@ -3964,20 +3739,11 @@ Sootfoot Root
 Spoiled Apricorn
 蛀球果
 
-Snowball
-雪丸
-
-Sticky Glob
-黏丸
-
 Black Augurite
 黑奇石
 
 Peat Block
 泥炭块
-
-Stealth Spray
-匿声喷雾
 
 Medicinal Leek
 疗草
@@ -4021,27 +3787,6 @@ Candy Truffle
 Cake-Lure Base
 诱团原料
 
-Poké Ball
-精灵球
-
-Great Ball
-超级球
-
-Ultra Ball
-高级球
-
-Feather Ball
-飞羽球
-
-Scatter Bang
-声弹
-
-Smoke Bomb
-烟弹
-
-Pokéshi Doll
-宝可梦木娃娃
-
 Volcano Balm
 火山镇宝
 
@@ -4050,30 +3795,6 @@ Mountain Balm
 
 Snow Balm
 雪之镇宝
-
-Honey Cake
-蜜诱团
-
-Grain Cake
-谷诱团
-
-Bean Cake
-豆诱团
-
-Mushroom Cake
-菇诱团
-
-Salt Cake
-矿诱团
-
-Swap Snack
-颠倒烧
-
-Choice Dumpling
-讲究粽
-
-Twice-Spiced Radish
-双倍腌菜
 
 Survival Charm R
 安全护符１
@@ -4123,38 +3844,14 @@ Wing Ball
 Jet Ball
 飞梭球
 
-Heavy Ball
-沉重球
-
 Leaden Ball
 超重球
 
 Gigaton Ball
 巨重球
 
-Wing Ball
-飞翼球
-
-Jet Ball
-飞梭球
-
-Heavy Ball
-沉重球
-
 Hopo Berry
 花啤果
-
-Superb Remedy
-厉害中药
-
-Aux Power
-进攻药丸
-
-Aux Guard
-防守药丸
-
-Aux Evasion
-闪避强化
 
 Grit Dust
 奋斗沙
@@ -4167,9 +3864,6 @@ Grit Pebble
 
 Grit Rock
 奋斗岩
-
-Secret Medicine
-秘传之药
 
 Tempting Charm R
 替身护符１
@@ -4197,12 +3891,6 @@ Blank Plate
 
 Crafting Kit
 工艺套组
-
-Leaden Ball
-超重球
-
-Gigaton Ball
-巨重球
 
 Strange Ball
 奇异球
@@ -5151,9 +4839,6 @@ Toedscool Flaps
 
 Wooper Slime
 乌波的黏液
-
-TM100
-招式学习器１００
 
 TM101
 招式学习器１０１
@@ -6240,15 +5925,6 @@ Blueberry Chairs
 
 Synchro Machine
 同步器
-
-Meteorite
-陨石
-
-Scarlet Book
-朱之书
-
-Violet Book
-紫之书
 
 Briar’s Book
 零之秘宝
