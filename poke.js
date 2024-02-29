@@ -228,29 +228,25 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
 }
 
 function log_evolve(name, evos_list, evos_processed) {
-    let evolves = []
-    if (evos_list[name].length == 1) {
-        let evolve_name = evos_list[name][0];
-        evolves[0] = ' -> ' + evolve_name;
-        if (Object.keys(evos_list).includes(evolve_name) && evos_list[evolve_name].length == 1) {
+    let evolve_list = []
+    let no_further_evolve = [];
+
+    for (let i in evos_list[name]) {
+        let evolve_name = evos_list[name][i];
+        if (Object.keys(evos_list).includes(evolve_name)) {
             evos_processed.push(evolve_name);
-            evolves[0] += log_evolve(evolve_name, evos_list, evos_processed);
+            evolves = log_evolve(evolve_name, evos_list, evos_processed);
+            for (let j in evolves)
+                evolve_list.push(' -> ' + evolve_name + evolves[j]);
+        } else {
+            no_further_evolve.push(evos_list[name][i]);
         }
-    } else {
-        let rest_evolves = [];
-        for (let i in evos_list[name]) {
-            let evolve_name = evos_list[name][i];
-            if (Object.keys(evos_list).includes(evolve_name) && evos_list[evolve_name].length == 1) {
-                evos_processed.push(evolve_name);
-                evolves.push(' -> ' + evolve_name + log_evolve(evolve_name, evos_list, evos_processed));
-            } else {
-                rest_evolves.push(evos_list[name][i]);
-            }
-        }
-        if (rest_evolves.length > 0)
-            evolves.push(' -> ' + rest_evolves.join(', '));
     }
-    return evolves;
+
+    if (no_further_evolve.length > 0)
+        evolve_list.push(' -> ' + no_further_evolve.join(', '));
+
+    return evolve_list;
 }
 
 function log_evolves(file, species_info) {

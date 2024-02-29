@@ -18,8 +18,7 @@ Vulpix -> Ninetales
 Vulpix-Alola -> Ninetales-Alola
 Jigglypuff -> Wigglytuff
 Zubat -> Golbat -> Crobat
-Oddish -> Gloom
-Gloom -> Vileplume, Bellossom
+Oddish -> Gloom -> Vileplume, Bellossom
 Paras -> Parasect
 Venonat -> Venomoth
 Diglett -> Dugtrio
@@ -29,8 +28,7 @@ Meowth-Alola -> Persian-Alola
 Psyduck -> Golduck
 Mankey -> Primeape
 Growlithe -> Arcanine
-Poliwag -> Poliwhirl
-Poliwhirl -> Poliwrath, Politoed
+Poliwag -> Poliwhirl -> Poliwrath, Politoed
 Abra -> Kadabra -> Alakazam
 Machop -> Machoke -> Machamp
 Bellsprout -> Weepinbell -> Victreebel
@@ -77,7 +75,7 @@ Hoothoot -> Noctowl
 Ledyba -> Ledian
 Spinarak -> Ariados
 Chinchou -> Lanturn
-Pichu -> Pikachu
+Pichu -> Pikachu -> Raichu, Raichu-Alola
 Cleffa -> Clefairy -> Clefable
 Igglybuff -> Jigglypuff -> Wigglytuff
 Togepi -> Togetic -> Togekiss
@@ -117,8 +115,7 @@ Lotad -> Lombre -> Ludicolo
 Seedot -> Nuzleaf -> Shiftry
 Taillow -> Swellow
 Wingull -> Pelipper
-Ralts -> Kirlia
-Kirlia -> Gardevoir, Gallade
+Ralts -> Kirlia -> Gardevoir, Gallade
 Surskit -> Masquerain
 Shroomish -> Breloom
 Slakoth -> Vigoroth -> Slaking
@@ -292,6 +289,5 @@ Wimpod -> Golisopod
 Sandygast -> Palossand
 Type: Null -> Silvally
 Jangmo-o -> Hakamo-o -> Kommo-o
-Cosmog -> Cosmoem
-Cosmoem -> Solgaleo, Lunala
+Cosmog -> Cosmoem -> Solgaleo, Lunala
 Poipole -> Naganadel

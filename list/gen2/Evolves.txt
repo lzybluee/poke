@@ -15,8 +15,7 @@ Clefairy -> Clefable
 Vulpix -> Ninetales
 Jigglypuff -> Wigglytuff
 Zubat -> Golbat -> Crobat
-Oddish -> Gloom
-Gloom -> Vileplume, Bellossom
+Oddish -> Gloom -> Vileplume, Bellossom
 Paras -> Parasect
 Venonat -> Venomoth
 Diglett -> Dugtrio
@@ -24,8 +23,7 @@ Meowth -> Persian
 Psyduck -> Golduck
 Mankey -> Primeape
 Growlithe -> Arcanine
-Poliwag -> Poliwhirl
-Poliwhirl -> Poliwrath, Politoed
+Poliwag -> Poliwhirl -> Poliwrath, Politoed
 Abra -> Kadabra -> Alakazam
 Machop -> Machoke -> Machamp
 Bellsprout -> Weepinbell -> Victreebel

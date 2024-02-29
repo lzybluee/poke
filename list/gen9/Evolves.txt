@@ -9,8 +9,7 @@ Clefairy -> Clefable
 Vulpix -> Ninetales
 Vulpix-Alola -> Ninetales-Alola
 Jigglypuff -> Wigglytuff
-Oddish -> Gloom
-Gloom -> Vileplume, Bellossom
+Oddish -> Gloom -> Vileplume, Bellossom
 Venonat -> Venomoth
 Diglett -> Dugtrio
 Diglett-Alola -> Dugtrio-Alola
@@ -21,8 +20,7 @@ Psyduck -> Golduck
 Mankey -> Primeape -> Annihilape
 Growlithe -> Arcanine
 Growlithe-Hisui -> Arcanine-Hisui
-Poliwag -> Poliwhirl
-Poliwhirl -> Poliwrath, Politoed
+Poliwag -> Poliwhirl -> Poliwrath, Politoed
 Bellsprout -> Weepinbell -> Victreebel
 Tentacool -> Tentacruel
 Geodude -> Graveler -> Golem
@@ -52,14 +50,13 @@ Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
 Porygon -> Porygon2 -> Porygon-Z
 Dratini -> Dragonair -> Dragonite
 Chikorita -> Bayleef -> Meganium
-Cyndaquil -> Quilava
-Quilava -> Typhlosion, Typhlosion-Hisui
+Cyndaquil -> Quilava -> Typhlosion, Typhlosion-Hisui
 Totodile -> Croconaw -> Feraligatr
 Sentret -> Furret
 Hoothoot -> Noctowl
 Spinarak -> Ariados
 Chinchou -> Lanturn
-Pichu -> Pikachu
+Pichu -> Pikachu -> Raichu, Raichu-Alola
 Cleffa -> Clefairy -> Clefable
 Igglybuff -> Jigglypuff -> Wigglytuff
 Mareep -> Flaaffy -> Ampharos
@@ -97,8 +94,7 @@ Poochyena -> Mightyena
 Lotad -> Lombre -> Ludicolo
 Seedot -> Nuzleaf -> Shiftry
 Wingull -> Pelipper
-Ralts -> Kirlia
-Kirlia -> Gardevoir, Gallade
+Ralts -> Kirlia -> Gardevoir, Gallade
 Surskit -> Masquerain
 Shroomish -> Breloom
 Slakoth -> Vigoroth -> Slaking
@@ -146,8 +142,7 @@ Finneon -> Lumineon
 Snover -> Abomasnow
 Snivy -> Servine -> Serperior
 Tepig -> Pignite -> Emboar
-Oshawott -> Dewott
-Dewott -> Samurott, Samurott-Hisui
+Oshawott -> Dewott -> Samurott, Samurott-Hisui
 Blitzle -> Zebstrika
 Drilbur -> Excadrill
 Timburr -> Gurdurr -> Conkeldurr
@@ -181,8 +176,7 @@ Chespin -> Quilladin -> Chesnaught
 Fennekin -> Braixen -> Delphox
 Froakie -> Frogadier -> Greninja
 Fletchling -> Fletchinder -> Talonflame
-Scatterbug -> Spewpa
-Spewpa -> Vivillon, Vivillon-Fancy
+Scatterbug -> Spewpa -> Vivillon, Vivillon-Fancy
 Litleo -> Pyroar
 Flabébé -> Floette -> Florges
 Skiddo -> Gogoat
@@ -195,8 +189,7 @@ Goomy -> Sliggoo-Hisui -> Goodra-Hisui
 Phantump -> Trevenant
 Bergmite -> Avalugg, Avalugg-Hisui
 Noibat -> Noivern
-Rowlet -> Dartrix
-Dartrix -> Decidueye, Decidueye-Hisui
+Rowlet -> Dartrix -> Decidueye, Decidueye-Hisui
 Litten -> Torracat -> Incineroar
 Popplio -> Brionne -> Primarina
 Pikipek -> Trumbeak -> Toucannon
@@ -213,8 +206,7 @@ Salandit -> Salazzle
 Bounsweet -> Steenee -> Tsareena
 Sandygast -> Palossand
 Jangmo-o -> Hakamo-o -> Kommo-o
-Cosmog -> Cosmoem
-Cosmoem -> Solgaleo, Lunala
+Cosmog -> Cosmoem -> Solgaleo, Lunala
 Grookey -> Thwackey -> Rillaboom
 Scorbunny -> Raboot -> Cinderace
 Sobble -> Drizzile -> Inteleon
