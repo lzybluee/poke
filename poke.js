@@ -286,6 +286,7 @@ function log_evolves(file, species_info) {
             for (let j in evolves) {
                 text += species_name + evolves[j] + '\n';
             }
+            text += '\n';
         }
     }
 

@@ -1,231 +1,461 @@
 Bulbasaur -> Ivysaur -> Venusaur
+
 Charmander -> Charmeleon -> Charizard
+
 Squirtle -> Wartortle -> Blastoise
+
 Caterpie -> Metapod -> Butterfree
+
 Pichu -> Pikachu -> Raichu, Raichu-Alola
+
 Sandshrew -> Sandslash
+
 Sandshrew-Alola -> Sandslash-Alola
+
 Nidoran-F -> Nidorina -> Nidoqueen
+
 Nidoran-M -> Nidorino -> Nidoking
+
 Cleffa -> Clefairy -> Clefable
+
 Vulpix -> Ninetales
+
 Vulpix-Alola -> Ninetales-Alola
+
 Igglybuff -> Jigglypuff -> Wigglytuff
+
 Zubat -> Golbat -> Crobat
+
 Oddish -> Gloom -> Vileplume, Bellossom
+
 Diglett -> Dugtrio
+
 Diglett-Alola -> Dugtrio-Alola
+
 Meowth -> Persian
+
 Meowth-Alola -> Persian-Alola
+
 Meowth-Galar -> Perrserker
+
 Psyduck -> Golduck
+
 Growlithe -> Arcanine
+
 Poliwag -> Poliwhirl -> Poliwrath, Politoed
+
 Abra -> Kadabra -> Alakazam
+
 Machop -> Machoke -> Machamp
+
 Tentacool -> Tentacruel
+
 Ponyta -> Rapidash
+
 Ponyta-Galar -> Rapidash-Galar
+
 Slowpoke -> Slowbro, Slowking
+
 Slowpoke-Galar -> Slowbro-Galar, Slowking-Galar
+
 Magnemite -> Magneton -> Magnezone
+
 Farfetch’d-Galar -> Sirfetch’d
+
 Shellder -> Cloyster
+
 Gastly -> Haunter -> Gengar
+
 Onix -> Steelix
+
 Krabby -> Kingler
+
 Exeggcute -> Exeggutor, Exeggutor-Alola
+
 Cubone -> Marowak, Marowak-Alola
+
 Lickitung -> Lickilicky
+
 Koffing -> Weezing, Weezing-Galar
+
 Rhyhorn -> Rhydon -> Rhyperior
+
 Happiny -> Chansey -> Blissey
+
 Tangela -> Tangrowth
+
 Horsea -> Seadra -> Kingdra
+
 Goldeen -> Seaking
+
 Staryu -> Starmie
+
 Mime Jr. -> Mr. Mime-Galar -> Mr. Rime
 Mime Jr. -> Mr. Mime
+
 Scyther -> Scizor
+
 Elekid -> Electabuzz -> Electivire
+
 Magby -> Magmar -> Magmortar
+
 Magikarp -> Gyarados
+
 Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
+
 Porygon -> Porygon2 -> Porygon-Z
+
 Omanyte -> Omastar
+
 Kabuto -> Kabutops
+
 Dratini -> Dragonair -> Dragonite
+
 Hoothoot -> Noctowl
+
 Chinchou -> Lanturn
+
 Togepi -> Togetic -> Togekiss
+
 Natu -> Xatu
+
 Azurill -> Marill -> Azumarill
+
 Wooper -> Quagsire
+
 Sneasel -> Weavile
+
 Swinub -> Piloswine -> Mamoswine
+
 Corsola-Galar -> Cursola
+
 Remoraid -> Octillery
+
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
+
 Smoochum -> Jynx
+
 Larvitar -> Pupitar -> Tyranitar
+
 Treecko -> Grovyle -> Sceptile
+
 Torchic -> Combusken -> Blaziken
+
 Mudkip -> Marshtomp -> Swampert
+
 Zigzagoon -> Linoone
+
 Zigzagoon-Galar -> Linoone-Galar -> Obstagoon
+
 Lotad -> Lombre -> Ludicolo
+
 Seedot -> Nuzleaf -> Shiftry
+
 Wingull -> Pelipper
+
 Ralts -> Kirlia -> Gardevoir, Gallade
+
 Nincada -> Ninjask, Shedinja
+
 Whismur -> Loudred -> Exploud
+
 Aron -> Lairon -> Aggron
+
 Electrike -> Manectric
+
 Budew -> Roselia -> Roserade
+
 Carvanha -> Sharpedo
+
 Wailmer -> Wailord
+
 Trapinch -> Vibrava -> Flygon
+
 Swablu -> Altaria
+
 Barboach -> Whiscash
+
 Corphish -> Crawdaunt
+
 Baltoy -> Claydol
+
 Lileep -> Cradily
+
 Anorith -> Armaldo
+
 Feebas -> Milotic
+
 Duskull -> Dusclops -> Dusknoir
+
 Wynaut -> Wobbuffet
+
 Snorunt -> Glalie, Froslass
+
 Spheal -> Sealeo -> Walrein
+
 Bagon -> Shelgon -> Salamence
+
 Beldum -> Metang -> Metagross
+
 Shinx -> Luxio -> Luxray
+
 Combee -> Vespiquen
+
 Cherubi -> Cherrim
+
 Shellos -> Gastrodon
+
 Drifloon -> Drifblim
+
 Buneary -> Lopunny
+
 Stunky -> Skuntank
+
 Bronzor -> Bronzong
+
 Bonsly -> Sudowoodo
+
 Gible -> Gabite -> Garchomp
+
 Munchlax -> Snorlax
+
 Riolu -> Lucario
+
 Hippopotas -> Hippowdon
+
 Skorupi -> Drapion
+
 Croagunk -> Toxicroak
+
 Mantyke -> Mantine
+
 Snover -> Abomasnow
+
 Lillipup -> Herdier -> Stoutland
+
 Purrloin -> Liepard
+
 Munna -> Musharna
+
 Pidove -> Tranquill -> Unfezant
+
 Roggenrola -> Boldore -> Gigalith
+
 Woobat -> Swoobat
+
 Drilbur -> Excadrill
+
 Timburr -> Gurdurr -> Conkeldurr
+
 Tympole -> Palpitoad -> Seismitoad
+
 Venipede -> Whirlipede -> Scolipede
+
 Cottonee -> Whimsicott
+
 Petilil -> Lilligant
+
 Sandile -> Krokorok -> Krookodile
+
 Darumaka -> Darmanitan
+
 Darumaka-Galar -> Darmanitan-Galar
+
 Dwebble -> Crustle
+
 Scraggy -> Scrafty
+
 Yamask -> Cofagrigus
+
 Yamask-Galar -> Runerigus
+
 Tirtouga -> Carracosta
+
 Archen -> Archeops
+
 Trubbish -> Garbodor
+
 Zorua -> Zoroark
+
 Minccino -> Cinccino
+
 Gothita -> Gothorita -> Gothitelle
+
 Solosis -> Duosion -> Reuniclus
+
 Vanillite -> Vanillish -> Vanilluxe
+
 Karrablast -> Escavalier
+
 Foongus -> Amoonguss
+
 Frillish -> Jellicent
+
 Joltik -> Galvantula
+
 Ferroseed -> Ferrothorn
+
 Klink -> Klang -> Klinklang
+
 Elgyem -> Beheeyem
+
 Litwick -> Lampent -> Chandelure
+
 Axew -> Fraxure -> Haxorus
+
 Cubchoo -> Beartic
+
 Shelmet -> Accelgor
+
 Mienfoo -> Mienshao
+
 Golett -> Golurk
+
 Pawniard -> Bisharp
+
 Rufflet -> Braviary
+
 Vullaby -> Mandibuzz
+
 Deino -> Zweilous -> Hydreigon
+
 Larvesta -> Volcarona
+
 Bunnelby -> Diggersby
+
 Fletchling -> Fletchinder -> Talonflame
+
 Pancham -> Pangoro
+
 Espurr -> Meowstic, Meowstic-F
+
 Honedge -> Doublade -> Aegislash
+
 Spritzee -> Aromatisse
+
 Swirlix -> Slurpuff
+
 Inkay -> Malamar
+
 Binacle -> Barbaracle
+
 Skrelp -> Dragalge
+
 Clauncher -> Clawitzer
+
 Helioptile -> Heliolisk
+
 Tyrunt -> Tyrantrum
+
 Amaura -> Aurorus
+
 Goomy -> Sliggoo -> Goodra
+
 Phantump -> Trevenant
+
 Pumpkaboo -> Gourgeist
+
 Pumpkaboo-Small -> Gourgeist-Small
+
 Pumpkaboo-Large -> Gourgeist-Large
+
 Pumpkaboo-Super -> Gourgeist-Super
+
 Bergmite -> Avalugg
+
 Noibat -> Noivern
+
 Rowlet -> Dartrix -> Decidueye
+
 Litten -> Torracat -> Incineroar
+
 Popplio -> Brionne -> Primarina
+
 Grubbin -> Charjabug -> Vikavolt
+
 Cutiefly -> Ribombee
+
 Rockruff -> Lycanroc, Lycanroc-Midnight, Lycanroc-Dusk
+
 Mareanie -> Toxapex
+
 Mudbray -> Mudsdale
+
 Dewpider -> Araquanid
+
 Fomantis -> Lurantis
+
 Morelull -> Shiinotic
+
 Salandit -> Salazzle
+
 Stufful -> Bewear
+
 Bounsweet -> Steenee -> Tsareena
+
 Wimpod -> Golisopod
+
 Sandygast -> Palossand
+
 Type: Null -> Silvally
+
 Jangmo-o -> Hakamo-o -> Kommo-o
+
 Cosmog -> Cosmoem -> Solgaleo, Lunala
+
 Poipole -> Naganadel
+
 Grookey -> Thwackey -> Rillaboom
+
 Scorbunny -> Raboot -> Cinderace
+
 Sobble -> Drizzile -> Inteleon
+
 Skwovet -> Greedent
+
 Rookidee -> Corvisquire -> Corviknight
+
 Blipbug -> Dottler -> Orbeetle
+
 Nickit -> Thievul
+
 Gossifleur -> Eldegoss
+
 Wooloo -> Dubwool
+
 Chewtle -> Drednaw
+
 Yamper -> Boltund
+
 Rolycoly -> Carkol -> Coalossal
+
 Applin -> Flapple, Appletun
+
 Silicobra -> Sandaconda
+
 Arrokuda -> Barraskewda
+
 Toxel -> Toxtricity, Toxtricity-Low-Key
+
 Sizzlipede -> Centiskorch
+
 Clobbopus -> Grapploct
+
 Sinistea -> Polteageist
+
 Sinistea-Antique -> Polteageist-Antique
+
 Hatenna -> Hattrem -> Hatterene
+
 Impidimp -> Morgrem -> Grimmsnarl
+
 Milcery -> Alcremie
+
 Snom -> Frosmoth
+
 Cufant -> Copperajah
+
 Dreepy -> Drakloak -> Dragapult
+
 Kubfu -> Urshifu, Urshifu-Rapid-Strike
+
