@@ -228,18 +228,29 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
 }
 
 function log_evolve(name, evos_list, evos_processed) {
-    let text = ''
+    let evolves = []
     if (evos_list[name].length == 1) {
         let evolve_name = evos_list[name][0];
-        text += ' -> ' + evolve_name;
+        evolves[0] = ' -> ' + evolve_name;
         if (Object.keys(evos_list).includes(evolve_name) && evos_list[evolve_name].length == 1) {
             evos_processed.push(evolve_name);
-            text += log_evolve(evolve_name, evos_list, evos_processed);
+            evolves[0] += log_evolve(evolve_name, evos_list, evos_processed);
         }
     } else {
-        text += ' -> ' + evos_list[name].join(', ');
+        let rest_evolves = [];
+        for (let i in evos_list[name]) {
+            let evolve_name = evos_list[name][i];
+            if (Object.keys(evos_list).includes(evolve_name) && evos_list[evolve_name].length == 1) {
+                evos_processed.push(evolve_name);
+                evolves.push(' -> ' + evolve_name + log_evolve(evolve_name, evos_list, evos_processed));
+            } else {
+                rest_evolves.push(evos_list[name][i]);
+            }
+        }
+        if (rest_evolves.length > 0)
+            evolves.push(' -> ' + rest_evolves.join(', '));
     }
-    return text;
+    return evolves;
 }
 
 function log_evolves(file, species_info) {
@@ -263,8 +274,12 @@ function log_evolves(file, species_info) {
     }
 
     for (let i in evos_list) {
-        if (!evos_processed.includes(i))
-            text += i + log_evolve(i, evos_list, evos_processed) + '\n';
+        if (!evos_processed.includes(i)) {
+            evolves = log_evolve(i, evos_list, evos_processed);
+            for (let j in evolves) {
+                text += i + evolves[j] + '\n';
+            }
+        }
     }
 
     fs.writeFileSync(file + '.txt', text);

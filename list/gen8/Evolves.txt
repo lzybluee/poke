@@ -116,7 +116,8 @@ Buneary -> Lopunny
 Stunky -> Skuntank
 Bronzor -> Bronzong
 Bonsly -> Sudowoodo
-Mime Jr. -> Mr. Mime, Mr. Mime-Galar
+Mime Jr. -> Mr. Mime-Galar -> Mr. Rime
+Mime Jr. -> Mr. Mime
 Happiny -> Chansey -> Blissey
 Gible -> Gabite -> Garchomp
 Munchlax -> Snorlax

@@ -111,9 +111,8 @@ Torchic -> Combusken -> Blaziken
 Mudkip -> Marshtomp -> Swampert
 Poochyena -> Mightyena
 Zigzagoon -> Linoone
-Wurmple -> Silcoon, Cascoon
-Silcoon -> Beautifly
-Cascoon -> Dustox
+Wurmple -> Silcoon -> Beautifly
+Wurmple -> Cascoon -> Dustox
 Lotad -> Lombre -> Ludicolo
 Seedot -> Nuzleaf -> Shiftry
 Taillow -> Swellow

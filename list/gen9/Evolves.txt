@@ -190,9 +190,8 @@ Espurr -> Meowstic, Meowstic-F
 Inkay -> Malamar
 Skrelp -> Dragalge
 Clauncher -> Clawitzer
-Goomy -> Sliggoo, Sliggoo-Hisui
-Sliggoo -> Goodra
-Sliggoo-Hisui -> Goodra-Hisui
+Goomy -> Sliggoo -> Goodra
+Goomy -> Sliggoo-Hisui -> Goodra-Hisui
 Phantump -> Trevenant
 Bergmite -> Avalugg, Avalugg-Hisui
 Noibat -> Noivern
@@ -223,7 +222,8 @@ Skwovet -> Greedent
 Rookidee -> Corvisquire -> Corviknight
 Chewtle -> Drednaw
 Rolycoly -> Carkol -> Coalossal
-Applin -> Flapple, Appletun, Dipplin
+Applin -> Dipplin -> Hydrapple
+Applin -> Flapple, Appletun
 Silicobra -> Sandaconda
 Arrokuda -> Barraskewda
 Toxel -> Toxtricity, Toxtricity-Low-Key
@@ -268,6 +268,5 @@ Cetoddle -> Cetitan
 Frigibax -> Arctibax -> Baxcalibur
 Gimmighoul -> Gholdengo
 Gimmighoul-Roaming -> Gholdengo
-Dipplin -> Hydrapple
 Poltchageist -> Sinistcha
 Poltchageist-Artisan -> Sinistcha-Masterpiece
