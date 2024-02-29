@@ -1,0 +1,1058 @@
+Absorb Bulb (球根)
+Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.
+
+Adamant Orb (金刚宝珠)
+If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.
+
+Adrenaline Orb (胆怯球)
+Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.
+
+Aguav Berry (乐芭果)
+Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.
+
+Air Balloon (气球)
+Holder is immune to Ground-type attacks. Pops when holder is hit.
+
+Apicot Berry (杏仔果)
+Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.
+
+Aspear Berry (利木果)
+Holder is cured if it is frozen. Single use.
+
+Assault Vest (突击背心)
+Holder's Sp. Def is 1.5x, but it can only select damaging moves.
+
+Babiri Berry (霹霹果)
+Halves damage taken from a supereffective Steel-type attack. Single use.
+
+Beast Ball (究极球)
+A special Poke Ball designed to catch Ultra Beasts.
+
+Berry Juice (树果汁)
+Restores 20 HP when at 1/2 max HP or less. Single use.
+
+Berry Sweet (野莓糖饰)
+Evolves Milcery into Alcremie when held and spun around.
+
+Big Nugget (巨大金珠)
+A big nugget of pure gold that gives off a lustrous gleam.
+
+Big Root (大根茎)
+Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.
+
+Binding Band (紧绑束带)
+Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.
+
+Black Belt (黑带)
+Holder's Fighting-type attacks have 1.2x power.
+
+Black Glasses (黑色眼镜)
+Holder's Dark-type attacks have 1.2x power.
+
+Black Sludge (黑色污泥)
+Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.
+
+Blunder Policy (打空保险)
+If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.
+
+Bottle Cap (银色王冠)
+Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.
+
+Bright Powder (光粉)
+The accuracy of attacks against the holder is 0.9x.
+
+Bug Memory (虫子存储碟)
+Holder's Multi-Attack is Bug type.
+
+Burn Drive (火焰卡带)
+Holder's Techno Blast is Fire type.
+
+Cell Battery (充电电池)
+Raises holder's Attack by 1 if hit by an Electric-type attack. Single use.
+
+Charcoal (木炭)
+Holder's Fire-type attacks have 1.2x power.
+
+Charti Berry (草蚕果)
+Halves damage taken from a supereffective Rock-type attack. Single use.
+
+Cheri Berry (樱子果)
+Holder cures itself if it is paralyzed. Single use.
+
+Chesto Berry (零余果)
+Holder wakes up if it is asleep. Single use.
+
+Chilan Berry (灯浆果)
+Halves damage taken from a Normal-type attack. Single use.
+
+Chill Drive (冰冻卡带)
+Holder's Techno Blast is Ice type.
+
+Chipped Pot (缺损的茶壶)
+Evolves Sinistea-Antique into Polteageist-Antique when used.
+
+Choice Band (讲究头带)
+Holder's Attack is 1.5x, but it can only select the first move it executes.
+
+Choice Scarf (讲究围巾)
+Holder's Speed is 1.5x, but it can only select the first move it executes.
+
+Choice Specs (讲究眼镜)
+Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.
+
+Chople Berry (莲蒲果)
+Halves damage taken from a supereffective Fighting-type attack. Single use.
+
+Clover Sweet (幸运草糖饰)
+Evolves Milcery into Alcremie when held and spun around.
+
+Coba Berry (棱瓜果)
+Halves damage taken from a supereffective Flying-type attack. Single use.
+
+Colbur Berry (刺耳果)
+Halves damage taken from a supereffective Dark-type attack. Single use.
+
+Cracked Pot (破裂的茶壶)
+Evolves Sinistea into Polteageist when used.
+
+Custap Berry (释陀果)
+Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.
+
+Damp Rock (潮湿岩石)
+Holder's use of Rain Dance lasts 8 turns instead of 5.
+
+Dark Memory (黑暗存储碟)
+Holder's Multi-Attack is Dark type.
+
+Dawn Stone (觉醒之石)
+Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.
+
+Deep Sea Scale (深海鳞片)
+If held by a Clamperl, its Sp. Def is doubled. Evolves Clamperl into Gorebyss when traded.
+
+Deep Sea Tooth (深海之牙)
+If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded.
+
+Destiny Knot (红线)
+If holder becomes infatuated, the other Pokemon also becomes infatuated.
+
+Dive Ball (潜水球)
+A Poke Ball that works especially well on Pokemon that live underwater.
+
+Douse Drive (水流卡带)
+Holder's Techno Blast is Water type.
+
+Dragon Fang (龙之牙)
+Holder's Dragon-type attacks have 1.2x power.
+
+Dragon Memory (龙存储碟)
+Holder's Multi-Attack is Dragon type.
+
+Dragon Scale (龙之鳞片)
+Evolves Seadra into Kingdra when traded.
+
+Dream Ball (梦境球)
+A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.
+
+Dubious Disc (可疑补丁)
+Evolves Porygon2 into Porygon-Z when traded.
+
+Dusk Ball (黑暗球)
+A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.
+
+Dusk Stone (暗之石)
+Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.
+
+Eject Button (逃脱按键)
+If holder survives a hit, it immediately switches out to a chosen ally. Single use.
+
+Eject Pack (避难背包)
+If the holder's stat stages are lowered, it switches to a chosen ally. Single use.
+
+Electirizer (电力增幅器)
+Evolves Electabuzz into Electivire when traded.
+
+Electric Memory (电子存储碟)
+Holder's Multi-Attack is Electric type.
+
+Electric Seed (电气种子)
+If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.
+
+Enigma Berry (谜芝果)
+Restores 1/4 max HP after holder is hit by a supereffective move. Single use.
+
+Eviolite (进化奇石)
+If holder's species can evolve, its Defense and Sp. Def are 1.5x.
+
+Expert Belt (达人带)
+Holder's attacks that are super effective against the target do 1.2x damage.
+
+Fairy Memory (妖精存储碟)
+Holder's Multi-Attack is Fairy type.
+
+Fast Ball (速度球)
+A Poke Ball that makes it easier to catch Pokemon which are quick to run away.
+
+Fighting Memory (战斗存储碟)
+Holder's Multi-Attack is Fighting type.
+
+Figy Berry (勿花果)
+Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.
+
+Fire Memory (火焰存储碟)
+Holder's Multi-Attack is Fire type.
+
+Fire Stone (火之石)
+Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.
+
+Flame Orb (火焰宝珠)
+At the end of every turn, this item attempts to burn the holder.
+
+Float Stone (轻石)
+Holder's weight is halved.
+
+Flower Sweet (花朵糖饰)
+Evolves Milcery into Alcremie when held and spun around.
+
+Flying Memory (飞翔存储碟)
+Holder's Multi-Attack is Flying type.
+
+Focus Band (气势头带)
+Holder has a 10% chance to survive an attack that would KO it with 1 HP.
+
+Focus Sash (气势披带)
+If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.
+
+Fossilized Bird (化石鸟)
+Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.
+
+Fossilized Dino (化石海兽)
+Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.
+
+Fossilized Drake (化石龙)
+Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.
+
+Fossilized Fish (化石鱼)
+Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.
+
+Friend Ball (友友球)
+A Poke Ball that makes caught Pokemon more friendly.
+
+Full Incense (饱腹薰香)
+Holder moves last in its priority bracket.
+
+Galarica Cuff (伽勒豆蔻手环)
+Evolves Galarian Slowpoke into Galarian Slowbro when used.
+
+Galarica Wreath (伽勒豆蔻花圈)
+Evolves Galarian Slowpoke into Galarian Slowking when used.
+
+Ganlon Berry (龙睛果)
+Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.
+
+Ghost Memory (幽灵存储碟)
+Holder's Multi-Attack is Ghost type.
+
+Gold Bottle Cap (金色王冠)
+Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.
+
+Grass Memory (青草存储碟)
+Holder's Multi-Attack is Grass type.
+
+Grassy Seed (青草种子)
+If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.
+
+Great Ball (超级球)
+A high-performance Ball that provides a higher catch rate than a Poke Ball.
+
+Grepa Berry (萄葡果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
+Grip Claw (紧缠钩爪)
+Holder's partial-trapping moves always last 7 turns.
+
+Griseous Orb (白金宝珠)
+If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.
+
+Ground Memory (大地存储碟)
+Holder's Multi-Attack is Ground type.
+
+Haban Berry (莓榴果)
+Halves damage taken from a supereffective Dragon-type attack. Single use.
+
+Hard Stone (硬石头)
+Holder's Rock-type attacks have 1.2x power.
+
+Heal Ball (治愈球)
+A remedial Poke Ball that restores the caught Pokemon's HP and status problem.
+
+Heat Rock (炽热岩石)
+Holder's use of Sunny Day lasts 8 turns instead of 5.
+
+Heavy Ball (沉重球)
+A Poke Ball for catching very heavy Pokemon.
+
+Heavy-Duty Boots (厚底靴)
+When switching in, the holder is unaffected by hazards on its side of the field.
+
+Hondew Berry (哈密果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
+Iapapa Berry (芭亚果)
+Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.
+
+Ice Memory (冰雪存储碟)
+Holder's Multi-Attack is Ice type.
+
+Ice Stone (冰之石)
+Evolves Alolan Sandshrew into Alolan Sandslash, Alolan Vulpix into Alolan Ninetales, Eevee into Glaceon, and Galarian Darumaka into Galarian Darmanitan when used.
+
+Icy Rock (冰冷岩石)
+Holder's use of Hail lasts 8 turns instead of 5.
+
+Iron Ball (黑色铁球)
+Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.
+
+Jaboca Berry (嘉珍果)
+If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.
+
+Kasib Berry (佛柑果)
+Halves damage taken from a supereffective Ghost-type attack. Single use.
+
+Kebia Berry (通通果)
+Halves damage taken from a supereffective Poison-type attack. Single use.
+
+Kee Berry (亚开果)
+Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use.
+
+Kelpsy Berry (藻根果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
+King's Rock
+Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.
+
+Lagging Tail (后攻之尾)
+Holder moves last in its priority bracket.
+
+Lansat Berry (兰萨果)
+Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.
+
+Lax Incense (悠闲薰香)
+The accuracy of attacks against the holder is 0.9x.
+
+Leaf Stone (叶之石)
+Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Eevee into Leafeon, Nuzleaf into Shiftry, and Pansage into Simisage when used.
+
+Leek (大葱)
+If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.
+
+Leftovers (吃剩的东西)
+At the end of every turn, holder restores 1/16 of its max HP.
+
+Leppa Berry (苹野果)
+Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.
+
+Level Ball (等级球)
+A Poke Ball for catching Pokemon that are a lower level than your own.
+
+Liechi Berry (枝荔果)
+Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.
+
+Life Orb (生命宝珠)
+Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.
+
+Light Ball (电气球)
+If held by a Pikachu, its Attack and Sp. Atk are doubled.
+
+Light Clay (光之黏土)
+Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.
+
+Love Ball (甜蜜球)
+Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.
+
+Love Sweet (爱心糖饰)
+Evolves Milcery into Alcremie when held and spun around.
+
+Lum Berry (木子果)
+Holder cures itself if it has a non-volatile status or is confused. Single use.
+
+Luminous Moss (光苔)
+Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use.
+
+Lure Ball (诱饵球)
+A Poke Ball for catching Pokemon hooked by a Rod when fishing.
+
+Lustrous Orb (白玉宝珠)
+If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.
+
+Luxury Ball (豪华球)
+A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.
+
+Macho Brace (强制锻炼器)
+Holder's Speed is halved. The Klutz Ability does not ignore this effect.
+
+Magmarizer (熔岩增幅器)
+Evolves Magmar into Magmortar when traded.
+
+Magnet (磁铁)
+Holder's Electric-type attacks have 1.2x power.
+
+Mago Berry (芒芒果)
+Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.
+
+Maranga Berry (香罗果)
+Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use.
+
+Master Ball (大师球)
+The best Ball with the ultimate performance. It will catch any wild Pokemon.
+
+Mental Herb (心灵香草)
+Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.
+
+Metal Coat (金属膜)
+Holder's Steel-type attacks have 1.2x power. Evolves Onix into Steelix and Scyther into Scizor when traded.
+
+Metal Powder (金属粉)
+If held by a Ditto that hasn't Transformed, its Defense is doubled.
+
+Metronome (节拍器)
+Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.
+
+Micle Berry (奇秘果)
+Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.
+
+Miracle Seed (奇迹种子)
+Holder's Grass-type attacks have 1.2x power.
+
+Misty Seed (薄雾种子)
+If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.
+
+Moon Ball (月亮球)
+A Poke Ball for catching Pokemon that evolve using the Moon Stone.
+
+Moon Stone (月之石)
+Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.
+
+Muscle Band (力量头带)
+Holder's physical attacks have 1.1x power.
+
+Mystic Water (神秘水滴)
+Holder's Water-type attacks have 1.2x power.
+
+Nest Ball (巢穴球)
+A Poke Ball that works especially well on weaker Pokemon in the wild.
+
+Net Ball (捕网球)
+A Poke Ball that works especially well on Water- and Bug-type Pokemon.
+
+Never-Melt Ice (不融冰)
+Holder's Ice-type attacks have 1.2x power.
+
+Normal Gem (一般宝石)
+Holder's first successful Normal-type attack will have 1.3x power. Single use.
+
+Occa Berry (巧可果)
+Halves damage taken from a supereffective Fire-type attack. Single use.
+
+Odd Incense (奇异薰香)
+Holder's Psychic-type attacks have 1.2x power.
+
+Oran Berry (橙橙果)
+Restores 10 HP when at 1/2 max HP or less. Single use.
+
+Oval Stone (浑圆之石)
+Evolves Happiny into Chansey when held and leveled up during the day.
+
+Passho Berry (千香果)
+Halves damage taken from a supereffective Water-type attack. Single use.
+
+Payapa Berry (福禄果)
+Halves damage taken from a supereffective Psychic-type attack. Single use.
+
+Pecha Berry (桃桃果)
+Holder is cured if it is poisoned. Single use.
+
+Persim Berry (柿仔果)
+Holder is cured if it is confused. Single use.
+
+Petaya Berry (龙火果)
+Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.
+
+Pixie Plate (妖精石板)
+Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type.
+
+Poison Barb (毒针)
+Holder's Poison-type attacks have 1.2x power.
+
+Poison Memory (毒存储碟)
+Holder's Multi-Attack is Poison type.
+
+Poke Ball
+A device for catching wild Pokemon. It is designed as a capsule system.
+
+Pomeg Berry (榴石果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
+Power Anklet (力量护踝)
+Holder's Speed is halved. The Klutz Ability does not ignore this effect.
+
+Power Band (力量束带)
+Holder's Speed is halved. The Klutz Ability does not ignore this effect.
+
+Power Belt (力量腰带)
+Holder's Speed is halved. The Klutz Ability does not ignore this effect.
+
+Power Bracer (力量护腕)
+Holder's Speed is halved. The Klutz Ability does not ignore this effect.
+
+Power Herb (强力香草)
+Holder's two-turn moves complete in one turn (except Sky Drop). Single use.
+
+Power Lens (力量镜)
+Holder's Speed is halved. The Klutz Ability does not ignore this effect.
+
+Power Weight (力量负重)
+Holder's Speed is halved. The Klutz Ability does not ignore this effect.
+
+Premier Ball (纪念球)
+A rare Poke Ball that has been crafted to commemorate an event.
+
+Prism Scale (美丽鳞片)
+Evolves Feebas into Milotic when traded.
+
+Protective Pads (部位护具)
+Holder's moves are protected from adverse contact effects, except Pickpocket.
+
+Protector (护具)
+Evolves Rhydon into Rhyperior when traded.
+
+Psychic Memory (精神存储碟)
+Holder's Multi-Attack is Psychic type.
+
+Psychic Seed (精神种子)
+If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.
+
+Qualot Berry (比巴果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
+Quick Ball (先机球)
+A Poke Ball that provides a better catch rate at the start of a wild encounter.
+
+Quick Claw (先制之爪)
+Each turn, holder has a 20% chance to move first in its priority bracket.
+
+Quick Powder (速度粉)
+If held by a Ditto that hasn't Transformed, its Speed is doubled.
+
+Rare Bone (贵重骨头)
+No competitive use other than when used with Fling.
+
+Rawst Berry (莓莓果)
+Holder is cured if it is burned. Single use.
+
+Razor Claw (锐利之爪)
+Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night.
+
+Reaper Cloth (灵界之布)
+Evolves Dusclops into Dusknoir when traded.
+
+Red Card (红牌)
+If holder survives a hit, attacker is forced to switch to a random ally. Single use.
+
+Repeat Ball (重复球)
+A Poke Ball that works well on Pokemon species that were previously caught.
+
+Ribbon Sweet (蝴蝶结糖饰)
+Evolves Milcery into Alcremie when held and spun around.
+
+Rindo Berry (罗子果)
+Halves damage taken from a supereffective Grass-type attack. Single use.
+
+Ring Target (标靶)
+The holder's type immunities granted solely by its typing are negated.
+
+Rock Incense (岩石薰香)
+Holder's Rock-type attacks have 1.2x power.
+
+Rock Memory (岩石存储碟)
+Holder's Multi-Attack is Rock type.
+
+Rocky Helmet (凸凸头盔)
+If holder is hit by a contact move, the attacker loses 1/6 of its max HP.
+
+Room Service (客房服务)
+If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use.
+
+Rose Incense (花朵薰香)
+Holder's Grass-type attacks have 1.2x power.
+
+Roseli Berry (洛玫果)
+Halves damage taken from a supereffective Fairy-type attack. Single use.
+
+Rowap Berry (雾莲果)
+If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.
+
+Rusted Shield (腐朽的盾)
+If held by a Zamazenta, this item changes its forme to Crowned Shield.
+
+Rusted Sword (腐朽的剑)
+If held by a Zacian, this item changes its forme to Crowned Sword.
+
+Sachet (香袋)
+Evolves Spritzee into Aromatisse when traded.
+
+Safari Ball (狩猎球)
+A special Poke Ball that is used only in the Safari Zone and Great Marsh.
+
+Safety Goggles (防尘护目镜)
+Holder is immune to powder moves and damage from Sandstorm or Hail.
+
+Salac Berry (沙鳞果)
+Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.
+
+Scope Lens (焦点镜)
+Holder's critical hit ratio is raised by 1 stage.
+
+Sea Incense (海潮薰香)
+Holder's Water-type attacks have 1.2x power.
+
+Sharp Beak (锐利鸟嘴)
+Holder's Flying-type attacks have 1.2x power.
+
+Shed Shell (美丽空壳)
+Holder may switch out even when trapped by another Pokemon, or by Ingrain.
+
+Shell Bell (贝壳之铃)
+After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.
+
+Shiny Stone (光之石)
+Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.
+
+Shock Drive (闪电卡带)
+Holder's Techno Blast is Electric type.
+
+Shuca Berry (腰木果)
+Halves damage taken from a supereffective Ground-type attack. Single use.
+
+Silk Scarf (丝绸围巾)
+Holder's Normal-type attacks have 1.2x power.
+
+Silver Powder (银粉)
+Holder's Bug-type attacks have 1.2x power.
+
+Sitrus Berry (文柚果)
+Restores 1/4 max HP when at 1/2 max HP or less. Single use.
+
+Smooth Rock (沙沙岩石)
+Holder's use of Sandstorm lasts 8 turns instead of 5.
+
+Snowball (雪球)
+Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.
+
+Soft Sand (柔软沙子)
+Holder's Ground-type attacks have 1.2x power.
+
+Soul Dew (心之水滴)
+If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.
+
+Spell Tag (咒术之符)
+Holder's Ghost-type attacks have 1.2x power.
+
+Sport Ball (竞赛球)
+A special Poke Ball for the Bug-Catching Contest.
+
+Star Sweet (星星糖饰)
+Evolves Milcery into Alcremie when held and spun around.
+
+Starf Berry (星桃果)
+Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.
+
+Steel Memory (钢铁存储碟)
+Holder's Multi-Attack is Steel type.
+
+Sticky Barb (附着针)
+Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.
+
+Strawberry Sweet (草莓糖饰)
+Evolves Milcery into Alcremie when held and spun around.
+
+Sun Stone (日之石)
+Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.
+
+Sweet Apple (甜甜苹果)
+Evolves Applin into Appletun when used.
+
+Tamato Berry (茄番果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
+Tanga Berry (扁樱果)
+Halves damage taken from a supereffective Bug-type attack. Single use.
+
+Tart Apple (酸酸苹果)
+Evolves Applin into Flapple when used.
+
+Terrain Extender (大地膜)
+Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.
+
+Thick Club (粗骨头)
+If held by a Cubone or a Marowak, its Attack is doubled.
+
+Throat Spray (爽喉喷雾)
+Raises holder's Special Attack by 1 stage after it uses a sound move. Single use.
+
+Thunder Stone (雷之石)
+Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, Eelektrik into Eelektross, and Charjabug into Vikavolt when used.
+
+Timer Ball (计时球)
+A Poke Ball that becomes better the more turns there are in a battle.
+
+Toxic Orb (剧毒宝珠)
+At the end of every turn, this item attempts to badly poison the holder.
+
+TR00 (招式记录００)
+Teaches certain Pokemon the move Swords Dance. One use.
+
+TR01 (招式记录０１)
+Teaches certain Pokemon the move Body Slam. One use.
+
+TR02 (招式记录０２)
+Teaches certain Pokemon the move Flamethrower. One use.
+
+TR03 (招式记录０３)
+Teaches certain Pokemon the move Hydro Pump. One use.
+
+TR04 (招式记录０４)
+Teaches certain Pokemon the move Surf. One use.
+
+TR05 (招式记录０５)
+Teaches certain Pokemon the move Ice Beam. One use.
+
+TR06 (招式记录０６)
+Teaches certain Pokemon the move Blizzard. One use.
+
+TR07 (招式记录０７)
+Teaches certain Pokemon the move Low Kick. One use.
+
+TR08 (招式记录０８)
+Teaches certain Pokemon the move Thunderbolt. One use.
+
+TR09 (招式记录０９)
+Teaches certain Pokemon the move Thunder. One use.
+
+TR10 (招式记录１０)
+Teaches certain Pokemon the move Earthquake. One use.
+
+TR11 (招式记录１１)
+Teaches certain Pokemon the move Psychic. One use.
+
+TR12 (招式记录１２)
+Teaches certain Pokemon the move Agility. One use.
+
+TR13 (招式记录１３)
+Teaches certain Pokemon the move Focus Energy. One use.
+
+TR14 (招式记录１４)
+Teaches certain Pokemon the move Metronome. One use.
+
+TR15 (招式记录１５)
+Teaches certain Pokemon the move Fire Blast. One use.
+
+TR16 (招式记录１６)
+Teaches certain Pokemon the move Waterfall. One use.
+
+TR17 (招式记录１７)
+Teaches certain Pokemon the move Amnesia. One use.
+
+TR18 (招式记录１８)
+Teaches certain Pokemon the move Leech Life. One use.
+
+TR19 (招式记录１９)
+Teaches certain Pokemon the move Tri Attack. One use.
+
+TR20 (招式记录２０)
+Teaches certain Pokemon the move Substitute. One use.
+
+TR21 (招式记录２１)
+Teaches certain Pokemon the move Reversal. One use.
+
+TR22 (招式记录２２)
+Teaches certain Pokemon the move Sludge Bomb. One use.
+
+TR23 (招式记录２３)
+Teaches certain Pokemon the move Spikes. One use.
+
+TR24 (招式记录２４)
+Teaches certain Pokemon the move Outrage. One use.
+
+TR25 (招式记录２５)
+Teaches certain Pokemon the move Psyshock. One use.
+
+TR26 (招式记录２６)
+Teaches certain Pokemon the move Endure. One use.
+
+TR27 (招式记录２７)
+Teaches certain Pokemon the move Sleep Talk. One use.
+
+TR28 (招式记录２８)
+Teaches certain Pokemon the move Megahorn. One use.
+
+TR29 (招式记录２９)
+Teaches certain Pokemon the move Baton Pass. One use.
+
+TR30 (招式记录３０)
+Teaches certain Pokemon the move Encore. One use.
+
+TR31 (招式记录３１)
+Teaches certain Pokemon the move Iron Tail. One use.
+
+TR32 (招式记录３２)
+Teaches certain Pokemon the move Crunch. One use.
+
+TR33 (招式记录３３)
+Teaches certain Pokemon the move Shadow Ball. One use.
+
+TR34 (招式记录３４)
+Teaches certain Pokemon the move Future Sight. One use.
+
+TR35 (招式记录３５)
+Teaches certain Pokemon the move Uproar. One use.
+
+TR36 (招式记录３６)
+Teaches certain Pokemon the move Heat Wave. One use.
+
+TR37 (招式记录３７)
+Teaches certain Pokemon the move Taunt. One use.
+
+TR38 (招式记录３８)
+Teaches certain Pokemon the move Trick. One use.
+
+TR39 (招式记录３９)
+Teaches certain Pokemon the move Superpower. One use.
+
+TR40 (招式记录４０)
+Teaches certain Pokemon the move Skill Swap. One use.
+
+TR41 (招式记录４１)
+Teaches certain Pokemon the move Blaze Kick. One use.
+
+TR42 (招式记录４２)
+Teaches certain Pokemon the move Hyper Voice. One use.
+
+TR43 (招式记录４３)
+Teaches certain Pokemon the move Overheat. One use.
+
+TR44 (招式记录４４)
+Teaches certain Pokemon the move Cosmic Power. One use.
+
+TR45 (招式记录４５)
+Teaches certain Pokemon the move Muddy Water. One use.
+
+TR46 (招式记录４６)
+Teaches certain Pokemon the move Iron Defense. One use.
+
+TR47 (招式记录４７)
+Teaches certain Pokemon the move Dragon Claw. One use.
+
+TR48 (招式记录４８)
+Teaches certain Pokemon the move Bulk Up. One use.
+
+TR49 (招式记录４９)
+Teaches certain Pokemon the move Calm Mind. One use.
+
+TR50 (招式记录５０)
+Teaches certain Pokemon the move Leaf Blade. One use.
+
+TR51 (招式记录５１)
+Teaches certain Pokemon the move Dragon Dance. One use.
+
+TR52 (招式记录５２)
+Teaches certain Pokemon the move Gyro Ball. One use.
+
+TR53 (招式记录５３)
+Teaches certain Pokemon the move Close Combat. One use.
+
+TR54 (招式记录５４)
+Teaches certain Pokemon the move Toxic Spikes. One use.
+
+TR55 (招式记录５５)
+Teaches certain Pokemon the move Flare Blitz. One use.
+
+TR56 (招式记录５６)
+Teaches certain Pokemon the move Aura Sphere. One use.
+
+TR57 (招式记录５７)
+Teaches certain Pokemon the move Poison Jab. One use.
+
+TR58 (招式记录５８)
+Teaches certain Pokemon the move Dark Pulse. One use.
+
+TR59 (招式记录５９)
+Teaches certain Pokemon the move Seed Bomb. One use.
+
+TR60 (招式记录６０)
+Teaches certain Pokemon the move X-Scissor. One use.
+
+TR61 (招式记录６１)
+Teaches certain Pokemon the move Bug Buzz. One use.
+
+TR62 (招式记录６２)
+Teaches certain Pokemon the move Dragon Pulse. One use.
+
+TR63 (招式记录６３)
+Teaches certain Pokemon the move Power Gem. One use.
+
+TR64 (招式记录６４)
+Teaches certain Pokemon the move Focus Blast. One use.
+
+TR65 (招式记录６５)
+Teaches certain Pokemon the move Energy Ball. One use.
+
+TR66 (招式记录６６)
+Teaches certain Pokemon the move Brave Bird. One use.
+
+TR67 (招式记录６７)
+Teaches certain Pokemon the move Earth Power. One use.
+
+TR68 (招式记录６８)
+Teaches certain Pokemon the move Nasty Plot. One use.
+
+TR69 (招式记录６９)
+Teaches certain Pokemon the move Zen Headbutt. One use.
+
+TR70 (招式记录７０)
+Teaches certain Pokemon the move Flash Cannon. One use.
+
+TR71 (招式记录７１)
+Teaches certain Pokemon the move Leaf Storm. One use.
+
+TR72 (招式记录７２)
+Teaches certain Pokemon the move Power Whip. One use.
+
+TR73 (招式记录７３)
+Teaches certain Pokemon the move Gunk Shot. One use.
+
+TR74 (招式记录７４)
+Teaches certain Pokemon the move Iron Head. One use.
+
+TR75 (招式记录７５)
+Teaches certain Pokemon the move Stone Edge. One use.
+
+TR76 (招式记录７６)
+Teaches certain Pokemon the move Stealth Rock. One use.
+
+TR77 (招式记录７７)
+Teaches certain Pokemon the move Grass Knot. One use.
+
+TR78 (招式记录７８)
+Teaches certain Pokemon the move Sludge Wave. One use.
+
+TR79 (招式记录７９)
+Teaches certain Pokemon the move Heavy Slam. One use.
+
+TR80 (招式记录８０)
+Teaches certain Pokemon the move Electro Ball. One use.
+
+TR81 (招式记录８１)
+Teaches certain Pokemon the move Foul Play. One use.
+
+TR82 (招式记录８２)
+Teaches certain Pokemon the move Stored Power. One use.
+
+TR83 (招式记录８３)
+Teaches certain Pokemon the move Ally Switch. One use.
+
+TR84 (招式记录８４)
+Teaches certain Pokemon the move Scald. One use.
+
+TR85 (招式记录８５)
+Teaches certain Pokemon the move Work Up. One use.
+
+TR86 (招式记录８６)
+Teaches certain Pokemon the move Wild Charge. One use.
+
+TR87 (招式记录８７)
+Teaches certain Pokemon the move Drill Run. One use.
+
+TR88 (招式记录８８)
+Teaches certain Pokemon the move Heat Crash. One use.
+
+TR89 (招式记录８９)
+Teaches certain Pokemon the move Hurricane. One use.
+
+TR90 (招式记录９０)
+Teaches certain Pokemon the move Play Rough. One use.
+
+TR91 (招式记录９１)
+Teaches certain Pokemon the move Venom Drench. One use.
+
+TR92 (招式记录９２)
+Teaches certain Pokemon the move Dazzling Gleam. One use.
+
+TR93 (招式记录９３)
+Teaches certain Pokemon the move Darkest Lariat. One use.
+
+TR94 (招式记录９４)
+Teaches certain Pokemon the move High Horsepower. One use.
+
+TR95 (招式记录９５)
+Teaches certain Pokemon the move Throat Chop. One use.
+
+TR96 (招式记录９６)
+Teaches certain Pokemon the move Pollen Puff. One use.
+
+TR97 (招式记录９７)
+Teaches certain Pokemon the move Psychic Fangs. One use.
+
+TR98 (招式记录９８)
+Teaches certain Pokemon the move Liquidation. One use.
+
+TR99 (招式记录９９)
+Teaches certain Pokemon the move Body Press. One use.
+
+Twisted Spoon (弯曲的汤匙)
+Holder's Psychic-type attacks have 1.2x power.
+
+Ultra Ball (高级球)
+An ultra-performance Ball that provides a higher catch rate than a Great Ball.
+
+Up-Grade
+Evolves Porygon into Porygon2 when traded.
+
+Utility Umbrella (万能伞)
+The holder ignores rain- and sun-based effects. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.
+
+Wacan Berry (烛木果)
+Halves damage taken from a supereffective Electric-type attack. Single use.
+
+Water Memory (清水存储碟)
+Holder's Multi-Attack is Water type.
+
+Water Stone (水之石)
+Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.
+
+Wave Incense (涟漪薰香)
+Holder's Water-type attacks have 1.2x power.
+
+Weakness Policy (弱点保险)
+If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.
+
+Whipped Dream (泡沫奶油)
+Evolves Swirlix into Slurpuff when traded.
+
+White Herb (白色香草)
+Restores all lowered stat stages to 0 when one is less than 0. Single use.
+
+Wide Lens (广角镜)
+The accuracy of attacks by the holder is 1.1x.
+
+Wiki Berry (异奇果)
+Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.
+
+Wise Glasses (博识眼镜)
+Holder's special attacks have 1.1x power.
+
+Yache Berry (番荔果)
+Halves damage taken from a supereffective Ice-type attack. Single use.
+
+Zoom Lens (对焦镜)
+The accuracy of attacks by the holder is 1.2x if it moves after its target.

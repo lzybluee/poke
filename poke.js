@@ -367,12 +367,5 @@ function log_gen(gen) {
     }
 }
 
-log_gen(1);
-log_gen(2);
-log_gen(3);
-log_gen(4);
-log_gen(5);
-log_gen(6);
-log_gen(7);
-log_gen(8);
-log_gen(9);
+for (let i = 1; i < 10; i++)
+    log_gen(i);

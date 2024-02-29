@@ -1,0 +1,5237 @@
+1
+Bulbasaur (妙蛙种子)
+Grass, Poison
+hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45, sum: 318
+0: Overgrow, H: Chlorophyll
+
+2
+Ivysaur (妙蛙草)
+Grass, Poison
+hp: 60, atk: 62, def: 63, spa: 80, spd: 80, spe: 60, sum: 405
+0: Overgrow, H: Chlorophyll
+
+3
+Venusaur (妙蛙花)
+Grass, Poison
+hp: 80, atk: 82, def: 83, spa: 100, spd: 100, spe: 80, sum: 525
+0: Overgrow, H: Chlorophyll
+
+4
+Charmander (小火龙)
+Fire
+hp: 39, atk: 52, def: 43, spa: 60, spd: 50, spe: 65, sum: 309
+0: Blaze, H: Solar Power
+
+5
+Charmeleon (火恐龙)
+Fire
+hp: 58, atk: 64, def: 58, spa: 80, spd: 65, spe: 80, sum: 405
+0: Blaze, H: Solar Power
+
+6
+Charizard (喷火龙)
+Fire, Flying
+hp: 78, atk: 84, def: 78, spa: 109, spd: 85, spe: 100, sum: 534
+0: Blaze, H: Solar Power
+
+7
+Squirtle (杰尼龟)
+Water
+hp: 44, atk: 48, def: 65, spa: 50, spd: 64, spe: 43, sum: 314
+0: Torrent, H: Rain Dish
+
+8
+Wartortle (卡咪龟)
+Water
+hp: 59, atk: 63, def: 80, spa: 65, spd: 80, spe: 58, sum: 405
+0: Torrent, H: Rain Dish
+
+9
+Blastoise (水箭龟)
+Water
+hp: 79, atk: 83, def: 100, spa: 85, spd: 105, spe: 78, sum: 530
+0: Torrent, H: Rain Dish
+
+23
+Ekans (阿柏蛇)
+Poison
+hp: 35, atk: 60, def: 44, spa: 40, spd: 54, spe: 55, sum: 288
+0: Intimidate, 1: Shed Skin, H: Unnerve
+
+24
+Arbok (阿柏怪)
+Poison
+hp: 60, atk: 95, def: 69, spa: 65, spd: 79, spe: 80, sum: 448
+0: Intimidate, 1: Shed Skin, H: Unnerve
+
+25
+Pikachu (皮卡丘)
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-Original
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-Hoenn
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-Sinnoh
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-Unova
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-Kalos
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-Alola
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-Partner
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+25
+Pikachu-World
+Electric
+hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90, sum: 320
+0: Static, H: Lightning Rod
+
+26
+Raichu (雷丘)
+Electric
+hp: 60, atk: 90, def: 55, spa: 90, spd: 80, spe: 110, sum: 485
+0: Static, H: Lightning Rod
+
+26
+Raichu-Alola
+Electric, Psychic
+hp: 60, atk: 85, def: 50, spa: 95, spd: 85, spe: 110, sum: 485
+0: Surge Surfer
+
+27
+Sandshrew (穿山鼠)
+Ground
+hp: 50, atk: 75, def: 85, spa: 20, spd: 30, spe: 40, sum: 300
+0: Sand Veil, H: Sand Rush
+
+27
+Sandshrew-Alola
+Ice, Steel
+hp: 50, atk: 75, def: 90, spa: 10, spd: 35, spe: 40, sum: 300
+0: Snow Cloak, H: Slush Rush
+
+28
+Sandslash (穿山王)
+Ground
+hp: 75, atk: 100, def: 110, spa: 45, spd: 55, spe: 65, sum: 450
+0: Sand Veil, H: Sand Rush
+
+28
+Sandslash-Alola
+Ice, Steel
+hp: 75, atk: 100, def: 120, spa: 25, spd: 65, spe: 65, sum: 450
+0: Snow Cloak, H: Slush Rush
+
+35
+Clefairy (皮皮)
+Fairy
+hp: 70, atk: 45, def: 48, spa: 60, spd: 65, spe: 35, sum: 323
+0: Cute Charm, 1: Magic Guard, H: Friend Guard
+
+36
+Clefable (皮可西)
+Fairy
+hp: 95, atk: 70, def: 73, spa: 95, spd: 90, spe: 60, sum: 483
+0: Cute Charm, 1: Magic Guard, H: Unaware
+
+37
+Vulpix (六尾)
+Fire
+hp: 38, atk: 41, def: 40, spa: 50, spd: 65, spe: 65, sum: 299
+0: Flash Fire, H: Drought
+
+37
+Vulpix-Alola
+Ice
+hp: 38, atk: 41, def: 40, spa: 50, spd: 65, spe: 65, sum: 299
+0: Snow Cloak, H: Snow Warning
+
+38
+Ninetales (九尾)
+Fire
+hp: 73, atk: 76, def: 75, spa: 81, spd: 100, spe: 100, sum: 505
+0: Flash Fire, H: Drought
+
+38
+Ninetales-Alola
+Ice, Fairy
+hp: 73, atk: 67, def: 75, spa: 81, spd: 100, spe: 109, sum: 505
+0: Snow Cloak, H: Snow Warning
+
+39
+Jigglypuff (胖丁)
+Normal, Fairy
+hp: 115, atk: 45, def: 20, spa: 45, spd: 25, spe: 20, sum: 270
+0: Cute Charm, 1: Competitive, H: Friend Guard
+
+40
+Wigglytuff (胖可丁)
+Normal, Fairy
+hp: 140, atk: 70, def: 45, spa: 85, spd: 50, spe: 45, sum: 435
+0: Cute Charm, 1: Competitive, H: Frisk
+
+43
+Oddish (走路草)
+Grass, Poison
+hp: 45, atk: 50, def: 55, spa: 75, spd: 65, spe: 30, sum: 320
+0: Chlorophyll, H: Run Away
+
+44
+Gloom (臭臭花)
+Grass, Poison
+hp: 60, atk: 65, def: 70, spa: 85, spd: 75, spe: 40, sum: 395
+0: Chlorophyll, H: Stench
+
+45
+Vileplume (霸王花)
+Grass, Poison
+hp: 75, atk: 80, def: 85, spa: 110, spd: 90, spe: 50, sum: 490
+0: Chlorophyll, H: Effect Spore
+
+48
+Venonat (毛球)
+Bug, Poison
+hp: 60, atk: 55, def: 50, spa: 40, spd: 55, spe: 45, sum: 305
+0: Compound Eyes, 1: Tinted Lens, H: Run Away
+
+49
+Venomoth (摩鲁蛾)
+Bug, Poison
+hp: 70, atk: 65, def: 60, spa: 90, spd: 75, spe: 90, sum: 450
+0: Shield Dust, 1: Tinted Lens, H: Wonder Skin
+
+50
+Diglett (地鼠)
+Ground
+hp: 10, atk: 55, def: 25, spa: 35, spd: 45, spe: 95, sum: 265
+0: Sand Veil, 1: Arena Trap, H: Sand Force
+
+50
+Diglett-Alola
+Ground, Steel
+hp: 10, atk: 55, def: 30, spa: 35, spd: 45, spe: 90, sum: 265
+0: Sand Veil, 1: Tangling Hair, H: Sand Force
+
+51
+Dugtrio (三地鼠)
+Ground
+hp: 35, atk: 100, def: 50, spa: 50, spd: 70, spe: 120, sum: 425
+0: Sand Veil, 1: Arena Trap, H: Sand Force
+
+51
+Dugtrio-Alola
+Ground, Steel
+hp: 35, atk: 100, def: 60, spa: 50, spd: 70, spe: 110, sum: 425
+0: Sand Veil, 1: Tangling Hair, H: Sand Force
+
+52
+Meowth (喵喵)
+Normal
+hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90, sum: 290
+0: Pickup, 1: Technician, H: Unnerve
+
+52
+Meowth-Alola
+Dark
+hp: 40, atk: 35, def: 35, spa: 50, spd: 40, spe: 90, sum: 290
+0: Pickup, 1: Technician, H: Rattled
+
+52
+Meowth-Galar
+Steel
+hp: 50, atk: 65, def: 55, spa: 40, spd: 40, spe: 40, sum: 290
+0: Pickup, 1: Tough Claws, H: Unnerve
+
+53
+Persian (猫老大)
+Normal
+hp: 65, atk: 70, def: 60, spa: 65, spd: 65, spe: 115, sum: 440
+0: Limber, 1: Technician, H: Unnerve
+
+53
+Persian-Alola
+Dark
+hp: 65, atk: 60, def: 60, spa: 75, spd: 65, spe: 115, sum: 440
+0: Fur Coat, 1: Technician, H: Rattled
+
+54
+Psyduck (可达鸭)
+Water
+hp: 50, atk: 52, def: 48, spa: 65, spd: 50, spe: 55, sum: 320
+0: Damp, 1: Cloud Nine, H: Swift Swim
+
+55
+Golduck (哥达鸭)
+Water
+hp: 80, atk: 82, def: 78, spa: 95, spd: 80, spe: 85, sum: 500
+0: Damp, 1: Cloud Nine, H: Swift Swim
+
+56
+Mankey (猴怪)
+Fighting
+hp: 40, atk: 80, def: 35, spa: 35, spd: 45, spe: 70, sum: 305
+0: Vital Spirit, 1: Anger Point, H: Defiant
+
+57
+Primeape (火暴猴)
+Fighting
+hp: 65, atk: 105, def: 60, spa: 60, spd: 70, spe: 95, sum: 455
+0: Vital Spirit, 1: Anger Point, H: Defiant
+
+58
+Growlithe (卡蒂狗)
+Fire
+hp: 55, atk: 70, def: 45, spa: 70, spd: 50, spe: 60, sum: 350
+0: Intimidate, 1: Flash Fire, H: Justified
+
+58
+Growlithe-Hisui
+Fire, Rock
+hp: 60, atk: 75, def: 45, spa: 65, spd: 50, spe: 55, sum: 350
+0: Intimidate, 1: Flash Fire, H: Rock Head
+
+59
+Arcanine (风速狗)
+Fire
+hp: 90, atk: 110, def: 80, spa: 100, spd: 80, spe: 95, sum: 555
+0: Intimidate, 1: Flash Fire, H: Justified
+
+59
+Arcanine-Hisui
+Fire, Rock
+hp: 95, atk: 115, def: 80, spa: 95, spd: 80, spe: 90, sum: 555
+0: Intimidate, 1: Flash Fire, H: Rock Head
+
+60
+Poliwag (蚊香蝌蚪)
+Water
+hp: 40, atk: 50, def: 40, spa: 40, spd: 40, spe: 90, sum: 300
+0: Water Absorb, 1: Damp, H: Swift Swim
+
+61
+Poliwhirl (蚊香君)
+Water
+hp: 65, atk: 65, def: 65, spa: 50, spd: 50, spe: 90, sum: 385
+0: Water Absorb, 1: Damp, H: Swift Swim
+
+62
+Poliwrath (蚊香泳士)
+Water, Fighting
+hp: 90, atk: 95, def: 95, spa: 70, spd: 90, spe: 70, sum: 510
+0: Water Absorb, 1: Damp, H: Swift Swim
+
+69
+Bellsprout (喇叭芽)
+Grass, Poison
+hp: 50, atk: 75, def: 35, spa: 70, spd: 30, spe: 40, sum: 300
+0: Chlorophyll, H: Gluttony
+
+70
+Weepinbell (口呆花)
+Grass, Poison
+hp: 65, atk: 90, def: 50, spa: 85, spd: 45, spe: 55, sum: 390
+0: Chlorophyll, H: Gluttony
+
+71
+Victreebel (大食花)
+Grass, Poison
+hp: 80, atk: 105, def: 65, spa: 100, spd: 70, spe: 70, sum: 490
+0: Chlorophyll, H: Gluttony
+
+72
+Tentacool (玛瑙水母)
+Water, Poison
+hp: 40, atk: 40, def: 35, spa: 50, spd: 100, spe: 70, sum: 335
+0: Clear Body, 1: Liquid Ooze, H: Rain Dish
+
+73
+Tentacruel (毒刺水母)
+Water, Poison
+hp: 80, atk: 70, def: 65, spa: 80, spd: 120, spe: 100, sum: 515
+0: Clear Body, 1: Liquid Ooze, H: Rain Dish
+
+74
+Geodude (小拳石)
+Rock, Ground
+hp: 40, atk: 80, def: 100, spa: 30, spd: 30, spe: 20, sum: 300
+0: Rock Head, 1: Sturdy, H: Sand Veil
+
+74
+Geodude-Alola
+Rock, Electric
+hp: 40, atk: 80, def: 100, spa: 30, spd: 30, spe: 20, sum: 300
+0: Magnet Pull, 1: Sturdy, H: Galvanize
+
+75
+Graveler (隆隆石)
+Rock, Ground
+hp: 55, atk: 95, def: 115, spa: 45, spd: 45, spe: 35, sum: 390
+0: Rock Head, 1: Sturdy, H: Sand Veil
+
+75
+Graveler-Alola
+Rock, Electric
+hp: 55, atk: 95, def: 115, spa: 45, spd: 45, spe: 35, sum: 390
+0: Magnet Pull, 1: Sturdy, H: Galvanize
+
+76
+Golem (隆隆岩)
+Rock, Ground
+hp: 80, atk: 120, def: 130, spa: 55, spd: 65, spe: 45, sum: 495
+0: Rock Head, 1: Sturdy, H: Sand Veil
+
+76
+Golem-Alola
+Rock, Electric
+hp: 80, atk: 120, def: 130, spa: 55, spd: 65, spe: 45, sum: 495
+0: Magnet Pull, 1: Sturdy, H: Galvanize
+
+79
+Slowpoke (呆呆兽)
+Water, Psychic
+hp: 90, atk: 65, def: 65, spa: 40, spd: 40, spe: 15, sum: 315
+0: Oblivious, 1: Own Tempo, H: Regenerator
+
+79
+Slowpoke-Galar
+Psychic
+hp: 90, atk: 65, def: 65, spa: 40, spd: 40, spe: 15, sum: 315
+0: Gluttony, 1: Own Tempo, H: Regenerator
+
+80
+Slowbro (呆壳兽)
+Water, Psychic
+hp: 95, atk: 75, def: 110, spa: 100, spd: 80, spe: 30, sum: 490
+0: Oblivious, 1: Own Tempo, H: Regenerator
+
+80
+Slowbro-Galar
+Poison, Psychic
+hp: 95, atk: 100, def: 95, spa: 100, spd: 70, spe: 30, sum: 490
+0: Quick Draw, 1: Own Tempo, H: Regenerator
+
+81
+Magnemite (小磁怪)
+Electric, Steel
+hp: 25, atk: 35, def: 70, spa: 95, spd: 55, spe: 45, sum: 325
+0: Magnet Pull, 1: Sturdy, H: Analytic
+
+82
+Magneton (三合一磁怪)
+Electric, Steel
+hp: 50, atk: 60, def: 95, spa: 120, spd: 70, spe: 70, sum: 465
+0: Magnet Pull, 1: Sturdy, H: Analytic
+
+84
+Doduo (嘟嘟)
+Normal, Flying
+hp: 35, atk: 85, def: 45, spa: 35, spd: 35, spe: 75, sum: 310
+0: Run Away, 1: Early Bird, H: Tangled Feet
+
+85
+Dodrio (嘟嘟利)
+Normal, Flying
+hp: 60, atk: 110, def: 70, spa: 60, spd: 60, spe: 110, sum: 470
+0: Run Away, 1: Early Bird, H: Tangled Feet
+
+86
+Seel (小海狮)
+Water
+hp: 65, atk: 45, def: 55, spa: 45, spd: 70, spe: 45, sum: 325
+0: Thick Fat, 1: Hydration, H: Ice Body
+
+87
+Dewgong (白海狮)
+Water, Ice
+hp: 90, atk: 70, def: 80, spa: 70, spd: 95, spe: 70, sum: 475
+0: Thick Fat, 1: Hydration, H: Ice Body
+
+88
+Grimer (臭泥)
+Poison
+hp: 80, atk: 80, def: 50, spa: 40, spd: 50, spe: 25, sum: 325
+0: Stench, 1: Sticky Hold, H: Poison Touch
+
+88
+Grimer-Alola
+Poison, Dark
+hp: 80, atk: 80, def: 50, spa: 40, spd: 50, spe: 25, sum: 325
+0: Poison Touch, 1: Gluttony, H: Power of Alchemy
+
+89
+Muk (臭臭泥)
+Poison
+hp: 105, atk: 105, def: 75, spa: 65, spd: 100, spe: 50, sum: 500
+0: Stench, 1: Sticky Hold, H: Poison Touch
+
+89
+Muk-Alola
+Poison, Dark
+hp: 105, atk: 105, def: 75, spa: 65, spd: 100, spe: 50, sum: 500
+0: Poison Touch, 1: Gluttony, H: Power of Alchemy
+
+90
+Shellder (大舌贝)
+Water
+hp: 30, atk: 65, def: 100, spa: 45, spd: 25, spe: 40, sum: 305
+0: Shell Armor, 1: Skill Link, H: Overcoat
+
+91
+Cloyster (刺甲贝)
+Water, Ice
+hp: 50, atk: 95, def: 180, spa: 85, spd: 45, spe: 70, sum: 525
+0: Shell Armor, 1: Skill Link, H: Overcoat
+
+92
+Gastly (鬼斯)
+Ghost, Poison
+hp: 30, atk: 35, def: 30, spa: 100, spd: 35, spe: 80, sum: 310
+0: Levitate
+
+93
+Haunter (鬼斯通)
+Ghost, Poison
+hp: 45, atk: 50, def: 45, spa: 115, spd: 55, spe: 95, sum: 405
+0: Levitate
+
+94
+Gengar (耿鬼)
+Ghost, Poison
+hp: 60, atk: 65, def: 60, spa: 130, spd: 75, spe: 110, sum: 500
+0: Cursed Body
+
+96
+Drowzee (催眠貘)
+Psychic
+hp: 60, atk: 48, def: 45, spa: 43, spd: 90, spe: 42, sum: 328
+0: Insomnia, 1: Forewarn, H: Inner Focus
+
+97
+Hypno (引梦貘人)
+Psychic
+hp: 85, atk: 73, def: 70, spa: 73, spd: 115, spe: 67, sum: 483
+0: Insomnia, 1: Forewarn, H: Inner Focus
+
+100
+Voltorb (霹雳电球)
+Electric
+hp: 40, atk: 30, def: 50, spa: 55, spd: 55, spe: 100, sum: 330
+0: Soundproof, 1: Static, H: Aftermath
+
+100
+Voltorb-Hisui
+Electric, Grass
+hp: 40, atk: 30, def: 50, spa: 55, spd: 55, spe: 100, sum: 330
+0: Soundproof, 1: Static, H: Aftermath
+
+101
+Electrode (顽皮雷弹)
+Electric
+hp: 60, atk: 50, def: 70, spa: 80, spd: 80, spe: 150, sum: 490
+0: Soundproof, 1: Static, H: Aftermath
+
+101
+Electrode-Hisui
+Electric, Grass
+hp: 60, atk: 50, def: 70, spa: 80, spd: 80, spe: 150, sum: 490
+0: Soundproof, 1: Static, H: Aftermath
+
+102
+Exeggcute (蛋蛋)
+Grass, Psychic
+hp: 60, atk: 40, def: 80, spa: 60, spd: 45, spe: 40, sum: 325
+0: Chlorophyll, H: Harvest
+
+103
+Exeggutor (椰蛋树)
+Grass, Psychic
+hp: 95, atk: 95, def: 85, spa: 125, spd: 75, spe: 55, sum: 530
+0: Chlorophyll, H: Harvest
+
+103
+Exeggutor-Alola
+Grass, Dragon
+hp: 95, atk: 105, def: 85, spa: 125, spd: 75, spe: 45, sum: 530
+0: Frisk, H: Harvest
+
+106
+Hitmonlee (飞腿郎)
+Fighting
+hp: 50, atk: 120, def: 53, spa: 35, spd: 110, spe: 87, sum: 455
+0: Limber, 1: Reckless, H: Unburden
+
+107
+Hitmonchan (快拳郎)
+Fighting
+hp: 50, atk: 105, def: 79, spa: 35, spd: 110, spe: 76, sum: 455
+0: Keen Eye, 1: Iron Fist, H: Inner Focus
+
+109
+Koffing (瓦斯弹)
+Poison
+hp: 40, atk: 65, def: 95, spa: 60, spd: 45, spe: 35, sum: 340
+0: Levitate, 1: Neutralizing Gas, H: Stench
+
+110
+Weezing (双弹瓦斯)
+Poison
+hp: 65, atk: 90, def: 120, spa: 85, spd: 70, spe: 60, sum: 490
+0: Levitate, 1: Neutralizing Gas, H: Stench
+
+110
+Weezing-Galar
+Poison, Fairy
+hp: 65, atk: 90, def: 120, spa: 85, spd: 70, spe: 60, sum: 490
+0: Levitate, 1: Neutralizing Gas, H: Misty Surge
+
+111
+Rhyhorn (独角犀牛)
+Ground, Rock
+hp: 80, atk: 85, def: 95, spa: 30, spd: 30, spe: 25, sum: 345
+0: Lightning Rod, 1: Rock Head, H: Reckless
+
+112
+Rhydon (钻角犀兽)
+Ground, Rock
+hp: 105, atk: 130, def: 120, spa: 45, spd: 45, spe: 40, sum: 485
+0: Lightning Rod, 1: Rock Head, H: Reckless
+
+113
+Chansey (吉利蛋)
+Normal
+hp: 250, atk: 5, def: 5, spa: 35, spd: 105, spe: 50, sum: 450
+0: Natural Cure, 1: Serene Grace, H: Healer
+
+116
+Horsea (墨海马)
+Water
+hp: 30, atk: 40, def: 70, spa: 70, spd: 25, spe: 60, sum: 295
+0: Swift Swim, 1: Sniper, H: Damp
+
+117
+Seadra (海刺龙)
+Water
+hp: 55, atk: 65, def: 95, spa: 95, spd: 45, spe: 85, sum: 440
+0: Poison Point, 1: Sniper, H: Damp
+
+123
+Scyther (飞天螳螂)
+Bug, Flying
+hp: 70, atk: 110, def: 80, spa: 55, spd: 80, spe: 105, sum: 500
+0: Swarm, 1: Technician, H: Steadfast
+
+125
+Electabuzz (电击兽)
+Electric
+hp: 65, atk: 83, def: 57, spa: 95, spd: 85, spe: 105, sum: 490
+0: Static, H: Vital Spirit
+
+126
+Magmar (鸭嘴火兽)
+Fire
+hp: 65, atk: 95, def: 57, spa: 100, spd: 85, spe: 93, sum: 495
+0: Flame Body, H: Vital Spirit
+
+128
+Tauros (肯泰罗)
+Normal
+hp: 75, atk: 100, def: 95, spa: 40, spd: 70, spe: 110, sum: 490
+0: Intimidate, 1: Anger Point, H: Sheer Force
+
+128
+Tauros-Paldea-Combat
+Fighting
+hp: 75, atk: 110, def: 105, spa: 30, spd: 70, spe: 100, sum: 490
+0: Intimidate, 1: Anger Point, H: Cud Chew
+
+128
+Tauros-Paldea-Blaze
+Fighting, Fire
+hp: 75, atk: 110, def: 105, spa: 30, spd: 70, spe: 100, sum: 490
+0: Intimidate, 1: Anger Point, H: Cud Chew
+
+128
+Tauros-Paldea-Aqua
+Fighting, Water
+hp: 75, atk: 110, def: 105, spa: 30, spd: 70, spe: 100, sum: 490
+0: Intimidate, 1: Anger Point, H: Cud Chew
+
+129
+Magikarp (鲤鱼王)
+Water
+hp: 20, atk: 10, def: 55, spa: 15, spd: 20, spe: 80, sum: 200
+0: Swift Swim, H: Rattled
+
+130
+Gyarados (暴鲤龙)
+Water, Flying
+hp: 95, atk: 125, def: 79, spa: 60, spd: 100, spe: 81, sum: 540
+0: Intimidate, H: Moxie
+
+131
+Lapras (拉普拉斯)
+Water, Ice
+hp: 130, atk: 85, def: 80, spa: 85, spd: 95, spe: 60, sum: 535
+0: Water Absorb, 1: Shell Armor, H: Hydration
+
+132
+Ditto (百变怪)
+Normal
+hp: 48, atk: 48, def: 48, spa: 48, spd: 48, spe: 48, sum: 288
+0: Limber, H: Imposter
+
+133
+Eevee (伊布)
+Normal
+hp: 55, atk: 55, def: 50, spa: 45, spd: 65, spe: 55, sum: 325
+0: Run Away, 1: Adaptability, H: Anticipation
+
+134
+Vaporeon (水伊布)
+Water
+hp: 130, atk: 65, def: 60, spa: 110, spd: 95, spe: 65, sum: 525
+0: Water Absorb, H: Hydration
+
+135
+Jolteon (雷伊布)
+Electric
+hp: 65, atk: 65, def: 60, spa: 110, spd: 95, spe: 130, sum: 525
+0: Volt Absorb, H: Quick Feet
+
+136
+Flareon (火伊布)
+Fire
+hp: 65, atk: 130, def: 60, spa: 95, spd: 110, spe: 65, sum: 525
+0: Flash Fire, H: Guts
+
+137
+Porygon (多边兽)
+Normal
+hp: 65, atk: 60, def: 70, spa: 85, spd: 75, spe: 40, sum: 395
+0: Trace, 1: Download, H: Analytic
+
+143
+Snorlax (卡比兽)
+Normal
+hp: 160, atk: 110, def: 65, spa: 65, spd: 110, spe: 30, sum: 540
+0: Immunity, 1: Thick Fat, H: Gluttony
+
+144
+Articuno (急冻鸟)
+Ice, Flying
+hp: 90, atk: 85, def: 100, spa: 95, spd: 125, spe: 85, sum: 580
+0: Pressure, H: Snow Cloak
+
+144
+Articuno-Galar
+Psychic, Flying
+hp: 90, atk: 85, def: 85, spa: 125, spd: 100, spe: 95, sum: 580
+0: Competitive
+
+145
+Zapdos (闪电鸟)
+Electric, Flying
+hp: 90, atk: 90, def: 85, spa: 125, spd: 90, spe: 100, sum: 580
+0: Pressure, H: Static
+
+145
+Zapdos-Galar
+Fighting, Flying
+hp: 90, atk: 125, def: 90, spa: 85, spd: 90, spe: 100, sum: 580
+0: Defiant
+
+146
+Moltres (火焰鸟)
+Fire, Flying
+hp: 90, atk: 100, def: 90, spa: 125, spd: 85, spe: 90, sum: 580
+0: Pressure, H: Flame Body
+
+146
+Moltres-Galar
+Dark, Flying
+hp: 90, atk: 85, def: 90, spa: 100, spd: 125, spe: 90, sum: 580
+0: Berserk
+
+147
+Dratini (迷你龙)
+Dragon
+hp: 41, atk: 64, def: 45, spa: 50, spd: 50, spe: 50, sum: 300
+0: Shed Skin, H: Marvel Scale
+
+148
+Dragonair (哈克龙)
+Dragon
+hp: 61, atk: 84, def: 65, spa: 70, spd: 70, spe: 70, sum: 420
+0: Shed Skin, H: Marvel Scale
+
+149
+Dragonite (快龙)
+Dragon, Flying
+hp: 91, atk: 134, def: 95, spa: 100, spd: 100, spe: 80, sum: 600
+0: Inner Focus, H: Multiscale
+
+150
+Mewtwo (超梦)
+Psychic
+hp: 106, atk: 110, def: 90, spa: 154, spd: 90, spe: 130, sum: 680
+0: Pressure, H: Unnerve
+
+151
+Mew (梦幻)
+Psychic
+hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100, sum: 600
+0: Synchronize
+
+152
+Chikorita (菊草叶)
+Grass
+hp: 45, atk: 49, def: 65, spa: 49, spd: 65, spe: 45, sum: 318
+0: Overgrow, H: Leaf Guard
+
+153
+Bayleef (月桂叶)
+Grass
+hp: 60, atk: 62, def: 80, spa: 63, spd: 80, spe: 60, sum: 405
+0: Overgrow, H: Leaf Guard
+
+154
+Meganium (大竺葵)
+Grass
+hp: 80, atk: 82, def: 100, spa: 83, spd: 100, spe: 80, sum: 525
+0: Overgrow, H: Leaf Guard
+
+155
+Cyndaquil (火球鼠)
+Fire
+hp: 39, atk: 52, def: 43, spa: 60, spd: 50, spe: 65, sum: 309
+0: Blaze, H: Flash Fire
+
+156
+Quilava (火岩鼠)
+Fire
+hp: 58, atk: 64, def: 58, spa: 80, spd: 65, spe: 80, sum: 405
+0: Blaze, H: Flash Fire
+
+157
+Typhlosion (火暴兽)
+Fire
+hp: 78, atk: 84, def: 78, spa: 109, spd: 85, spe: 100, sum: 534
+0: Blaze, H: Flash Fire
+
+157
+Typhlosion-Hisui
+Fire, Ghost
+hp: 73, atk: 84, def: 78, spa: 119, spd: 85, spe: 95, sum: 534
+0: Blaze, H: Frisk
+
+158
+Totodile (小锯鳄)
+Water
+hp: 50, atk: 65, def: 64, spa: 44, spd: 48, spe: 43, sum: 314
+0: Torrent, H: Sheer Force
+
+159
+Croconaw (蓝鳄)
+Water
+hp: 65, atk: 80, def: 80, spa: 59, spd: 63, spe: 58, sum: 405
+0: Torrent, H: Sheer Force
+
+160
+Feraligatr (大力鳄)
+Water
+hp: 85, atk: 105, def: 100, spa: 79, spd: 83, spe: 78, sum: 530
+0: Torrent, H: Sheer Force
+
+161
+Sentret (尾立)
+Normal
+hp: 35, atk: 46, def: 34, spa: 35, spd: 45, spe: 20, sum: 215
+0: Run Away, 1: Keen Eye, H: Frisk
+
+162
+Furret (大尾立)
+Normal
+hp: 85, atk: 76, def: 64, spa: 45, spd: 55, spe: 90, sum: 415
+0: Run Away, 1: Keen Eye, H: Frisk
+
+163
+Hoothoot (咕咕)
+Normal, Flying
+hp: 60, atk: 30, def: 30, spa: 36, spd: 56, spe: 50, sum: 262
+0: Insomnia, 1: Keen Eye, H: Tinted Lens
+
+164
+Noctowl (猫头夜鹰)
+Normal, Flying
+hp: 100, atk: 50, def: 50, spa: 86, spd: 96, spe: 70, sum: 452
+0: Insomnia, 1: Keen Eye, H: Tinted Lens
+
+167
+Spinarak (圆丝蛛)
+Bug, Poison
+hp: 40, atk: 60, def: 40, spa: 40, spd: 40, spe: 30, sum: 250
+0: Swarm, 1: Insomnia, H: Sniper
+
+168
+Ariados (阿利多斯)
+Bug, Poison
+hp: 70, atk: 90, def: 70, spa: 60, spd: 70, spe: 40, sum: 400
+0: Swarm, 1: Insomnia, H: Sniper
+
+170
+Chinchou (灯笼鱼)
+Water, Electric
+hp: 75, atk: 38, def: 38, spa: 56, spd: 56, spe: 67, sum: 330
+0: Volt Absorb, 1: Illuminate, H: Water Absorb
+
+171
+Lanturn (电灯怪)
+Water, Electric
+hp: 125, atk: 58, def: 58, spa: 76, spd: 76, spe: 67, sum: 460
+0: Volt Absorb, 1: Illuminate, H: Water Absorb
+
+172
+Pichu (皮丘)
+Electric
+hp: 20, atk: 40, def: 15, spa: 35, spd: 35, spe: 60, sum: 205
+0: Static, H: Lightning Rod
+
+173
+Cleffa (皮宝宝)
+Fairy
+hp: 50, atk: 25, def: 28, spa: 45, spd: 55, spe: 15, sum: 218
+0: Cute Charm, 1: Magic Guard, H: Friend Guard
+
+174
+Igglybuff (宝宝丁)
+Normal, Fairy
+hp: 90, atk: 30, def: 15, spa: 40, spd: 20, spe: 15, sum: 210
+0: Cute Charm, 1: Competitive, H: Friend Guard
+
+179
+Mareep (咩利羊)
+Electric
+hp: 55, atk: 40, def: 40, spa: 65, spd: 45, spe: 35, sum: 280
+0: Static, H: Plus
+
+180
+Flaaffy (茸茸羊)
+Electric
+hp: 70, atk: 55, def: 55, spa: 80, spd: 60, spe: 45, sum: 365
+0: Static, H: Plus
+
+181
+Ampharos (电龙)
+Electric
+hp: 90, atk: 75, def: 85, spa: 115, spd: 90, spe: 55, sum: 510
+0: Static, H: Plus
+
+182
+Bellossom (美丽花)
+Grass
+hp: 75, atk: 80, def: 95, spa: 90, spd: 100, spe: 50, sum: 490
+0: Chlorophyll, H: Healer
+
+183
+Marill (玛力露)
+Water, Fairy
+hp: 70, atk: 20, def: 50, spa: 20, spd: 50, spe: 40, sum: 250
+0: Thick Fat, 1: Huge Power, H: Sap Sipper
+
+184
+Azumarill (玛力露丽)
+Water, Fairy
+hp: 100, atk: 50, def: 80, spa: 60, spd: 80, spe: 50, sum: 420
+0: Thick Fat, 1: Huge Power, H: Sap Sipper
+
+185
+Sudowoodo (树才怪)
+Rock
+hp: 70, atk: 100, def: 115, spa: 30, spd: 65, spe: 30, sum: 410
+0: Sturdy, 1: Rock Head, H: Rattled
+
+186
+Politoed (蚊香蛙皇)
+Water
+hp: 90, atk: 75, def: 75, spa: 90, spd: 100, spe: 70, sum: 500
+0: Water Absorb, 1: Damp, H: Drizzle
+
+187
+Hoppip (毽子草)
+Grass, Flying
+hp: 35, atk: 35, def: 40, spa: 35, spd: 55, spe: 50, sum: 250
+0: Chlorophyll, 1: Leaf Guard, H: Infiltrator
+
+188
+Skiploom (毽子花)
+Grass, Flying
+hp: 55, atk: 45, def: 50, spa: 45, spd: 65, spe: 80, sum: 340
+0: Chlorophyll, 1: Leaf Guard, H: Infiltrator
+
+189
+Jumpluff (毽子棉)
+Grass, Flying
+hp: 75, atk: 55, def: 70, spa: 55, spd: 95, spe: 110, sum: 460
+0: Chlorophyll, 1: Leaf Guard, H: Infiltrator
+
+190
+Aipom (长尾怪手)
+Normal
+hp: 55, atk: 70, def: 55, spa: 40, spd: 55, spe: 85, sum: 360
+0: Run Away, 1: Pickup, H: Skill Link
+
+191
+Sunkern (向日种子)
+Grass
+hp: 30, atk: 30, def: 30, spa: 30, spd: 30, spe: 30, sum: 180
+0: Chlorophyll, 1: Solar Power, H: Early Bird
+
+192
+Sunflora (向日花怪)
+Grass
+hp: 75, atk: 75, def: 55, spa: 105, spd: 85, spe: 30, sum: 425
+0: Chlorophyll, 1: Solar Power, H: Early Bird
+
+193
+Yanma (蜻蜻蜓)
+Bug, Flying
+hp: 65, atk: 65, def: 45, spa: 75, spd: 45, spe: 95, sum: 390
+0: Speed Boost, 1: Compound Eyes, H: Frisk
+
+194
+Wooper (乌波)
+Water, Ground
+hp: 55, atk: 45, def: 45, spa: 25, spd: 25, spe: 15, sum: 210
+0: Damp, 1: Water Absorb, H: Unaware
+
+194
+Wooper-Paldea
+Poison, Ground
+hp: 55, atk: 45, def: 45, spa: 25, spd: 25, spe: 15, sum: 210
+0: Poison Point, 1: Water Absorb, H: Unaware
+
+195
+Quagsire (沼王)
+Water, Ground
+hp: 95, atk: 85, def: 85, spa: 65, spd: 65, spe: 35, sum: 430
+0: Damp, 1: Water Absorb, H: Unaware
+
+196
+Espeon (太阳伊布)
+Psychic
+hp: 65, atk: 65, def: 60, spa: 130, spd: 95, spe: 110, sum: 525
+0: Synchronize, H: Magic Bounce
+
+197
+Umbreon (月亮伊布)
+Dark
+hp: 95, atk: 65, def: 110, spa: 60, spd: 130, spe: 65, sum: 525
+0: Synchronize, H: Inner Focus
+
+198
+Murkrow (黑暗鸦)
+Dark, Flying
+hp: 60, atk: 85, def: 42, spa: 85, spd: 42, spe: 91, sum: 405
+0: Insomnia, 1: Super Luck, H: Prankster
+
+199
+Slowking (呆呆王)
+Water, Psychic
+hp: 95, atk: 75, def: 80, spa: 100, spd: 110, spe: 30, sum: 490
+0: Oblivious, 1: Own Tempo, H: Regenerator
+
+199
+Slowking-Galar
+Poison, Psychic
+hp: 95, atk: 65, def: 80, spa: 110, spd: 110, spe: 30, sum: 490
+0: Curious Medicine, 1: Own Tempo, H: Regenerator
+
+200
+Misdreavus (梦妖)
+Ghost
+hp: 60, atk: 60, def: 60, spa: 85, spd: 85, spe: 85, sum: 435
+0: Levitate
+
+203
+Girafarig (麒麟奇)
+Normal, Psychic
+hp: 70, atk: 80, def: 65, spa: 90, spd: 65, spe: 85, sum: 455
+0: Inner Focus, 1: Early Bird, H: Sap Sipper
+
+204
+Pineco (榛果球)
+Bug
+hp: 50, atk: 65, def: 90, spa: 35, spd: 35, spe: 15, sum: 290
+0: Sturdy, H: Overcoat
+
+205
+Forretress (佛烈托斯)
+Bug, Steel
+hp: 75, atk: 90, def: 140, spa: 60, spd: 60, spe: 40, sum: 465
+0: Sturdy, H: Overcoat
+
+206
+Dunsparce (土龙弟弟)
+Normal
+hp: 100, atk: 70, def: 70, spa: 65, spd: 65, spe: 45, sum: 415
+0: Serene Grace, 1: Run Away, H: Rattled
+
+207
+Gligar (天蝎)
+Ground, Flying
+hp: 65, atk: 75, def: 105, spa: 35, spd: 65, spe: 85, sum: 430
+0: Hyper Cutter, 1: Sand Veil, H: Immunity
+
+209
+Snubbull (布鲁)
+Fairy
+hp: 60, atk: 80, def: 50, spa: 40, spd: 40, spe: 30, sum: 300
+0: Intimidate, 1: Run Away, H: Rattled
+
+210
+Granbull (布鲁皇)
+Fairy
+hp: 90, atk: 120, def: 75, spa: 60, spd: 60, spe: 45, sum: 450
+0: Intimidate, 1: Quick Feet, H: Rattled
+
+211
+Qwilfish (千针鱼)
+Water, Poison
+hp: 65, atk: 95, def: 85, spa: 55, spd: 55, spe: 85, sum: 440
+0: Poison Point, 1: Swift Swim, H: Intimidate
+
+211
+Qwilfish-Hisui
+Dark, Poison
+hp: 65, atk: 95, def: 85, spa: 55, spd: 55, spe: 85, sum: 440
+0: Poison Point, 1: Swift Swim, H: Intimidate
+
+212
+Scizor (巨钳螳螂)
+Bug, Steel
+hp: 70, atk: 130, def: 100, spa: 55, spd: 80, spe: 65, sum: 500
+0: Swarm, 1: Technician, H: Light Metal
+
+214
+Heracross (赫拉克罗斯)
+Bug, Fighting
+hp: 80, atk: 125, def: 75, spa: 40, spd: 95, spe: 85, sum: 500
+0: Swarm, 1: Guts, H: Moxie
+
+215
+Sneasel (狃拉)
+Dark, Ice
+hp: 55, atk: 95, def: 55, spa: 35, spd: 75, spe: 115, sum: 430
+0: Inner Focus, 1: Keen Eye, H: Pickpocket
+
+215
+Sneasel-Hisui
+Fighting, Poison
+hp: 55, atk: 95, def: 55, spa: 35, spd: 75, spe: 115, sum: 430
+0: Inner Focus, 1: Keen Eye, H: Pickpocket
+
+216
+Teddiursa (熊宝宝)
+Normal
+hp: 60, atk: 80, def: 50, spa: 50, spd: 50, spe: 40, sum: 330
+0: Pickup, 1: Quick Feet, H: Honey Gather
+
+217
+Ursaring (圈圈熊)
+Normal
+hp: 90, atk: 130, def: 75, spa: 75, spd: 75, spe: 55, sum: 500
+0: Guts, 1: Quick Feet, H: Unnerve
+
+218
+Slugma (熔岩虫)
+Fire
+hp: 40, atk: 40, def: 40, spa: 70, spd: 40, spe: 20, sum: 250
+0: Magma Armor, 1: Flame Body, H: Weak Armor
+
+219
+Magcargo (熔岩蜗牛)
+Fire, Rock
+hp: 60, atk: 50, def: 120, spa: 90, spd: 80, spe: 30, sum: 430
+0: Magma Armor, 1: Flame Body, H: Weak Armor
+
+220
+Swinub (小山猪)
+Ice, Ground
+hp: 50, atk: 50, def: 40, spa: 30, spd: 30, spe: 50, sum: 250
+0: Oblivious, 1: Snow Cloak, H: Thick Fat
+
+221
+Piloswine (长毛猪)
+Ice, Ground
+hp: 100, atk: 100, def: 80, spa: 60, spd: 60, spe: 50, sum: 450
+0: Oblivious, 1: Snow Cloak, H: Thick Fat
+
+225
+Delibird (信使鸟)
+Ice, Flying
+hp: 45, atk: 55, def: 45, spa: 65, spd: 45, spe: 75, sum: 330
+0: Vital Spirit, 1: Hustle, H: Insomnia
+
+227
+Skarmory (盔甲鸟)
+Steel, Flying
+hp: 65, atk: 80, def: 140, spa: 40, spd: 70, spe: 70, sum: 465
+0: Keen Eye, 1: Sturdy, H: Weak Armor
+
+228
+Houndour (戴鲁比)
+Dark, Fire
+hp: 45, atk: 60, def: 30, spa: 80, spd: 50, spe: 65, sum: 330
+0: Early Bird, 1: Flash Fire, H: Unnerve
+
+229
+Houndoom (黑鲁加)
+Dark, Fire
+hp: 75, atk: 90, def: 50, spa: 110, spd: 80, spe: 95, sum: 500
+0: Early Bird, 1: Flash Fire, H: Unnerve
+
+230
+Kingdra (刺龙王)
+Water, Dragon
+hp: 75, atk: 95, def: 95, spa: 95, spd: 95, spe: 85, sum: 540
+0: Swift Swim, 1: Sniper, H: Damp
+
+231
+Phanpy (小小象)
+Ground
+hp: 90, atk: 60, def: 60, spa: 40, spd: 40, spe: 40, sum: 330
+0: Pickup, H: Sand Veil
+
+232
+Donphan (顿甲)
+Ground
+hp: 90, atk: 120, def: 120, spa: 60, spd: 60, spe: 50, sum: 500
+0: Sturdy, H: Sand Veil
+
+233
+Porygon2 (多边兽２型)
+Normal
+hp: 85, atk: 80, def: 90, spa: 105, spd: 95, spe: 60, sum: 515
+0: Trace, 1: Download, H: Analytic
+
+234
+Stantler (惊角鹿)
+Normal
+hp: 73, atk: 95, def: 62, spa: 85, spd: 65, spe: 85, sum: 465
+0: Intimidate, 1: Frisk, H: Sap Sipper
+
+235
+Smeargle (图图犬)
+Normal
+hp: 55, atk: 20, def: 35, spa: 20, spd: 45, spe: 75, sum: 250
+0: Own Tempo, 1: Technician, H: Moody
+
+236
+Tyrogue (无畏小子)
+Fighting
+hp: 35, atk: 35, def: 35, spa: 35, spd: 35, spe: 35, sum: 210
+0: Guts, 1: Steadfast, H: Vital Spirit
+
+237
+Hitmontop (战舞郎)
+Fighting
+hp: 50, atk: 95, def: 95, spa: 35, spd: 110, spe: 70, sum: 455
+0: Intimidate, 1: Technician, H: Steadfast
+
+239
+Elekid (电击怪)
+Electric
+hp: 45, atk: 63, def: 37, spa: 65, spd: 55, spe: 95, sum: 360
+0: Static, H: Vital Spirit
+
+240
+Magby (鸭嘴宝宝)
+Fire
+hp: 45, atk: 75, def: 37, spa: 70, spd: 55, spe: 83, sum: 365
+0: Flame Body, H: Vital Spirit
+
+242
+Blissey (幸福蛋)
+Normal
+hp: 255, atk: 10, def: 10, spa: 75, spd: 135, spe: 55, sum: 540
+0: Natural Cure, 1: Serene Grace, H: Healer
+
+243
+Raikou (雷公)
+Electric
+hp: 90, atk: 85, def: 75, spa: 115, spd: 100, spe: 115, sum: 580
+0: Pressure, H: Inner Focus
+
+244
+Entei (炎帝)
+Fire
+hp: 115, atk: 115, def: 85, spa: 90, spd: 75, spe: 100, sum: 580
+0: Pressure, H: Inner Focus
+
+245
+Suicune (水君)
+Water
+hp: 100, atk: 75, def: 115, spa: 90, spd: 115, spe: 85, sum: 580
+0: Pressure, H: Inner Focus
+
+246
+Larvitar (幼基拉斯)
+Rock, Ground
+hp: 50, atk: 64, def: 50, spa: 45, spd: 50, spe: 41, sum: 300
+0: Guts, H: Sand Veil
+
+247
+Pupitar (沙基拉斯)
+Rock, Ground
+hp: 70, atk: 84, def: 70, spa: 65, spd: 70, spe: 51, sum: 410
+0: Shed Skin
+
+248
+Tyranitar (班基拉斯)
+Rock, Dark
+hp: 100, atk: 134, def: 110, spa: 95, spd: 100, spe: 61, sum: 600
+0: Sand Stream, H: Unnerve
+
+249
+Lugia (洛奇亚)
+Psychic, Flying
+hp: 106, atk: 90, def: 130, spa: 90, spd: 154, spe: 110, sum: 680
+0: Pressure, H: Multiscale
+
+250
+Ho-Oh (凤王)
+Fire, Flying
+hp: 106, atk: 130, def: 90, spa: 110, spd: 154, spe: 90, sum: 680
+0: Pressure, H: Regenerator
+
+252
+Treecko (木守宫)
+Grass
+hp: 40, atk: 45, def: 35, spa: 65, spd: 55, spe: 70, sum: 310
+0: Overgrow, H: Unburden
+
+253
+Grovyle (森林蜥蜴)
+Grass
+hp: 50, atk: 65, def: 45, spa: 85, spd: 65, spe: 95, sum: 405
+0: Overgrow, H: Unburden
+
+254
+Sceptile (蜥蜴王)
+Grass
+hp: 70, atk: 85, def: 65, spa: 105, spd: 85, spe: 120, sum: 530
+0: Overgrow, H: Unburden
+
+255
+Torchic (火稚鸡)
+Fire
+hp: 45, atk: 60, def: 40, spa: 70, spd: 50, spe: 45, sum: 310
+0: Blaze, H: Speed Boost
+
+256
+Combusken (力壮鸡)
+Fire, Fighting
+hp: 60, atk: 85, def: 60, spa: 85, spd: 60, spe: 55, sum: 405
+0: Blaze, H: Speed Boost
+
+257
+Blaziken (火焰鸡)
+Fire, Fighting
+hp: 80, atk: 120, def: 70, spa: 110, spd: 70, spe: 80, sum: 530
+0: Blaze, H: Speed Boost
+
+258
+Mudkip (水跃鱼)
+Water
+hp: 50, atk: 70, def: 50, spa: 50, spd: 50, spe: 40, sum: 310
+0: Torrent, H: Damp
+
+259
+Marshtomp (沼跃鱼)
+Water, Ground
+hp: 70, atk: 85, def: 70, spa: 60, spd: 70, spe: 50, sum: 405
+0: Torrent, H: Damp
+
+260
+Swampert (巨沼怪)
+Water, Ground
+hp: 100, atk: 110, def: 90, spa: 85, spd: 90, spe: 60, sum: 535
+0: Torrent, H: Damp
+
+261
+Poochyena (土狼犬)
+Dark
+hp: 35, atk: 55, def: 35, spa: 30, spd: 30, spe: 35, sum: 220
+0: Run Away, 1: Quick Feet, H: Rattled
+
+262
+Mightyena (大狼犬)
+Dark
+hp: 70, atk: 90, def: 70, spa: 60, spd: 60, spe: 70, sum: 420
+0: Intimidate, 1: Quick Feet, H: Moxie
+
+270
+Lotad (莲叶童子)
+Water, Grass
+hp: 40, atk: 30, def: 30, spa: 40, spd: 50, spe: 30, sum: 220
+0: Swift Swim, 1: Rain Dish, H: Own Tempo
+
+271
+Lombre (莲帽小童)
+Water, Grass
+hp: 60, atk: 50, def: 50, spa: 60, spd: 70, spe: 50, sum: 340
+0: Swift Swim, 1: Rain Dish, H: Own Tempo
+
+272
+Ludicolo (乐天河童)
+Water, Grass
+hp: 80, atk: 70, def: 70, spa: 90, spd: 100, spe: 70, sum: 480
+0: Swift Swim, 1: Rain Dish, H: Own Tempo
+
+273
+Seedot (橡实果)
+Grass
+hp: 40, atk: 40, def: 50, spa: 30, spd: 30, spe: 30, sum: 220
+0: Chlorophyll, 1: Early Bird, H: Pickpocket
+
+274
+Nuzleaf (长鼻叶)
+Grass, Dark
+hp: 70, atk: 70, def: 40, spa: 60, spd: 40, spe: 60, sum: 340
+0: Chlorophyll, 1: Early Bird, H: Pickpocket
+
+275
+Shiftry (狡猾天狗)
+Grass, Dark
+hp: 90, atk: 100, def: 60, spa: 90, spd: 60, spe: 80, sum: 480
+0: Chlorophyll, 1: Wind Rider, H: Pickpocket
+
+278
+Wingull (长翅鸥)
+Water, Flying
+hp: 40, atk: 30, def: 30, spa: 55, spd: 30, spe: 85, sum: 270
+0: Keen Eye, 1: Hydration, H: Rain Dish
+
+279
+Pelipper (大嘴鸥)
+Water, Flying
+hp: 60, atk: 50, def: 100, spa: 95, spd: 70, spe: 65, sum: 440
+0: Keen Eye, 1: Drizzle, H: Rain Dish
+
+280
+Ralts (拉鲁拉丝)
+Psychic, Fairy
+hp: 28, atk: 25, def: 25, spa: 45, spd: 35, spe: 40, sum: 198
+0: Synchronize, 1: Trace, H: Telepathy
+
+281
+Kirlia (奇鲁莉安)
+Psychic, Fairy
+hp: 38, atk: 35, def: 35, spa: 65, spd: 55, spe: 50, sum: 278
+0: Synchronize, 1: Trace, H: Telepathy
+
+282
+Gardevoir (沙奈朵)
+Psychic, Fairy
+hp: 68, atk: 65, def: 65, spa: 125, spd: 115, spe: 80, sum: 518
+0: Synchronize, 1: Trace, H: Telepathy
+
+283
+Surskit (溜溜糖球)
+Bug, Water
+hp: 40, atk: 30, def: 32, spa: 50, spd: 52, spe: 65, sum: 269
+0: Swift Swim, H: Rain Dish
+
+284
+Masquerain (雨翅蛾)
+Bug, Flying
+hp: 70, atk: 60, def: 62, spa: 100, spd: 82, spe: 80, sum: 454
+0: Intimidate, H: Unnerve
+
+285
+Shroomish (蘑蘑菇)
+Grass
+hp: 60, atk: 40, def: 60, spa: 40, spd: 60, spe: 35, sum: 295
+0: Effect Spore, 1: Poison Heal, H: Quick Feet
+
+286
+Breloom (斗笠菇)
+Grass, Fighting
+hp: 60, atk: 130, def: 80, spa: 60, spd: 60, spe: 70, sum: 460
+0: Effect Spore, 1: Poison Heal, H: Technician
+
+287
+Slakoth (懒人獭)
+Normal
+hp: 60, atk: 60, def: 60, spa: 35, spd: 35, spe: 30, sum: 280
+0: Truant
+
+288
+Vigoroth (过动猿)
+Normal
+hp: 80, atk: 80, def: 80, spa: 55, spd: 55, spe: 90, sum: 440
+0: Vital Spirit
+
+289
+Slaking (请假王)
+Normal
+hp: 150, atk: 160, def: 100, spa: 95, spd: 65, spe: 100, sum: 670
+0: Truant
+
+296
+Makuhita (幕下力士)
+Fighting
+hp: 72, atk: 60, def: 30, spa: 20, spd: 30, spe: 25, sum: 237
+0: Thick Fat, 1: Guts, H: Sheer Force
+
+297
+Hariyama (铁掌力士)
+Fighting
+hp: 144, atk: 120, def: 60, spa: 40, spd: 60, spe: 50, sum: 474
+0: Thick Fat, 1: Guts, H: Sheer Force
+
+298
+Azurill (露力丽)
+Normal, Fairy
+hp: 50, atk: 20, def: 40, spa: 20, spd: 40, spe: 20, sum: 190
+0: Thick Fat, 1: Huge Power, H: Sap Sipper
+
+299
+Nosepass (朝北鼻)
+Rock
+hp: 30, atk: 45, def: 135, spa: 45, spd: 90, spe: 30, sum: 375
+0: Sturdy, 1: Magnet Pull, H: Sand Force
+
+302
+Sableye (勾魂眼)
+Dark, Ghost
+hp: 50, atk: 75, def: 75, spa: 65, spd: 65, spe: 50, sum: 380
+0: Keen Eye, 1: Stall, H: Prankster
+
+307
+Meditite (玛沙那)
+Fighting, Psychic
+hp: 30, atk: 40, def: 55, spa: 40, spd: 55, spe: 60, sum: 280
+0: Pure Power, H: Telepathy
+
+308
+Medicham (恰雷姆)
+Fighting, Psychic
+hp: 60, atk: 60, def: 75, spa: 60, spd: 75, spe: 80, sum: 410
+0: Pure Power, H: Telepathy
+
+311
+Plusle (正电拍拍)
+Electric
+hp: 60, atk: 50, def: 40, spa: 85, spd: 75, spe: 95, sum: 405
+0: Plus, H: Lightning Rod
+
+312
+Minun (负电拍拍)
+Electric
+hp: 60, atk: 40, def: 50, spa: 75, spd: 85, spe: 95, sum: 405
+0: Minus, H: Volt Absorb
+
+313
+Volbeat (电萤虫)
+Bug
+hp: 65, atk: 73, def: 75, spa: 47, spd: 85, spe: 85, sum: 430
+0: Illuminate, 1: Swarm, H: Prankster
+
+314
+Illumise (甜甜萤)
+Bug
+hp: 65, atk: 47, def: 75, spa: 73, spd: 85, spe: 85, sum: 430
+0: Oblivious, 1: Tinted Lens, H: Prankster
+
+316
+Gulpin (溶食兽)
+Poison
+hp: 70, atk: 43, def: 53, spa: 43, spd: 53, spe: 40, sum: 302
+0: Liquid Ooze, 1: Sticky Hold, H: Gluttony
+
+317
+Swalot (吞食兽)
+Poison
+hp: 100, atk: 73, def: 83, spa: 73, spd: 83, spe: 55, sum: 467
+0: Liquid Ooze, 1: Sticky Hold, H: Gluttony
+
+322
+Numel (呆火驼)
+Fire, Ground
+hp: 60, atk: 60, def: 40, spa: 65, spd: 45, spe: 35, sum: 305
+0: Oblivious, 1: Simple, H: Own Tempo
+
+323
+Camerupt (喷火驼)
+Fire, Ground
+hp: 70, atk: 100, def: 70, spa: 105, spd: 75, spe: 40, sum: 460
+0: Magma Armor, 1: Solid Rock, H: Anger Point
+
+324
+Torkoal (煤炭龟)
+Fire
+hp: 70, atk: 85, def: 140, spa: 85, spd: 70, spe: 20, sum: 470
+0: White Smoke, 1: Drought, H: Shell Armor
+
+325
+Spoink (跳跳猪)
+Psychic
+hp: 60, atk: 25, def: 35, spa: 70, spd: 80, spe: 60, sum: 330
+0: Thick Fat, 1: Own Tempo, H: Gluttony
+
+326
+Grumpig (噗噗猪)
+Psychic
+hp: 80, atk: 45, def: 65, spa: 90, spd: 110, spe: 80, sum: 470
+0: Thick Fat, 1: Own Tempo, H: Gluttony
+
+328
+Trapinch (大颚蚁)
+Ground
+hp: 45, atk: 100, def: 45, spa: 45, spd: 45, spe: 10, sum: 290
+0: Hyper Cutter, 1: Arena Trap, H: Sheer Force
+
+329
+Vibrava (超音波幼虫)
+Ground, Dragon
+hp: 50, atk: 70, def: 50, spa: 50, spd: 50, spe: 70, sum: 340
+0: Levitate
+
+330
+Flygon (沙漠蜻蜓)
+Ground, Dragon
+hp: 80, atk: 100, def: 80, spa: 80, spd: 80, spe: 100, sum: 520
+0: Levitate
+
+331
+Cacnea (刺球仙人掌)
+Grass
+hp: 50, atk: 85, def: 40, spa: 85, spd: 40, spe: 35, sum: 335
+0: Sand Veil, H: Water Absorb
+
+332
+Cacturne (梦歌仙人掌)
+Grass, Dark
+hp: 70, atk: 115, def: 60, spa: 115, spd: 60, spe: 55, sum: 475
+0: Sand Veil, H: Water Absorb
+
+333
+Swablu (青绵鸟)
+Normal, Flying
+hp: 45, atk: 40, def: 60, spa: 40, spd: 75, spe: 50, sum: 310
+0: Natural Cure, H: Cloud Nine
+
+334
+Altaria (七夕青鸟)
+Dragon, Flying
+hp: 75, atk: 70, def: 90, spa: 70, spd: 105, spe: 80, sum: 490
+0: Natural Cure, H: Cloud Nine
+
+335
+Zangoose (猫鼬斩)
+Normal
+hp: 73, atk: 115, def: 60, spa: 60, spd: 60, spe: 90, sum: 458
+0: Immunity, H: Toxic Boost
+
+336
+Seviper (饭匙蛇)
+Poison
+hp: 73, atk: 100, def: 60, spa: 100, spd: 60, spe: 65, sum: 458
+0: Shed Skin, H: Infiltrator
+
+339
+Barboach (泥泥鳅)
+Water, Ground
+hp: 50, atk: 48, def: 43, spa: 46, spd: 41, spe: 60, sum: 288
+0: Oblivious, 1: Anticipation, H: Hydration
+
+340
+Whiscash (鲶鱼王)
+Water, Ground
+hp: 110, atk: 78, def: 73, spa: 76, spd: 71, spe: 60, sum: 468
+0: Oblivious, 1: Anticipation, H: Hydration
+
+341
+Corphish (龙虾小兵)
+Water
+hp: 43, atk: 80, def: 65, spa: 50, spd: 35, spe: 35, sum: 308
+0: Hyper Cutter, 1: Shell Armor, H: Adaptability
+
+342
+Crawdaunt (铁螯龙虾)
+Water, Dark
+hp: 63, atk: 120, def: 85, spa: 90, spd: 55, spe: 55, sum: 468
+0: Hyper Cutter, 1: Shell Armor, H: Adaptability
+
+349
+Feebas (丑丑鱼)
+Water
+hp: 20, atk: 15, def: 20, spa: 10, spd: 55, spe: 80, sum: 200
+0: Swift Swim, 1: Oblivious, H: Adaptability
+
+350
+Milotic (美纳斯)
+Water
+hp: 95, atk: 60, def: 79, spa: 100, spd: 125, spe: 81, sum: 540
+0: Marvel Scale, 1: Competitive, H: Cute Charm
+
+353
+Shuppet (怨影娃娃)
+Ghost
+hp: 44, atk: 75, def: 35, spa: 63, spd: 33, spe: 45, sum: 295
+0: Insomnia, 1: Frisk, H: Cursed Body
+
+354
+Banette (诅咒娃娃)
+Ghost
+hp: 64, atk: 115, def: 65, spa: 83, spd: 63, spe: 65, sum: 455
+0: Insomnia, 1: Frisk, H: Cursed Body
+
+355
+Duskull (夜巡灵)
+Ghost
+hp: 20, atk: 40, def: 90, spa: 30, spd: 90, spe: 25, sum: 295
+0: Levitate, H: Frisk
+
+356
+Dusclops (彷徨夜灵)
+Ghost
+hp: 40, atk: 70, def: 130, spa: 60, spd: 130, spe: 25, sum: 455
+0: Pressure, H: Frisk
+
+357
+Tropius (热带龙)
+Grass, Flying
+hp: 99, atk: 68, def: 83, spa: 72, spd: 87, spe: 51, sum: 460
+0: Chlorophyll, 1: Solar Power, H: Harvest
+
+358
+Chimecho (风铃铃)
+Psychic
+hp: 75, atk: 50, def: 80, spa: 95, spd: 90, spe: 65, sum: 455
+0: Levitate
+
+361
+Snorunt (雪童子)
+Ice
+hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50, sum: 300
+0: Inner Focus, 1: Ice Body, H: Moody
+
+362
+Glalie (冰鬼护)
+Ice
+hp: 80, atk: 80, def: 80, spa: 80, spd: 80, spe: 80, sum: 480
+0: Inner Focus, 1: Ice Body, H: Moody
+
+370
+Luvdisc (爱心鱼)
+Water
+hp: 43, atk: 30, def: 55, spa: 40, spd: 65, spe: 97, sum: 330
+0: Swift Swim, H: Hydration
+
+371
+Bagon (宝贝龙)
+Dragon
+hp: 45, atk: 75, def: 60, spa: 40, spd: 30, spe: 50, sum: 300
+0: Rock Head, H: Sheer Force
+
+372
+Shelgon (甲壳龙)
+Dragon
+hp: 65, atk: 95, def: 100, spa: 60, spd: 50, spe: 50, sum: 420
+0: Rock Head, H: Overcoat
+
+373
+Salamence (暴飞龙)
+Dragon, Flying
+hp: 95, atk: 135, def: 80, spa: 110, spd: 80, spe: 100, sum: 600
+0: Intimidate, H: Moxie
+
+374
+Beldum (铁哑铃)
+Steel, Psychic
+hp: 40, atk: 55, def: 80, spa: 35, spd: 60, spe: 30, sum: 300
+0: Clear Body, H: Light Metal
+
+375
+Metang (金属怪)
+Steel, Psychic
+hp: 60, atk: 75, def: 100, spa: 55, spd: 80, spe: 50, sum: 420
+0: Clear Body, H: Light Metal
+
+376
+Metagross (巨金怪)
+Steel, Psychic
+hp: 80, atk: 135, def: 130, spa: 95, spd: 90, spe: 70, sum: 600
+0: Clear Body, H: Light Metal
+
+377
+Regirock (雷吉洛克)
+Rock
+hp: 80, atk: 100, def: 200, spa: 50, spd: 100, spe: 50, sum: 580
+0: Clear Body, H: Sturdy
+
+378
+Regice (雷吉艾斯)
+Ice
+hp: 80, atk: 50, def: 100, spa: 100, spd: 200, spe: 50, sum: 580
+0: Clear Body, H: Ice Body
+
+379
+Registeel (雷吉斯奇鲁)
+Steel
+hp: 80, atk: 75, def: 150, spa: 75, spd: 150, spe: 50, sum: 580
+0: Clear Body, H: Light Metal
+
+380
+Latias (拉帝亚斯)
+Dragon, Psychic
+hp: 80, atk: 80, def: 90, spa: 110, spd: 130, spe: 110, sum: 600
+0: Levitate
+
+381
+Latios (拉帝欧斯)
+Dragon, Psychic
+hp: 80, atk: 90, def: 80, spa: 130, spd: 110, spe: 110, sum: 600
+0: Levitate
+
+382
+Kyogre (盖欧卡)
+Water
+hp: 100, atk: 100, def: 90, spa: 150, spd: 140, spe: 90, sum: 670
+0: Drizzle
+
+383
+Groudon (固拉多)
+Ground
+hp: 100, atk: 150, def: 140, spa: 100, spd: 90, spe: 90, sum: 670
+0: Drought
+
+384
+Rayquaza (烈空坐)
+Dragon, Flying
+hp: 105, atk: 150, def: 90, spa: 150, spd: 90, spe: 95, sum: 680
+0: Air Lock
+
+385
+Jirachi (基拉祈)
+Steel, Psychic
+hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100, sum: 600
+0: Serene Grace
+
+386
+Deoxys (代欧奇希斯)
+Psychic
+hp: 50, atk: 150, def: 50, spa: 150, spd: 50, spe: 150, sum: 600
+0: Pressure
+
+386
+Deoxys-Attack
+Psychic
+hp: 50, atk: 180, def: 20, spa: 180, spd: 20, spe: 150, sum: 600
+0: Pressure
+
+386
+Deoxys-Defense
+Psychic
+hp: 50, atk: 70, def: 160, spa: 70, spd: 160, spe: 90, sum: 600
+0: Pressure
+
+386
+Deoxys-Speed
+Psychic
+hp: 50, atk: 95, def: 90, spa: 95, spd: 90, spe: 180, sum: 600
+0: Pressure
+
+387
+Turtwig (草苗龟)
+Grass
+hp: 55, atk: 68, def: 64, spa: 45, spd: 55, spe: 31, sum: 318
+0: Overgrow, H: Shell Armor
+
+388
+Grotle (树林龟)
+Grass
+hp: 75, atk: 89, def: 85, spa: 55, spd: 65, spe: 36, sum: 405
+0: Overgrow, H: Shell Armor
+
+389
+Torterra (土台龟)
+Grass, Ground
+hp: 95, atk: 109, def: 105, spa: 75, spd: 85, spe: 56, sum: 525
+0: Overgrow, H: Shell Armor
+
+390
+Chimchar (小火焰猴)
+Fire
+hp: 44, atk: 58, def: 44, spa: 58, spd: 44, spe: 61, sum: 309
+0: Blaze, H: Iron Fist
+
+391
+Monferno (猛火猴)
+Fire, Fighting
+hp: 64, atk: 78, def: 52, spa: 78, spd: 52, spe: 81, sum: 405
+0: Blaze, H: Iron Fist
+
+392
+Infernape (烈焰猴)
+Fire, Fighting
+hp: 76, atk: 104, def: 71, spa: 104, spd: 71, spe: 108, sum: 534
+0: Blaze, H: Iron Fist
+
+393
+Piplup (波加曼)
+Water
+hp: 53, atk: 51, def: 53, spa: 61, spd: 56, spe: 40, sum: 314
+0: Torrent, H: Competitive
+
+394
+Prinplup (波皇子)
+Water
+hp: 64, atk: 66, def: 68, spa: 81, spd: 76, spe: 50, sum: 405
+0: Torrent, H: Competitive
+
+395
+Empoleon (帝王拿波)
+Water, Steel
+hp: 84, atk: 86, def: 88, spa: 111, spd: 101, spe: 60, sum: 530
+0: Torrent, H: Competitive
+
+396
+Starly (姆克儿)
+Normal, Flying
+hp: 40, atk: 55, def: 30, spa: 30, spd: 30, spe: 60, sum: 245
+0: Keen Eye, H: Reckless
+
+397
+Staravia (姆克鸟)
+Normal, Flying
+hp: 55, atk: 75, def: 50, spa: 40, spd: 40, spe: 80, sum: 340
+0: Intimidate, H: Reckless
+
+398
+Staraptor (姆克鹰)
+Normal, Flying
+hp: 85, atk: 120, def: 70, spa: 50, spd: 60, spe: 100, sum: 485
+0: Intimidate, H: Reckless
+
+401
+Kricketot (圆法师)
+Bug
+hp: 37, atk: 25, def: 41, spa: 25, spd: 41, spe: 25, sum: 194
+0: Shed Skin, H: Run Away
+
+402
+Kricketune (音箱蟀)
+Bug
+hp: 77, atk: 85, def: 51, spa: 55, spd: 51, spe: 65, sum: 384
+0: Swarm, H: Technician
+
+403
+Shinx (小猫怪)
+Electric
+hp: 45, atk: 65, def: 34, spa: 40, spd: 34, spe: 45, sum: 263
+0: Rivalry, 1: Intimidate, H: Guts
+
+404
+Luxio (勒克猫)
+Electric
+hp: 60, atk: 85, def: 49, spa: 60, spd: 49, spe: 60, sum: 363
+0: Rivalry, 1: Intimidate, H: Guts
+
+405
+Luxray (伦琴猫)
+Electric
+hp: 80, atk: 120, def: 79, spa: 95, spd: 79, spe: 70, sum: 523
+0: Rivalry, 1: Intimidate, H: Guts
+
+408
+Cranidos (头盖龙)
+Rock
+hp: 67, atk: 125, def: 40, spa: 30, spd: 30, spe: 58, sum: 350
+0: Mold Breaker, H: Sheer Force
+
+409
+Rampardos (战槌龙)
+Rock
+hp: 97, atk: 165, def: 60, spa: 65, spd: 50, spe: 58, sum: 495
+0: Mold Breaker, H: Sheer Force
+
+410
+Shieldon (盾甲龙)
+Rock, Steel
+hp: 30, atk: 42, def: 118, spa: 42, spd: 88, spe: 30, sum: 350
+0: Sturdy, H: Soundproof
+
+411
+Bastiodon (护城龙)
+Rock, Steel
+hp: 60, atk: 52, def: 168, spa: 47, spd: 138, spe: 30, sum: 495
+0: Sturdy, H: Soundproof
+
+415
+Combee (三蜜蜂)
+Bug, Flying
+hp: 30, atk: 30, def: 42, spa: 30, spd: 42, spe: 70, sum: 244
+0: Honey Gather, H: Hustle
+
+416
+Vespiquen (蜂女王)
+Bug, Flying
+hp: 70, atk: 80, def: 102, spa: 80, spd: 102, spe: 40, sum: 474
+0: Pressure, H: Unnerve
+
+417
+Pachirisu (帕奇利兹)
+Electric
+hp: 60, atk: 45, def: 70, spa: 45, spd: 90, spe: 95, sum: 405
+0: Run Away, 1: Pickup, H: Volt Absorb
+
+418
+Buizel (泳圈鼬)
+Water
+hp: 55, atk: 65, def: 35, spa: 60, spd: 30, spe: 85, sum: 330
+0: Swift Swim, H: Water Veil
+
+419
+Floatzel (浮潜鼬)
+Water
+hp: 85, atk: 105, def: 55, spa: 85, spd: 50, spe: 115, sum: 495
+0: Swift Swim, H: Water Veil
+
+422
+Shellos (无壳海兔)
+Water
+hp: 76, atk: 48, def: 48, spa: 57, spd: 62, spe: 34, sum: 325
+0: Sticky Hold, 1: Storm Drain, H: Sand Force
+
+423
+Gastrodon (海兔兽)
+Water, Ground
+hp: 111, atk: 83, def: 68, spa: 92, spd: 82, spe: 39, sum: 475
+0: Sticky Hold, 1: Storm Drain, H: Sand Force
+
+424
+Ambipom (双尾怪手)
+Normal
+hp: 75, atk: 100, def: 66, spa: 60, spd: 66, spe: 115, sum: 482
+0: Technician, 1: Pickup, H: Skill Link
+
+425
+Drifloon (飘飘球)
+Ghost, Flying
+hp: 90, atk: 50, def: 34, spa: 60, spd: 44, spe: 70, sum: 348
+0: Aftermath, 1: Unburden, H: Flare Boost
+
+426
+Drifblim (随风球)
+Ghost, Flying
+hp: 150, atk: 80, def: 44, spa: 90, spd: 54, spe: 80, sum: 498
+0: Aftermath, 1: Unburden, H: Flare Boost
+
+429
+Mismagius (梦妖魔)
+Ghost
+hp: 60, atk: 60, def: 60, spa: 105, spd: 105, spe: 105, sum: 495
+0: Levitate
+
+430
+Honchkrow (乌鸦头头)
+Dark, Flying
+hp: 100, atk: 125, def: 52, spa: 105, spd: 52, spe: 71, sum: 505
+0: Insomnia, 1: Super Luck, H: Moxie
+
+433
+Chingling (铃铛响)
+Psychic
+hp: 45, atk: 30, def: 50, spa: 65, spd: 50, spe: 45, sum: 285
+0: Levitate
+
+434
+Stunky (臭鼬噗)
+Poison, Dark
+hp: 63, atk: 63, def: 47, spa: 41, spd: 41, spe: 74, sum: 329
+0: Stench, 1: Aftermath, H: Keen Eye
+
+435
+Skuntank (坦克臭鼬)
+Poison, Dark
+hp: 103, atk: 93, def: 67, spa: 71, spd: 61, spe: 84, sum: 479
+0: Stench, 1: Aftermath, H: Keen Eye
+
+436
+Bronzor (铜镜怪)
+Steel, Psychic
+hp: 57, atk: 24, def: 86, spa: 24, spd: 86, spe: 23, sum: 300
+0: Levitate, 1: Heatproof, H: Heavy Metal
+
+437
+Bronzong (青铜钟)
+Steel, Psychic
+hp: 67, atk: 89, def: 116, spa: 79, spd: 116, spe: 33, sum: 500
+0: Levitate, 1: Heatproof, H: Heavy Metal
+
+438
+Bonsly (盆才怪)
+Rock
+hp: 50, atk: 80, def: 95, spa: 10, spd: 45, spe: 10, sum: 290
+0: Sturdy, 1: Rock Head, H: Rattled
+
+440
+Happiny (小福蛋)
+Normal
+hp: 100, atk: 5, def: 5, spa: 15, spd: 65, spe: 30, sum: 220
+0: Natural Cure, 1: Serene Grace, H: Friend Guard
+
+442
+Spiritomb (花岩怪)
+Ghost, Dark
+hp: 50, atk: 92, def: 108, spa: 92, spd: 108, spe: 35, sum: 485
+0: Pressure, H: Infiltrator
+
+443
+Gible (圆陆鲨)
+Dragon, Ground
+hp: 58, atk: 70, def: 45, spa: 40, spd: 45, spe: 42, sum: 300
+0: Sand Veil, H: Rough Skin
+
+444
+Gabite (尖牙陆鲨)
+Dragon, Ground
+hp: 68, atk: 90, def: 65, spa: 50, spd: 55, spe: 82, sum: 410
+0: Sand Veil, H: Rough Skin
+
+445
+Garchomp (烈咬陆鲨)
+Dragon, Ground
+hp: 108, atk: 130, def: 95, spa: 80, spd: 85, spe: 102, sum: 600
+0: Sand Veil, H: Rough Skin
+
+446
+Munchlax (小卡比兽)
+Normal
+hp: 135, atk: 85, def: 40, spa: 40, spd: 85, spe: 5, sum: 390
+0: Pickup, 1: Thick Fat, H: Gluttony
+
+447
+Riolu (利欧路)
+Fighting
+hp: 40, atk: 70, def: 40, spa: 35, spd: 40, spe: 60, sum: 285
+0: Steadfast, 1: Inner Focus, H: Prankster
+
+448
+Lucario (路卡利欧)
+Fighting, Steel
+hp: 70, atk: 110, def: 70, spa: 115, spd: 70, spe: 90, sum: 525
+0: Steadfast, 1: Inner Focus, H: Justified
+
+449
+Hippopotas (沙河马)
+Ground
+hp: 68, atk: 72, def: 78, spa: 38, spd: 42, spe: 32, sum: 330
+0: Sand Stream, H: Sand Force
+
+450
+Hippowdon (河马兽)
+Ground
+hp: 108, atk: 112, def: 118, spa: 68, spd: 72, spe: 47, sum: 525
+0: Sand Stream, H: Sand Force
+
+453
+Croagunk (不良蛙)
+Poison, Fighting
+hp: 48, atk: 61, def: 40, spa: 61, spd: 40, spe: 50, sum: 300
+0: Anticipation, 1: Dry Skin, H: Poison Touch
+
+454
+Toxicroak (毒骷蛙)
+Poison, Fighting
+hp: 83, atk: 106, def: 65, spa: 86, spd: 65, spe: 85, sum: 490
+0: Anticipation, 1: Dry Skin, H: Poison Touch
+
+456
+Finneon (荧光鱼)
+Water
+hp: 49, atk: 49, def: 56, spa: 49, spd: 61, spe: 66, sum: 330
+0: Swift Swim, 1: Storm Drain, H: Water Veil
+
+457
+Lumineon (霓虹鱼)
+Water
+hp: 69, atk: 69, def: 76, spa: 69, spd: 86, spe: 91, sum: 460
+0: Swift Swim, 1: Storm Drain, H: Water Veil
+
+459
+Snover (雪笠怪)
+Grass, Ice
+hp: 60, atk: 62, def: 50, spa: 62, spd: 60, spe: 40, sum: 334
+0: Snow Warning, H: Soundproof
+
+460
+Abomasnow (暴雪王)
+Grass, Ice
+hp: 90, atk: 92, def: 75, spa: 92, spd: 85, spe: 60, sum: 494
+0: Snow Warning, H: Soundproof
+
+461
+Weavile (玛狃拉)
+Dark, Ice
+hp: 70, atk: 120, def: 65, spa: 45, spd: 85, spe: 125, sum: 510
+0: Pressure, H: Pickpocket
+
+462
+Magnezone (自爆磁怪)
+Electric, Steel
+hp: 70, atk: 70, def: 115, spa: 130, spd: 90, spe: 60, sum: 535
+0: Magnet Pull, 1: Sturdy, H: Analytic
+
+464
+Rhyperior (超甲狂犀)
+Ground, Rock
+hp: 115, atk: 140, def: 130, spa: 55, spd: 55, spe: 40, sum: 535
+0: Lightning Rod, 1: Solid Rock, H: Reckless
+
+466
+Electivire (电击魔兽)
+Electric
+hp: 75, atk: 123, def: 67, spa: 95, spd: 85, spe: 95, sum: 540
+0: Motor Drive, H: Vital Spirit
+
+467
+Magmortar (鸭嘴炎兽)
+Fire
+hp: 75, atk: 95, def: 67, spa: 125, spd: 95, spe: 83, sum: 540
+0: Flame Body, H: Vital Spirit
+
+469
+Yanmega (远古巨蜓)
+Bug, Flying
+hp: 86, atk: 76, def: 86, spa: 116, spd: 56, spe: 95, sum: 515
+0: Speed Boost, 1: Tinted Lens, H: Frisk
+
+470
+Leafeon (叶伊布)
+Grass
+hp: 65, atk: 110, def: 130, spa: 60, spd: 65, spe: 95, sum: 525
+0: Leaf Guard, H: Chlorophyll
+
+471
+Glaceon (冰伊布)
+Ice
+hp: 65, atk: 60, def: 110, spa: 130, spd: 95, spe: 65, sum: 525
+0: Snow Cloak, H: Ice Body
+
+472
+Gliscor (天蝎王)
+Ground, Flying
+hp: 75, atk: 95, def: 125, spa: 45, spd: 75, spe: 95, sum: 510
+0: Hyper Cutter, 1: Sand Veil, H: Poison Heal
+
+473
+Mamoswine (象牙猪)
+Ice, Ground
+hp: 110, atk: 130, def: 80, spa: 70, spd: 60, spe: 80, sum: 530
+0: Oblivious, 1: Snow Cloak, H: Thick Fat
+
+474
+Porygon-Z (多边兽乙型)
+Normal
+hp: 85, atk: 80, def: 70, spa: 135, spd: 75, spe: 90, sum: 535
+0: Adaptability, 1: Download, H: Analytic
+
+475
+Gallade (艾路雷朵)
+Psychic, Fighting
+hp: 68, atk: 125, def: 65, spa: 65, spd: 115, spe: 80, sum: 518
+0: Steadfast, 1: Sharpness, H: Justified
+
+476
+Probopass (大朝北鼻)
+Rock, Steel
+hp: 60, atk: 55, def: 145, spa: 75, spd: 150, spe: 40, sum: 525
+0: Sturdy, 1: Magnet Pull, H: Sand Force
+
+477
+Dusknoir (黑夜魔灵)
+Ghost
+hp: 45, atk: 100, def: 135, spa: 65, spd: 135, spe: 45, sum: 525
+0: Pressure, H: Frisk
+
+478
+Froslass (雪妖女)
+Ice, Ghost
+hp: 70, atk: 80, def: 70, spa: 80, spd: 70, spe: 110, sum: 480
+0: Snow Cloak, H: Cursed Body
+
+479
+Rotom (洛托姆)
+Electric, Ghost
+hp: 50, atk: 50, def: 77, spa: 95, spd: 77, spe: 91, sum: 440
+0: Levitate
+
+479
+Rotom-Heat
+Electric, Fire
+hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86, sum: 520
+0: Levitate
+
+479
+Rotom-Wash
+Electric, Water
+hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86, sum: 520
+0: Levitate
+
+479
+Rotom-Frost
+Electric, Ice
+hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86, sum: 520
+0: Levitate
+
+479
+Rotom-Fan
+Electric, Flying
+hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86, sum: 520
+0: Levitate
+
+479
+Rotom-Mow
+Electric, Grass
+hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86, sum: 520
+0: Levitate
+
+480
+Uxie (由克希)
+Psychic
+hp: 75, atk: 75, def: 130, spa: 75, spd: 130, spe: 95, sum: 580
+0: Levitate
+
+481
+Mesprit (艾姆利多)
+Psychic
+hp: 80, atk: 105, def: 105, spa: 105, spd: 105, spe: 80, sum: 580
+0: Levitate
+
+482
+Azelf (亚克诺姆)
+Psychic
+hp: 75, atk: 125, def: 70, spa: 125, spd: 70, spe: 115, sum: 580
+0: Levitate
+
+483
+Dialga (帝牙卢卡)
+Steel, Dragon
+hp: 100, atk: 120, def: 120, spa: 150, spd: 100, spe: 90, sum: 680
+0: Pressure, H: Telepathy
+
+483
+Dialga-Origin
+Steel, Dragon
+hp: 100, atk: 100, def: 120, spa: 150, spd: 120, spe: 90, sum: 680
+0: Pressure, H: Telepathy
+
+484
+Palkia (帕路奇亚)
+Water, Dragon
+hp: 90, atk: 120, def: 100, spa: 150, spd: 120, spe: 100, sum: 680
+0: Pressure, H: Telepathy
+
+484
+Palkia-Origin
+Water, Dragon
+hp: 90, atk: 100, def: 100, spa: 150, spd: 120, spe: 120, sum: 680
+0: Pressure, H: Telepathy
+
+485
+Heatran (席多蓝恩)
+Fire, Steel
+hp: 91, atk: 90, def: 106, spa: 130, spd: 106, spe: 77, sum: 600
+0: Flash Fire, H: Flame Body
+
+486
+Regigigas (雷吉奇卡斯)
+Normal
+hp: 110, atk: 160, def: 110, spa: 80, spd: 110, spe: 100, sum: 670
+0: Slow Start
+
+487
+Giratina (骑拉帝纳)
+Ghost, Dragon
+hp: 150, atk: 100, def: 120, spa: 100, spd: 120, spe: 90, sum: 680
+0: Pressure, H: Telepathy
+
+487
+Giratina-Origin
+Ghost, Dragon
+hp: 150, atk: 120, def: 100, spa: 120, spd: 100, spe: 90, sum: 680
+0: Levitate
+
+488
+Cresselia (克雷色利亚)
+Psychic
+hp: 120, atk: 70, def: 110, spa: 75, spd: 120, spe: 85, sum: 580
+0: Levitate
+
+489
+Phione (霏欧纳)
+Water
+hp: 80, atk: 80, def: 80, spa: 80, spd: 80, spe: 80, sum: 480
+0: Hydration
+
+490
+Manaphy (玛纳霏)
+Water
+hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100, sum: 600
+0: Hydration
+
+491
+Darkrai (达克莱伊)
+Dark
+hp: 70, atk: 90, def: 90, spa: 135, spd: 90, spe: 125, sum: 600
+0: Bad Dreams
+
+492
+Shaymin (谢米)
+Grass
+hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100, sum: 600
+0: Natural Cure
+
+492
+Shaymin-Sky
+Grass, Flying
+hp: 100, atk: 103, def: 75, spa: 120, spd: 75, spe: 127, sum: 600
+0: Serene Grace
+
+493
+Arceus (阿尔宙斯)
+Normal
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Fighting
+Fighting
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Flying
+Flying
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Poison
+Poison
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Ground
+Ground
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Rock
+Rock
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Bug
+Bug
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Ghost
+Ghost
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Steel
+Steel
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Fire
+Fire
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Water
+Water
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Grass
+Grass
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Electric
+Electric
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Psychic
+Psychic
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Ice
+Ice
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Dragon
+Dragon
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Dark
+Dark
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+493
+Arceus-Fairy
+Fairy
+hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120, sum: 720
+0: Multitype
+
+495
+Snivy (藤藤蛇)
+Grass
+hp: 45, atk: 45, def: 55, spa: 45, spd: 55, spe: 63, sum: 308
+0: Overgrow, H: Contrary
+
+496
+Servine (青藤蛇)
+Grass
+hp: 60, atk: 60, def: 75, spa: 60, spd: 75, spe: 83, sum: 413
+0: Overgrow, H: Contrary
+
+497
+Serperior (君主蛇)
+Grass
+hp: 75, atk: 75, def: 95, spa: 75, spd: 95, spe: 113, sum: 528
+0: Overgrow, H: Contrary
+
+498
+Tepig (暖暖猪)
+Fire
+hp: 65, atk: 63, def: 45, spa: 45, spd: 45, spe: 45, sum: 308
+0: Blaze, H: Thick Fat
+
+499
+Pignite (炒炒猪)
+Fire, Fighting
+hp: 90, atk: 93, def: 55, spa: 70, spd: 55, spe: 55, sum: 418
+0: Blaze, H: Thick Fat
+
+500
+Emboar (炎武王)
+Fire, Fighting
+hp: 110, atk: 123, def: 65, spa: 100, spd: 65, spe: 65, sum: 528
+0: Blaze, H: Reckless
+
+501
+Oshawott (水水獭)
+Water
+hp: 55, atk: 55, def: 45, spa: 63, spd: 45, spe: 45, sum: 308
+0: Torrent, H: Shell Armor
+
+502
+Dewott (双刃丸)
+Water
+hp: 75, atk: 75, def: 60, spa: 83, spd: 60, spe: 60, sum: 413
+0: Torrent, H: Shell Armor
+
+503
+Samurott (大剑鬼)
+Water
+hp: 95, atk: 100, def: 85, spa: 108, spd: 70, spe: 70, sum: 528
+0: Torrent, H: Shell Armor
+
+503
+Samurott-Hisui
+Water, Dark
+hp: 90, atk: 108, def: 80, spa: 100, spd: 65, spe: 85, sum: 528
+0: Torrent, H: Sharpness
+
+522
+Blitzle (斑斑马)
+Electric
+hp: 45, atk: 60, def: 32, spa: 50, spd: 32, spe: 76, sum: 295
+0: Lightning Rod, 1: Motor Drive, H: Sap Sipper
+
+523
+Zebstrika (雷电斑马)
+Electric
+hp: 75, atk: 100, def: 63, spa: 80, spd: 63, spe: 116, sum: 497
+0: Lightning Rod, 1: Motor Drive, H: Sap Sipper
+
+529
+Drilbur (螺钉地鼠)
+Ground
+hp: 60, atk: 85, def: 40, spa: 30, spd: 45, spe: 68, sum: 328
+0: Sand Rush, 1: Sand Force, H: Mold Breaker
+
+530
+Excadrill (龙头地鼠)
+Ground, Steel
+hp: 110, atk: 135, def: 60, spa: 50, spd: 65, spe: 88, sum: 508
+0: Sand Rush, 1: Sand Force, H: Mold Breaker
+
+532
+Timburr (搬运小匠)
+Fighting
+hp: 75, atk: 80, def: 55, spa: 25, spd: 35, spe: 35, sum: 305
+0: Guts, 1: Sheer Force, H: Iron Fist
+
+533
+Gurdurr (铁骨土人)
+Fighting
+hp: 85, atk: 105, def: 85, spa: 40, spd: 50, spe: 40, sum: 405
+0: Guts, 1: Sheer Force, H: Iron Fist
+
+534
+Conkeldurr (修建老匠)
+Fighting
+hp: 105, atk: 140, def: 95, spa: 55, spd: 65, spe: 45, sum: 505
+0: Guts, 1: Sheer Force, H: Iron Fist
+
+540
+Sewaddle (虫宝包)
+Bug, Grass
+hp: 45, atk: 53, def: 70, spa: 40, spd: 60, spe: 42, sum: 310
+0: Swarm, 1: Chlorophyll, H: Overcoat
+
+541
+Swadloon (宝包茧)
+Bug, Grass
+hp: 55, atk: 63, def: 90, spa: 50, spd: 80, spe: 42, sum: 380
+0: Leaf Guard, 1: Chlorophyll, H: Overcoat
+
+542
+Leavanny (保姆虫)
+Bug, Grass
+hp: 75, atk: 103, def: 80, spa: 70, spd: 80, spe: 92, sum: 500
+0: Swarm, 1: Chlorophyll, H: Overcoat
+
+546
+Cottonee (木棉球)
+Grass, Fairy
+hp: 40, atk: 27, def: 60, spa: 37, spd: 50, spe: 66, sum: 280
+0: Prankster, 1: Infiltrator, H: Chlorophyll
+
+547
+Whimsicott (风妖精)
+Grass, Fairy
+hp: 60, atk: 67, def: 85, spa: 77, spd: 75, spe: 116, sum: 480
+0: Prankster, 1: Infiltrator, H: Chlorophyll
+
+548
+Petilil (百合根娃娃)
+Grass
+hp: 45, atk: 35, def: 50, spa: 70, spd: 50, spe: 30, sum: 280
+0: Chlorophyll, 1: Own Tempo, H: Leaf Guard
+
+549
+Lilligant (裙儿小姐)
+Grass
+hp: 70, atk: 60, def: 75, spa: 110, spd: 75, spe: 90, sum: 480
+0: Chlorophyll, 1: Own Tempo, H: Leaf Guard
+
+549
+Lilligant-Hisui
+Grass, Fighting
+hp: 70, atk: 105, def: 75, spa: 50, spd: 75, spe: 105, sum: 480
+0: Chlorophyll, 1: Hustle, H: Leaf Guard
+
+550
+Basculin (野蛮鲈鱼)
+Water
+hp: 70, atk: 92, def: 65, spa: 80, spd: 55, spe: 98, sum: 460
+0: Reckless, 1: Adaptability, H: Mold Breaker
+
+550
+Basculin-Blue-Striped
+Water
+hp: 70, atk: 92, def: 65, spa: 80, spd: 55, spe: 98, sum: 460
+0: Rock Head, 1: Adaptability, H: Mold Breaker
+
+550
+Basculin-White-Striped
+Water
+hp: 70, atk: 92, def: 65, spa: 80, spd: 55, spe: 98, sum: 460
+0: Rattled, 1: Adaptability, H: Mold Breaker
+
+551
+Sandile (黑眼鳄)
+Ground, Dark
+hp: 50, atk: 72, def: 35, spa: 35, spd: 35, spe: 65, sum: 292
+0: Intimidate, 1: Moxie, H: Anger Point
+
+552
+Krokorok (混混鳄)
+Ground, Dark
+hp: 60, atk: 82, def: 45, spa: 45, spd: 45, spe: 74, sum: 351
+0: Intimidate, 1: Moxie, H: Anger Point
+
+553
+Krookodile (流氓鳄)
+Ground, Dark
+hp: 95, atk: 117, def: 80, spa: 65, spd: 70, spe: 92, sum: 519
+0: Intimidate, 1: Moxie, H: Anger Point
+
+559
+Scraggy (滑滑小子)
+Dark, Fighting
+hp: 50, atk: 75, def: 70, spa: 35, spd: 70, spe: 48, sum: 348
+0: Shed Skin, 1: Moxie, H: Intimidate
+
+560
+Scrafty (头巾混混)
+Dark, Fighting
+hp: 65, atk: 90, def: 115, spa: 45, spd: 115, spe: 58, sum: 488
+0: Shed Skin, 1: Moxie, H: Intimidate
+
+570
+Zorua (索罗亚)
+Dark
+hp: 40, atk: 65, def: 40, spa: 80, spd: 40, spe: 65, sum: 330
+0: Illusion
+
+570
+Zorua-Hisui
+Normal, Ghost
+hp: 35, atk: 60, def: 40, spa: 85, spd: 40, spe: 70, sum: 330
+0: Illusion
+
+571
+Zoroark (索罗亚克)
+Dark
+hp: 60, atk: 105, def: 60, spa: 120, spd: 60, spe: 105, sum: 510
+0: Illusion
+
+571
+Zoroark-Hisui
+Normal, Ghost
+hp: 55, atk: 100, def: 60, spa: 125, spd: 60, spe: 110, sum: 510
+0: Illusion
+
+572
+Minccino (泡沫栗鼠)
+Normal
+hp: 55, atk: 50, def: 40, spa: 40, spd: 40, spe: 75, sum: 300
+0: Cute Charm, 1: Technician, H: Skill Link
+
+573
+Cinccino (奇诺栗鼠)
+Normal
+hp: 75, atk: 95, def: 60, spa: 65, spd: 60, spe: 115, sum: 470
+0: Cute Charm, 1: Technician, H: Skill Link
+
+574
+Gothita (哥德宝宝)
+Psychic
+hp: 45, atk: 30, def: 50, spa: 55, spd: 65, spe: 45, sum: 290
+0: Frisk, 1: Competitive, H: Shadow Tag
+
+575
+Gothorita (哥德小童)
+Psychic
+hp: 60, atk: 45, def: 70, spa: 75, spd: 85, spe: 55, sum: 390
+0: Frisk, 1: Competitive, H: Shadow Tag
+
+576
+Gothitelle (哥德小姐)
+Psychic
+hp: 70, atk: 55, def: 95, spa: 95, spd: 110, spe: 65, sum: 490
+0: Frisk, 1: Competitive, H: Shadow Tag
+
+577
+Solosis (单卵细胞球)
+Psychic
+hp: 45, atk: 30, def: 40, spa: 105, spd: 50, spe: 20, sum: 290
+0: Overcoat, 1: Magic Guard, H: Regenerator
+
+578
+Duosion (双卵细胞球)
+Psychic
+hp: 65, atk: 40, def: 50, spa: 125, spd: 60, spe: 30, sum: 370
+0: Overcoat, 1: Magic Guard, H: Regenerator
+
+579
+Reuniclus (人造细胞卵)
+Psychic
+hp: 110, atk: 65, def: 75, spa: 125, spd: 85, spe: 30, sum: 490
+0: Overcoat, 1: Magic Guard, H: Regenerator
+
+580
+Ducklett (鸭宝宝)
+Water, Flying
+hp: 62, atk: 44, def: 50, spa: 44, spd: 50, spe: 55, sum: 305
+0: Keen Eye, 1: Big Pecks, H: Hydration
+
+581
+Swanna (舞天鹅)
+Water, Flying
+hp: 75, atk: 87, def: 63, spa: 87, spd: 63, spe: 98, sum: 473
+0: Keen Eye, 1: Big Pecks, H: Hydration
+
+585
+Deerling (四季鹿)
+Normal, Grass
+hp: 60, atk: 60, def: 50, spa: 40, spd: 50, spe: 75, sum: 335
+0: Chlorophyll, 1: Sap Sipper, H: Serene Grace
+
+586
+Sawsbuck (萌芽鹿)
+Normal, Grass
+hp: 80, atk: 100, def: 70, spa: 60, spd: 70, spe: 95, sum: 475
+0: Chlorophyll, 1: Sap Sipper, H: Serene Grace
+
+590
+Foongus (哎呀球菇)
+Grass, Poison
+hp: 69, atk: 55, def: 45, spa: 55, spd: 55, spe: 15, sum: 294
+0: Effect Spore, H: Regenerator
+
+591
+Amoonguss (败露球菇)
+Grass, Poison
+hp: 114, atk: 85, def: 70, spa: 85, spd: 80, spe: 30, sum: 464
+0: Effect Spore, H: Regenerator
+
+594
+Alomomola (保姆曼波)
+Water
+hp: 165, atk: 75, def: 80, spa: 40, spd: 45, spe: 65, sum: 470
+0: Healer, 1: Hydration, H: Regenerator
+
+595
+Joltik (电电虫)
+Bug, Electric
+hp: 50, atk: 47, def: 50, spa: 57, spd: 50, spe: 65, sum: 319
+0: Compound Eyes, 1: Unnerve, H: Swarm
+
+596
+Galvantula (电蜘蛛)
+Bug, Electric
+hp: 70, atk: 77, def: 60, spa: 97, spd: 60, spe: 108, sum: 472
+0: Compound Eyes, 1: Unnerve, H: Swarm
+
+602
+Tynamo (麻麻小鱼)
+Electric
+hp: 35, atk: 55, def: 40, spa: 45, spd: 40, spe: 60, sum: 275
+0: Levitate
+
+603
+Eelektrik (麻麻鳗)
+Electric
+hp: 65, atk: 85, def: 70, spa: 75, spd: 70, spe: 40, sum: 405
+0: Levitate
+
+604
+Eelektross (麻麻鳗鱼王)
+Electric
+hp: 85, atk: 115, def: 80, spa: 105, spd: 80, spe: 50, sum: 515
+0: Levitate
+
+607
+Litwick (烛光灵)
+Ghost, Fire
+hp: 50, atk: 30, def: 55, spa: 65, spd: 55, spe: 20, sum: 275
+0: Flash Fire, 1: Flame Body, H: Infiltrator
+
+608
+Lampent (灯火幽灵)
+Ghost, Fire
+hp: 60, atk: 40, def: 60, spa: 95, spd: 60, spe: 55, sum: 370
+0: Flash Fire, 1: Flame Body, H: Infiltrator
+
+609
+Chandelure (水晶灯火灵)
+Ghost, Fire
+hp: 60, atk: 55, def: 90, spa: 145, spd: 90, spe: 80, sum: 520
+0: Flash Fire, 1: Flame Body, H: Infiltrator
+
+610
+Axew (牙牙)
+Dragon
+hp: 46, atk: 87, def: 60, spa: 30, spd: 40, spe: 57, sum: 320
+0: Rivalry, 1: Mold Breaker, H: Unnerve
+
+611
+Fraxure (斧牙龙)
+Dragon
+hp: 66, atk: 117, def: 70, spa: 40, spd: 50, spe: 67, sum: 410
+0: Rivalry, 1: Mold Breaker, H: Unnerve
+
+612
+Haxorus (双斧战龙)
+Dragon
+hp: 76, atk: 147, def: 90, spa: 60, spd: 70, spe: 97, sum: 540
+0: Rivalry, 1: Mold Breaker, H: Unnerve
+
+613
+Cubchoo (喷嚏熊)
+Ice
+hp: 55, atk: 70, def: 40, spa: 60, spd: 40, spe: 40, sum: 305
+0: Snow Cloak, 1: Slush Rush, H: Rattled
+
+614
+Beartic (冻原熊)
+Ice
+hp: 95, atk: 130, def: 80, spa: 70, spd: 80, spe: 50, sum: 505
+0: Snow Cloak, 1: Slush Rush, H: Swift Swim
+
+615
+Cryogonal (几何雪花)
+Ice
+hp: 80, atk: 50, def: 50, spa: 95, spd: 135, spe: 105, sum: 515
+0: Levitate
+
+619
+Mienfoo (功夫鼬)
+Fighting
+hp: 45, atk: 85, def: 50, spa: 55, spd: 50, spe: 65, sum: 350
+0: Inner Focus, 1: Regenerator, H: Reckless
+
+620
+Mienshao (师父鼬)
+Fighting
+hp: 65, atk: 125, def: 60, spa: 95, spd: 60, spe: 105, sum: 510
+0: Inner Focus, 1: Regenerator, H: Reckless
+
+622
+Golett (泥偶小人)
+Ground, Ghost
+hp: 59, atk: 74, def: 50, spa: 35, spd: 50, spe: 35, sum: 303
+0: Iron Fist, 1: Klutz, H: No Guard
+
+623
+Golurk (泥偶巨人)
+Ground, Ghost
+hp: 89, atk: 124, def: 80, spa: 55, spd: 80, spe: 55, sum: 483
+0: Iron Fist, 1: Klutz, H: No Guard
+
+624
+Pawniard (驹刀小兵)
+Dark, Steel
+hp: 45, atk: 85, def: 70, spa: 40, spd: 40, spe: 60, sum: 340
+0: Defiant, 1: Inner Focus, H: Pressure
+
+625
+Bisharp (劈斩司令)
+Dark, Steel
+hp: 65, atk: 125, def: 100, spa: 60, spd: 70, spe: 70, sum: 490
+0: Defiant, 1: Inner Focus, H: Pressure
+
+627
+Rufflet (毛头小鹰)
+Normal, Flying
+hp: 70, atk: 83, def: 50, spa: 37, spd: 50, spe: 60, sum: 350
+0: Keen Eye, 1: Sheer Force, H: Hustle
+
+628
+Braviary (勇士雄鹰)
+Normal, Flying
+hp: 100, atk: 123, def: 75, spa: 57, spd: 75, spe: 80, sum: 510
+0: Keen Eye, 1: Sheer Force, H: Defiant
+
+628
+Braviary-Hisui
+Psychic, Flying
+hp: 110, atk: 83, def: 70, spa: 112, spd: 70, spe: 65, sum: 510
+0: Keen Eye, 1: Sheer Force, H: Tinted Lens
+
+629
+Vullaby (秃鹰丫头)
+Dark, Flying
+hp: 70, atk: 55, def: 75, spa: 45, spd: 65, spe: 60, sum: 370
+0: Big Pecks, 1: Overcoat, H: Weak Armor
+
+630
+Mandibuzz (秃鹰娜)
+Dark, Flying
+hp: 110, atk: 65, def: 105, spa: 55, spd: 95, spe: 80, sum: 510
+0: Big Pecks, 1: Overcoat, H: Weak Armor
+
+633
+Deino (单首龙)
+Dark, Dragon
+hp: 52, atk: 65, def: 50, spa: 45, spd: 50, spe: 38, sum: 300
+0: Hustle
+
+634
+Zweilous (双首暴龙)
+Dark, Dragon
+hp: 72, atk: 85, def: 70, spa: 65, spd: 70, spe: 58, sum: 420
+0: Hustle
+
+635
+Hydreigon (三首恶龙)
+Dark, Dragon
+hp: 92, atk: 105, def: 90, spa: 125, spd: 90, spe: 98, sum: 600
+0: Levitate
+
+636
+Larvesta (燃烧虫)
+Bug, Fire
+hp: 55, atk: 85, def: 55, spa: 50, spd: 55, spe: 60, sum: 360
+0: Flame Body, H: Swarm
+
+637
+Volcarona (火神蛾)
+Bug, Fire
+hp: 85, atk: 60, def: 65, spa: 135, spd: 105, spe: 100, sum: 550
+0: Flame Body, H: Swarm
+
+638
+Cobalion (勾帕路翁)
+Steel, Fighting
+hp: 91, atk: 90, def: 129, spa: 90, spd: 72, spe: 108, sum: 580
+0: Justified
+
+639
+Terrakion (代拉基翁)
+Rock, Fighting
+hp: 91, atk: 129, def: 90, spa: 72, spd: 90, spe: 108, sum: 580
+0: Justified
+
+640
+Virizion (毕力吉翁)
+Grass, Fighting
+hp: 91, atk: 90, def: 72, spa: 90, spd: 129, spe: 108, sum: 580
+0: Justified
+
+641
+Tornadus (龙卷云)
+Flying
+hp: 79, atk: 115, def: 70, spa: 125, spd: 80, spe: 111, sum: 580
+0: Prankster, H: Defiant
+
+641
+Tornadus-Therian
+Flying
+hp: 79, atk: 100, def: 80, spa: 110, spd: 90, spe: 121, sum: 580
+0: Regenerator
+
+642
+Thundurus (雷电云)
+Electric, Flying
+hp: 79, atk: 115, def: 70, spa: 125, spd: 80, spe: 111, sum: 580
+0: Prankster, H: Defiant
+
+642
+Thundurus-Therian
+Electric, Flying
+hp: 79, atk: 105, def: 70, spa: 145, spd: 80, spe: 101, sum: 580
+0: Volt Absorb
+
+643
+Reshiram (莱希拉姆)
+Dragon, Fire
+hp: 100, atk: 120, def: 100, spa: 150, spd: 120, spe: 90, sum: 680
+0: Turboblaze
+
+644
+Zekrom (捷克罗姆)
+Dragon, Electric
+hp: 100, atk: 150, def: 120, spa: 120, spd: 100, spe: 90, sum: 680
+0: Teravolt
+
+645
+Landorus (土地云)
+Ground, Flying
+hp: 89, atk: 125, def: 90, spa: 115, spd: 80, spe: 101, sum: 600
+0: Sand Force, H: Sheer Force
+
+645
+Landorus-Therian
+Ground, Flying
+hp: 89, atk: 145, def: 90, spa: 105, spd: 80, spe: 91, sum: 600
+0: Intimidate
+
+646
+Kyurem (酋雷姆)
+Dragon, Ice
+hp: 125, atk: 130, def: 90, spa: 130, spd: 90, spe: 95, sum: 660
+0: Pressure
+
+646
+Kyurem-White
+Dragon, Ice
+hp: 125, atk: 120, def: 90, spa: 170, spd: 100, spe: 95, sum: 700
+0: Turboblaze
+
+646
+Kyurem-Black
+Dragon, Ice
+hp: 125, atk: 170, def: 100, spa: 120, spd: 90, spe: 95, sum: 700
+0: Teravolt
+
+647
+Keldeo (凯路迪欧)
+Water, Fighting
+hp: 91, atk: 72, def: 90, spa: 129, spd: 90, spe: 108, sum: 580
+0: Justified
+
+647
+Keldeo-Resolute
+Water, Fighting
+hp: 91, atk: 72, def: 90, spa: 129, spd: 90, spe: 108, sum: 580
+0: Justified
+
+648
+Meloetta (美洛耶塔)
+Normal, Psychic
+hp: 100, atk: 77, def: 77, spa: 128, spd: 128, spe: 90, sum: 600
+0: Serene Grace
+
+648
+Meloetta-Pirouette
+Normal, Fighting
+hp: 100, atk: 128, def: 90, spa: 77, spd: 77, spe: 128, sum: 600
+0: Serene Grace
+
+650
+Chespin (哈力栗)
+Grass
+hp: 56, atk: 61, def: 65, spa: 48, spd: 45, spe: 38, sum: 313
+0: Overgrow, H: Bulletproof
+
+651
+Quilladin (胖胖哈力)
+Grass
+hp: 61, atk: 78, def: 95, spa: 56, spd: 58, spe: 57, sum: 405
+0: Overgrow, H: Bulletproof
+
+652
+Chesnaught (布里卡隆)
+Grass, Fighting
+hp: 88, atk: 107, def: 122, spa: 74, spd: 75, spe: 64, sum: 530
+0: Overgrow, H: Bulletproof
+
+653
+Fennekin (火狐狸)
+Fire
+hp: 40, atk: 45, def: 40, spa: 62, spd: 60, spe: 60, sum: 307
+0: Blaze, H: Magician
+
+654
+Braixen (长尾火狐)
+Fire
+hp: 59, atk: 59, def: 58, spa: 90, spd: 70, spe: 73, sum: 409
+0: Blaze, H: Magician
+
+655
+Delphox (妖火红狐)
+Fire, Psychic
+hp: 75, atk: 69, def: 72, spa: 114, spd: 100, spe: 104, sum: 534
+0: Blaze, H: Magician
+
+656
+Froakie (呱呱泡蛙)
+Water
+hp: 41, atk: 56, def: 40, spa: 62, spd: 44, spe: 71, sum: 314
+0: Torrent, H: Protean
+
+657
+Frogadier (呱头蛙)
+Water
+hp: 54, atk: 63, def: 52, spa: 83, spd: 56, spe: 97, sum: 405
+0: Torrent, H: Protean
+
+658
+Greninja (甲贺忍蛙)
+Water, Dark
+hp: 72, atk: 95, def: 67, spa: 103, spd: 71, spe: 122, sum: 530
+0: Torrent, H: Protean, S: Battle Bond
+
+658
+Greninja-Bond
+Water, Dark
+hp: 72, atk: 95, def: 67, spa: 103, spd: 71, spe: 122, sum: 530
+0: Battle Bond
+
+661
+Fletchling (小箭雀)
+Normal, Flying
+hp: 45, atk: 50, def: 43, spa: 40, spd: 38, spe: 62, sum: 278
+0: Big Pecks, H: Gale Wings
+
+662
+Fletchinder (火箭雀)
+Fire, Flying
+hp: 62, atk: 73, def: 55, spa: 56, spd: 52, spe: 84, sum: 382
+0: Flame Body, H: Gale Wings
+
+663
+Talonflame (烈箭鹰)
+Fire, Flying
+hp: 78, atk: 81, def: 71, spa: 74, spd: 69, spe: 126, sum: 499
+0: Flame Body, H: Gale Wings
+
+664
+Scatterbug (粉蝶虫)
+Bug
+hp: 38, atk: 35, def: 40, spa: 27, spd: 25, spe: 35, sum: 200
+0: Shield Dust, 1: Compound Eyes, H: Friend Guard
+
+665
+Spewpa (粉蝶蛹)
+Bug
+hp: 45, atk: 22, def: 60, spa: 27, spd: 30, spe: 29, sum: 213
+0: Shed Skin, H: Friend Guard
+
+666
+Vivillon (彩粉蝶)
+Bug, Flying
+hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89, sum: 411
+0: Shield Dust, 1: Compound Eyes, H: Friend Guard
+
+666
+Vivillon-Fancy
+Bug, Flying
+hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89, sum: 411
+0: Shield Dust, 1: Compound Eyes, H: Friend Guard
+
+666
+Vivillon-Pokeball
+Bug, Flying
+hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89, sum: 411
+0: Shield Dust, 1: Compound Eyes, H: Friend Guard
+
+667
+Litleo (小狮狮)
+Fire, Normal
+hp: 62, atk: 50, def: 58, spa: 73, spd: 54, spe: 72, sum: 369
+0: Rivalry, 1: Unnerve, H: Moxie
+
+668
+Pyroar (火炎狮)
+Fire, Normal
+hp: 86, atk: 68, def: 72, spa: 109, spd: 66, spe: 106, sum: 507
+0: Rivalry, 1: Unnerve, H: Moxie
+
+669
+Flabébé
+Fairy
+hp: 44, atk: 38, def: 39, spa: 61, spd: 79, spe: 42, sum: 303
+0: Flower Veil, H: Symbiosis
+
+670
+Floette (花叶蒂)
+Fairy
+hp: 54, atk: 45, def: 47, spa: 75, spd: 98, spe: 52, sum: 371
+0: Flower Veil, H: Symbiosis
+
+671
+Florges (花洁夫人)
+Fairy
+hp: 78, atk: 65, def: 68, spa: 112, spd: 154, spe: 75, sum: 552
+0: Flower Veil, H: Symbiosis
+
+672
+Skiddo (坐骑小羊)
+Grass
+hp: 66, atk: 65, def: 48, spa: 62, spd: 57, spe: 52, sum: 350
+0: Sap Sipper, H: Grass Pelt
+
+673
+Gogoat (坐骑山羊)
+Grass
+hp: 123, atk: 100, def: 62, spa: 97, spd: 81, spe: 68, sum: 531
+0: Sap Sipper, H: Grass Pelt
+
+677
+Espurr (妙喵)
+Psychic
+hp: 62, atk: 48, def: 54, spa: 63, spd: 60, spe: 68, sum: 355
+0: Keen Eye, 1: Infiltrator, H: Own Tempo
+
+678
+Meowstic (超能妙喵)
+Psychic
+hp: 74, atk: 48, def: 76, spa: 83, spd: 81, spe: 104, sum: 466
+0: Keen Eye, 1: Infiltrator, H: Prankster
+
+678
+Meowstic-F
+Psychic
+hp: 74, atk: 48, def: 76, spa: 83, spd: 81, spe: 104, sum: 466
+0: Keen Eye, 1: Infiltrator, H: Competitive
+
+686
+Inkay (好啦鱿)
+Dark, Psychic
+hp: 53, atk: 54, def: 53, spa: 37, spd: 46, spe: 45, sum: 288
+0: Contrary, 1: Suction Cups, H: Infiltrator
+
+687
+Malamar (乌贼王)
+Dark, Psychic
+hp: 86, atk: 92, def: 88, spa: 68, spd: 75, spe: 73, sum: 482
+0: Contrary, 1: Suction Cups, H: Infiltrator
+
+690
+Skrelp (垃垃藻)
+Poison, Water
+hp: 50, atk: 60, def: 60, spa: 60, spd: 60, spe: 30, sum: 320
+0: Poison Point, 1: Poison Touch, H: Adaptability
+
+691
+Dragalge (毒藻龙)
+Poison, Dragon
+hp: 65, atk: 75, def: 90, spa: 97, spd: 123, spe: 44, sum: 494
+0: Poison Point, 1: Poison Touch, H: Adaptability
+
+692
+Clauncher (铁臂枪虾)
+Water
+hp: 50, atk: 53, def: 62, spa: 58, spd: 63, spe: 44, sum: 330
+0: Mega Launcher
+
+693
+Clawitzer (钢炮臂虾)
+Water
+hp: 71, atk: 73, def: 88, spa: 120, spd: 89, spe: 59, sum: 500
+0: Mega Launcher
+
+700
+Sylveon (仙子伊布)
+Fairy
+hp: 95, atk: 65, def: 65, spa: 110, spd: 130, spe: 60, sum: 525
+0: Cute Charm, H: Pixilate
+
+701
+Hawlucha (摔角鹰人)
+Fighting, Flying
+hp: 78, atk: 92, def: 75, spa: 74, spd: 63, spe: 118, sum: 500
+0: Limber, 1: Unburden, H: Mold Breaker
+
+702
+Dedenne (咚咚鼠)
+Electric, Fairy
+hp: 67, atk: 58, def: 57, spa: 81, spd: 67, spe: 101, sum: 431
+0: Cheek Pouch, 1: Pickup, H: Plus
+
+703
+Carbink (小碎钻)
+Rock, Fairy
+hp: 50, atk: 50, def: 150, spa: 50, spd: 150, spe: 50, sum: 500
+0: Clear Body, H: Sturdy
+
+704
+Goomy (黏黏宝)
+Dragon
+hp: 45, atk: 50, def: 35, spa: 55, spd: 75, spe: 40, sum: 300
+0: Sap Sipper, 1: Hydration, H: Gooey
+
+705
+Sliggoo (黏美儿)
+Dragon
+hp: 68, atk: 75, def: 53, spa: 83, spd: 113, spe: 60, sum: 452
+0: Sap Sipper, 1: Hydration, H: Gooey
+
+705
+Sliggoo-Hisui
+Steel, Dragon
+hp: 58, atk: 75, def: 83, spa: 83, spd: 113, spe: 40, sum: 452
+0: Sap Sipper, 1: Shell Armor, H: Gooey
+
+706
+Goodra (黏美龙)
+Dragon
+hp: 90, atk: 100, def: 70, spa: 110, spd: 150, spe: 80, sum: 600
+0: Sap Sipper, 1: Hydration, H: Gooey
+
+706
+Goodra-Hisui
+Steel, Dragon
+hp: 80, atk: 100, def: 100, spa: 110, spd: 150, spe: 60, sum: 600
+0: Sap Sipper, 1: Shell Armor, H: Gooey
+
+707
+Klefki (钥圈儿)
+Steel, Fairy
+hp: 57, atk: 80, def: 91, spa: 80, spd: 87, spe: 75, sum: 470
+0: Prankster, H: Magician
+
+708
+Phantump (小木灵)
+Ghost, Grass
+hp: 43, atk: 70, def: 48, spa: 50, spd: 60, spe: 38, sum: 309
+0: Natural Cure, 1: Frisk, H: Harvest
+
+709
+Trevenant (朽木妖)
+Ghost, Grass
+hp: 85, atk: 110, def: 76, spa: 65, spd: 82, spe: 56, sum: 474
+0: Natural Cure, 1: Frisk, H: Harvest
+
+712
+Bergmite (冰宝)
+Ice
+hp: 55, atk: 69, def: 85, spa: 32, spd: 35, spe: 28, sum: 304
+0: Own Tempo, 1: Ice Body, H: Sturdy
+
+713
+Avalugg (冰岩怪)
+Ice
+hp: 95, atk: 117, def: 184, spa: 44, spd: 46, spe: 28, sum: 514
+0: Own Tempo, 1: Ice Body, H: Sturdy
+
+713
+Avalugg-Hisui
+Ice, Rock
+hp: 95, atk: 127, def: 184, spa: 34, spd: 36, spe: 38, sum: 514
+0: Strong Jaw, 1: Ice Body, H: Sturdy
+
+714
+Noibat (嗡蝠)
+Flying, Dragon
+hp: 40, atk: 30, def: 35, spa: 45, spd: 40, spe: 55, sum: 245
+0: Frisk, 1: Infiltrator, H: Telepathy
+
+715
+Noivern (音波龙)
+Flying, Dragon
+hp: 85, atk: 70, def: 80, spa: 97, spd: 80, spe: 123, sum: 535
+0: Frisk, 1: Infiltrator, H: Telepathy
+
+719
+Diancie (蒂安希)
+Rock, Fairy
+hp: 50, atk: 100, def: 150, spa: 100, spd: 150, spe: 50, sum: 600
+0: Clear Body
+
+720
+Hoopa (胡帕)
+Psychic, Ghost
+hp: 80, atk: 110, def: 60, spa: 150, spd: 130, spe: 70, sum: 600
+0: Magician
+
+720
+Hoopa-Unbound
+Psychic, Dark
+hp: 80, atk: 160, def: 60, spa: 170, spd: 130, spe: 80, sum: 680
+0: Magician
+
+721
+Volcanion (波尔凯尼恩)
+Fire, Water
+hp: 80, atk: 110, def: 120, spa: 130, spd: 90, spe: 70, sum: 600
+0: Water Absorb
+
+722
+Rowlet (木木枭)
+Grass, Flying
+hp: 68, atk: 55, def: 55, spa: 50, spd: 50, spe: 42, sum: 320
+0: Overgrow, H: Long Reach
+
+723
+Dartrix (投羽枭)
+Grass, Flying
+hp: 78, atk: 75, def: 75, spa: 70, spd: 70, spe: 52, sum: 420
+0: Overgrow, H: Long Reach
+
+724
+Decidueye (狙射树枭)
+Grass, Ghost
+hp: 78, atk: 107, def: 75, spa: 100, spd: 100, spe: 70, sum: 530
+0: Overgrow, H: Long Reach
+
+724
+Decidueye-Hisui
+Grass, Fighting
+hp: 88, atk: 112, def: 80, spa: 95, spd: 95, spe: 60, sum: 530
+0: Overgrow, H: Scrappy
+
+725
+Litten (火斑喵)
+Fire
+hp: 45, atk: 65, def: 40, spa: 60, spd: 40, spe: 70, sum: 320
+0: Blaze, H: Intimidate
+
+726
+Torracat (炎热喵)
+Fire
+hp: 65, atk: 85, def: 50, spa: 80, spd: 50, spe: 90, sum: 420
+0: Blaze, H: Intimidate
+
+727
+Incineroar (炽焰咆哮虎)
+Fire, Dark
+hp: 95, atk: 115, def: 90, spa: 80, spd: 90, spe: 60, sum: 530
+0: Blaze, H: Intimidate
+
+728
+Popplio (球球海狮)
+Water
+hp: 50, atk: 54, def: 54, spa: 66, spd: 56, spe: 40, sum: 320
+0: Torrent, H: Liquid Voice
+
+729
+Brionne (花漾海狮)
+Water
+hp: 60, atk: 69, def: 69, spa: 91, spd: 81, spe: 50, sum: 420
+0: Torrent, H: Liquid Voice
+
+730
+Primarina (西狮海壬)
+Water, Fairy
+hp: 80, atk: 74, def: 74, spa: 126, spd: 116, spe: 60, sum: 530
+0: Torrent, H: Liquid Voice
+
+731
+Pikipek (小笃儿)
+Normal, Flying
+hp: 35, atk: 75, def: 30, spa: 30, spd: 30, spe: 65, sum: 265
+0: Keen Eye, 1: Skill Link, H: Pickup
+
+732
+Trumbeak (喇叭啄鸟)
+Normal, Flying
+hp: 55, atk: 85, def: 50, spa: 40, spd: 50, spe: 75, sum: 355
+0: Keen Eye, 1: Skill Link, H: Pickup
+
+733
+Toucannon (铳嘴大鸟)
+Normal, Flying
+hp: 80, atk: 120, def: 75, spa: 75, spd: 75, spe: 60, sum: 485
+0: Keen Eye, 1: Skill Link, H: Sheer Force
+
+734
+Yungoos (猫鼬少)
+Normal
+hp: 48, atk: 70, def: 30, spa: 30, spd: 30, spe: 45, sum: 253
+0: Stakeout, 1: Strong Jaw, H: Adaptability
+
+735
+Gumshoos (猫鼬探长)
+Normal
+hp: 88, atk: 110, def: 60, spa: 55, spd: 60, spe: 45, sum: 418
+0: Stakeout, 1: Strong Jaw, H: Adaptability
+
+736
+Grubbin (强颚鸡母虫)
+Bug
+hp: 47, atk: 62, def: 45, spa: 55, spd: 45, spe: 46, sum: 300
+0: Swarm
+
+737
+Charjabug (虫电宝)
+Bug, Electric
+hp: 57, atk: 82, def: 95, spa: 55, spd: 75, spe: 36, sum: 400
+0: Battery
+
+738
+Vikavolt (锹农炮虫)
+Bug, Electric
+hp: 77, atk: 70, def: 90, spa: 145, spd: 75, spe: 43, sum: 500
+0: Levitate
+
+739
+Crabrawler (好胜蟹)
+Fighting
+hp: 47, atk: 82, def: 57, spa: 42, spd: 47, spe: 63, sum: 338
+0: Hyper Cutter, 1: Iron Fist, H: Anger Point
+
+740
+Crabominable (好胜毛蟹)
+Fighting, Ice
+hp: 97, atk: 132, def: 77, spa: 62, spd: 67, spe: 43, sum: 478
+0: Hyper Cutter, 1: Iron Fist, H: Anger Point
+
+741
+Oricorio (花舞鸟)
+Fire, Flying
+hp: 75, atk: 70, def: 70, spa: 98, spd: 70, spe: 93, sum: 476
+0: Dancer
+
+741
+Oricorio-Pom-Pom
+Electric, Flying
+hp: 75, atk: 70, def: 70, spa: 98, spd: 70, spe: 93, sum: 476
+0: Dancer
+
+741
+Oricorio-Pa'u
+Psychic, Flying
+hp: 75, atk: 70, def: 70, spa: 98, spd: 70, spe: 93, sum: 476
+0: Dancer
+
+741
+Oricorio-Sensu
+Ghost, Flying
+hp: 75, atk: 70, def: 70, spa: 98, spd: 70, spe: 93, sum: 476
+0: Dancer
+
+742
+Cutiefly (萌虻)
+Bug, Fairy
+hp: 40, atk: 45, def: 40, spa: 55, spd: 40, spe: 84, sum: 304
+0: Honey Gather, 1: Shield Dust, H: Sweet Veil
+
+743
+Ribombee (蝶结萌虻)
+Bug, Fairy
+hp: 60, atk: 55, def: 60, spa: 95, spd: 70, spe: 124, sum: 464
+0: Honey Gather, 1: Shield Dust, H: Sweet Veil
+
+744
+Rockruff (岩狗狗)
+Rock
+hp: 45, atk: 65, def: 40, spa: 30, spd: 40, spe: 60, sum: 280
+0: Keen Eye, 1: Vital Spirit, H: Steadfast, S: Own Tempo
+
+745
+Lycanroc (鬃岩狼人)
+Rock
+hp: 75, atk: 115, def: 65, spa: 55, spd: 65, spe: 112, sum: 487
+0: Keen Eye, 1: Sand Rush, H: Steadfast
+
+745
+Lycanroc-Midnight
+Rock
+hp: 85, atk: 115, def: 75, spa: 55, spd: 75, spe: 82, sum: 487
+0: Keen Eye, 1: Vital Spirit, H: No Guard
+
+745
+Lycanroc-Dusk
+Rock
+hp: 75, atk: 117, def: 65, spa: 55, spd: 65, spe: 110, sum: 487
+0: Tough Claws
+
+747
+Mareanie (好坏星)
+Poison, Water
+hp: 50, atk: 53, def: 62, spa: 43, spd: 52, spe: 45, sum: 305
+0: Merciless, 1: Limber, H: Regenerator
+
+748
+Toxapex (超坏星)
+Poison, Water
+hp: 50, atk: 63, def: 152, spa: 53, spd: 142, spe: 35, sum: 495
+0: Merciless, 1: Limber, H: Regenerator
+
+749
+Mudbray (泥驴仔)
+Ground
+hp: 70, atk: 100, def: 70, spa: 45, spd: 55, spe: 45, sum: 385
+0: Own Tempo, 1: Stamina, H: Inner Focus
+
+750
+Mudsdale (重泥挽马)
+Ground
+hp: 100, atk: 125, def: 100, spa: 55, spd: 85, spe: 35, sum: 500
+0: Own Tempo, 1: Stamina, H: Inner Focus
+
+751
+Dewpider (滴蛛)
+Water, Bug
+hp: 38, atk: 40, def: 52, spa: 40, spd: 72, spe: 27, sum: 269
+0: Water Bubble, H: Water Absorb
+
+752
+Araquanid (滴蛛霸)
+Water, Bug
+hp: 68, atk: 70, def: 92, spa: 50, spd: 132, spe: 42, sum: 454
+0: Water Bubble, H: Water Absorb
+
+753
+Fomantis (伪螳草)
+Grass
+hp: 40, atk: 55, def: 35, spa: 50, spd: 35, spe: 35, sum: 250
+0: Leaf Guard, H: Contrary
+
+754
+Lurantis (兰螳花)
+Grass
+hp: 70, atk: 105, def: 90, spa: 80, spd: 90, spe: 45, sum: 480
+0: Leaf Guard, H: Contrary
+
+757
+Salandit (夜盗火蜥)
+Poison, Fire
+hp: 48, atk: 44, def: 40, spa: 71, spd: 40, spe: 77, sum: 320
+0: Corrosion, H: Oblivious
+
+758
+Salazzle (焰后蜥)
+Poison, Fire
+hp: 68, atk: 64, def: 60, spa: 111, spd: 60, spe: 117, sum: 480
+0: Corrosion, H: Oblivious
+
+761
+Bounsweet (甜竹竹)
+Grass
+hp: 42, atk: 30, def: 38, spa: 30, spd: 38, spe: 32, sum: 210
+0: Leaf Guard, 1: Oblivious, H: Sweet Veil
+
+762
+Steenee (甜舞妮)
+Grass
+hp: 52, atk: 40, def: 48, spa: 40, spd: 48, spe: 62, sum: 290
+0: Leaf Guard, 1: Oblivious, H: Sweet Veil
+
+763
+Tsareena (甜冷美后)
+Grass
+hp: 72, atk: 120, def: 98, spa: 50, spd: 98, spe: 72, sum: 510
+0: Leaf Guard, 1: Queenly Majesty, H: Sweet Veil
+
+764
+Comfey (花疗环环)
+Fairy
+hp: 51, atk: 52, def: 90, spa: 82, spd: 110, spe: 100, sum: 485
+0: Flower Veil, 1: Triage, H: Natural Cure
+
+765
+Oranguru (智挥猩)
+Normal, Psychic
+hp: 90, atk: 60, def: 80, spa: 90, spd: 110, spe: 60, sum: 490
+0: Inner Focus, 1: Telepathy, H: Symbiosis
+
+766
+Passimian (投掷猴)
+Fighting
+hp: 100, atk: 120, def: 90, spa: 40, spd: 60, spe: 80, sum: 490
+0: Receiver, H: Defiant
+
+769
+Sandygast (沙丘娃)
+Ghost, Ground
+hp: 55, atk: 55, def: 80, spa: 70, spd: 45, spe: 15, sum: 320
+0: Water Compaction, H: Sand Veil
+
+770
+Palossand (噬沙堡爷)
+Ghost, Ground
+hp: 85, atk: 75, def: 110, spa: 100, spd: 75, spe: 35, sum: 480
+0: Water Compaction, H: Sand Veil
+
+774
+Minior-Meteor
+Rock, Flying
+hp: 60, atk: 60, def: 100, spa: 60, spd: 100, spe: 60, sum: 440
+0: Shields Down
+
+774
+Minior (小陨星)
+Rock, Flying
+hp: 60, atk: 100, def: 60, spa: 100, spd: 60, spe: 120, sum: 500
+0: Shields Down
+
+775
+Komala (树枕尾熊)
+Normal
+hp: 65, atk: 115, def: 65, spa: 75, spd: 95, spe: 65, sum: 480
+0: Comatose
+
+778
+Mimikyu (谜拟丘)
+Ghost, Fairy
+hp: 55, atk: 90, def: 80, spa: 50, spd: 105, spe: 96, sum: 476
+0: Disguise
+
+778
+Mimikyu-Busted
+Ghost, Fairy
+hp: 55, atk: 90, def: 80, spa: 50, spd: 105, spe: 96, sum: 476
+0: Disguise
+
+779
+Bruxish (磨牙彩皮鱼)
+Water, Psychic
+hp: 68, atk: 105, def: 70, spa: 70, spd: 70, spe: 92, sum: 475
+0: Dazzling, 1: Strong Jaw, H: Wonder Skin
+
+782
+Jangmo-o (心鳞宝)
+Dragon
+hp: 45, atk: 55, def: 65, spa: 45, spd: 45, spe: 45, sum: 300
+0: Bulletproof, 1: Soundproof, H: Overcoat
+
+783
+Hakamo-o (鳞甲龙)
+Dragon, Fighting
+hp: 55, atk: 75, def: 90, spa: 65, spd: 70, spe: 65, sum: 420
+0: Bulletproof, 1: Soundproof, H: Overcoat
+
+784
+Kommo-o (杖尾鳞甲龙)
+Dragon, Fighting
+hp: 75, atk: 110, def: 125, spa: 100, spd: 105, spe: 85, sum: 600
+0: Bulletproof, 1: Soundproof, H: Overcoat
+
+789
+Cosmog (科斯莫古)
+Psychic
+hp: 43, atk: 29, def: 31, spa: 29, spd: 31, spe: 37, sum: 200
+0: Unaware
+
+790
+Cosmoem (科斯莫姆)
+Psychic
+hp: 43, atk: 29, def: 131, spa: 29, spd: 131, spe: 37, sum: 400
+0: Sturdy
+
+791
+Solgaleo (索尔迦雷欧)
+Psychic, Steel
+hp: 137, atk: 137, def: 107, spa: 113, spd: 89, spe: 97, sum: 680
+0: Full Metal Body
+
+792
+Lunala (露奈雅拉)
+Psychic, Ghost
+hp: 137, atk: 113, def: 89, spa: 137, spd: 107, spe: 97, sum: 680
+0: Shadow Shield
+
+800
+Necrozma (奈克洛兹玛)
+Psychic
+hp: 97, atk: 107, def: 101, spa: 127, spd: 89, spe: 79, sum: 600
+0: Prism Armor
+
+800
+Necrozma-Dusk-Mane
+Psychic, Steel
+hp: 97, atk: 157, def: 127, spa: 113, spd: 109, spe: 77, sum: 680
+0: Prism Armor
+
+800
+Necrozma-Dawn-Wings
+Psychic, Ghost
+hp: 97, atk: 113, def: 109, spa: 157, spd: 127, spe: 77, sum: 680
+0: Prism Armor
+
+801
+Magearna (玛机雅娜)
+Steel, Fairy
+hp: 80, atk: 95, def: 115, spa: 130, spd: 115, spe: 65, sum: 600
+0: Soul-Heart
+
+801
+Magearna-Original
+Steel, Fairy
+hp: 80, atk: 95, def: 115, spa: 130, spd: 115, spe: 65, sum: 600
+0: Soul-Heart
+
+810
+Grookey (敲音猴)
+Grass
+hp: 50, atk: 65, def: 50, spa: 40, spd: 40, spe: 65, sum: 310
+0: Overgrow, H: Grassy Surge
+
+811
+Thwackey (啪咚猴)
+Grass
+hp: 70, atk: 85, def: 70, spa: 55, spd: 60, spe: 80, sum: 420
+0: Overgrow, H: Grassy Surge
+
+812
+Rillaboom (轰擂金刚猩)
+Grass
+hp: 100, atk: 125, def: 90, spa: 60, spd: 70, spe: 85, sum: 530
+0: Overgrow, H: Grassy Surge
+
+813
+Scorbunny (炎兔儿)
+Fire
+hp: 50, atk: 71, def: 40, spa: 40, spd: 40, spe: 69, sum: 310
+0: Blaze, H: Libero
+
+814
+Raboot (腾蹴小将)
+Fire
+hp: 65, atk: 86, def: 60, spa: 55, spd: 60, spe: 94, sum: 420
+0: Blaze, H: Libero
+
+815
+Cinderace (闪焰王牌)
+Fire
+hp: 80, atk: 116, def: 75, spa: 65, spd: 75, spe: 119, sum: 530
+0: Blaze, H: Libero
+
+816
+Sobble (泪眼蜥)
+Water
+hp: 50, atk: 40, def: 40, spa: 70, spd: 40, spe: 70, sum: 310
+0: Torrent, H: Sniper
+
+817
+Drizzile (变涩蜥)
+Water
+hp: 65, atk: 60, def: 55, spa: 95, spd: 55, spe: 90, sum: 420
+0: Torrent, H: Sniper
+
+818
+Inteleon (千面避役)
+Water
+hp: 70, atk: 85, def: 65, spa: 125, spd: 65, spe: 120, sum: 530
+0: Torrent, H: Sniper
+
+819
+Skwovet (贪心栗鼠)
+Normal
+hp: 70, atk: 55, def: 55, spa: 35, spd: 35, spe: 25, sum: 275
+0: Cheek Pouch, H: Gluttony
+
+820
+Greedent (藏饱栗鼠)
+Normal
+hp: 120, atk: 95, def: 95, spa: 55, spd: 75, spe: 20, sum: 460
+0: Cheek Pouch, H: Gluttony
+
+821
+Rookidee (稚山雀)
+Flying
+hp: 38, atk: 47, def: 35, spa: 33, spd: 35, spe: 57, sum: 245
+0: Keen Eye, 1: Unnerve, H: Big Pecks
+
+822
+Corvisquire (蓝鸦)
+Flying
+hp: 68, atk: 67, def: 55, spa: 43, spd: 55, spe: 77, sum: 365
+0: Keen Eye, 1: Unnerve, H: Big Pecks
+
+823
+Corviknight (钢铠鸦)
+Flying, Steel
+hp: 98, atk: 87, def: 105, spa: 53, spd: 85, spe: 67, sum: 495
+0: Pressure, 1: Unnerve, H: Mirror Armor
+
+833
+Chewtle (咬咬龟)
+Water
+hp: 50, atk: 64, def: 50, spa: 38, spd: 38, spe: 44, sum: 284
+0: Strong Jaw, 1: Shell Armor, H: Swift Swim
+
+834
+Drednaw (暴噬龟)
+Water, Rock
+hp: 90, atk: 115, def: 90, spa: 48, spd: 68, spe: 74, sum: 485
+0: Strong Jaw, 1: Shell Armor, H: Swift Swim
+
+837
+Rolycoly (小炭仔)
+Rock
+hp: 30, atk: 40, def: 50, spa: 40, spd: 50, spe: 30, sum: 240
+0: Steam Engine, 1: Heatproof, H: Flash Fire
+
+838
+Carkol (大炭车)
+Rock, Fire
+hp: 80, atk: 60, def: 90, spa: 60, spd: 70, spe: 50, sum: 410
+0: Steam Engine, 1: Flame Body, H: Flash Fire
+
+839
+Coalossal (巨炭山)
+Rock, Fire
+hp: 110, atk: 80, def: 120, spa: 80, spd: 90, spe: 30, sum: 510
+0: Steam Engine, 1: Flame Body, H: Flash Fire
+
+840
+Applin (啃果虫)
+Grass, Dragon
+hp: 40, atk: 40, def: 80, spa: 40, spd: 40, spe: 20, sum: 260
+0: Ripen, 1: Gluttony, H: Bulletproof
+
+841
+Flapple (苹裹龙)
+Grass, Dragon
+hp: 70, atk: 110, def: 80, spa: 95, spd: 60, spe: 70, sum: 485
+0: Ripen, 1: Gluttony, H: Hustle
+
+842
+Appletun (丰蜜龙)
+Grass, Dragon
+hp: 110, atk: 85, def: 80, spa: 100, spd: 80, spe: 30, sum: 485
+0: Ripen, 1: Gluttony, H: Thick Fat
+
+843
+Silicobra (沙包蛇)
+Ground
+hp: 52, atk: 57, def: 75, spa: 35, spd: 50, spe: 46, sum: 315
+0: Sand Spit, 1: Shed Skin, H: Sand Veil
+
+844
+Sandaconda (沙螺蟒)
+Ground
+hp: 72, atk: 107, def: 125, spa: 65, spd: 70, spe: 71, sum: 510
+0: Sand Spit, 1: Shed Skin, H: Sand Veil
+
+845
+Cramorant (古月鸟)
+Flying, Water
+hp: 70, atk: 85, def: 55, spa: 85, spd: 95, spe: 85, sum: 475
+0: Gulp Missile
+
+845
+Cramorant-Gulping
+Flying, Water
+hp: 70, atk: 85, def: 55, spa: 85, spd: 95, spe: 85, sum: 475
+0: Gulp Missile
+
+845
+Cramorant-Gorging
+Flying, Water
+hp: 70, atk: 85, def: 55, spa: 85, spd: 95, spe: 85, sum: 475
+0: Gulp Missile
+
+846
+Arrokuda (刺梭鱼)
+Water
+hp: 41, atk: 63, def: 40, spa: 40, spd: 30, spe: 66, sum: 280
+0: Swift Swim, H: Propeller Tail
+
+847
+Barraskewda (戽斗尖梭)
+Water
+hp: 61, atk: 123, def: 60, spa: 60, spd: 50, spe: 136, sum: 490
+0: Swift Swim, H: Propeller Tail
+
+848
+Toxel (电音婴)
+Electric, Poison
+hp: 40, atk: 38, def: 35, spa: 54, spd: 35, spe: 40, sum: 242
+0: Rattled, 1: Static, H: Klutz
+
+849
+Toxtricity (颤弦蝾螈)
+Electric, Poison
+hp: 75, atk: 98, def: 70, spa: 114, spd: 70, spe: 75, sum: 502
+0: Punk Rock, 1: Plus, H: Technician
+
+849
+Toxtricity-Low-Key
+Electric, Poison
+hp: 75, atk: 98, def: 70, spa: 114, spd: 70, spe: 75, sum: 502
+0: Punk Rock, 1: Minus, H: Technician
+
+854
+Sinistea (来悲茶)
+Ghost
+hp: 40, atk: 45, def: 45, spa: 74, spd: 54, spe: 50, sum: 308
+0: Weak Armor, H: Cursed Body
+
+854
+Sinistea-Antique
+Ghost
+hp: 40, atk: 45, def: 45, spa: 74, spd: 54, spe: 50, sum: 308
+0: Weak Armor, H: Cursed Body
+
+855
+Polteageist (怖思壶)
+Ghost
+hp: 60, atk: 65, def: 65, spa: 134, spd: 114, spe: 70, sum: 508
+0: Weak Armor, H: Cursed Body
+
+855
+Polteageist-Antique
+Ghost
+hp: 60, atk: 65, def: 65, spa: 134, spd: 114, spe: 70, sum: 508
+0: Weak Armor, H: Cursed Body
+
+856
+Hatenna (迷布莉姆)
+Psychic
+hp: 42, atk: 30, def: 45, spa: 56, spd: 53, spe: 39, sum: 265
+0: Healer, 1: Anticipation, H: Magic Bounce
+
+857
+Hattrem (提布莉姆)
+Psychic
+hp: 57, atk: 40, def: 65, spa: 86, spd: 73, spe: 49, sum: 370
+0: Healer, 1: Anticipation, H: Magic Bounce
+
+858
+Hatterene (布莉姆温)
+Psychic, Fairy
+hp: 57, atk: 90, def: 95, spa: 136, spd: 103, spe: 29, sum: 510
+0: Healer, 1: Anticipation, H: Magic Bounce
+
+859
+Impidimp (捣蛋小妖)
+Dark, Fairy
+hp: 45, atk: 45, def: 30, spa: 55, spd: 40, spe: 50, sum: 265
+0: Prankster, 1: Frisk, H: Pickpocket
+
+860
+Morgrem (诈唬魔)
+Dark, Fairy
+hp: 65, atk: 60, def: 45, spa: 75, spd: 55, spe: 70, sum: 370
+0: Prankster, 1: Frisk, H: Pickpocket
+
+861
+Grimmsnarl (长毛巨魔)
+Dark, Fairy
+hp: 95, atk: 120, def: 65, spa: 95, spd: 75, spe: 60, sum: 510
+0: Prankster, 1: Frisk, H: Pickpocket
+
+863
+Perrserker (喵头目)
+Steel
+hp: 70, atk: 110, def: 100, spa: 50, spd: 60, spe: 50, sum: 440
+0: Battle Armor, 1: Tough Claws, H: Steely Spirit
+
+868
+Milcery (小仙奶)
+Fairy
+hp: 45, atk: 40, def: 40, spa: 50, spd: 61, spe: 34, sum: 270
+0: Sweet Veil, H: Aroma Veil
+
+869
+Alcremie (霜奶仙)
+Fairy
+hp: 65, atk: 60, def: 75, spa: 110, spd: 121, spe: 64, sum: 495
+0: Sweet Veil, H: Aroma Veil
+
+870
+Falinks (列阵兵)
+Fighting
+hp: 65, atk: 100, def: 100, spa: 70, spd: 60, spe: 75, sum: 470
+0: Battle Armor, H: Defiant
+
+871
+Pincurchin (啪嚓海胆)
+Electric
+hp: 48, atk: 101, def: 95, spa: 91, spd: 85, spe: 15, sum: 435
+0: Lightning Rod, H: Electric Surge
+
+872
+Snom (雪吞虫)
+Ice, Bug
+hp: 30, atk: 25, def: 35, spa: 45, spd: 30, spe: 20, sum: 185
+0: Shield Dust, H: Ice Scales
+
+873
+Frosmoth (雪绒蛾)
+Ice, Bug
+hp: 70, atk: 65, def: 60, spa: 125, spd: 90, spe: 65, sum: 475
+0: Shield Dust, H: Ice Scales
+
+874
+Stonjourner (巨石丁)
+Rock
+hp: 100, atk: 125, def: 135, spa: 20, spd: 20, spe: 70, sum: 470
+0: Power Spot
+
+875
+Eiscue (冰砌鹅)
+Ice
+hp: 75, atk: 80, def: 110, spa: 65, spd: 90, spe: 50, sum: 470
+0: Ice Face
+
+875
+Eiscue-Noice
+Ice
+hp: 75, atk: 80, def: 70, spa: 65, spd: 50, spe: 130, sum: 470
+0: Ice Face
+
+876
+Indeedee (爱管侍)
+Psychic, Normal
+hp: 60, atk: 65, def: 55, spa: 105, spd: 95, spe: 95, sum: 475
+0: Inner Focus, 1: Synchronize, H: Psychic Surge
+
+876
+Indeedee-F
+Psychic, Normal
+hp: 70, atk: 55, def: 65, spa: 95, spd: 105, spe: 85, sum: 475
+0: Own Tempo, 1: Synchronize, H: Psychic Surge
+
+877
+Morpeko (莫鲁贝可)
+Electric, Dark
+hp: 58, atk: 95, def: 58, spa: 70, spd: 58, spe: 97, sum: 436
+0: Hunger Switch
+
+877
+Morpeko-Hangry
+Electric, Dark
+hp: 58, atk: 95, def: 58, spa: 70, spd: 58, spe: 97, sum: 436
+0: Hunger Switch
+
+878
+Cufant (铜象)
+Steel
+hp: 72, atk: 80, def: 49, spa: 40, spd: 49, spe: 40, sum: 330
+0: Sheer Force, H: Heavy Metal
+
+879
+Copperajah (大王铜象)
+Steel
+hp: 122, atk: 130, def: 69, spa: 80, spd: 69, spe: 30, sum: 500
+0: Sheer Force, H: Heavy Metal
+
+884
+Duraludon (铝钢龙)
+Steel, Dragon
+hp: 70, atk: 95, def: 115, spa: 120, spd: 50, spe: 85, sum: 535
+0: Light Metal, 1: Heavy Metal, H: Stalwart
+
+885
+Dreepy (多龙梅西亚)
+Dragon, Ghost
+hp: 28, atk: 60, def: 30, spa: 40, spd: 30, spe: 82, sum: 270
+0: Clear Body, 1: Infiltrator, H: Cursed Body
+
+886
+Drakloak (多龙奇)
+Dragon, Ghost
+hp: 68, atk: 80, def: 50, spa: 60, spd: 50, spe: 102, sum: 410
+0: Clear Body, 1: Infiltrator, H: Cursed Body
+
+887
+Dragapult (多龙巴鲁托)
+Dragon, Ghost
+hp: 88, atk: 120, def: 75, spa: 100, spd: 75, spe: 142, sum: 600
+0: Clear Body, 1: Infiltrator, H: Cursed Body
+
+888
+Zacian (苍响)
+Fairy
+hp: 92, atk: 120, def: 115, spa: 80, spd: 115, spe: 138, sum: 660
+0: Intrepid Sword
+
+888
+Zacian-Crowned
+Fairy, Steel
+hp: 92, atk: 150, def: 115, spa: 80, spd: 115, spe: 148, sum: 700
+0: Intrepid Sword
+
+889
+Zamazenta (藏玛然特)
+Fighting
+hp: 92, atk: 120, def: 115, spa: 80, spd: 115, spe: 138, sum: 660
+0: Dauntless Shield
+
+889
+Zamazenta-Crowned
+Fighting, Steel
+hp: 92, atk: 120, def: 140, spa: 80, spd: 140, spe: 128, sum: 700
+0: Dauntless Shield
+
+890
+Eternatus (无极汰那)
+Poison, Dragon
+hp: 140, atk: 85, def: 95, spa: 145, spd: 95, spe: 130, sum: 690
+0: Pressure
+
+891
+Kubfu (熊徒弟)
+Fighting
+hp: 60, atk: 90, def: 60, spa: 53, spd: 50, spe: 72, sum: 385
+0: Inner Focus
+
+892
+Urshifu (武道熊师)
+Fighting, Dark
+hp: 100, atk: 130, def: 100, spa: 63, spd: 60, spe: 97, sum: 550
+0: Unseen Fist
+
+892
+Urshifu-Rapid-Strike
+Fighting, Water
+hp: 100, atk: 130, def: 100, spa: 63, spd: 60, spe: 97, sum: 550
+0: Unseen Fist
+
+893
+Zarude (萨戮德)
+Dark, Grass
+hp: 105, atk: 120, def: 105, spa: 70, spd: 95, spe: 105, sum: 600
+0: Leaf Guard
+
+893
+Zarude-Dada
+Dark, Grass
+hp: 105, atk: 120, def: 105, spa: 70, spd: 95, spe: 105, sum: 600
+0: Leaf Guard
+
+894
+Regieleki (雷吉艾勒奇)
+Electric
+hp: 80, atk: 100, def: 50, spa: 100, spd: 50, spe: 200, sum: 580
+0: Transistor
+
+895
+Regidrago (雷吉铎拉戈)
+Dragon
+hp: 200, atk: 100, def: 50, spa: 100, spd: 50, spe: 80, sum: 580
+0: Dragon's Maw
+
+896
+Glastrier (雪暴马)
+Ice
+hp: 100, atk: 145, def: 130, spa: 65, spd: 110, spe: 30, sum: 580
+0: Chilling Neigh
+
+897
+Spectrier (灵幽马)
+Ghost
+hp: 100, atk: 65, def: 60, spa: 145, spd: 80, spe: 130, sum: 580
+0: Grim Neigh
+
+898
+Calyrex (蕾冠王)
+Psychic, Grass
+hp: 100, atk: 80, def: 80, spa: 80, spd: 80, spe: 80, sum: 500
+0: Unnerve
+
+898
+Calyrex-Ice
+Psychic, Ice
+hp: 100, atk: 165, def: 150, spa: 85, spd: 130, spe: 50, sum: 680
+0: As One (Glastrier)
+
+898
+Calyrex-Shadow
+Psychic, Ghost
+hp: 100, atk: 85, def: 80, spa: 165, spd: 100, spe: 150, sum: 680
+0: As One (Spectrier)
+
+899
+Wyrdeer (诡角鹿)
+Normal, Psychic
+hp: 103, atk: 105, def: 72, spa: 105, spd: 75, spe: 65, sum: 525
+0: Intimidate, 1: Frisk, H: Sap Sipper
+
+900
+Kleavor (劈斧螳螂)
+Bug, Rock
+hp: 70, atk: 135, def: 95, spa: 45, spd: 70, spe: 85, sum: 500
+0: Swarm, 1: Sheer Force, H: Sharpness
+
+901
+Ursaluna (月月熊)
+Ground, Normal
+hp: 130, atk: 140, def: 105, spa: 45, spd: 80, spe: 50, sum: 550
+0: Guts, 1: Bulletproof, H: Unnerve
+
+901
+Ursaluna-Bloodmoon
+Ground, Normal
+hp: 113, atk: 70, def: 120, spa: 135, spd: 65, spe: 52, sum: 555
+0: Mind's Eye
+
+902
+Basculegion (幽尾玄鱼)
+Water, Ghost
+hp: 120, atk: 112, def: 65, spa: 80, spd: 75, spe: 78, sum: 530
+0: Swift Swim, 1: Adaptability, H: Mold Breaker
+
+902
+Basculegion-F
+Water, Ghost
+hp: 120, atk: 92, def: 65, spa: 100, spd: 75, spe: 78, sum: 530
+0: Swift Swim, 1: Adaptability, H: Mold Breaker
+
+903
+Sneasler (大狃拉)
+Fighting, Poison
+hp: 80, atk: 130, def: 60, spa: 40, spd: 80, spe: 120, sum: 510
+0: Pressure, 1: Unburden, H: Poison Touch
+
+904
+Overqwil (万针鱼)
+Dark, Poison
+hp: 85, atk: 115, def: 95, spa: 65, spd: 65, spe: 85, sum: 510
+0: Poison Point, 1: Swift Swim, H: Intimidate
+
+905
+Enamorus (眷恋云)
+Fairy, Flying
+hp: 74, atk: 115, def: 70, spa: 135, spd: 80, spe: 106, sum: 580
+0: Cute Charm, H: Contrary
+
+905
+Enamorus-Therian
+Fairy, Flying
+hp: 74, atk: 115, def: 110, spa: 135, spd: 100, spe: 46, sum: 580
+0: Overcoat
+
+906
+Sprigatito (新叶喵)
+Grass
+hp: 40, atk: 61, def: 54, spa: 45, spd: 45, spe: 65, sum: 310
+0: Overgrow, H: Protean
+
+907
+Floragato (蒂蕾喵)
+Grass
+hp: 61, atk: 80, def: 63, spa: 60, spd: 63, spe: 83, sum: 410
+0: Overgrow, H: Protean
+
+908
+Meowscarada (魔幻假面喵)
+Grass, Dark
+hp: 76, atk: 110, def: 70, spa: 81, spd: 70, spe: 123, sum: 530
+0: Overgrow, H: Protean
+
+909
+Fuecoco (呆火鳄)
+Fire
+hp: 67, atk: 45, def: 59, spa: 63, spd: 40, spe: 36, sum: 310
+0: Blaze, H: Unaware
+
+910
+Crocalor (炙烫鳄)
+Fire
+hp: 81, atk: 55, def: 78, spa: 90, spd: 58, spe: 49, sum: 411
+0: Blaze, H: Unaware
+
+911
+Skeledirge (骨纹巨声鳄)
+Fire, Ghost
+hp: 104, atk: 75, def: 100, spa: 110, spd: 75, spe: 66, sum: 530
+0: Blaze, H: Unaware
+
+912
+Quaxly (润水鸭)
+Water
+hp: 55, atk: 65, def: 45, spa: 50, spd: 45, spe: 50, sum: 310
+0: Torrent, H: Moxie
+
+913
+Quaxwell (涌跃鸭)
+Water
+hp: 70, atk: 85, def: 65, spa: 65, spd: 60, spe: 65, sum: 410
+0: Torrent, H: Moxie
+
+914
+Quaquaval (狂欢浪舞鸭)
+Water, Fighting
+hp: 85, atk: 120, def: 80, spa: 85, spd: 75, spe: 85, sum: 530
+0: Torrent, H: Moxie
+
+915
+Lechonk (爱吃豚)
+Normal
+hp: 54, atk: 45, def: 40, spa: 35, spd: 45, spe: 35, sum: 254
+0: Aroma Veil, 1: Gluttony, H: Thick Fat
+
+916
+Oinkologne (飘香豚)
+Normal
+hp: 110, atk: 100, def: 75, spa: 59, spd: 80, spe: 65, sum: 489
+0: Lingering Aroma, 1: Gluttony, H: Thick Fat
+
+916
+Oinkologne-F
+Normal
+hp: 115, atk: 90, def: 70, spa: 59, spd: 90, spe: 65, sum: 489
+0: Aroma Veil, 1: Gluttony, H: Thick Fat
+
+917
+Tarountula (团珠蛛)
+Bug
+hp: 35, atk: 41, def: 45, spa: 29, spd: 40, spe: 20, sum: 210
+0: Insomnia, H: Stakeout
+
+918
+Spidops (操陷蛛)
+Bug
+hp: 60, atk: 79, def: 92, spa: 52, spd: 86, spe: 35, sum: 404
+0: Insomnia, H: Stakeout
+
+919
+Nymble (豆蟋蟀)
+Bug
+hp: 33, atk: 46, def: 40, spa: 21, spd: 25, spe: 45, sum: 210
+0: Swarm, H: Tinted Lens
+
+920
+Lokix (烈腿蝗)
+Bug, Dark
+hp: 71, atk: 102, def: 78, spa: 52, spd: 55, spe: 92, sum: 450
+0: Swarm, H: Tinted Lens
+
+921
+Pawmi (布拨)
+Electric
+hp: 45, atk: 50, def: 20, spa: 40, spd: 25, spe: 60, sum: 240
+0: Static, 1: Natural Cure, H: Iron Fist
+
+922
+Pawmo (布土拨)
+Electric, Fighting
+hp: 60, atk: 75, def: 40, spa: 50, spd: 40, spe: 85, sum: 350
+0: Volt Absorb, 1: Natural Cure, H: Iron Fist
+
+923
+Pawmot (巴布土拨)
+Electric, Fighting
+hp: 70, atk: 115, def: 70, spa: 70, spd: 60, spe: 105, sum: 490
+0: Volt Absorb, 1: Natural Cure, H: Iron Fist
+
+924
+Tandemaus (一对鼠)
+Normal
+hp: 50, atk: 50, def: 45, spa: 40, spd: 45, spe: 75, sum: 305
+0: Run Away, 1: Pickup, H: Own Tempo
+
+925
+Maushold (一家鼠)
+Normal
+hp: 74, atk: 75, def: 70, spa: 65, spd: 75, spe: 111, sum: 470
+0: Friend Guard, 1: Cheek Pouch, H: Technician
+
+925
+Maushold-Four
+Normal
+hp: 74, atk: 75, def: 70, spa: 65, spd: 75, spe: 111, sum: 470
+0: Friend Guard, 1: Cheek Pouch, H: Technician
+
+926
+Fidough (狗仔包)
+Fairy
+hp: 37, atk: 55, def: 70, spa: 30, spd: 55, spe: 65, sum: 312
+0: Own Tempo, H: Klutz
+
+927
+Dachsbun (麻花犬)
+Fairy
+hp: 57, atk: 80, def: 115, spa: 50, spd: 80, spe: 95, sum: 477
+0: Well-Baked Body, H: Aroma Veil
+
+928
+Smoliv (迷你芙)
+Grass, Normal
+hp: 41, atk: 35, def: 45, spa: 58, spd: 51, spe: 30, sum: 260
+0: Early Bird, H: Harvest
+
+929
+Dolliv (奥利纽)
+Grass, Normal
+hp: 52, atk: 53, def: 60, spa: 78, spd: 78, spe: 33, sum: 354
+0: Early Bird, H: Harvest
+
+930
+Arboliva (奥利瓦)
+Grass, Normal
+hp: 78, atk: 69, def: 90, spa: 125, spd: 109, spe: 39, sum: 510
+0: Seed Sower, H: Harvest
+
+931
+Squawkabilly (怒鹦哥)
+Normal, Flying
+hp: 82, atk: 96, def: 51, spa: 45, spd: 51, spe: 92, sum: 417
+0: Intimidate, 1: Hustle, H: Guts
+
+931
+Squawkabilly-Blue
+Normal, Flying
+hp: 82, atk: 96, def: 51, spa: 45, spd: 51, spe: 92, sum: 417
+0: Intimidate, 1: Hustle, H: Guts
+
+931
+Squawkabilly-Yellow
+Normal, Flying
+hp: 82, atk: 96, def: 51, spa: 45, spd: 51, spe: 92, sum: 417
+0: Intimidate, 1: Hustle, H: Sheer Force
+
+931
+Squawkabilly-White
+Normal, Flying
+hp: 82, atk: 96, def: 51, spa: 45, spd: 51, spe: 92, sum: 417
+0: Intimidate, 1: Hustle, H: Sheer Force
+
+932
+Nacli (盐石宝)
+Rock
+hp: 55, atk: 55, def: 75, spa: 35, spd: 35, spe: 25, sum: 280
+0: Purifying Salt, 1: Sturdy, H: Clear Body
+
+933
+Naclstack (盐石垒)
+Rock
+hp: 60, atk: 60, def: 100, spa: 35, spd: 65, spe: 35, sum: 355
+0: Purifying Salt, 1: Sturdy, H: Clear Body
+
+934
+Garganacl (盐石巨灵)
+Rock
+hp: 100, atk: 100, def: 130, spa: 45, spd: 90, spe: 35, sum: 500
+0: Purifying Salt, 1: Sturdy, H: Clear Body
+
+935
+Charcadet (炭小侍)
+Fire
+hp: 40, atk: 50, def: 40, spa: 50, spd: 40, spe: 35, sum: 255
+0: Flash Fire, H: Flame Body
+
+936
+Armarouge (红莲铠骑)
+Fire, Psychic
+hp: 85, atk: 60, def: 100, spa: 125, spd: 80, spe: 75, sum: 525
+0: Flash Fire, H: Weak Armor
+
+937
+Ceruledge (苍炎刃鬼)
+Fire, Ghost
+hp: 75, atk: 125, def: 80, spa: 60, spd: 100, spe: 85, sum: 525
+0: Flash Fire, H: Weak Armor
+
+938
+Tadbulb (光蚪仔)
+Electric
+hp: 61, atk: 31, def: 41, spa: 59, spd: 35, spe: 45, sum: 272
+0: Own Tempo, 1: Static, H: Damp
+
+939
+Bellibolt (电肚蛙)
+Electric
+hp: 109, atk: 64, def: 91, spa: 103, spd: 83, spe: 45, sum: 495
+0: Electromorphosis, 1: Static, H: Damp
+
+940
+Wattrel (电海燕)
+Electric, Flying
+hp: 40, atk: 40, def: 35, spa: 55, spd: 40, spe: 70, sum: 280
+0: Wind Power, 1: Volt Absorb, H: Competitive
+
+941
+Kilowattrel (大电海燕)
+Electric, Flying
+hp: 70, atk: 70, def: 60, spa: 105, spd: 60, spe: 125, sum: 490
+0: Wind Power, 1: Volt Absorb, H: Competitive
+
+942
+Maschiff (偶叫獒)
+Dark
+hp: 60, atk: 78, def: 60, spa: 40, spd: 51, spe: 51, sum: 340
+0: Intimidate, 1: Run Away, H: Stakeout
+
+943
+Mabosstiff (獒教父)
+Dark
+hp: 80, atk: 120, def: 90, spa: 60, spd: 70, spe: 85, sum: 505
+0: Intimidate, 1: Guard Dog, H: Stakeout
+
+944
+Shroodle (滋汁鼹)
+Poison, Normal
+hp: 40, atk: 65, def: 35, spa: 40, spd: 35, spe: 75, sum: 290
+0: Unburden, 1: Pickpocket, H: Prankster
+
+945
+Grafaiai (涂标客)
+Poison, Normal
+hp: 63, atk: 95, def: 65, spa: 80, spd: 72, spe: 110, sum: 485
+0: Unburden, 1: Poison Touch, H: Prankster
+
+946
+Bramblin (纳噬草)
+Grass, Ghost
+hp: 40, atk: 65, def: 30, spa: 45, spd: 35, spe: 60, sum: 275
+0: Wind Rider, H: Infiltrator
+
+947
+Brambleghast (怖纳噬草)
+Grass, Ghost
+hp: 55, atk: 115, def: 70, spa: 80, spd: 70, spe: 90, sum: 480
+0: Wind Rider, H: Infiltrator
+
+948
+Toedscool (原野水母)
+Ground, Grass
+hp: 40, atk: 40, def: 35, spa: 50, spd: 100, spe: 70, sum: 335
+0: Mycelium Might
+
+949
+Toedscruel (陆地水母)
+Ground, Grass
+hp: 80, atk: 70, def: 65, spa: 80, spd: 120, spe: 100, sum: 515
+0: Mycelium Might
+
+950
+Klawf (毛崖蟹)
+Rock
+hp: 70, atk: 100, def: 115, spa: 35, spd: 55, spe: 75, sum: 450
+0: Anger Shell, 1: Shell Armor, H: Regenerator
+
+951
+Capsakid (热辣娃)
+Grass
+hp: 50, atk: 62, def: 40, spa: 62, spd: 40, spe: 50, sum: 304
+0: Chlorophyll, 1: Insomnia, H: Klutz
+
+952
+Scovillain (狠辣椒)
+Grass, Fire
+hp: 65, atk: 108, def: 65, spa: 108, spd: 65, spe: 75, sum: 486
+0: Chlorophyll, 1: Insomnia, H: Moody
+
+953
+Rellor (虫滚泥)
+Bug
+hp: 41, atk: 50, def: 60, spa: 31, spd: 58, spe: 30, sum: 270
+0: Compound Eyes, H: Shed Skin
+
+954
+Rabsca (虫甲圣)
+Bug, Psychic
+hp: 75, atk: 50, def: 85, spa: 115, spd: 100, spe: 45, sum: 470
+0: Synchronize, H: Telepathy
+
+955
+Flittle (飘飘雏)
+Psychic
+hp: 30, atk: 35, def: 30, spa: 55, spd: 30, spe: 75, sum: 255
+0: Anticipation, 1: Frisk, H: Speed Boost
+
+956
+Espathra (超能艳鸵)
+Psychic
+hp: 95, atk: 60, def: 60, spa: 101, spd: 60, spe: 105, sum: 481
+0: Opportunist, 1: Frisk, H: Speed Boost
+
+957
+Tinkatink (小锻匠)
+Fairy, Steel
+hp: 50, atk: 45, def: 45, spa: 35, spd: 64, spe: 58, sum: 297
+0: Mold Breaker, 1: Own Tempo, H: Pickpocket
+
+958
+Tinkatuff (巧锻匠)
+Fairy, Steel
+hp: 65, atk: 55, def: 55, spa: 45, spd: 82, spe: 78, sum: 380
+0: Mold Breaker, 1: Own Tempo, H: Pickpocket
+
+959
+Tinkaton (巨锻匠)
+Fairy, Steel
+hp: 85, atk: 75, def: 77, spa: 70, spd: 105, spe: 94, sum: 506
+0: Mold Breaker, 1: Own Tempo, H: Pickpocket
+
+960
+Wiglett (海地鼠)
+Water
+hp: 10, atk: 55, def: 25, spa: 35, spd: 25, spe: 95, sum: 245
+0: Gooey, 1: Rattled, H: Sand Veil
+
+961
+Wugtrio (三海地鼠)
+Water
+hp: 35, atk: 100, def: 50, spa: 50, spd: 70, spe: 120, sum: 425
+0: Gooey, 1: Rattled, H: Sand Veil
+
+962
+Bombirdier (下石鸟)
+Flying, Dark
+hp: 70, atk: 103, def: 85, spa: 60, spd: 85, spe: 82, sum: 485
+0: Big Pecks, 1: Keen Eye, H: Rocky Payload
+
+963
+Finizen (波普海豚)
+Water
+hp: 70, atk: 45, def: 40, spa: 45, spd: 40, spe: 75, sum: 315
+0: Water Veil
+
+964
+Palafin (海豚侠)
+Water
+hp: 100, atk: 70, def: 72, spa: 53, spd: 62, spe: 100, sum: 457
+0: Zero to Hero
+
+964
+Palafin-Hero
+Water
+hp: 100, atk: 160, def: 97, spa: 106, spd: 87, spe: 100, sum: 650
+0: Zero to Hero
+
+965
+Varoom (噗隆隆)
+Steel, Poison
+hp: 45, atk: 70, def: 63, spa: 30, spd: 45, spe: 47, sum: 300
+0: Overcoat, H: Slow Start
+
+966
+Revavroom (普隆隆姆)
+Steel, Poison
+hp: 80, atk: 119, def: 90, spa: 54, spd: 67, spe: 90, sum: 500
+0: Overcoat, H: Filter
+
+967
+Cyclizar (摩托蜥)
+Dragon, Normal
+hp: 70, atk: 95, def: 65, spa: 85, spd: 65, spe: 121, sum: 501
+0: Shed Skin, H: Regenerator
+
+968
+Orthworm (拖拖蚓)
+Steel
+hp: 70, atk: 85, def: 145, spa: 60, spd: 55, spe: 65, sum: 480
+0: Earth Eater, H: Sand Veil
+
+969
+Glimmet (晶光芽)
+Rock, Poison
+hp: 48, atk: 35, def: 42, spa: 105, spd: 60, spe: 60, sum: 350
+0: Toxic Debris, H: Corrosion
+
+970
+Glimmora (晶光花)
+Rock, Poison
+hp: 83, atk: 55, def: 90, spa: 130, spd: 81, spe: 86, sum: 525
+0: Toxic Debris, H: Corrosion
+
+971
+Greavard (墓仔狗)
+Ghost
+hp: 50, atk: 61, def: 60, spa: 30, spd: 55, spe: 34, sum: 290
+0: Pickup, H: Fluffy
+
+972
+Houndstone (墓扬犬)
+Ghost
+hp: 72, atk: 101, def: 100, spa: 50, spd: 97, spe: 68, sum: 488
+0: Sand Rush, H: Fluffy
+
+973
+Flamigo (缠红鹤)
+Flying, Fighting
+hp: 82, atk: 115, def: 74, spa: 75, spd: 64, spe: 90, sum: 500
+0: Scrappy, 1: Tangled Feet, H: Costar
+
+974
+Cetoddle (走鲸)
+Ice
+hp: 108, atk: 68, def: 45, spa: 30, spd: 40, spe: 43, sum: 334
+0: Thick Fat, 1: Snow Cloak, H: Sheer Force
+
+975
+Cetitan (浩大鲸)
+Ice
+hp: 170, atk: 113, def: 65, spa: 45, spd: 55, spe: 73, sum: 521
+0: Thick Fat, 1: Slush Rush, H: Sheer Force
+
+976
+Veluza (轻身鳕)
+Water, Psychic
+hp: 90, atk: 102, def: 73, spa: 78, spd: 65, spe: 70, sum: 478
+0: Mold Breaker, H: Sharpness
+
+977
+Dondozo (吃吼霸)
+Water
+hp: 150, atk: 100, def: 115, spa: 65, spd: 65, spe: 35, sum: 530
+0: Unaware, 1: Oblivious, H: Water Veil
+
+978
+Tatsugiri (米立龙)
+Dragon, Water
+hp: 68, atk: 50, def: 60, spa: 120, spd: 95, spe: 82, sum: 475
+0: Commander, H: Storm Drain
+
+979
+Annihilape (弃世猴)
+Fighting, Ghost
+hp: 110, atk: 115, def: 80, spa: 50, spd: 90, spe: 90, sum: 535
+0: Vital Spirit, 1: Inner Focus, H: Defiant
+
+980
+Clodsire (土王)
+Poison, Ground
+hp: 130, atk: 75, def: 60, spa: 45, spd: 100, spe: 20, sum: 430
+0: Poison Point, 1: Water Absorb, H: Unaware
+
+981
+Farigiraf (奇麒麟)
+Normal, Psychic
+hp: 120, atk: 90, def: 70, spa: 110, spd: 70, spe: 60, sum: 520
+0: Cud Chew, 1: Armor Tail, H: Sap Sipper
+
+982
+Dudunsparce (土龙节节)
+Normal
+hp: 125, atk: 100, def: 80, spa: 85, spd: 75, spe: 55, sum: 520
+0: Serene Grace, 1: Run Away, H: Rattled
+
+982
+Dudunsparce-Three-Segment
+Normal
+hp: 125, atk: 100, def: 80, spa: 85, spd: 75, spe: 55, sum: 520
+0: Serene Grace, 1: Run Away, H: Rattled
+
+983
+Kingambit (仆刀将军)
+Dark, Steel
+hp: 100, atk: 135, def: 120, spa: 60, spd: 85, spe: 50, sum: 550
+0: Defiant, 1: Supreme Overlord, H: Pressure
+
+984
+Great Tusk (雄伟牙)
+Ground, Fighting
+hp: 115, atk: 131, def: 131, spa: 53, spd: 53, spe: 87, sum: 570
+0: Protosynthesis
+
+985
+Scream Tail (吼叫尾)
+Fairy, Psychic
+hp: 115, atk: 65, def: 99, spa: 65, spd: 115, spe: 111, sum: 570
+0: Protosynthesis
+
+986
+Brute Bonnet (猛恶菇)
+Grass, Dark
+hp: 111, atk: 127, def: 99, spa: 79, spd: 99, spe: 55, sum: 570
+0: Protosynthesis
+
+987
+Flutter Mane (振翼发)
+Ghost, Fairy
+hp: 55, atk: 55, def: 55, spa: 135, spd: 135, spe: 135, sum: 570
+0: Protosynthesis
+
+988
+Slither Wing (爬地翅)
+Bug, Fighting
+hp: 85, atk: 135, def: 79, spa: 85, spd: 105, spe: 81, sum: 570
+0: Protosynthesis
+
+989
+Sandy Shocks (沙铁皮)
+Electric, Ground
+hp: 85, atk: 81, def: 97, spa: 121, spd: 85, spe: 101, sum: 570
+0: Protosynthesis
+
+990
+Iron Treads (铁辙迹)
+Ground, Steel
+hp: 90, atk: 112, def: 120, spa: 72, spd: 70, spe: 106, sum: 570
+0: Quark Drive
+
+991
+Iron Bundle (铁包袱)
+Ice, Water
+hp: 56, atk: 80, def: 114, spa: 124, spd: 60, spe: 136, sum: 570
+0: Quark Drive
+
+992
+Iron Hands (铁臂膀)
+Fighting, Electric
+hp: 154, atk: 140, def: 108, spa: 50, spd: 68, spe: 50, sum: 570
+0: Quark Drive
+
+993
+Iron Jugulis (铁脖颈)
+Dark, Flying
+hp: 94, atk: 80, def: 86, spa: 122, spd: 80, spe: 108, sum: 570
+0: Quark Drive
+
+994
+Iron Moth (铁毒蛾)
+Fire, Poison
+hp: 80, atk: 70, def: 60, spa: 140, spd: 110, spe: 110, sum: 570
+0: Quark Drive
+
+995
+Iron Thorns (铁荆棘)
+Rock, Electric
+hp: 100, atk: 134, def: 110, spa: 70, spd: 84, spe: 72, sum: 570
+0: Quark Drive
+
+996
+Frigibax (凉脊龙)
+Dragon, Ice
+hp: 65, atk: 75, def: 45, spa: 35, spd: 45, spe: 55, sum: 320
+0: Thermal Exchange, H: Ice Body
+
+997
+Arctibax (冻脊龙)
+Dragon, Ice
+hp: 90, atk: 95, def: 66, spa: 45, spd: 65, spe: 62, sum: 423
+0: Thermal Exchange, H: Ice Body
+
+998
+Baxcalibur (戟脊龙)
+Dragon, Ice
+hp: 115, atk: 145, def: 92, spa: 75, spd: 86, spe: 87, sum: 600
+0: Thermal Exchange, H: Ice Body
+
+999
+Gimmighoul (索财灵)
+Ghost
+hp: 45, atk: 30, def: 70, spa: 75, spd: 70, spe: 10, sum: 300
+0: Rattled
+
+999
+Gimmighoul-Roaming
+Ghost
+hp: 45, atk: 30, def: 25, spa: 75, spd: 45, spe: 80, sum: 300
+0: Run Away
+
+1000
+Gholdengo (赛富豪)
+Steel, Ghost
+hp: 87, atk: 60, def: 95, spa: 133, spd: 91, spe: 84, sum: 550
+0: Good as Gold
+
+1001
+Wo-Chien (古简蜗)
+Dark, Grass
+hp: 85, atk: 85, def: 100, spa: 95, spd: 135, spe: 70, sum: 570
+0: Tablets of Ruin
+
+1002
+Chien-Pao (古剑豹)
+Dark, Ice
+hp: 80, atk: 120, def: 80, spa: 90, spd: 65, spe: 135, sum: 570
+0: Sword of Ruin
+
+1003
+Ting-Lu (古鼎鹿)
+Dark, Ground
+hp: 155, atk: 110, def: 125, spa: 55, spd: 80, spe: 45, sum: 570
+0: Vessel of Ruin
+
+1004
+Chi-Yu (古玉鱼)
+Dark, Fire
+hp: 55, atk: 80, def: 80, spa: 135, spd: 120, spe: 100, sum: 570
+0: Beads of Ruin
+
+1005
+Roaring Moon (轰鸣月)
+Dragon, Dark
+hp: 105, atk: 139, def: 71, spa: 55, spd: 101, spe: 119, sum: 590
+0: Protosynthesis
+
+1006
+Iron Valiant (铁武者)
+Fairy, Fighting
+hp: 74, atk: 130, def: 90, spa: 120, spd: 60, spe: 116, sum: 590
+0: Quark Drive
+
+1007
+Koraidon (故勒顿)
+Fighting, Dragon
+hp: 100, atk: 135, def: 115, spa: 85, spd: 100, spe: 135, sum: 670
+0: Orichalcum Pulse
+
+1008
+Miraidon (密勒顿)
+Electric, Dragon
+hp: 100, atk: 85, def: 100, spa: 135, spd: 115, spe: 135, sum: 670
+0: Hadron Engine
+
+1009
+Walking Wake (波荡水)
+Water, Dragon
+hp: 99, atk: 83, def: 91, spa: 125, spd: 83, spe: 109, sum: 590
+0: Protosynthesis
+
+1010
+Iron Leaves (铁斑叶)
+Grass, Psychic
+hp: 90, atk: 130, def: 88, spa: 70, spd: 108, spe: 104, sum: 590
+0: Quark Drive
+
+1011
+Dipplin (裹蜜虫)
+Grass, Dragon
+hp: 80, atk: 80, def: 110, spa: 95, spd: 80, spe: 40, sum: 485
+0: Supersweet Syrup, 1: Gluttony, H: Sticky Hold
+
+1012
+Poltchageist (斯魔茶)
+Grass, Ghost
+hp: 40, atk: 45, def: 45, spa: 74, spd: 54, spe: 50, sum: 308
+0: Hospitality, H: Heatproof
+
+1012
+Poltchageist-Artisan
+Grass, Ghost
+hp: 40, atk: 45, def: 45, spa: 74, spd: 54, spe: 50, sum: 308
+0: Hospitality, H: Heatproof
+
+1013
+Sinistcha (来悲粗茶)
+Grass, Ghost
+hp: 71, atk: 60, def: 106, spa: 121, spd: 80, spe: 70, sum: 508
+0: Hospitality, H: Heatproof
+
+1013
+Sinistcha-Masterpiece
+Grass, Ghost
+hp: 71, atk: 60, def: 106, spa: 121, spd: 80, spe: 70, sum: 508
+0: Hospitality, H: Heatproof
+
+1014
+Okidogi (够赞狗)
+Poison, Fighting
+hp: 88, atk: 128, def: 115, spa: 58, spd: 86, spe: 80, sum: 555
+0: Toxic Chain, H: Guard Dog
+
+1015
+Munkidori (愿增猿)
+Poison, Psychic
+hp: 88, atk: 75, def: 66, spa: 130, spd: 90, spe: 106, sum: 555
+0: Toxic Chain, H: Frisk
+
+1016
+Fezandipiti (吉雉鸡)
+Poison, Fairy
+hp: 88, atk: 91, def: 82, spa: 70, spd: 125, spe: 99, sum: 555
+0: Toxic Chain, H: Technician
+
+1017
+Ogerpon (厄诡椪)
+Grass
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Defiant
+
+1017
+Ogerpon-Wellspring
+Grass, Water
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Water Absorb
+
+1017
+Ogerpon-Hearthflame
+Grass, Fire
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Mold Breaker
+
+1017
+Ogerpon-Cornerstone
+Grass, Rock
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Sturdy
+
+1017
+Ogerpon-Teal-Tera
+Grass
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Embody Aspect (Teal)
+
+1017
+Ogerpon-Wellspring-Tera
+Grass, Water
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Embody Aspect (Wellspring)
+
+1017
+Ogerpon-Hearthflame-Tera
+Grass, Fire
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Embody Aspect (Hearthflame)
+
+1017
+Ogerpon-Cornerstone-Tera
+Grass, Rock
+hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
+0: Embody Aspect (Cornerstone)
+
+1018
+Archaludon (铝钢桥龙)
+Steel, Dragon
+hp: 90, atk: 105, def: 130, spa: 125, spd: 65, spe: 85, sum: 600
+0: Stamina, 1: Sturdy, H: Stalwart
+
+1019
+Hydrapple (蜜集大蛇)
+Grass, Dragon
+hp: 106, atk: 80, def: 110, spa: 120, spd: 80, spe: 44, sum: 540
+0: Supersweet Syrup, 1: Regenerator, H: Sticky Hold
+
+1020
+Gouging Fire (破空焰)
+Fire, Dragon
+hp: 105, atk: 115, def: 121, spa: 65, spd: 93, spe: 91, sum: 590
+0: Protosynthesis
+
+1021
+Raging Bolt (猛雷鼓)
+Electric, Dragon
+hp: 125, atk: 73, def: 91, spa: 137, spd: 89, spe: 75, sum: 590
+0: Protosynthesis
+
+1022
+Iron Boulder (铁磐岩)
+Rock, Psychic
+hp: 90, atk: 120, def: 80, spa: 68, spd: 108, spe: 124, sum: 590
+0: Quark Drive
+
+1023
+Iron Crown (铁头壳)
+Steel, Psychic
+hp: 90, atk: 72, def: 100, spa: 122, spd: 108, spe: 98, sum: 590
+0: Quark Drive
+
+1024
+Terapagos (太乐巴戈斯)
+Normal
+hp: 90, atk: 65, def: 85, spa: 65, spd: 85, spe: 60, sum: 450
+0: Tera Shift
+
+1024
+Terapagos-Terastal
+Normal
+hp: 95, atk: 95, def: 110, spa: 105, spd: 110, spe: 85, sum: 600
+0: Tera Shell
+
+1024
+Terapagos-Stellar
+Normal
+hp: 160, atk: 105, def: 110, spa: 130, spd: 110, spe: 85, sum: 700
+0: Teraform Zero
+
+1025
+Pecharunt (桃歹郎)
+Poison, Ghost
+hp: 88, atk: 88, def: 160, spa: 88, spd: 88, spe: 88, sum: 600
+0: Poison Puppeteer
