@@ -7,13 +7,13 @@ Pidgey -> Pidgeotto -> Pidgeot
 Rattata -> Raticate
 Spearow -> Fearow
 Ekans -> Arbok
-Pikachu -> Raichu
+Pichu -> Pikachu -> Raichu
 Sandshrew -> Sandslash
 Nidoran-F -> Nidorina -> Nidoqueen
 Nidoran-M -> Nidorino -> Nidoking
-Clefairy -> Clefable
+Cleffa -> Clefairy -> Clefable
 Vulpix -> Ninetales
-Jigglypuff -> Wigglytuff
+Igglybuff -> Jigglypuff -> Wigglytuff
 Zubat -> Golbat -> Crobat
 Oddish -> Gloom -> Vileplume, Bellossom
 Paras -> Parasect
@@ -46,14 +46,14 @@ Cubone -> Marowak
 Lickitung -> Lickilicky
 Koffing -> Weezing
 Rhyhorn -> Rhydon -> Rhyperior
-Chansey -> Blissey
+Happiny -> Chansey -> Blissey
 Tangela -> Tangrowth
 Horsea -> Seadra -> Kingdra
 Goldeen -> Seaking
 Staryu -> Starmie
 Scyther -> Scizor
-Electabuzz -> Electivire
-Magmar -> Magmortar
+Elekid -> Electabuzz -> Electivire
+Magby -> Magmar -> Magmortar
 Magikarp -> Gyarados
 Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
 Porygon -> Porygon2 -> Porygon-Z
@@ -68,13 +68,10 @@ Hoothoot -> Noctowl
 Ledyba -> Ledian
 Spinarak -> Ariados
 Chinchou -> Lanturn
-Pichu -> Pikachu -> Raichu
-Cleffa -> Clefairy -> Clefable
-Igglybuff -> Jigglypuff -> Wigglytuff
 Togepi -> Togetic -> Togekiss
 Natu -> Xatu
 Mareep -> Flaaffy -> Ampharos
-Marill -> Azumarill
+Azurill -> Marill -> Azumarill
 Hoppip -> Skiploom -> Jumpluff
 Aipom -> Ambipom
 Sunkern -> Sunflora
@@ -94,8 +91,6 @@ Houndour -> Houndoom
 Phanpy -> Donphan
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
 Smoochum -> Jynx
-Elekid -> Electabuzz -> Electivire
-Magby -> Magmar -> Magmortar
 Larvitar -> Pupitar -> Tyranitar
 Treecko -> Grovyle -> Sceptile
 Torchic -> Combusken -> Blaziken
@@ -115,13 +110,12 @@ Slakoth -> Vigoroth -> Slaking
 Nincada -> Ninjask, Shedinja
 Whismur -> Loudred -> Exploud
 Makuhita -> Hariyama
-Azurill -> Marill -> Azumarill
 Nosepass -> Probopass
 Skitty -> Delcatty
 Aron -> Lairon -> Aggron
 Meditite -> Medicham
 Electrike -> Manectric
-Roselia -> Roserade
+Budew -> Roselia -> Roserade
 Gulpin -> Swalot
 Carvanha -> Sharpedo
 Wailmer -> Wailord
@@ -151,7 +145,6 @@ Starly -> Staravia -> Staraptor
 Bidoof -> Bibarel
 Kricketot -> Kricketune
 Shinx -> Luxio -> Luxray
-Budew -> Roselia -> Roserade
 Cranidos -> Rampardos
 Shieldon -> Bastiodon
 Burmy -> Wormadam, Wormadam-Sandy, Wormadam-Trash, Mothim
@@ -167,7 +160,6 @@ Stunky -> Skuntank
 Bronzor -> Bronzong
 Bonsly -> Sudowoodo
 Mime Jr. -> Mr. Mime
-Happiny -> Chansey -> Blissey
 Gible -> Gabite -> Garchomp
 Munchlax -> Snorlax
 Riolu -> Lucario

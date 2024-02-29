@@ -2,13 +2,13 @@ Bulbasaur -> Ivysaur -> Venusaur
 Charmander -> Charmeleon -> Charizard
 Squirtle -> Wartortle -> Blastoise
 Ekans -> Arbok
-Pikachu -> Raichu, Raichu-Alola
+Pichu -> Pikachu -> Raichu, Raichu-Alola
 Sandshrew -> Sandslash
 Sandshrew-Alola -> Sandslash-Alola
-Clefairy -> Clefable
+Cleffa -> Clefairy -> Clefable
 Vulpix -> Ninetales
 Vulpix-Alola -> Ninetales-Alola
-Jigglypuff -> Wigglytuff
+Igglybuff -> Jigglypuff -> Wigglytuff
 Oddish -> Gloom -> Vileplume, Bellossom
 Venonat -> Venomoth
 Diglett -> Dugtrio
@@ -40,11 +40,11 @@ Voltorb-Hisui -> Electrode-Hisui
 Exeggcute -> Exeggutor, Exeggutor-Alola
 Koffing -> Weezing, Weezing-Galar
 Rhyhorn -> Rhydon -> Rhyperior
-Chansey -> Blissey
+Happiny -> Chansey -> Blissey
 Horsea -> Seadra -> Kingdra
 Scyther -> Scizor, Kleavor
-Electabuzz -> Electivire
-Magmar -> Magmortar
+Elekid -> Electabuzz -> Electivire
+Magby -> Magmar -> Magmortar
 Magikarp -> Gyarados
 Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
 Porygon -> Porygon2 -> Porygon-Z
@@ -56,11 +56,8 @@ Sentret -> Furret
 Hoothoot -> Noctowl
 Spinarak -> Ariados
 Chinchou -> Lanturn
-Pichu -> Pikachu -> Raichu, Raichu-Alola
-Cleffa -> Clefairy -> Clefable
-Igglybuff -> Jigglypuff -> Wigglytuff
 Mareep -> Flaaffy -> Ampharos
-Marill -> Azumarill
+Azurill -> Marill -> Azumarill
 Hoppip -> Skiploom -> Jumpluff
 Aipom -> Ambipom
 Sunkern -> Sunflora
@@ -84,8 +81,6 @@ Houndour -> Houndoom
 Phanpy -> Donphan
 Stantler -> Wyrdeer
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
-Elekid -> Electabuzz -> Electivire
-Magby -> Magmar -> Magmortar
 Larvitar -> Pupitar -> Tyranitar
 Treecko -> Grovyle -> Sceptile
 Torchic -> Combusken -> Blaziken
@@ -99,7 +94,6 @@ Surskit -> Masquerain
 Shroomish -> Breloom
 Slakoth -> Vigoroth -> Slaking
 Makuhita -> Hariyama
-Azurill -> Marill -> Azumarill
 Nosepass -> Probopass
 Meditite -> Medicham
 Gulpin -> Swalot
@@ -132,7 +126,6 @@ Chingling -> Chimecho
 Stunky -> Skuntank
 Bronzor -> Bronzong
 Bonsly -> Sudowoodo
-Happiny -> Chansey -> Blissey
 Gible -> Gabite -> Garchomp
 Munchlax -> Snorlax
 Riolu -> Lucario

@@ -7,13 +7,13 @@ Pidgey -> Pidgeotto -> Pidgeot
 Rattata -> Raticate
 Spearow -> Fearow
 Ekans -> Arbok
-Pikachu -> Raichu
+Pichu -> Pikachu -> Raichu
 Sandshrew -> Sandslash
 Nidoran-F -> Nidorina -> Nidoqueen
 Nidoran-M -> Nidorino -> Nidoking
-Clefairy -> Clefable
+Cleffa -> Clefairy -> Clefable
 Vulpix -> Ninetales
-Jigglypuff -> Wigglytuff
+Igglybuff -> Jigglypuff -> Wigglytuff
 Zubat -> Golbat -> Crobat
 Oddish -> Gloom -> Vileplume, Bellossom
 Paras -> Parasect
@@ -64,13 +64,10 @@ Hoothoot -> Noctowl
 Ledyba -> Ledian
 Spinarak -> Ariados
 Chinchou -> Lanturn
-Pichu -> Pikachu -> Raichu
-Cleffa -> Clefairy -> Clefable
-Igglybuff -> Jigglypuff -> Wigglytuff
 Togepi -> Togetic
 Natu -> Xatu
 Mareep -> Flaaffy -> Ampharos
-Marill -> Azumarill
+Azurill -> Marill -> Azumarill
 Hoppip -> Skiploom -> Jumpluff
 Sunkern -> Sunflora
 Wooper -> Quagsire
@@ -105,7 +102,6 @@ Slakoth -> Vigoroth -> Slaking
 Nincada -> Ninjask, Shedinja
 Whismur -> Loudred -> Exploud
 Makuhita -> Hariyama
-Azurill -> Marill -> Azumarill
 Skitty -> Delcatty
 Aron -> Lairon -> Aggron
 Meditite -> Medicham
