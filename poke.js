@@ -96,9 +96,10 @@ function log_moves(list_folder, detail_folder, file, obj) {
             list[i].basePower, list[i].accuracy, dmg, list[i].pp, list[i].priority,
             list[i].target, list[i].desc);
     }
+
     fs.writeFileSync(list_folder + file + '.txt', text);
     fs.writeFileSync(list_folder + file + '.csv', csv);
-    
+
     return move_names;
 }
 
@@ -169,6 +170,7 @@ function log_species(list_folder, detail_folder, file, obj) {
             list[i].baseStats['spa'], list[i].baseStats['spd'], list[i].baseStats['spe'],
             sum, abilities);
     }
+
     fs.writeFileSync(list_folder + file + '.txt', text);
     fs.writeFileSync(list_folder + file + '.csv', csv);
 
@@ -228,7 +230,7 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
 }
 
 function log_evolve(name, evos_list, evos_processed) {
-    let evolve_list = []
+    let evolve_list = [];
     let no_further_evolve = [];
 
     evos_processed.push(name);
