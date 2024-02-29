@@ -13,7 +13,7 @@ Pidgeotto -> Pidgeot
 Rattata -> Raticate
 Spearow -> Fearow
 Ekans -> Arbok
-Pikachu -> Raichu, Raichu-Alola
+Pikachu -> Raichu
 Sandshrew -> Sandslash
 Nidoran-F -> Nidorina
 Nidorina -> Nidoqueen
@@ -32,7 +32,6 @@ Diglett -> Dugtrio
 Meowth -> Persian
 Psyduck -> Golduck
 Mankey -> Primeape
-Primeape -> Annihilape
 Growlithe -> Arcanine
 Poliwag -> Poliwhirl
 Poliwhirl -> Poliwrath, Politoed
@@ -59,10 +58,10 @@ Onix -> Steelix
 Drowzee -> Hypno
 Krabby -> Kingler
 Voltorb -> Electrode
-Exeggcute -> Exeggutor, Exeggutor-Alola
-Cubone -> Marowak, Marowak-Alola
+Exeggcute -> Exeggutor
+Cubone -> Marowak
 Lickitung -> Lickilicky
-Koffing -> Weezing, Weezing-Galar
+Koffing -> Weezing
 Rhyhorn -> Rhydon
 Rhydon -> Rhyperior
 Chansey -> Blissey
@@ -71,11 +70,11 @@ Horsea -> Seadra
 Seadra -> Kingdra
 Goldeen -> Seaking
 Staryu -> Starmie
-Scyther -> Scizor, Kleavor
+Scyther -> Scizor
 Electabuzz -> Electivire
 Magmar -> Magmortar
 Magikarp -> Gyarados
-Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
+Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon
 Porygon -> Porygon2
 Omanyte -> Omastar
 Kabuto -> Kabutops
@@ -84,7 +83,7 @@ Dragonair -> Dragonite
 Chikorita -> Bayleef
 Bayleef -> Meganium
 Cyndaquil -> Quilava
-Quilava -> Typhlosion, Typhlosion-Hisui
+Quilava -> Typhlosion
 Totodile -> Croconaw
 Croconaw -> Feraligatr
 Sentret -> Furret
@@ -109,14 +108,11 @@ Yanma -> Yanmega
 Wooper -> Quagsire
 Murkrow -> Honchkrow
 Misdreavus -> Mismagius
-Girafarig -> Farigiraf
 Pineco -> Forretress
-Dunsparce -> Dudunsparce, Dudunsparce-Three-Segment
 Gligar -> Gliscor
 Snubbull -> Granbull
 Sneasel -> Weavile
 Teddiursa -> Ursaring
-Ursaring -> Ursaluna
 Slugma -> Magcargo
 Swinub -> Piloswine
 Piloswine -> Mamoswine
@@ -124,7 +120,6 @@ Remoraid -> Octillery
 Houndour -> Houndoom
 Phanpy -> Donphan
 Porygon2 -> Porygon-Z
-Stantler -> Wyrdeer
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
 Smoochum -> Jynx
 Elekid -> Electabuzz
@@ -220,7 +215,7 @@ Chingling -> Chimecho
 Stunky -> Skuntank
 Bronzor -> Bronzong
 Bonsly -> Sudowoodo
-Mime Jr. -> Mr. Mime, Mr. Mime-Galar
+Mime Jr. -> Mr. Mime
 Happiny -> Chansey
 Gible -> Gabite
 Gabite -> Garchomp

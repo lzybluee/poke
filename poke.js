@@ -231,10 +231,19 @@ function log_evolves(file, species_info) {
     let text = '';
     let count = 0;
 
+    let species_names = new Array();
+    for(let i in species_info)
+        species_names.push(species_info[i].name)
+
     for (let i in species_info) {
         count++;
         if (species_info[i].evos.length > 0) {
-            text += species_info[i].name + ' -> ' + species_info[i].evos.join(', ') + '\n';
+            let evos = species_info[i].evos.filter(
+                function(item) {
+                    return species_names.includes(item);
+                });
+            if (evos.length > 0)
+                text += species_info[i].name + ' -> ' + evos.join(', ') + '\n';
         }
     }
 

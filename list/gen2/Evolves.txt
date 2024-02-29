@@ -13,7 +13,7 @@ Pidgeotto -> Pidgeot
 Rattata -> Raticate
 Spearow -> Fearow
 Ekans -> Arbok
-Pikachu -> Raichu, Raichu-Alola
+Pikachu -> Raichu
 Sandshrew -> Sandslash
 Nidoran-F -> Nidorina
 Nidorina -> Nidoqueen
@@ -32,7 +32,6 @@ Diglett -> Dugtrio
 Meowth -> Persian
 Psyduck -> Golduck
 Mankey -> Primeape
-Primeape -> Annihilape
 Growlithe -> Arcanine
 Poliwag -> Poliwhirl
 Poliwhirl -> Poliwrath, Politoed
@@ -48,7 +47,6 @@ Graveler -> Golem
 Ponyta -> Rapidash
 Slowpoke -> Slowbro, Slowking
 Magnemite -> Magneton
-Magneton -> Magnezone
 Doduo -> Dodrio
 Seel -> Dewgong
 Grimer -> Muk
@@ -59,23 +57,18 @@ Onix -> Steelix
 Drowzee -> Hypno
 Krabby -> Kingler
 Voltorb -> Electrode
-Exeggcute -> Exeggutor, Exeggutor-Alola
-Cubone -> Marowak, Marowak-Alola
-Lickitung -> Lickilicky
-Koffing -> Weezing, Weezing-Galar
+Exeggcute -> Exeggutor
+Cubone -> Marowak
+Koffing -> Weezing
 Rhyhorn -> Rhydon
-Rhydon -> Rhyperior
 Chansey -> Blissey
-Tangela -> Tangrowth
 Horsea -> Seadra
 Seadra -> Kingdra
 Goldeen -> Seaking
 Staryu -> Starmie
-Scyther -> Scizor, Kleavor
-Electabuzz -> Electivire
-Magmar -> Magmortar
+Scyther -> Scizor
 Magikarp -> Gyarados
-Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
+Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon
 Porygon -> Porygon2
 Omanyte -> Omastar
 Kabuto -> Kabutops
@@ -84,7 +77,7 @@ Dragonair -> Dragonite
 Chikorita -> Bayleef
 Bayleef -> Meganium
 Cyndaquil -> Quilava
-Quilava -> Typhlosion, Typhlosion-Hisui
+Quilava -> Typhlosion
 Totodile -> Croconaw
 Croconaw -> Feraligatr
 Sentret -> Furret
@@ -96,35 +89,22 @@ Pichu -> Pikachu
 Cleffa -> Clefairy
 Igglybuff -> Jigglypuff
 Togepi -> Togetic
-Togetic -> Togekiss
 Natu -> Xatu
 Mareep -> Flaaffy
 Flaaffy -> Ampharos
 Marill -> Azumarill
 Hoppip -> Skiploom
 Skiploom -> Jumpluff
-Aipom -> Ambipom
 Sunkern -> Sunflora
-Yanma -> Yanmega
 Wooper -> Quagsire
-Murkrow -> Honchkrow
-Misdreavus -> Mismagius
-Girafarig -> Farigiraf
 Pineco -> Forretress
-Dunsparce -> Dudunsparce, Dudunsparce-Three-Segment
-Gligar -> Gliscor
 Snubbull -> Granbull
-Sneasel -> Weavile
 Teddiursa -> Ursaring
-Ursaring -> Ursaluna
 Slugma -> Magcargo
 Swinub -> Piloswine
-Piloswine -> Mamoswine
 Remoraid -> Octillery
 Houndour -> Houndoom
 Phanpy -> Donphan
-Porygon2 -> Porygon-Z
-Stantler -> Wyrdeer
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
 Smoochum -> Jynx
 Elekid -> Electabuzz

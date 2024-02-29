@@ -37,7 +37,6 @@ Meowth -> Persian
 Meowth-Alola -> Persian-Alola
 Psyduck -> Golduck
 Mankey -> Primeape
-Primeape -> Annihilape
 Growlithe -> Arcanine
 Poliwag -> Poliwhirl
 Poliwhirl -> Poliwrath, Politoed
@@ -70,7 +69,7 @@ Voltorb -> Electrode
 Exeggcute -> Exeggutor, Exeggutor-Alola
 Cubone -> Marowak, Marowak-Alola
 Lickitung -> Lickilicky
-Koffing -> Weezing, Weezing-Galar
+Koffing -> Weezing
 Rhyhorn -> Rhydon
 Rhydon -> Rhyperior
 Chansey -> Blissey
@@ -79,7 +78,7 @@ Horsea -> Seadra
 Seadra -> Kingdra
 Goldeen -> Seaking
 Staryu -> Starmie
-Scyther -> Scizor, Kleavor
+Scyther -> Scizor
 Electabuzz -> Electivire
 Magmar -> Magmortar
 Magikarp -> Gyarados
@@ -92,7 +91,7 @@ Dragonair -> Dragonite
 Chikorita -> Bayleef
 Bayleef -> Meganium
 Cyndaquil -> Quilava
-Quilava -> Typhlosion, Typhlosion-Hisui
+Quilava -> Typhlosion
 Totodile -> Croconaw
 Croconaw -> Feraligatr
 Sentret -> Furret
@@ -117,14 +116,11 @@ Yanma -> Yanmega
 Wooper -> Quagsire
 Murkrow -> Honchkrow
 Misdreavus -> Mismagius
-Girafarig -> Farigiraf
 Pineco -> Forretress
-Dunsparce -> Dudunsparce, Dudunsparce-Three-Segment
 Gligar -> Gliscor
 Snubbull -> Granbull
 Sneasel -> Weavile
 Teddiursa -> Ursaring
-Ursaring -> Ursaluna
 Slugma -> Magcargo
 Swinub -> Piloswine
 Piloswine -> Mamoswine
@@ -132,7 +128,6 @@ Remoraid -> Octillery
 Houndour -> Houndoom
 Phanpy -> Donphan
 Porygon2 -> Porygon-Z
-Stantler -> Wyrdeer
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
 Smoochum -> Jynx
 Elekid -> Electabuzz
@@ -228,7 +223,7 @@ Chingling -> Chimecho
 Stunky -> Skuntank
 Bronzor -> Bronzong
 Bonsly -> Sudowoodo
-Mime Jr. -> Mr. Mime, Mr. Mime-Galar
+Mime Jr. -> Mr. Mime
 Happiny -> Chansey
 Gible -> Gabite
 Gabite -> Garchomp
@@ -245,7 +240,7 @@ Servine -> Serperior
 Tepig -> Pignite
 Pignite -> Emboar
 Oshawott -> Dewott
-Dewott -> Samurott, Samurott-Hisui
+Dewott -> Samurott
 Patrat -> Watchog
 Lillipup -> Herdier
 Herdier -> Stoutland
@@ -270,7 +265,7 @@ Swadloon -> Leavanny
 Venipede -> Whirlipede
 Whirlipede -> Scolipede
 Cottonee -> Whimsicott
-Petilil -> Lilligant, Lilligant-Hisui
+Petilil -> Lilligant
 Sandile -> Krokorok
 Krokorok -> Krookodile
 Darumaka -> Darmanitan
@@ -309,8 +304,7 @@ Shelmet -> Accelgor
 Mienfoo -> Mienshao
 Golett -> Golurk
 Pawniard -> Bisharp
-Bisharp -> Kingambit
-Rufflet -> Braviary, Braviary-Hisui
+Rufflet -> Braviary
 Vullaby -> Mandibuzz
 Deino -> Zweilous
 Zweilous -> Hydreigon
@@ -343,17 +337,17 @@ Clauncher -> Clawitzer
 Helioptile -> Heliolisk
 Tyrunt -> Tyrantrum
 Amaura -> Aurorus
-Goomy -> Sliggoo, Sliggoo-Hisui
+Goomy -> Sliggoo
 Sliggoo -> Goodra
 Phantump -> Trevenant
 Pumpkaboo -> Gourgeist
 Pumpkaboo-Small -> Gourgeist-Small
 Pumpkaboo-Large -> Gourgeist-Large
 Pumpkaboo-Super -> Gourgeist-Super
-Bergmite -> Avalugg, Avalugg-Hisui
+Bergmite -> Avalugg
 Noibat -> Noivern
 Rowlet -> Dartrix
-Dartrix -> Decidueye, Decidueye-Hisui
+Dartrix -> Decidueye
 Litten -> Torracat
 Torracat -> Incineroar
 Popplio -> Brionne

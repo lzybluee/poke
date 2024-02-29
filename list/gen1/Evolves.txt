@@ -13,7 +13,7 @@ Pidgeotto -> Pidgeot
 Rattata -> Raticate
 Spearow -> Fearow
 Ekans -> Arbok
-Pikachu -> Raichu, Raichu-Alola
+Pikachu -> Raichu
 Sandshrew -> Sandslash
 Nidoran-F -> Nidorina
 Nidorina -> Nidoqueen
@@ -23,19 +23,17 @@ Clefairy -> Clefable
 Vulpix -> Ninetales
 Jigglypuff -> Wigglytuff
 Zubat -> Golbat
-Golbat -> Crobat
 Oddish -> Gloom
-Gloom -> Vileplume, Bellossom
+Gloom -> Vileplume
 Paras -> Parasect
 Venonat -> Venomoth
 Diglett -> Dugtrio
 Meowth -> Persian
 Psyduck -> Golduck
 Mankey -> Primeape
-Primeape -> Annihilape
 Growlithe -> Arcanine
 Poliwag -> Poliwhirl
-Poliwhirl -> Poliwrath, Politoed
+Poliwhirl -> Poliwrath
 Abra -> Kadabra
 Kadabra -> Alakazam
 Machop -> Machoke
@@ -46,37 +44,26 @@ Tentacool -> Tentacruel
 Geodude -> Graveler
 Graveler -> Golem
 Ponyta -> Rapidash
-Slowpoke -> Slowbro, Slowking
+Slowpoke -> Slowbro
 Magnemite -> Magneton
-Magneton -> Magnezone
 Doduo -> Dodrio
 Seel -> Dewgong
 Grimer -> Muk
 Shellder -> Cloyster
 Gastly -> Haunter
 Haunter -> Gengar
-Onix -> Steelix
 Drowzee -> Hypno
 Krabby -> Kingler
 Voltorb -> Electrode
-Exeggcute -> Exeggutor, Exeggutor-Alola
-Cubone -> Marowak, Marowak-Alola
-Lickitung -> Lickilicky
-Koffing -> Weezing, Weezing-Galar
+Exeggcute -> Exeggutor
+Cubone -> Marowak
+Koffing -> Weezing
 Rhyhorn -> Rhydon
-Rhydon -> Rhyperior
-Chansey -> Blissey
-Tangela -> Tangrowth
 Horsea -> Seadra
-Seadra -> Kingdra
 Goldeen -> Seaking
 Staryu -> Starmie
-Scyther -> Scizor, Kleavor
-Electabuzz -> Electivire
-Magmar -> Magmortar
 Magikarp -> Gyarados
-Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
-Porygon -> Porygon2
+Eevee -> Vaporeon, Jolteon, Flareon
 Omanyte -> Omastar
 Kabuto -> Kabutops
 Dratini -> Dragonair
