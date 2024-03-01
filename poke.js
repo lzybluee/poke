@@ -430,7 +430,7 @@ if (process.argv.length <= 2) {
     log_data('data/Formats', formats);
     log_json('json/Formats', formats);
 
-    for (let i = 1; i < 10; i++)
+    for (let i = 1; i <= 9; i++)
         log_gen(i);
 } else {
     ZH = true;
@@ -444,6 +444,6 @@ if (process.argv.length <= 2) {
     trans_species = get_trans(trans_folder + 'other/*/text_Species_*.txt', 'Species');
     trans_moves = get_trans(trans_folder + 'other/*/text_Moves_*.txt', 'Moves');
 
-    for (let i = 1; i < 10; i++)
+    for (let i = 1; i <= 9; i++)
         log_gen(i);
 }
