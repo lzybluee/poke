@@ -626,7 +626,7 @@ Steel Gem (钢之宝石)
 Holder's first successful Steel-type attack will have 1.5x power. Single use.
 
 Stick
-If held by a Farfetch’d, its critical hit ratio is raised by 2 stages.
+If held by a Farfetch'd, its critical hit ratio is raised by 2 stages.
 
 Sticky Barb (附着针)
 Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.

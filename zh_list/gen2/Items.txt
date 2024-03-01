@@ -161,7 +161,7 @@ Sport Ball (竞赛球)
 A special Poke Ball for the Bug-Catching Contest.
 
 Stick
-If held by a Farfetch’d, its critical hit ratio is always at stage 2. (25% crit rate)
+If held by a Farfetch'd, its critical hit ratio is always at stage 2. (25% crit rate)
 
 Sun Stone (日之石)
 Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.

@@ -80,12 +80,13 @@ function log_list(list_folder, detail_folder, file, obj) {
     let csv = '';
     for (let i in list) {
         let name = get_name(list[i].name, file == 'Abilities' ? ABILITIES : ITEMS);
+        let desc = file == 'Items' ? list[i].desc.replaceAll('’', "'").replaceAll('é', 'e') : list[i].desc;
 
-        text += name + '\n' + list[i].desc + '\n';
+        text += name + '\n' + desc + '\n';
         if (i < list.length - 1)
             text += '\n';
 
-        csv += csv_text(name, list[i].desc);
+        csv += csv_text(name, desc);
     }
 
     fs.writeFileSync(list_folder + file + '.txt', text);
