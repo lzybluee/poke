@@ -85,7 +85,7 @@ Sandshrew
 Sandslash
 穿山王
 
-Nidoran♀
+Nidoran-F
 尼多兰
 
 Nidorina
@@ -94,7 +94,7 @@ Nidorina
 Nidoqueen
 尼多后
 
-Nidoran♂
+Nidoran-M
 尼多朗
 
 Nidorino
@@ -247,7 +247,7 @@ Magnemite
 Magneton
 三合一磁怪
 
-Farfetch’d
+Farfetch'd
 大葱鸭
 
 Doduo
@@ -2005,7 +2005,7 @@ Litleo
 Pyroar
 火炎狮
 
-Flabébé
+Flabebe
 花蓓蓓
 
 Floette
@@ -2593,7 +2593,7 @@ Perrserker
 Cursola
 魔灵珊瑚
 
-Sirfetch’d
+Sirfetch'd
 葱游兵
 
 Mr. Rime

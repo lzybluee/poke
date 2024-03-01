@@ -30647,7 +30647,7 @@ Pyroar
     Will-O-Wisp : TM
     Work Up : Level 1
 
-Flabébé
+Flabebe
     Alluring Voice : TM
     Baton Pass : TM
     Calm Mind : TM

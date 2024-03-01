@@ -60,7 +60,7 @@ Slowpoke-Galar -> Slowbro-Galar, Slowking-Galar
 
 Magnemite -> Magneton -> Magnezone
 
-Farfetch’d-Galar -> Sirfetch’d
+Farfetch'd-Galar -> Sirfetch'd
 
 Shellder -> Cloyster
 

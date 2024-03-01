@@ -10,7 +10,7 @@ Ultra Ball
 Great Ball
 超级球
 
-Poké Ball
+Poke Ball
 精灵球
 
 Safari Ball
@@ -187,7 +187,7 @@ X Sp. Atk
 X Sp. Def
 特防强化
 
-Poké Doll
+Poke Doll
 皮皮玩偶
 
 Fluffy Tail
@@ -355,7 +355,7 @@ Burn Drive
 Chill Drive
 冰冻卡带
 
-Pokémon Box Link
+Pokemon Box Link
 宝可梦盒
 
 Medicine Pocket
@@ -640,7 +640,7 @@ Mental Herb
 Choice Band
 讲究头带
 
-King’s Rock
+King's Rock
 王者之证
 
 Silver Powder
@@ -733,7 +733,7 @@ Dragon Fang
 Silk Scarf
 丝绸围巾
 
-Upgrade
+Up-Grade
 升级数据
 
 Shell Bell
@@ -1264,7 +1264,7 @@ Loot Sack
 Rule Book
 规则书
 
-Poké Radar
+Poke Radar
 宝可追踪
 
 Point Card
@@ -1327,7 +1327,7 @@ Bike
 Suite Key
 房间钥匙
 
-Oak’s Letter
+Oak's Letter
 大木的信
 
 Lunar Feather
@@ -1702,7 +1702,7 @@ Pass Orb
 Dream Ball
 梦境球
 
-Poké Toy
+Poke Toy
 宝可尾草
 
 Prop Case
@@ -1885,7 +1885,7 @@ Assault Vest
 Holo Caster
 全息影像通讯器
 
-Prof’s Letter
+Prof's Letter
 博士的信
 
 Roller Skates
@@ -1912,7 +1912,7 @@ Snowball
 Safety Goggles
 防尘护目镜
 
-Poké Flute
+Poke Flute
 宝可梦之笛
 
 Rich Mulch
@@ -2122,7 +2122,7 @@ Devon Parts
 Soot Sack
 集灰袋
 
-Pokéblock Kit
+Pokeblock Kit
 宝可方块套装
 
 Letter
@@ -2362,7 +2362,7 @@ Forage Bag
 Fishing Rod
 钓竿
 
-Professor’s Mask
+Professor's Mask
 博士的面罩
 
 Festival Ticket
@@ -2605,10 +2605,10 @@ N-Solarizer
 N-Lunarizer
 奈克洛露奈合体器
 
-Ilima’s Normalium Z
+Ilima's Normalium Z
 伊利马一般Ｚ
 
-Left Poké Ball
+Left Poke Ball
 留下的精灵球
 
 Roto Hatch
@@ -2731,10 +2731,10 @@ Pikachu Candy
 Sandshrew Candy
 穿山鼠的糖果
 
-Nidoran♀ Candy
+Nidoran-F Candy
 尼多兰的糖果
 
-Nidoran♂ Candy
+Nidoran-M Candy
 尼多朗的糖果
 
 Clefairy Candy
@@ -2800,7 +2800,7 @@ Slowpoke Candy
 Magnemite Candy
 小磁怪的糖果
 
-Farfetch’d Candy
+Farfetch'd Candy
 大葱鸭的糖果
 
 Doduo Candy
@@ -2941,6 +2941,9 @@ Magmar Candy
 Endorsement
 推荐函
 
+Pokemon Box Link
+宝可梦盒
+
 Wishing Star
 许愿星
 
@@ -2953,10 +2956,10 @@ Rotom Bike
 Sausages
 粗绞肉香肠
 
-Bob’s Food Tin
+Bob's Food Tin
 饱伯罐头
 
-Bach’s Food Tin
+Bach's Food Tin
 巴哈罐头
 
 Tin of Beans
@@ -3499,7 +3502,7 @@ Old Letter
 Band Autograph
 乐队的签名
 
-Sonia’s Book
+Sonia's Book
 索妮亚的书
 
 Rotom Catalog
@@ -3619,16 +3622,19 @@ Caster Fern
 Seed of Mastery
 精通种子
 
+Poke Ball
+精灵球
+
 Eternal Ice
 永恒之冰
 
-Uxie’s Claw
+Uxie's Claw
 由克希之爪
 
-Azelf’s Fang
+Azelf's Fang
 亚克诺姆之牙
 
-Mesprit’s Plume
+Mesprit's Plume
 艾姆利多之翅
 
 Tumblestone
@@ -3661,16 +3667,19 @@ Crunchy Salt
 Wood
 木材
 
-King’s Leaf
+King's Leaf
 皇叶
 
 Marsh Balm
 沼之镇宝
 
+Poke Ball
+精灵球
+
 Feather Ball
 飞羽球
 
-Pokéshi Doll
+Pokeshi Doll
 宝可梦木娃娃
 
 Smoke Bomb
@@ -3787,6 +3796,12 @@ Candy Truffle
 Cake-Lure Base
 诱团原料
 
+Poke Ball
+精灵球
+
+Pokeshi Doll
+宝可梦木娃娃
+
 Volcano Balm
 火山镇宝
 
@@ -3895,7 +3910,7 @@ Crafting Kit
 Strange Ball
 奇异球
 
-Pokédex
+Pokedex
 宝可梦图鉴
 
 Old Verse 1
@@ -4012,10 +4027,10 @@ Rotom Phone
 Sandwich
 三明治
 
-Koraidon’s Poké Ball
+Koraidon's Poke Ball
 故勒顿的球
 
-Miraidon’s Poké Ball
+Miraidon's Poke Ball
 密勒顿的球
 
 Tera Orb
@@ -4027,7 +4042,7 @@ Scarlet Book
 Violet Book
 紫之书
 
-Kofu’s Wallet
+Kofu's Wallet
 海岱的钱包
 
 Tiny Bamboo Shoot
@@ -4597,7 +4612,7 @@ Scatterbug Powder
 Litleo Tuft
 小狮狮的鬃毛
 
-Flabébé Pollen
+Flabebe Pollen
 花蓓蓓的花粉
 
 Skiddo Leaf
@@ -5302,13 +5317,13 @@ Vee-Vee Pick
 Smiling Vee Pick
 笑脸伊布三明治签
 
-Blue Poké Ball Pick
+Blue Poke Ball Pick
 蓝珠珠三明治签
 
 Auspicious Armor
 庆祝之铠
 
-Leader’s Crest
+Leader's Crest
 头领凭证
 
 Pink Bottle
@@ -5422,10 +5437,10 @@ Gold Cup
 Bronze Cup
 铜钛水杯
 
-Green Poké Ball Pick
+Green Poke Ball Pick
 绿珠珠三明治签
 
-Red Poké Ball Pick
+Red Poke Ball Pick
 红珠珠三明治签
 
 Party Sparkler Pick
@@ -5926,6 +5941,6 @@ Blueberry Chairs
 Synchro Machine
 同步器
 
-Briar’s Book
+Briar's Book
 零之秘宝
 

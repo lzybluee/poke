@@ -344,7 +344,7 @@ Scatterbug -> Spewpa -> Vivillon, Vivillon-Fancy
 
 Litleo -> Pyroar
 
-Flabébé -> Floette -> Florges
+Flabebe -> Floette -> Florges
 
 Skiddo -> Gogoat
 

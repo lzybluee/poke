@@ -2235,7 +2235,7 @@ Magneton
     Thunder Wave : TM, Level 38
     Toxic : TM
 
-Farfetch’d
+Farfetch'd
     Agility : Level 31
     Bide : TM
     Body Slam : TM

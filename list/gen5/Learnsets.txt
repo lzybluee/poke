@@ -4610,7 +4610,7 @@ Magneton
     Wild Charge : TM
     Zap Cannon : Level 66
 
-Farfetch’d
+Farfetch'd
     Acrobatics : TM, Level 37
     Aerial Ace : TM, Level 13
     Agility : Level 31

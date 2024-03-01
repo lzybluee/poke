@@ -167,7 +167,7 @@ hp: 75, atk: 100, def: 110, spa: 45, spd: 55, spe: 65, sum: 450
 0: Sand Veil (沙隐)
 
 29
-Nidoran-F
+Nidoran-F (尼多兰)
 Poison
 hp: 55, atk: 47, def: 52, spa: 40, spd: 40, spe: 41, sum: 275
 0: Poison Point (毒刺), 1: Rivalry (斗争心)
@@ -185,7 +185,7 @@ hp: 90, atk: 82, def: 87, spa: 75, spd: 85, spe: 76, sum: 495
 0: Poison Point (毒刺), 1: Rivalry (斗争心)
 
 32
-Nidoran-M
+Nidoran-M (尼多朗)
 Poison
 hp: 46, atk: 57, def: 40, spa: 40, spd: 40, spe: 50, sum: 273
 0: Poison Point (毒刺), 1: Rivalry (斗争心)
@@ -491,7 +491,7 @@ hp: 50, atk: 60, def: 95, spa: 120, spd: 70, spe: 70, sum: 465
 0: Magnet Pull (磁力), 1: Sturdy (结实)
 
 83
-Farfetch’d (大葱鸭)
+Farfetch'd (大葱鸭)
 Normal, Flying
 hp: 52, atk: 65, def: 55, spa: 58, spd: 62, spe: 60, sum: 352
 0: Keen Eye (锐利目光), 1: Inner Focus (精神力)

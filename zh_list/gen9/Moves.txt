@@ -1348,7 +1348,7 @@ Physical
 pow: 60, acc: 100, pp: 10, pri: 0, target: normal
 Has a 30% chance to paralyze the target.
 
-Forest's Curse
+Forest's Curse (森林咒术)
 Grass
 Status
 pow: 0, acc: 100, pp: 20, pri: 0, target: normal

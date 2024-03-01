@@ -451,7 +451,7 @@ Raises holder's Defense by 1 stage after it is hit by a physical attack. Single 
 Kelpsy Berry (藻根果)
 Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
 
-King's Rock
+King's Rock (王者之证)
 Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.
 
 Kommonium Z (杖尾鳞甲龙Ｚ)
@@ -679,7 +679,7 @@ Holder's Multi-Attack is Poison type.
 Poisonium Z (毒Ｚ)
 If holder has a Poison move, this item allows it to use a Poison Z-Move.
 
-Poke Ball
+Poke Ball (精灵球)
 A device for catching wild Pokemon. It is designed as a capsule system.
 
 Pomeg Berry (榴石果)
@@ -958,7 +958,7 @@ An ultra-performance Ball that provides a higher catch rate than a Great Ball.
 Ultranecrozium Z (究极奈克洛Ｚ)
 Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.
 
-Up-Grade
+Up-Grade (升级数据)
 Evolves Porygon into Porygon2 when traded.
 
 Venusaurite (妙蛙花进化石)

@@ -13,7 +13,7 @@ The best Ball with the ultimate performance. It will catch any wild Pokemon.
 Moon Stone (月之石)
 Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.
 
-Poke Ball
+Poke Ball (精灵球)
 A device for catching wild Pokemon. It is designed as a capsule system.
 
 Thunder Stone (雷之石)

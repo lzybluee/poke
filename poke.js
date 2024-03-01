@@ -8,11 +8,12 @@ const MOVES = 2;
 const SPECIES = 3;
 
 function get_name(name, type) {
+    name = name.replaceAll('’', "'").replaceAll('é', 'e');
     if (ZH) {
         trans = null;
         switch(type) {
             case ABILITIES:
-                trans = trans_abilities[name];
+                trans = trans_abilities[name.replace(/ \(.*\)/, '')];
                 break;
             case ITEMS:
                 trans = trans_items[name];
@@ -402,12 +403,14 @@ function get_trans(file, output) {
 
     for (let i = 0; i < en_list.length; i++) {
         if (en_list[i] != zh_list[i] && !trans[en_list[i]] && !en_list[i].startsWith('?')) {
-            trans[en_list[i]] = zh_list[i];
-            text += en_list[i] + '\r\n' + zh_list[i] + '\r\n\r\n';
+            let en = en_list[i].replaceAll('’', "'").replaceAll('é', 'e').replaceAll('♀', '-F').replaceAll('♂', '-M');
+            en = en.replace('Upgrade', 'Up-Grade');
+            trans[en] = zh_list[i];
+            text += en + '\r\n' + zh_list[i] + '\r\n\r\n';
         }
     }
 
-    fs.writeFileSync('zh_list/Trans_' + output, text);
+    fs.writeFileSync('zh_list/Trans_' + output + '.txt', text);
 
     return trans;
 }
@@ -434,10 +437,10 @@ if (process.argv.length <= 2) {
         fs.mkdirSync('zh_list');
 
     const trans_folder = '../PKHeX/PKHeX.Core/Resources/text/';
-    trans_items = get_trans(trans_folder + 'items/text_Items_*.txt', 'Items.txt');
-    trans_abilities = get_trans(trans_folder + 'other/*/text_Abilities_*.txt', 'Abilities.txt');
-    trans_species = get_trans(trans_folder + 'other/*/text_Species_*.txt', 'Species.txt');
-    trans_moves = get_trans(trans_folder + 'other/*/text_Moves_*.txt', 'Moves.txt');
+    trans_items = get_trans(trans_folder + 'items/text_Items_*.txt', 'Items');
+    trans_abilities = get_trans(trans_folder + 'other/*/text_Abilities_*.txt', 'Abilities');
+    trans_species = get_trans(trans_folder + 'other/*/text_Species_*.txt', 'Species');
+    trans_moves = get_trans(trans_folder + 'other/*/text_Moves_*.txt', 'Moves');
 
     for (let i = 1; i < 10; i++)
         log_gen(i);

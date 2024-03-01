@@ -787,7 +787,7 @@ Curious Medicine
 Transistor
 电晶体
 
-Dragon’s Maw
+Dragon's Maw
 龙颚
 
 Chilling Neigh
@@ -895,7 +895,7 @@ Mycelium Might
 Hospitality
 款待
 
-Mind’s Eye
+Mind's Eye
 心眼
 
 Embody Aspect

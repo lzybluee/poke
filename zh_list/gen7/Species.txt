@@ -281,7 +281,7 @@ hp: 75, atk: 100, def: 120, spa: 25, spd: 65, spe: 65, sum: 450
 0: Snow Cloak (雪隐), H: Slush Rush (拨雪)
 
 29
-Nidoran-F
+Nidoran-F (尼多兰)
 Poison
 hp: 55, atk: 47, def: 52, spa: 40, spd: 40, spe: 41, sum: 275
 0: Poison Point (毒刺), 1: Rivalry (斗争心), H: Hustle (活力)
@@ -299,7 +299,7 @@ hp: 90, atk: 92, def: 87, spa: 75, spd: 85, spe: 76, sum: 505
 0: Poison Point (毒刺), 1: Rivalry (斗争心), H: Sheer Force (强行)
 
 32
-Nidoran-M
+Nidoran-M (尼多朗)
 Poison
 hp: 46, atk: 57, def: 40, spa: 40, spd: 40, spe: 50, sum: 273
 0: Poison Point (毒刺), 1: Rivalry (斗争心), H: Hustle (活力)
@@ -671,7 +671,7 @@ hp: 50, atk: 60, def: 95, spa: 120, spd: 70, spe: 70, sum: 465
 0: Magnet Pull (磁力), 1: Sturdy (结实), H: Analytic (分析)
 
 83
-Farfetch’d (大葱鸭)
+Farfetch'd (大葱鸭)
 Normal, Flying
 hp: 52, atk: 90, def: 55, spa: 58, spd: 62, spe: 60, sum: 377
 0: Keen Eye (锐利目光), 1: Inner Focus (精神力), H: Defiant (不服输)
@@ -4763,7 +4763,7 @@ hp: 86, atk: 68, def: 72, spa: 109, spd: 66, spe: 106, sum: 507
 0: Rivalry (斗争心), 1: Unnerve (紧张感), H: Moxie (自信过度)
 
 669
-Flabébé
+Flabebe (花蓓蓓)
 Fairy
 hp: 44, atk: 38, def: 39, spa: 61, spd: 79, spe: 42, sum: 303
 0: Flower Veil (花幕), H: Symbiosis (共生)

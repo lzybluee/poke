@@ -1324,7 +1324,7 @@ Status
 pow: 0, acc: true, pp: 40, pri: 0, target: normal
 As long as the target remains active, its evasiveness stat stage is ignored during accuracy checks against it if it is greater than 0, and Normal- and Fighting-type attacks can hit the target if it is a Ghost type. Fails if the target is already affected, or affected by Miracle Eye or Odor Sleuth.
 
-Forest's Curse
+Forest's Curse (森林咒术)
 Grass
 Status
 pow: 0, acc: 100, pp: 20, pri: 0, target: normal
@@ -1942,7 +1942,7 @@ Status
 pow: 0, acc: 80, pp: 15, pri: 0, target: normal
 Lowers the target's accuracy by 1 stage.
 
-King's Shield
+King's Shield (王者盾牌)
 Steel
 Status
 pow: 0, acc: true, pp: 10, pri: 4, target: self
@@ -1954,7 +1954,7 @@ Physical
 pow: 65, acc: 100, pp: 20, pri: 0, target: normal
 If the target is holding an item that can be removed from it, ignoring the Sticky Hold Ability, this move's power is multiplied by 1.5. If the user has not fainted, the target loses its held item. This move cannot remove Z-Crystals, cause Pokemon with the Sticky Hold Ability to lose their held item, cause Pokemon that can Mega Evolve to lose the Mega Stone for their species, or cause a Kyogre, a Groudon, a Giratina, an Arceus, a Genesect, or a Silvally to lose their Blue Orb, Red Orb, Griseous Orb, Plate, Drive, or Memory respectively. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
 
-Land's Wrath
+Land's Wrath (大地神力)
 Ground
 Physical
 pow: 90, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
@@ -2020,7 +2020,7 @@ Status
 pow: 0, acc: 100, pp: 30, pri: 0, target: allAdjacentFoes
 Lowers the target's Defense by 1 stage.
 
-Let's Snuggle Forever
+Let's Snuggle Forever (亲密无间大乱揍)
 Fairy
 Physical
 pow: 190, acc: true, pp: 1, pri: 0, target: normal
@@ -2404,7 +2404,7 @@ Status
 pow: 0, acc: true, pp: 20, pri: 0, target: normal
 This move calls another move for use based on the battle terrain. Tri Attack on the regular Wi-Fi terrain, Thunderbolt during Electric Terrain, Moonblast during Misty Terrain, Energy Ball during Grassy Terrain, and Psychic during Psychic Terrain.
 
-Nature's Madness
+Nature's Madness (自然之怒)
 Fairy
 Special
 pow: 0, acc: 90, pp: 10, pri: 0, target: normal

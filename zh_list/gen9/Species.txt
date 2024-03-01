@@ -3263,7 +3263,7 @@ hp: 86, atk: 68, def: 72, spa: 109, spd: 66, spe: 106, sum: 507
 0: Rivalry (斗争心), 1: Unnerve (紧张感), H: Moxie (自信过度)
 
 669
-Flabébé
+Flabebe (花蓓蓓)
 Fairy
 hp: 44, atk: 38, def: 39, spa: 61, spd: 79, spe: 42, sum: 303
 0: Flower Veil (花幕), H: Symbiosis (共生)
@@ -4310,7 +4310,7 @@ hp: 80, atk: 100, def: 50, spa: 100, spd: 50, spe: 200, sum: 580
 Regidrago (雷吉铎拉戈)
 Dragon
 hp: 200, atk: 100, def: 50, spa: 100, spd: 50, spe: 80, sum: 580
-0: Dragon's Maw
+0: Dragon's Maw (龙颚)
 
 896
 Glastrier (雪暴马)
@@ -4334,13 +4334,13 @@ hp: 100, atk: 80, def: 80, spa: 80, spd: 80, spe: 80, sum: 500
 Calyrex-Ice
 Psychic, Ice
 hp: 100, atk: 165, def: 150, spa: 85, spd: 130, spe: 50, sum: 680
-0: As One (Glastrier)
+0: As One (Glastrier) (人马一体)
 
 898
 Calyrex-Shadow
 Psychic, Ghost
 hp: 100, atk: 85, def: 80, spa: 165, spd: 100, spe: 150, sum: 680
-0: As One (Spectrier)
+0: As One (Spectrier) (人马一体)
 
 899
 Wyrdeer (诡角鹿)
@@ -4364,7 +4364,7 @@ hp: 130, atk: 140, def: 105, spa: 45, spd: 80, spe: 50, sum: 550
 Ursaluna-Bloodmoon
 Ground, Normal
 hp: 113, atk: 70, def: 120, spa: 135, spd: 65, spe: 52, sum: 555
-0: Mind's Eye
+0: Mind's Eye (心眼)
 
 902
 Basculegion (幽尾玄鱼)
@@ -5156,25 +5156,25 @@ hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
 Ogerpon-Teal-Tera
 Grass
 hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
-0: Embody Aspect (Teal)
+0: Embody Aspect (Teal) (面影辉映)
 
 1017
 Ogerpon-Wellspring-Tera
 Grass, Water
 hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
-0: Embody Aspect (Wellspring)
+0: Embody Aspect (Wellspring) (面影辉映)
 
 1017
 Ogerpon-Hearthflame-Tera
 Grass, Fire
 hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
-0: Embody Aspect (Hearthflame)
+0: Embody Aspect (Hearthflame) (面影辉映)
 
 1017
 Ogerpon-Cornerstone-Tera
 Grass, Rock
 hp: 80, atk: 120, def: 84, spa: 60, spd: 96, spe: 110, sum: 550
-0: Embody Aspect (Cornerstone)
+0: Embody Aspect (Cornerstone) (面影辉映)
 
 1018
 Archaludon (铝钢桥龙)

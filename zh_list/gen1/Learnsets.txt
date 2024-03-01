@@ -682,7 +682,7 @@ Sandslash (穿山王)
     Take Down (猛撞) : TM
     Toxic (剧毒) : TM
 
-Nidoran-F
+Nidoran-F (尼多兰)
     Bide (忍耐) : TM
     Bite (咬住) : Level 30, Level 29
     Blizzard (暴风雪) : TM
@@ -775,7 +775,7 @@ Nidoqueen (尼多后)
     Toxic (剧毒) : TM
     Water Gun (水枪) : TM
 
-Nidoran-M
+Nidoran-M (尼多朗)
     Bide (忍耐) : TM
     Blizzard (暴风雪) : TM
     Body Slam (泰山压顶) : TM
@@ -2235,7 +2235,7 @@ Magneton (三合一磁怪)
     Thunder Wave (电磁波) : TM, Level 38
     Toxic (剧毒) : TM
 
-Farfetch’d (大葱鸭)
+Farfetch'd (大葱鸭)
     Agility (高速移动) : Level 31
     Bide (忍耐) : TM
     Body Slam (泰山压顶) : TM

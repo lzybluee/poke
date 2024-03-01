@@ -30647,7 +30647,7 @@ Pyroar (火炎狮)
     Will-O-Wisp (磷火) : TM
     Work Up (自我激励) : Level 1
 
-Flabébé
+Flabebe (花蓓蓓)
     Alluring Voice (魅诱之声) : TM
     Baton Pass (接棒) : TM
     Calm Mind (冥想) : TM
@@ -31946,7 +31946,7 @@ Phantump (小木灵)
     Endure (挺住) : TM
     Energy Ball (能量球) : TM
     Facade (硬撑) : TM
-    Forest's Curse : Level 52
+    Forest's Curse (森林咒术) : Level 52
     Foul Play (移花接木) : TM
     Giga Drain (终极吸取) : TM
     Grass Knot (打草结) : TM
@@ -32009,7 +32009,7 @@ Trevenant (朽木妖)
     Energy Ball (能量球) : TM
     Facade (硬撑) : TM
     Focus Blast (真气弹) : TM
-    Forest's Curse : Level 52
+    Forest's Curse (森林咒术) : Level 52
     Foul Play (移花接木) : TM
     Giga Drain (终极吸取) : TM
     Giga Impact (终极冲击) : TM

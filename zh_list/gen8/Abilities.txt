@@ -25,10 +25,10 @@ Prevents opposing Pokemon from choosing to switch out unless they are airborne, 
 Aroma Veil (芳香幕)
 This Pokemon and its allies cannot become affected by Attract, Disable, Encore, Heal Block, Taunt, or Torment.
 
-As One (Glastrier)
+As One (Glastrier) (人马一体)
 Combination of the Unnerve and Chilling Neigh Abilities.
 
-As One (Spectrier)
+As One (Spectrier) (人马一体)
 Combination of the Unnerve and Grim Neigh Abilities.
 
 Aura Break (气场破坏)
@@ -142,7 +142,7 @@ If this Pokemon is a Mimikyu, the first hit it takes in battle deals 0 neutral d
 Download (下载)
 On switch-in, this Pokemon's Attack or Special Attack is raised by 1 stage based on the weaker combined defensive stat of all opposing Pokemon. Attack is raised if their Defense is lower, and Special Attack is raised if their Special Defense is the same or lower.
 
-Dragon's Maw
+Dragon's Maw (龙颚)
 This Pokemon's offensive stat is multiplied by 1.5 while using a Dragon-type attack.
 
 Drizzle (降雨)

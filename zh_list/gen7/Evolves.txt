@@ -24,9 +24,9 @@ Sandshrew (穿山鼠) -> Sandslash (穿山王)
 
 Sandshrew-Alola -> Sandslash-Alola
 
-Nidoran-F -> Nidorina (尼多娜) -> Nidoqueen (尼多后)
+Nidoran-F (尼多兰) -> Nidorina (尼多娜) -> Nidoqueen (尼多后)
 
-Nidoran-M -> Nidorino (尼多力诺) -> Nidoking (尼多王)
+Nidoran-M (尼多朗) -> Nidorino (尼多力诺) -> Nidoking (尼多王)
 
 Cleffa (皮宝宝) -> Clefairy (皮皮) -> Clefable (皮可西)
 
@@ -477,7 +477,7 @@ Scatterbug (粉蝶虫) -> Spewpa (粉蝶蛹) -> Vivillon (彩粉蝶)
 
 Litleo (小狮狮) -> Pyroar (火炎狮)
 
-Flabébé -> Floette (花叶蒂) -> Florges (花洁夫人)
+Flabebe (花蓓蓓) -> Floette (花叶蒂) -> Florges (花洁夫人)
 
 Skiddo (坐骑小羊) -> Gogoat (坐骑山羊)
 

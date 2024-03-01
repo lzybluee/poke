@@ -912,7 +912,7 @@ Sandslash (穿山王)
     Thief (小偷) : TM
     Toxic (剧毒) : TM
 
-Nidoran-F
+Nidoran-F (尼多兰)
     Attract (迷人) : TM
     Beat Up (围攻) : Egg
     Bite (咬住) : Level 30
@@ -1038,7 +1038,7 @@ Nidoqueen (尼多后)
     Thunder Punch (雷电拳) : TM
     Toxic (剧毒) : TM
 
-Nidoran-M
+Nidoran-M (尼多朗)
     Amnesia (瞬间失忆) : Egg
     Attract (迷人) : TM
     Beat Up (围攻) : Egg
@@ -2960,7 +2960,7 @@ Magneton (三合一磁怪)
     Tri Attack (三重攻击) : Level 35
     Zap Cannon (电磁炮) : TM, Level 53
 
-Farfetch’d (大葱鸭)
+Farfetch'd (大葱鸭)
     Agility (高速移动) : Level 31
     Attract (迷人) : TM
     Curse (咒术) : TM

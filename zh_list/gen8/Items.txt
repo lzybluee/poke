@@ -328,7 +328,7 @@ Raises holder's Defense by 1 stage after it is hit by a physical attack. Single 
 Kelpsy Berry (藻根果)
 Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
 
-King's Rock
+King's Rock (王者之证)
 Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.
 
 Lagging Tail (后攻之尾)
@@ -487,7 +487,7 @@ Holder's Poison-type attacks have 1.2x power.
 Poison Memory (毒存储碟)
 Holder's Multi-Attack is Poison type.
 
-Poke Ball
+Poke Ball (精灵球)
 A device for catching wild Pokemon. It is designed as a capsule system.
 
 Pomeg Berry (榴石果)
@@ -1015,7 +1015,7 @@ Holder's Psychic-type attacks have 1.2x power.
 Ultra Ball (高级球)
 An ultra-performance Ball that provides a higher catch rate than a Great Ball.
 
-Up-Grade
+Up-Grade (升级数据)
 Evolves Porygon into Porygon2 when traded.
 
 Utility Umbrella (万能伞)

@@ -1711,7 +1711,7 @@ Ion Deluge
 Parabolic Charge
 抛物面充电
 
-Forest’s Curse
+Forest's Curse
 森林咒术
 
 Petal Blizzard
@@ -1762,7 +1762,7 @@ Boomburst
 Fairy Lock
 妖精之锁
 
-King’s Shield
+King's Shield
 王者盾牌
 
 Play Nice
@@ -1846,7 +1846,7 @@ Thousand Arrows
 Thousand Waves
 千波激荡
 
-Land’s Wrath
+Land's Wrath
 大地神力
 
 Light of Ruin
@@ -2095,7 +2095,7 @@ Tearful Look
 Zing Zap
 麻麻刺刺
 
-Nature’s Madness
+Nature's Madness
 自然之怒
 
 Multi-Attack
@@ -2122,7 +2122,7 @@ Searing Sunraze Smash
 Menacing Moonraze Maelstrom
 月华飞溅落灵霄
 
-Let’s Snuggle Forever
+Let's Snuggle Forever
 亲密无间大乱揍
 
 Splintered Stormshards

@@ -31,10 +31,10 @@ Priority moves used by opposing Pokemon targeting this Pokemon or its allies are
 Aroma Veil (芳香幕)
 This Pokemon and its allies cannot become affected by Attract, Disable, Encore, Heal Block, Taunt, or Torment.
 
-As One (Glastrier)
+As One (Glastrier) (人马一体)
 Combination of the Unnerve and Chilling Neigh Abilities.
 
-As One (Spectrier)
+As One (Spectrier) (人马一体)
 Combination of the Unnerve and Grim Neigh Abilities.
 
 Aura Break (气场破坏)
@@ -160,7 +160,7 @@ If this Pokemon is a Mimikyu, the first hit it takes in battle deals 0 neutral d
 Download (下载)
 On switch-in, this Pokemon's Attack or Special Attack is raised by 1 stage based on the weaker combined defensive stat of all opposing Pokemon. Attack is raised if their Defense is lower, and Special Attack is raised if their Special Defense is the same or lower.
 
-Dragon's Maw
+Dragon's Maw (龙颚)
 This Pokemon's offensive stat is multiplied by 1.5 while using a Dragon-type attack.
 
 Drizzle (降雨)
@@ -187,16 +187,16 @@ On switch-in, this Pokemon summons Electric Terrain.
 Electromorphosis (电力转换)
 This Pokemon gains the Charge effect when it takes a hit from an attack.
 
-Embody Aspect (Cornerstone)
+Embody Aspect (Cornerstone) (面影辉映)
 On switch-in, this Pokemon's Defense is raised by 1 stage.
 
-Embody Aspect (Hearthflame)
+Embody Aspect (Hearthflame) (面影辉映)
 On switch-in, this Pokemon's Attack is raised by 1 stage.
 
-Embody Aspect (Teal)
+Embody Aspect (Teal) (面影辉映)
 On switch-in, this Pokemon's Speed is raised by 1 stage.
 
-Embody Aspect (Wellspring)
+Embody Aspect (Wellspring) (面影辉映)
 On switch-in, this Pokemon's Special Defense is raised by 1 stage.
 
 Emergency Exit (危险回避)
@@ -427,7 +427,7 @@ This Pokemon's attacks are critical hits if the target is poisoned.
 Mimicry (拟态)
 This Pokemon's types change to match the active Terrain when this Pokemon acquires this Ability, or whenever a Terrain begins. Electric type during Electric Terrain, Grass type during Grassy Terrain, Fairy type during Misty Terrain, and Psychic type during Psychic Terrain. If this Ability is acquired without an active Terrain, or a Terrain ends, this Pokemon's types become the original types for its species.
 
-Mind's Eye
+Mind's Eye (心眼)
 This Pokemon can hit Ghost types with Normal- and Fighting-type moves. Prevents other Pokemon from lowering this Pokemon's accuracy stat stage. This Pokemon ignores a target's evasiveness stat stage.
 
 Minus (负电)

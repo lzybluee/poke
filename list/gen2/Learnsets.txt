@@ -2960,7 +2960,7 @@ Magneton
     Tri Attack : Level 35
     Zap Cannon : TM, Level 53
 
-Farfetch’d
+Farfetch'd
     Agility : Level 31
     Attract : TM
     Curse : TM

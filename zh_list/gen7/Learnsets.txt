@@ -2137,7 +2137,7 @@ Sandslash-Alola
     Work Up (自我激励) : TM
     X-Scissor (十字剪) : TM
 
-Nidoran-F
+Nidoran-F (尼多兰)
     Aerial Ace (燕返) : TM
     Attract (迷人) : TM
     Beat Up (围攻) : Egg
@@ -2323,7 +2323,7 @@ Nidoqueen (尼多后)
     Venoshock (毒液冲击) : TM
     Water Pulse (水之波动) : Tutor
 
-Nidoran-M
+Nidoran-M (尼多朗)
     Amnesia (瞬间失忆) : Egg
     Attract (迷人) : TM
     Beat Up (围攻) : Egg
@@ -6003,7 +6003,7 @@ Magneton (三合一磁怪)
     Wild Charge (疯狂伏特) : TM
     Zap Cannon (电磁炮) : Level 1
 
-Farfetch’d (大葱鸭)
+Farfetch'd (大葱鸭)
     Acrobatics (杂技) : TM, Level 37
     Aerial Ace (燕返) : TM, Level 9
     Agility (高速移动) : Level 31
@@ -42231,7 +42231,7 @@ Pyroar (火炎狮)
     Will-O-Wisp (磷火) : TM
     Work Up (自我激励) : TM, Level 1
 
-Flabébé
+Flabebe (花蓓蓓)
     After You (您先请) : Tutor
     Ally Switch (交换场地) : Tutor
     Aromatherapy (芳香治疗) : Level 33
@@ -43047,7 +43047,7 @@ Aegislash (坚盾剑怪)
     Hyper Beam (破坏光线) : TM
     Iron Defense (铁壁) : Tutor, Level 1
     Iron Head (铁头) : Tutor, Level 1
-    King's Shield : Level 1
+    King's Shield (王者盾牌) : Level 1
     Laser Focus (磨砺) : Tutor
     Magnet Rise (电磁飘浮) : Tutor
     Night Slash (暗袭要害) : Level 1
@@ -44625,7 +44625,7 @@ Phantump (小木灵)
     Energy Ball (能量球) : TM
     Facade (硬撑) : TM
     Feint Attack (出奇一击) : Level 19
-    Forest's Curse : Level 35
+    Forest's Curse (森林咒术) : Level 35
     Foul Play (移花接木) : Tutor
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : Tutor
@@ -44695,7 +44695,7 @@ Trevenant (朽木妖)
     Facade (硬撑) : TM
     Feint Attack (出奇一击) : Level 19
     Focus Blast (真气弹) : TM
-    Forest's Curse : Level 35
+    Forest's Curse (森林咒术) : Level 35
     Foul Play (移花接木) : Tutor
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : Tutor
@@ -45277,7 +45277,7 @@ Zygarde (基格尔德)
     Hyper Beam (破坏光线) : TM
     Hyper Voice (巨声) : Tutor
     Iron Tail (铁尾) : Tutor
-    Land's Wrath : Level 26
+    Land's Wrath (大地神力) : Level 26
     Outrage (逆鳞) : Tutor, Level 80
     Pain Split (分担痛楚) : Tutor
     Protect (守住) : TM
@@ -49903,7 +49903,7 @@ Tapu Koko (卡璞・鸣鸣)
     Mean Look (黑色目光) : Level 1
     Mirror Move (鹦鹉学舌) : Level 38
     Nature Power (自然之力) : TM
-    Nature's Madness : Level 43
+    Nature's Madness (自然之怒) : Level 43
     Power Swap (力量互换) : Level 1
     Protect (守住) : TM
     Psych Up (自我暗示) : TM
@@ -49973,7 +49973,7 @@ Tapu Lele (卡璞・蝶蝶)
     Mean Look (黑色目光) : Level 1
     Moonblast (月亮之力) : Level 58
     Nature Power (自然之力) : TM
-    Nature's Madness : Level 43
+    Nature's Madness (自然之怒) : Level 43
     Protect (守住) : TM
     Psybeam (幻象光线) : Level 14
     Psychic (精神强念) : TM
@@ -50036,7 +50036,7 @@ Tapu Bulu (卡璞・哞哞)
     Mean Look (黑色目光) : Level 1
     Megahorn (超级角击) : Level 53
     Nature Power (自然之力) : TM
-    Nature's Madness : Level 43
+    Nature's Madness (自然之怒) : Level 43
     Payback (以牙还牙) : TM
     Protect (守住) : TM
     Psych Up (自我暗示) : TM
@@ -50109,7 +50109,7 @@ Tapu Fini (卡璞・鳍鳍)
     Moonblast (月亮之力) : Level 1
     Muddy Water (浊流) : Level 48
     Nature Power (自然之力) : TM
-    Nature's Madness : Level 43
+    Nature's Madness (自然之怒) : Level 43
     Protect (守住) : TM
     Psych Up (自我暗示) : TM
     Rain Dance (求雨) : TM

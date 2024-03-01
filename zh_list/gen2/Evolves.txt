@@ -20,9 +20,9 @@ Pichu (皮丘) -> Pikachu (皮卡丘) -> Raichu (雷丘)
 
 Sandshrew (穿山鼠) -> Sandslash (穿山王)
 
-Nidoran-F -> Nidorina (尼多娜) -> Nidoqueen (尼多后)
+Nidoran-F (尼多兰) -> Nidorina (尼多娜) -> Nidoqueen (尼多后)
 
-Nidoran-M -> Nidorino (尼多力诺) -> Nidoking (尼多王)
+Nidoran-M (尼多朗) -> Nidorino (尼多力诺) -> Nidoking (尼多王)
 
 Cleffa (皮宝宝) -> Clefairy (皮皮) -> Clefable (皮可西)
 

@@ -3895,7 +3895,7 @@ Magneton
     Tri Attack : Level 44
     Zap Cannon : Level 62
 
-Farfetch’d
+Farfetch'd
     Aerial Ace : TM
     Agility : Level 36
     Attract : TM

@@ -4650,7 +4650,7 @@ Magneton
     Wild Charge : TM
     Zap Cannon : Level 64
 
-Farfetch’d
+Farfetch'd
     Acrobatics : TM
     Aerial Ace : Level 20
     Agility : TM, Level 60
@@ -4712,7 +4712,7 @@ Farfetch’d
     U-turn : TM
     Work Up : TM
 
-Farfetch’d-Galar
+Farfetch'd-Galar
     Assurance : TM
     Attract : TM
     Body Slam : TM
@@ -37260,7 +37260,7 @@ Cursola
     Whirlpool : TM
     Will-O-Wisp : TM
 
-Sirfetch’d
+Sirfetch'd
     Assurance : TM
     Attract : TM
     Body Slam : TM

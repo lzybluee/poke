@@ -161,7 +161,7 @@ hp: 75, atk: 100, def: 120, spa: 25, spd: 65, spe: 65, sum: 450
 0: Snow Cloak (雪隐), H: Slush Rush (拨雪)
 
 29
-Nidoran-F
+Nidoran-F (尼多兰)
 Poison
 hp: 55, atk: 47, def: 52, spa: 40, spd: 40, spe: 41, sum: 275
 0: Poison Point (毒刺), 1: Rivalry (斗争心), H: Hustle (活力)
@@ -179,7 +179,7 @@ hp: 90, atk: 92, def: 87, spa: 75, spd: 85, spe: 76, sum: 505
 0: Poison Point (毒刺), 1: Rivalry (斗争心), H: Sheer Force (强行)
 
 32
-Nidoran-M
+Nidoran-M (尼多朗)
 Poison
 hp: 46, atk: 57, def: 40, spa: 40, spd: 40, spe: 50, sum: 273
 0: Poison Point (毒刺), 1: Rivalry (斗争心), H: Hustle (活力)
@@ -479,13 +479,13 @@ hp: 50, atk: 60, def: 95, spa: 120, spd: 70, spe: 70, sum: 465
 0: Magnet Pull (磁力), 1: Sturdy (结实), H: Analytic (分析)
 
 83
-Farfetch’d (大葱鸭)
+Farfetch'd (大葱鸭)
 Normal, Flying
 hp: 52, atk: 90, def: 55, spa: 58, spd: 62, spe: 60, sum: 377
 0: Keen Eye (锐利目光), 1: Inner Focus (精神力), H: Defiant (不服输)
 
 83
-Farfetch’d-Galar
+Farfetch'd-Galar
 Fighting
 hp: 52, atk: 95, def: 55, spa: 58, spd: 62, spe: 55, sum: 377
 0: Steadfast (不屈之心), H: Scrappy (胆量)
@@ -4361,7 +4361,7 @@ hp: 60, atk: 95, def: 50, spa: 145, spd: 130, spe: 30, sum: 510
 0: Weak Armor (碎裂铠甲), H: Perish Body (灭亡之躯)
 
 865
-Sirfetch’d (葱游兵)
+Sirfetch'd (葱游兵)
 Fighting
 hp: 62, atk: 135, def: 95, spa: 68, spd: 82, spe: 65, sum: 507
 0: Steadfast (不屈之心), H: Scrappy (胆量)
@@ -4586,7 +4586,7 @@ hp: 80, atk: 100, def: 50, spa: 100, spd: 50, spe: 200, sum: 580
 Regidrago (雷吉铎拉戈)
 Dragon
 hp: 200, atk: 100, def: 50, spa: 100, spd: 50, spe: 80, sum: 580
-0: Dragon's Maw
+0: Dragon's Maw (龙颚)
 
 896
 Glastrier (雪暴马)
@@ -4610,10 +4610,10 @@ hp: 100, atk: 80, def: 80, spa: 80, spd: 80, spe: 80, sum: 500
 Calyrex-Ice
 Psychic, Ice
 hp: 100, atk: 165, def: 150, spa: 85, spd: 130, spe: 50, sum: 680
-0: As One (Glastrier)
+0: As One (Glastrier) (人马一体)
 
 898
 Calyrex-Shadow
 Psychic, Ghost
 hp: 100, atk: 85, def: 80, spa: 165, spd: 100, spe: 150, sum: 680
-0: As One (Spectrier)
+0: As One (Spectrier) (人马一体)

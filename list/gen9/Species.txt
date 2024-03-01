@@ -3263,7 +3263,7 @@ hp: 86, atk: 68, def: 72, spa: 109, spd: 66, spe: 106, sum: 507
 0: Rivalry, 1: Unnerve, H: Moxie
 
 669
-Flabébé
+Flabebe
 Fairy
 hp: 44, atk: 38, def: 39, spa: 61, spd: 79, spe: 42, sum: 303
 0: Flower Veil, H: Symbiosis

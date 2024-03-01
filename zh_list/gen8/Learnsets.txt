@@ -1544,7 +1544,7 @@ Sandslash-Alola
     Work Up (自我激励) : TM
     X-Scissor (十字剪) : TM
 
-Nidoran-F
+Nidoran-F (尼多兰)
     Attract (迷人) : TM
     Beat Up (围攻) : TM
     Bite (咬住) : Level 30
@@ -1719,7 +1719,7 @@ Nidoqueen (尼多后)
     Venoshock (毒液冲击) : TM
     Whirlpool (潮旋) : TM
 
-Nidoran-M
+Nidoran-M (尼多朗)
     Amnesia (瞬间失忆) : TM
     Attract (迷人) : TM
     Beat Up (围攻) : TM
@@ -4650,7 +4650,7 @@ Magneton (三合一磁怪)
     Wild Charge (疯狂伏特) : TM
     Zap Cannon (电磁炮) : Level 64
 
-Farfetch’d (大葱鸭)
+Farfetch'd (大葱鸭)
     Acrobatics (杂技) : TM
     Aerial Ace (燕返) : Level 20
     Agility (高速移动) : TM, Level 60
@@ -4712,7 +4712,7 @@ Farfetch’d (大葱鸭)
     U-turn (急速折返) : TM
     Work Up (自我激励) : TM
 
-Farfetch’d-Galar
+Farfetch'd-Galar
     Assurance (恶意追击) : TM
     Attract (迷人) : TM
     Body Slam (泰山压顶) : TM
@@ -28307,7 +28307,7 @@ Aegislash (坚盾剑怪)
     Hyper Beam (破坏光线) : TM
     Iron Defense (铁壁) : TM, Level 1
     Iron Head (铁头) : TM, Level 1
-    King's Shield : Level 0
+    King's Shield (王者盾牌) : Level 0
     Metal Sound (金属音) : Level 1
     Night Slash (暗袭要害) : Level 1
     Power Trick (力量戏法) : Level 1
@@ -29741,7 +29741,7 @@ Phantump (小木灵)
     Endure (挺住) : TM
     Energy Ball (能量球) : TM
     Facade (硬撑) : TM
-    Forest's Curse : Level 52
+    Forest's Curse (森林咒术) : Level 52
     Foul Play (移花接木) : TM
     Giga Drain (终极吸取) : TM
     Grass Knot (打草结) : TM
@@ -29802,7 +29802,7 @@ Trevenant (朽木妖)
     Energy Ball (能量球) : TM
     Facade (硬撑) : TM
     Focus Blast (真气弹) : TM
-    Forest's Curse : Level 52
+    Forest's Curse (森林咒术) : Level 52
     Foul Play (移花接木) : TM
     Giga Drain (终极吸取) : TM
     Giga Impact (终极冲击) : TM
@@ -30307,7 +30307,7 @@ Zygarde (基格尔德)
     Hyper Beam (破坏光线) : TM
     Hyper Voice (巨声) : TM
     Iron Tail (铁尾) : TM
-    Land's Wrath : Level 48
+    Land's Wrath (大地神力) : Level 48
     Outrage (逆鳞) : TM, Level 88
     Payback (以牙还牙) : TM
     Protect (守住) : TM
@@ -33315,7 +33315,7 @@ Tapu Koko (卡璞・鸣鸣)
     Iron Head (铁头) : TM
     Light Screen (光墙) : TM
     Mean Look (黑色目光) : Level 50
-    Nature's Madness : Level 55
+    Nature's Madness (自然之怒) : Level 55
     Power Swap (力量互换) : TM, Level 70
     Protect (守住) : TM
     Quick Attack (电光一闪) : Level 1
@@ -33373,7 +33373,7 @@ Tapu Lele (卡璞・蝶蝶)
     Magic Room (魔法空间) : TM
     Mean Look (黑色目光) : Level 50
     Moonblast (月亮之力) : Level 60
-    Nature's Madness : Level 55
+    Nature's Madness (自然之怒) : Level 55
     Play Rough (嬉闹) : TM
     Power Swap (力量互换) : TM
     Protect (守住) : TM
@@ -33436,7 +33436,7 @@ Tapu Bulu (卡璞・哞哞)
     Mega Drain (超级吸取) : Level 20
     Megahorn (超级角击) : TM, Level 65
     Mega Punch (百万吨重拳) : TM
-    Nature's Madness : Level 55
+    Nature's Madness (自然之怒) : Level 55
     Payback (以牙还牙) : TM
     Power Swap (力量互换) : TM
     Protect (守住) : TM
@@ -33500,7 +33500,7 @@ Tapu Fini (卡璞・鳍鳍)
     Misty Terrain (薄雾场地) : TM, Level 75
     Moonblast (月亮之力) : Level 60
     Muddy Water (浊流) : TM, Level 45
-    Nature's Madness : Level 55
+    Nature's Madness (自然之怒) : Level 55
     Play Rough (嬉闹) : TM
     Protect (守住) : TM
     Rain Dance (求雨) : TM
@@ -37260,7 +37260,7 @@ Cursola (魔灵珊瑚)
     Whirlpool (潮旋) : TM
     Will-O-Wisp (磷火) : TM
 
-Sirfetch’d (葱游兵)
+Sirfetch'd (葱游兵)
     Assurance (恶意追击) : TM
     Attract (迷人) : TM
     Body Slam (泰山压顶) : TM

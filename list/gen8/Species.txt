@@ -479,13 +479,13 @@ hp: 50, atk: 60, def: 95, spa: 120, spd: 70, spe: 70, sum: 465
 0: Magnet Pull, 1: Sturdy, H: Analytic
 
 83
-Farfetch’d
+Farfetch'd
 Normal, Flying
 hp: 52, atk: 90, def: 55, spa: 58, spd: 62, spe: 60, sum: 377
 0: Keen Eye, 1: Inner Focus, H: Defiant
 
 83
-Farfetch’d-Galar
+Farfetch'd-Galar
 Fighting
 hp: 52, atk: 95, def: 55, spa: 58, spd: 62, spe: 55, sum: 377
 0: Steadfast, H: Scrappy
@@ -4361,7 +4361,7 @@ hp: 60, atk: 95, def: 50, spa: 145, spd: 130, spe: 30, sum: 510
 0: Weak Armor, H: Perish Body
 
 865
-Sirfetch’d
+Sirfetch'd
 Fighting
 hp: 62, atk: 135, def: 95, spa: 68, spd: 82, spe: 65, sum: 507
 0: Steadfast, H: Scrappy

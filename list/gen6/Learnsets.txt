@@ -4995,7 +4995,7 @@ Magneton
     Wild Charge : TM
     Zap Cannon : Level 1
 
-Farfetch’d
+Farfetch'd
     Acrobatics : TM, Level 37
     Aerial Ace : TM, Level 9
     Agility : Level 31
@@ -42131,7 +42131,7 @@ Pyroar
     Will-O-Wisp : TM
     Work Up : Level 8
 
-Flabébé
+Flabebe
     After You : Tutor
     Aromatherapy : Level 33
     Attract : TM
