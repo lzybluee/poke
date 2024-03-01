@@ -152,7 +152,7 @@ Dread Plate (恶颜石板)
 Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.
 
 Dream Ball (梦境球)
-A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.
+A Poke Ball that makes it easier to catch wild Pokemon while they're asleep.
 
 Dubious Disc (可疑补丁)
 Evolves Porygon2 into Porygon-Z when traded.

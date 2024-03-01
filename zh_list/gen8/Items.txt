@@ -152,7 +152,7 @@ Dragon Scale (龙之鳞片)
 Evolves Seadra into Kingdra when traded.
 
 Dream Ball (梦境球)
-A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.
+A Poke Ball that makes it easier to catch wild Pokemon while they're asleep.
 
 Dubious Disc (可疑补丁)
 Evolves Porygon2 into Porygon-Z when traded.

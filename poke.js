@@ -80,7 +80,7 @@ function log_list(list_folder, detail_folder, file, obj) {
     let csv = '';
     for (let i in list) {
         let name = get_name(list[i].name, file == 'Abilities' ? ABILITIES : ITEMS);
-        let desc = file == 'Items' ? list[i].desc.replaceAll('’', "'").replaceAll('é', 'e') : list[i].desc;
+        let desc = file == 'Items' ? list[i].desc.replaceAll('’', "'").replaceAll('é', 'e') : list[i].desc;
 
         text += name + '\n' + desc + '\n';
         if (i < list.length - 1)
