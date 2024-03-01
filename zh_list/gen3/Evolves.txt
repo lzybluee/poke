@@ -66,6 +66,8 @@ Slowpoke (呆呆兽) -> Slowbro (呆壳兽), Slowking (呆呆王)
 
 Magnemite (小磁怪) -> Magneton (三合一磁怪)
 
+Farfetch'd (大葱鸭)
+
 Doduo (嘟嘟) -> Dodrio (嘟嘟利)
 
 Seel (小海狮) -> Dewgong (白海狮)
@@ -88,11 +90,19 @@ Exeggcute (蛋蛋) -> Exeggutor (椰蛋树)
 
 Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦)
 
+Tyrogue (无畏小子) -> Hitmonlee (飞腿郎), Hitmonchan (快拳郎), Hitmontop (战舞郎)
+
+Lickitung (大舌头)
+
 Koffing (瓦斯弹) -> Weezing (双弹瓦斯)
 
 Rhyhorn (独角犀牛) -> Rhydon (钻角犀兽)
 
 Chansey (吉利蛋) -> Blissey (幸福蛋)
+
+Tangela (蔓藤怪)
+
+Kangaskhan (袋兽)
 
 Horsea (墨海马) -> Seadra (海刺龙) -> Kingdra (刺龙王)
 
@@ -100,9 +110,25 @@ Goldeen (角金鱼) -> Seaking (金鱼王)
 
 Staryu (海星星) -> Starmie (宝石海星)
 
+Mr. Mime (魔墙人偶)
+
 Scyther (飞天螳螂) -> Scizor (巨钳螳螂)
 
+Smoochum (迷唇娃) -> Jynx (迷唇姐)
+
+Elekid (电击怪) -> Electabuzz (电击兽)
+
+Magby (鸭嘴宝宝) -> Magmar (鸭嘴火兽)
+
+Pinsir (凯罗斯)
+
+Tauros (肯泰罗)
+
 Magikarp (鲤鱼王) -> Gyarados (暴鲤龙)
+
+Lapras (拉普拉斯)
+
+Ditto (百变怪)
 
 Eevee (伊布) -> Vaporeon (水伊布), Jolteon (雷伊布), Flareon (火伊布), Espeon (太阳伊布), Umbreon (月亮伊布)
 
@@ -112,7 +138,21 @@ Omanyte (菊石兽) -> Omastar (多刺菊石兽)
 
 Kabuto (化石盔) -> Kabutops (镰刀盔)
 
+Aerodactyl (化石翼龙)
+
+Snorlax (卡比兽)
+
+Articuno (急冻鸟)
+
+Zapdos (闪电鸟)
+
+Moltres (火焰鸟)
+
 Dratini (迷你龙) -> Dragonair (哈克龙) -> Dragonite (快龙)
+
+Mewtwo (超梦)
+
+Mew (梦幻)
 
 Chikorita (菊草叶) -> Bayleef (月桂叶) -> Meganium (大竺葵)
 
@@ -138,15 +178,43 @@ Mareep (咩利羊) -> Flaaffy (茸茸羊) -> Ampharos (电龙)
 
 Azurill (露力丽) -> Marill (玛力露) -> Azumarill (玛力露丽)
 
+Sudowoodo (树才怪)
+
 Hoppip (毽子草) -> Skiploom (毽子花) -> Jumpluff (毽子棉)
+
+Aipom (长尾怪手)
 
 Sunkern (向日种子) -> Sunflora (向日花怪)
 
+Yanma (蜻蜻蜓)
+
 Wooper (乌波) -> Quagsire (沼王)
+
+Murkrow (黑暗鸦)
+
+Misdreavus (梦妖)
+
+Unown (未知图腾)
+
+Wynaut (小果然) -> Wobbuffet (果然翁)
+
+Girafarig (麒麟奇)
 
 Pineco (榛果球) -> Forretress (佛烈托斯)
 
+Dunsparce (土龙弟弟)
+
+Gligar (天蝎)
+
 Snubbull (布鲁) -> Granbull (布鲁皇)
+
+Qwilfish (千针鱼)
+
+Shuckle (壶壶)
+
+Heracross (赫拉克罗斯)
+
+Sneasel (狃拉)
 
 Teddiursa (熊宝宝) -> Ursaring (圈圈熊)
 
@@ -154,21 +222,39 @@ Slugma (熔岩虫) -> Magcargo (熔岩蜗牛)
 
 Swinub (小山猪) -> Piloswine (长毛猪)
 
+Corsola (太阳珊瑚)
+
 Remoraid (铁炮鱼) -> Octillery (章鱼桶)
+
+Delibird (信使鸟)
+
+Mantine (巨翅飞鱼)
+
+Skarmory (盔甲鸟)
 
 Houndour (戴鲁比) -> Houndoom (黑鲁加)
 
 Phanpy (小小象) -> Donphan (顿甲)
 
-Tyrogue (无畏小子) -> Hitmonlee (飞腿郎), Hitmonchan (快拳郎), Hitmontop (战舞郎)
+Stantler (惊角鹿)
 
-Smoochum (迷唇娃) -> Jynx (迷唇姐)
+Smeargle (图图犬)
 
-Elekid (电击怪) -> Electabuzz (电击兽)
+Miltank (大奶罐)
 
-Magby (鸭嘴宝宝) -> Magmar (鸭嘴火兽)
+Raikou (雷公)
+
+Entei (炎帝)
+
+Suicune (水君)
 
 Larvitar (幼基拉斯) -> Pupitar (沙基拉斯) -> Tyranitar (班基拉斯)
+
+Lugia (洛奇亚)
+
+Ho-Oh (凤王)
+
+Celebi (时拉比)
 
 Treecko (木守宫) -> Grovyle (森林蜥蜴) -> Sceptile (蜥蜴王)
 
@@ -205,13 +291,29 @@ Whismur (咕妞妞) -> Loudred (吼爆弹) -> Exploud (爆音怪)
 
 Makuhita (幕下力士) -> Hariyama (铁掌力士)
 
+Nosepass (朝北鼻)
+
 Skitty (向尾喵) -> Delcatty (优雅猫)
+
+Sableye (勾魂眼)
+
+Mawile (大嘴娃)
 
 Aron (可可多拉) -> Lairon (可多拉) -> Aggron (波士可多拉)
 
 Meditite (玛沙那) -> Medicham (恰雷姆)
 
 Electrike (落雷兽) -> Manectric (雷电兽)
+
+Plusle (正电拍拍)
+
+Minun (负电拍拍)
+
+Volbeat (电萤虫)
+
+Illumise (甜甜萤)
+
+Roselia (毒蔷薇)
 
 Gulpin (溶食兽) -> Swalot (吞食兽)
 
@@ -221,13 +323,25 @@ Wailmer (吼吼鲸) -> Wailord (吼鲸王)
 
 Numel (呆火驼) -> Camerupt (喷火驼)
 
+Torkoal (煤炭龟)
+
 Spoink (跳跳猪) -> Grumpig (噗噗猪)
+
+Spinda (晃晃斑)
 
 Trapinch (大颚蚁) -> Vibrava (超音波幼虫) -> Flygon (沙漠蜻蜓)
 
 Cacnea (刺球仙人掌) -> Cacturne (梦歌仙人掌)
 
 Swablu (青绵鸟) -> Altaria (七夕青鸟)
+
+Zangoose (猫鼬斩)
+
+Seviper (饭匙蛇)
+
+Lunatone (月石)
+
+Solrock (太阳岩)
 
 Barboach (泥泥鳅) -> Whiscash (鲶鱼王)
 
@@ -241,11 +355,19 @@ Anorith (太古羽虫) -> Armaldo (太古盔甲)
 
 Feebas (丑丑鱼) -> Milotic (美纳斯)
 
+Castform (飘浮泡泡)
+
+Kecleon (变隐龙)
+
 Shuppet (怨影娃娃) -> Banette (诅咒娃娃)
 
 Duskull (夜巡灵) -> Dusclops (彷徨夜灵)
 
-Wynaut (小果然) -> Wobbuffet (果然翁)
+Tropius (热带龙)
+
+Chimecho (风铃铃)
+
+Absol (阿勃梭鲁)
 
 Snorunt (雪童子) -> Glalie (冰鬼护)
 
@@ -253,7 +375,30 @@ Spheal (海豹球) -> Sealeo (海魔狮) -> Walrein (帝牙海狮)
 
 Clamperl (珍珠贝) -> Huntail (猎斑鱼), Gorebyss (樱花鱼)
 
+Relicanth (古空棘鱼)
+
+Luvdisc (爱心鱼)
+
 Bagon (宝贝龙) -> Shelgon (甲壳龙) -> Salamence (暴飞龙)
 
 Beldum (铁哑铃) -> Metang (金属怪) -> Metagross (巨金怪)
 
+Regirock (雷吉洛克)
+
+Regice (雷吉艾斯)
+
+Registeel (雷吉斯奇鲁)
+
+Latias (拉帝亚斯)
+
+Latios (拉帝欧斯)
+
+Kyogre (盖欧卡)
+
+Groudon (固拉多)
+
+Rayquaza (烈空坐)
+
+Jirachi (基拉祈)
+
+Deoxys (代欧奇希斯)

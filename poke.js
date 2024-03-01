@@ -169,7 +169,7 @@ function log_species(list_folder, detail_folder, file, obj) {
     let csv = '';
     for (let i in list) {
         let species_name = get_name(list[i].name, SPECIES);
-        species_info[list[i].id] = { name: list[i].name, evos: list[i].evos };
+        species_info[list[i].id] = list[i];
 
         text += list[i].num + '\n' + species_name + '\n';
 
@@ -278,11 +278,12 @@ function log_evolve(name, evos_list, evos_processed) {
 
     for (let i in evos_list[name]) {
         let evolve_name = evos_list[name][i];
-        if (evos_list[evolve_name]) {
+        if (evos_list[evolve_name] && evos_list[evolve_name].length > 0) {
             evolves = log_evolve(evolve_name, evos_list, evos_processed);
             for (let j in evolves)
                 evolve_list.push(' -> ' + get_name(evolve_name, SPECIES) + evolves[j]);
         } else {
+            evos_processed.push(evolve_name);
             no_further_evolve.push(get_name(evos_list[name][i], SPECIES));
         }
     }
@@ -295,7 +296,7 @@ function log_evolve(name, evos_list, evos_processed) {
 
 function log_evolves(file, species_info) {
     let text = '';
-    let evos_list = new Array();
+    let evos_list = {};
     let evos_processed = [];
 
     let species_names = [];
@@ -303,14 +304,12 @@ function log_evolves(file, species_info) {
         species_names.push(species_info[i].name)
 
     for (let i in species_info) {
-        if (species_info[i].evos.length > 0) {
-            let evos = species_info[i].evos.filter(
-                function(item) {
-                    return species_names.includes(item);
-                });
-            if (evos.length > 0)
-                evos_list[species_info[i].name] = evos;
-        }
+        let evos = species_info[i].evos.filter(
+            function(item) {
+                return species_names.includes(item);
+            });
+        if (evos.length > 0 || species_info[i].forme == '')
+            evos_list[species_info[i].name] = evos;
     }
 
     let pre_evos = [];
@@ -320,7 +319,10 @@ function log_evolves(file, species_info) {
         }
     }
 
+    let k = 0;
     for (let i in evos_list) {
+        k++;
+
         if (!evos_processed.includes(i)) {
             let species_name = i;
 
@@ -328,10 +330,16 @@ function log_evolves(file, species_info) {
                 species_name = pre_evos[species_name];
 
             evolves = log_evolve(species_name, evos_list, evos_processed);
-            for (let j in evolves)
-                text += get_name(species_name, SPECIES) + evolves[j] + '\n';
 
-            text += '\n';
+            if(evolves.length > 0) {
+                for (let j in evolves)
+                    text += get_name(species_name, SPECIES) + evolves[j] + '\n';
+            } else {
+                text += get_name(species_name, SPECIES) + '\n';
+            }
+
+            if (k < Object.keys(evos_list).length)
+                text += '\n';
         }
     }
 

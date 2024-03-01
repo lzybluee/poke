@@ -66,6 +66,8 @@ Slowpoke (呆呆兽) -> Slowbro (呆壳兽)
 
 Magnemite (小磁怪) -> Magneton (三合一磁怪)
 
+Farfetch'd (大葱鸭)
+
 Doduo (嘟嘟) -> Dodrio (嘟嘟利)
 
 Seel (小海狮) -> Dewgong (白海狮)
@@ -75,6 +77,8 @@ Grimer (臭泥) -> Muk (臭臭泥)
 Shellder (大舌贝) -> Cloyster (刺甲贝)
 
 Gastly (鬼斯) -> Haunter (鬼斯通) -> Gengar (耿鬼)
+
+Onix (大岩蛇)
 
 Drowzee (催眠貘) -> Hypno (引梦貘人)
 
@@ -86,9 +90,21 @@ Exeggcute (蛋蛋) -> Exeggutor (椰蛋树)
 
 Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦)
 
+Hitmonlee (飞腿郎)
+
+Hitmonchan (快拳郎)
+
+Lickitung (大舌头)
+
 Koffing (瓦斯弹) -> Weezing (双弹瓦斯)
 
 Rhyhorn (独角犀牛) -> Rhydon (钻角犀兽)
+
+Chansey (吉利蛋)
+
+Tangela (蔓藤怪)
+
+Kangaskhan (袋兽)
 
 Horsea (墨海马) -> Seadra (海刺龙)
 
@@ -96,13 +112,46 @@ Goldeen (角金鱼) -> Seaking (金鱼王)
 
 Staryu (海星星) -> Starmie (宝石海星)
 
+Mr. Mime (魔墙人偶)
+
+Scyther (飞天螳螂)
+
+Jynx (迷唇姐)
+
+Electabuzz (电击兽)
+
+Magmar (鸭嘴火兽)
+
+Pinsir (凯罗斯)
+
+Tauros (肯泰罗)
+
 Magikarp (鲤鱼王) -> Gyarados (暴鲤龙)
 
+Lapras (拉普拉斯)
+
+Ditto (百变怪)
+
 Eevee (伊布) -> Vaporeon (水伊布), Jolteon (雷伊布), Flareon (火伊布)
+
+Porygon (多边兽)
 
 Omanyte (菊石兽) -> Omastar (多刺菊石兽)
 
 Kabuto (化石盔) -> Kabutops (镰刀盔)
 
+Aerodactyl (化石翼龙)
+
+Snorlax (卡比兽)
+
+Articuno (急冻鸟)
+
+Zapdos (闪电鸟)
+
+Moltres (火焰鸟)
+
 Dratini (迷你龙) -> Dragonair (哈克龙) -> Dragonite (快龙)
 
+Mewtwo (超梦)
+
+Mew (梦幻)

@@ -66,6 +66,8 @@ Slowpoke (呆呆兽) -> Slowbro (呆壳兽), Slowking (呆呆王)
 
 Magnemite (小磁怪) -> Magneton (三合一磁怪)
 
+Farfetch'd (大葱鸭)
+
 Doduo (嘟嘟) -> Dodrio (嘟嘟利)
 
 Seel (小海狮) -> Dewgong (白海狮)
@@ -88,11 +90,19 @@ Exeggcute (蛋蛋) -> Exeggutor (椰蛋树)
 
 Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦)
 
+Tyrogue (无畏小子) -> Hitmonlee (飞腿郎), Hitmonchan (快拳郎), Hitmontop (战舞郎)
+
+Lickitung (大舌头)
+
 Koffing (瓦斯弹) -> Weezing (双弹瓦斯)
 
 Rhyhorn (独角犀牛) -> Rhydon (钻角犀兽)
 
 Chansey (吉利蛋) -> Blissey (幸福蛋)
+
+Tangela (蔓藤怪)
+
+Kangaskhan (袋兽)
 
 Horsea (墨海马) -> Seadra (海刺龙) -> Kingdra (刺龙王)
 
@@ -100,9 +110,25 @@ Goldeen (角金鱼) -> Seaking (金鱼王)
 
 Staryu (海星星) -> Starmie (宝石海星)
 
+Mr. Mime (魔墙人偶)
+
 Scyther (飞天螳螂) -> Scizor (巨钳螳螂)
 
+Smoochum (迷唇娃) -> Jynx (迷唇姐)
+
+Elekid (电击怪) -> Electabuzz (电击兽)
+
+Magby (鸭嘴宝宝) -> Magmar (鸭嘴火兽)
+
+Pinsir (凯罗斯)
+
+Tauros (肯泰罗)
+
 Magikarp (鲤鱼王) -> Gyarados (暴鲤龙)
+
+Lapras (拉普拉斯)
+
+Ditto (百变怪)
 
 Eevee (伊布) -> Vaporeon (水伊布), Jolteon (雷伊布), Flareon (火伊布), Espeon (太阳伊布), Umbreon (月亮伊布)
 
@@ -112,7 +138,21 @@ Omanyte (菊石兽) -> Omastar (多刺菊石兽)
 
 Kabuto (化石盔) -> Kabutops (镰刀盔)
 
+Aerodactyl (化石翼龙)
+
+Snorlax (卡比兽)
+
+Articuno (急冻鸟)
+
+Zapdos (闪电鸟)
+
+Moltres (火焰鸟)
+
 Dratini (迷你龙) -> Dragonair (哈克龙) -> Dragonite (快龙)
+
+Mewtwo (超梦)
+
+Mew (梦幻)
 
 Chikorita (菊草叶) -> Bayleef (月桂叶) -> Meganium (大竺葵)
 
@@ -138,15 +178,43 @@ Mareep (咩利羊) -> Flaaffy (茸茸羊) -> Ampharos (电龙)
 
 Marill (玛力露) -> Azumarill (玛力露丽)
 
+Sudowoodo (树才怪)
+
 Hoppip (毽子草) -> Skiploom (毽子花) -> Jumpluff (毽子棉)
+
+Aipom (长尾怪手)
 
 Sunkern (向日种子) -> Sunflora (向日花怪)
 
+Yanma (蜻蜻蜓)
+
 Wooper (乌波) -> Quagsire (沼王)
+
+Murkrow (黑暗鸦)
+
+Misdreavus (梦妖)
+
+Unown (未知图腾)
+
+Wobbuffet (果然翁)
+
+Girafarig (麒麟奇)
 
 Pineco (榛果球) -> Forretress (佛烈托斯)
 
+Dunsparce (土龙弟弟)
+
+Gligar (天蝎)
+
 Snubbull (布鲁) -> Granbull (布鲁皇)
+
+Qwilfish (千针鱼)
+
+Shuckle (壶壶)
+
+Heracross (赫拉克罗斯)
+
+Sneasel (狃拉)
 
 Teddiursa (熊宝宝) -> Ursaring (圈圈熊)
 
@@ -154,19 +222,36 @@ Slugma (熔岩虫) -> Magcargo (熔岩蜗牛)
 
 Swinub (小山猪) -> Piloswine (长毛猪)
 
+Corsola (太阳珊瑚)
+
 Remoraid (铁炮鱼) -> Octillery (章鱼桶)
+
+Delibird (信使鸟)
+
+Mantine (巨翅飞鱼)
+
+Skarmory (盔甲鸟)
 
 Houndour (戴鲁比) -> Houndoom (黑鲁加)
 
 Phanpy (小小象) -> Donphan (顿甲)
 
-Tyrogue (无畏小子) -> Hitmonlee (飞腿郎), Hitmonchan (快拳郎), Hitmontop (战舞郎)
+Stantler (惊角鹿)
 
-Smoochum (迷唇娃) -> Jynx (迷唇姐)
+Smeargle (图图犬)
 
-Elekid (电击怪) -> Electabuzz (电击兽)
+Miltank (大奶罐)
 
-Magby (鸭嘴宝宝) -> Magmar (鸭嘴火兽)
+Raikou (雷公)
+
+Entei (炎帝)
+
+Suicune (水君)
 
 Larvitar (幼基拉斯) -> Pupitar (沙基拉斯) -> Tyranitar (班基拉斯)
 
+Lugia (洛奇亚)
+
+Ho-Oh (凤王)
+
+Celebi (时拉比)

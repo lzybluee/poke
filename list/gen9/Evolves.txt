@@ -78,6 +78,8 @@ Voltorb-Hisui -> Electrode-Hisui
 
 Exeggcute -> Exeggutor, Exeggutor-Alola
 
+Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
+
 Koffing -> Weezing, Weezing-Galar
 
 Rhyhorn -> Rhydon -> Rhyperior
@@ -92,13 +94,31 @@ Elekid -> Electabuzz -> Electivire
 
 Magby -> Magmar -> Magmortar
 
+Tauros
+
 Magikarp -> Gyarados
+
+Lapras
+
+Ditto
 
 Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
 
 Porygon -> Porygon2 -> Porygon-Z
 
+Munchlax -> Snorlax
+
+Articuno
+
+Zapdos
+
+Moltres
+
 Dratini -> Dragonair -> Dragonite
+
+Mewtwo
+
+Mew
 
 Chikorita -> Bayleef -> Meganium
 
@@ -117,6 +137,8 @@ Chinchou -> Lanturn
 Mareep -> Flaaffy -> Ampharos
 
 Azurill -> Marill -> Azumarill
+
+Bonsly -> Sudowoodo
 
 Hoppip -> Skiploom -> Jumpluff
 
@@ -144,7 +166,11 @@ Gligar -> Gliscor
 
 Snubbull -> Granbull
 
+Qwilfish
+
 Qwilfish-Hisui -> Overqwil
+
+Heracross
 
 Sneasel -> Weavile
 
@@ -156,15 +182,29 @@ Slugma -> Magcargo
 
 Swinub -> Piloswine -> Mamoswine
 
+Delibird
+
+Skarmory
+
 Houndour -> Houndoom
 
 Phanpy -> Donphan
 
 Stantler -> Wyrdeer
 
-Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
+Smeargle
+
+Raikou
+
+Entei
+
+Suicune
 
 Larvitar -> Pupitar -> Tyranitar
+
+Lugia
+
+Ho-Oh
 
 Treecko -> Grovyle -> Sceptile
 
@@ -192,11 +232,23 @@ Makuhita -> Hariyama
 
 Nosepass -> Probopass
 
+Sableye
+
 Meditite -> Medicham
+
+Plusle
+
+Minun
+
+Volbeat
+
+Illumise
 
 Gulpin -> Swalot
 
 Numel -> Camerupt
+
+Torkoal
 
 Spoink -> Grumpig
 
@@ -205,6 +257,10 @@ Trapinch -> Vibrava -> Flygon
 Cacnea -> Cacturne
 
 Swablu -> Altaria
+
+Zangoose
+
+Seviper
 
 Barboach -> Whiscash
 
@@ -216,11 +272,37 @@ Shuppet -> Banette
 
 Duskull -> Dusclops -> Dusknoir
 
+Tropius
+
+Chingling -> Chimecho
+
 Snorunt -> Glalie, Froslass
+
+Luvdisc
 
 Bagon -> Shelgon -> Salamence
 
 Beldum -> Metang -> Metagross
+
+Regirock
+
+Regice
+
+Registeel
+
+Latias
+
+Latios
+
+Kyogre
+
+Groudon
+
+Rayquaza
+
+Jirachi
+
+Deoxys
 
 Turtwig -> Grotle -> Torterra
 
@@ -240,23 +322,21 @@ Shieldon -> Bastiodon
 
 Combee -> Vespiquen
 
+Pachirisu
+
 Buizel -> Floatzel
 
 Shellos -> Gastrodon
 
 Drifloon -> Drifblim
 
-Chingling -> Chimecho
-
 Stunky -> Skuntank
 
 Bronzor -> Bronzong
 
-Bonsly -> Sudowoodo
+Spiritomb
 
 Gible -> Gabite -> Garchomp
-
-Munchlax -> Snorlax
 
 Riolu -> Lucario
 
@@ -267,6 +347,36 @@ Croagunk -> Toxicroak
 Finneon -> Lumineon
 
 Snover -> Abomasnow
+
+Rotom
+
+Uxie
+
+Mesprit
+
+Azelf
+
+Dialga
+
+Palkia
+
+Heatran
+
+Regigigas
+
+Giratina
+
+Cresselia
+
+Phione
+
+Manaphy
+
+Darkrai
+
+Shaymin
+
+Arceus
 
 Snivy -> Servine -> Serperior
 
@@ -285,6 +395,8 @@ Sewaddle -> Swadloon -> Leavanny
 Cottonee -> Whimsicott
 
 Petilil -> Lilligant, Lilligant-Hisui
+
+Basculin
 
 Basculin-White-Striped -> Basculegion, Basculegion-F
 
@@ -308,6 +420,8 @@ Deerling -> Sawsbuck
 
 Foongus -> Amoonguss
 
+Alomomola
+
 Joltik -> Galvantula
 
 Tynamo -> Eelektrik -> Eelektross
@@ -317,6 +431,8 @@ Litwick -> Lampent -> Chandelure
 Axew -> Fraxure -> Haxorus
 
 Cubchoo -> Beartic
+
+Cryogonal
 
 Mienfoo -> Mienshao
 
@@ -331,6 +447,28 @@ Vullaby -> Mandibuzz
 Deino -> Zweilous -> Hydreigon
 
 Larvesta -> Volcarona
+
+Cobalion
+
+Terrakion
+
+Virizion
+
+Tornadus
+
+Thundurus
+
+Reshiram
+
+Zekrom
+
+Landorus
+
+Kyurem
+
+Keldeo
+
+Meloetta
 
 Chespin -> Quilladin -> Chesnaught
 
@@ -356,14 +494,28 @@ Skrelp -> Dragalge
 
 Clauncher -> Clawitzer
 
+Hawlucha
+
+Dedenne
+
+Carbink
+
 Goomy -> Sliggoo -> Goodra
 Goomy -> Sliggoo-Hisui -> Goodra-Hisui
+
+Klefki
 
 Phantump -> Trevenant
 
 Bergmite -> Avalugg, Avalugg-Hisui
 
 Noibat -> Noivern
+
+Diancie
+
+Hoopa
+
+Volcanion
 
 Rowlet -> Dartrix -> Decidueye, Decidueye-Hisui
 
@@ -378,6 +530,8 @@ Yungoos -> Gumshoos
 Grubbin -> Charjabug -> Vikavolt
 
 Crabrawler -> Crabominable
+
+Oricorio
 
 Cutiefly -> Ribombee
 
@@ -395,11 +549,29 @@ Salandit -> Salazzle
 
 Bounsweet -> Steenee -> Tsareena
 
+Comfey
+
+Oranguru
+
+Passimian
+
 Sandygast -> Palossand
+
+Minior
+
+Komala
+
+Mimikyu
+
+Bruxish
 
 Jangmo-o -> Hakamo-o -> Kommo-o
 
 Cosmog -> Cosmoem -> Solgaleo, Lunala
+
+Necrozma
+
+Magearna
 
 Grookey -> Thwackey -> Rillaboom
 
@@ -420,6 +592,8 @@ Applin -> Flapple, Appletun
 
 Silicobra -> Sandaconda
 
+Cramorant
+
 Arrokuda -> Barraskewda
 
 Toxel -> Toxtricity, Toxtricity-Low-Key
@@ -434,7 +608,19 @@ Impidimp -> Morgrem -> Grimmsnarl
 
 Milcery -> Alcremie
 
+Falinks
+
+Pincurchin
+
 Snom -> Frosmoth
+
+Stonjourner
+
+Eiscue
+
+Indeedee
+
+Morpeko
 
 Cufant -> Copperajah
 
@@ -442,7 +628,27 @@ Duraludon -> Archaludon
 
 Dreepy -> Drakloak -> Dragapult
 
+Zacian
+
+Zamazenta
+
+Eternatus
+
 Kubfu -> Urshifu, Urshifu-Rapid-Strike
+
+Zarude
+
+Regieleki
+
+Regidrago
+
+Glastrier
+
+Spectrier
+
+Calyrex
+
+Enamorus
 
 Sprigatito -> Floragato -> Meowscarada
 
@@ -464,6 +670,8 @@ Fidough -> Dachsbun
 
 Smoliv -> Dolliv -> Arboliva
 
+Squawkabilly
+
 Nacli -> Naclstack -> Garganacl
 
 Charcadet -> Armarouge, Ceruledge
@@ -480,6 +688,8 @@ Bramblin -> Brambleghast
 
 Toedscool -> Toedscruel
 
+Klawf
+
 Capsakid -> Scovillain
 
 Rellor -> Rabsca
@@ -490,15 +700,53 @@ Tinkatink -> Tinkatuff -> Tinkaton
 
 Wiglett -> Wugtrio
 
+Bombirdier
+
 Finizen -> Palafin
 
 Varoom -> Revavroom
+
+Cyclizar
+
+Orthworm
 
 Glimmet -> Glimmora
 
 Greavard -> Houndstone
 
+Flamigo
+
 Cetoddle -> Cetitan
+
+Veluza
+
+Dondozo
+
+Tatsugiri
+
+Great Tusk
+
+Scream Tail
+
+Brute Bonnet
+
+Flutter Mane
+
+Slither Wing
+
+Sandy Shocks
+
+Iron Treads
+
+Iron Bundle
+
+Iron Hands
+
+Iron Jugulis
+
+Iron Moth
+
+Iron Thorns
 
 Frigibax -> Arctibax -> Baxcalibur
 
@@ -506,7 +754,46 @@ Gimmighoul -> Gholdengo
 
 Gimmighoul-Roaming -> Gholdengo
 
+Wo-Chien
+
+Chien-Pao
+
+Ting-Lu
+
+Chi-Yu
+
+Roaring Moon
+
+Iron Valiant
+
+Koraidon
+
+Miraidon
+
+Walking Wake
+
+Iron Leaves
+
 Poltchageist -> Sinistcha
 
 Poltchageist-Artisan -> Sinistcha-Masterpiece
 
+Okidogi
+
+Munkidori
+
+Fezandipiti
+
+Ogerpon
+
+Gouging Fire
+
+Raging Bolt
+
+Iron Boulder
+
+Iron Crown
+
+Terapagos
+
+Pecharunt

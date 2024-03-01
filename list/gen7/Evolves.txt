@@ -78,6 +78,8 @@ Slowpoke -> Slowbro, Slowking
 
 Magnemite -> Magneton -> Magnezone
 
+Farfetch'd
+
 Doduo -> Dodrio
 
 Seel -> Dewgong
@@ -102,6 +104,8 @@ Exeggcute -> Exeggutor, Exeggutor-Alola
 
 Cubone -> Marowak, Marowak-Alola
 
+Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
+
 Lickitung -> Lickilicky
 
 Koffing -> Weezing
@@ -112,19 +116,33 @@ Happiny -> Chansey -> Blissey
 
 Tangela -> Tangrowth
 
+Kangaskhan
+
 Horsea -> Seadra -> Kingdra
 
 Goldeen -> Seaking
 
 Staryu -> Starmie
 
+Mime Jr. -> Mr. Mime
+
 Scyther -> Scizor
+
+Smoochum -> Jynx
 
 Elekid -> Electabuzz -> Electivire
 
 Magby -> Magmar -> Magmortar
 
+Pinsir
+
+Tauros
+
 Magikarp -> Gyarados
+
+Lapras
+
+Ditto
 
 Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
 
@@ -134,7 +152,21 @@ Omanyte -> Omastar
 
 Kabuto -> Kabutops
 
+Aerodactyl
+
+Munchlax -> Snorlax
+
+Articuno
+
+Zapdos
+
+Moltres
+
 Dratini -> Dragonair -> Dragonite
+
+Mewtwo
+
+Mew
 
 Chikorita -> Bayleef -> Meganium
 
@@ -160,6 +192,8 @@ Mareep -> Flaaffy -> Ampharos
 
 Azurill -> Marill -> Azumarill
 
+Bonsly -> Sudowoodo
+
 Hoppip -> Skiploom -> Jumpluff
 
 Aipom -> Ambipom
@@ -174,11 +208,25 @@ Murkrow -> Honchkrow
 
 Misdreavus -> Mismagius
 
+Unown
+
+Wynaut -> Wobbuffet
+
+Girafarig
+
 Pineco -> Forretress
+
+Dunsparce
 
 Gligar -> Gliscor
 
 Snubbull -> Granbull
+
+Qwilfish
+
+Shuckle
+
+Heracross
 
 Sneasel -> Weavile
 
@@ -188,17 +236,39 @@ Slugma -> Magcargo
 
 Swinub -> Piloswine -> Mamoswine
 
+Corsola
+
 Remoraid -> Octillery
+
+Delibird
+
+Mantyke -> Mantine
+
+Skarmory
 
 Houndour -> Houndoom
 
 Phanpy -> Donphan
 
-Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
+Stantler
 
-Smoochum -> Jynx
+Smeargle
+
+Miltank
+
+Raikou
+
+Entei
+
+Suicune
 
 Larvitar -> Pupitar -> Tyranitar
+
+Lugia
+
+Ho-Oh
+
+Celebi
 
 Treecko -> Grovyle -> Sceptile
 
@@ -239,11 +309,23 @@ Nosepass -> Probopass
 
 Skitty -> Delcatty
 
+Sableye
+
+Mawile
+
 Aron -> Lairon -> Aggron
 
 Meditite -> Medicham
 
 Electrike -> Manectric
+
+Plusle
+
+Minun
+
+Volbeat
+
+Illumise
 
 Budew -> Roselia -> Roserade
 
@@ -255,13 +337,25 @@ Wailmer -> Wailord
 
 Numel -> Camerupt
 
+Torkoal
+
 Spoink -> Grumpig
+
+Spinda
 
 Trapinch -> Vibrava -> Flygon
 
 Cacnea -> Cacturne
 
 Swablu -> Altaria
+
+Zangoose
+
+Seviper
+
+Lunatone
+
+Solrock
 
 Barboach -> Whiscash
 
@@ -275,11 +369,19 @@ Anorith -> Armaldo
 
 Feebas -> Milotic
 
+Castform
+
+Kecleon
+
 Shuppet -> Banette
 
 Duskull -> Dusclops -> Dusknoir
 
-Wynaut -> Wobbuffet
+Tropius
+
+Chingling -> Chimecho
+
+Absol
 
 Snorunt -> Glalie, Froslass
 
@@ -287,9 +389,33 @@ Spheal -> Sealeo -> Walrein
 
 Clamperl -> Huntail, Gorebyss
 
+Relicanth
+
+Luvdisc
+
 Bagon -> Shelgon -> Salamence
 
 Beldum -> Metang -> Metagross
+
+Regirock
+
+Regice
+
+Registeel
+
+Latias
+
+Latios
+
+Kyogre
+
+Groudon
+
+Rayquaza
+
+Jirachi
+
+Deoxys
 
 Turtwig -> Grotle -> Torterra
 
@@ -313,6 +439,8 @@ Burmy -> Wormadam, Wormadam-Sandy, Wormadam-Trash, Mothim
 
 Combee -> Vespiquen
 
+Pachirisu
+
 Buizel -> Floatzel
 
 Cherubi -> Cherrim
@@ -325,19 +453,15 @@ Buneary -> Lopunny
 
 Glameow -> Purugly
 
-Chingling -> Chimecho
-
 Stunky -> Skuntank
 
 Bronzor -> Bronzong
 
-Bonsly -> Sudowoodo
+Chatot
 
-Mime Jr. -> Mr. Mime
+Spiritomb
 
 Gible -> Gabite -> Garchomp
-
-Munchlax -> Snorlax
 
 Riolu -> Lucario
 
@@ -347,11 +471,43 @@ Skorupi -> Drapion
 
 Croagunk -> Toxicroak
 
+Carnivine
+
 Finneon -> Lumineon
 
-Mantyke -> Mantine
-
 Snover -> Abomasnow
+
+Rotom
+
+Uxie
+
+Mesprit
+
+Azelf
+
+Dialga
+
+Palkia
+
+Heatran
+
+Regigigas
+
+Giratina
+
+Cresselia
+
+Phione
+
+Manaphy
+
+Darkrai
+
+Shaymin
+
+Arceus
+
+Victini
 
 Snivy -> Servine -> Serperior
 
@@ -383,9 +539,15 @@ Woobat -> Swoobat
 
 Drilbur -> Excadrill
 
+Audino
+
 Timburr -> Gurdurr -> Conkeldurr
 
 Tympole -> Palpitoad -> Seismitoad
+
+Throh
+
+Sawk
 
 Sewaddle -> Swadloon -> Leavanny
 
@@ -395,13 +557,19 @@ Cottonee -> Whimsicott
 
 Petilil -> Lilligant
 
+Basculin
+
 Sandile -> Krokorok -> Krookodile
 
 Darumaka -> Darmanitan
 
+Maractus
+
 Dwebble -> Crustle
 
 Scraggy -> Scrafty
+
+Sigilyph
 
 Yamask -> Cofagrigus
 
@@ -425,11 +593,15 @@ Vanillite -> Vanillish -> Vanilluxe
 
 Deerling -> Sawsbuck
 
+Emolga
+
 Karrablast -> Escavalier
 
 Foongus -> Amoonguss
 
 Frillish -> Jellicent
+
+Alomomola
 
 Joltik -> Galvantula
 
@@ -447,21 +619,57 @@ Axew -> Fraxure -> Haxorus
 
 Cubchoo -> Beartic
 
+Cryogonal
+
 Shelmet -> Accelgor
 
+Stunfisk
+
 Mienfoo -> Mienshao
+
+Druddigon
 
 Golett -> Golurk
 
 Pawniard -> Bisharp
 
+Bouffalant
+
 Rufflet -> Braviary
 
 Vullaby -> Mandibuzz
 
+Heatmor
+
+Durant
+
 Deino -> Zweilous -> Hydreigon
 
 Larvesta -> Volcarona
+
+Cobalion
+
+Terrakion
+
+Virizion
+
+Tornadus
+
+Thundurus
+
+Reshiram
+
+Zekrom
+
+Landorus
+
+Kyurem
+
+Keldeo
+
+Meloetta
+
+Genesect
 
 Chespin -> Quilladin -> Chesnaught
 
@@ -482,6 +690,8 @@ Flabebe -> Floette -> Florges
 Skiddo -> Gogoat
 
 Pancham -> Pangoro
+
+Furfrou
 
 Espurr -> Meowstic, Meowstic-F
 
@@ -505,7 +715,15 @@ Tyrunt -> Tyrantrum
 
 Amaura -> Aurorus
 
+Hawlucha
+
+Dedenne
+
+Carbink
+
 Goomy -> Sliggoo -> Goodra
+
+Klefki
 
 Phantump -> Trevenant
 
@@ -521,6 +739,18 @@ Bergmite -> Avalugg
 
 Noibat -> Noivern
 
+Xerneas
+
+Yveltal
+
+Zygarde
+
+Diancie
+
+Hoopa
+
+Volcanion
+
 Rowlet -> Dartrix -> Decidueye
 
 Litten -> Torracat -> Incineroar
@@ -535,9 +765,13 @@ Grubbin -> Charjabug -> Vikavolt
 
 Crabrawler -> Crabominable
 
+Oricorio
+
 Cutiefly -> Ribombee
 
 Rockruff -> Lycanroc, Lycanroc-Midnight, Lycanroc-Dusk
+
+Wishiwashi
 
 Mareanie -> Toxapex
 
@@ -555,15 +789,72 @@ Stufful -> Bewear
 
 Bounsweet -> Steenee -> Tsareena
 
+Comfey
+
+Oranguru
+
+Passimian
+
 Wimpod -> Golisopod
 
 Sandygast -> Palossand
 
+Pyukumuku
+
 Type: Null -> Silvally
+
+Minior
+
+Komala
+
+Turtonator
+
+Togedemaru
+
+Mimikyu
+
+Bruxish
+
+Drampa
+
+Dhelmise
 
 Jangmo-o -> Hakamo-o -> Kommo-o
 
+Tapu Koko
+
+Tapu Lele
+
+Tapu Bulu
+
+Tapu Fini
+
 Cosmog -> Cosmoem -> Solgaleo, Lunala
+
+Nihilego
+
+Buzzwole
+
+Pheromosa
+
+Xurkitree
+
+Celesteela
+
+Kartana
+
+Guzzlord
+
+Necrozma
+
+Magearna
+
+Marshadow
 
 Poipole -> Naganadel
 
+Stakataka
+
+Blacephalon
+
+Zeraora

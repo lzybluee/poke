@@ -66,6 +66,8 @@ Slowpoke -> Slowbro, Slowking
 
 Magnemite -> Magneton
 
+Farfetch'd
+
 Doduo -> Dodrio
 
 Seel -> Dewgong
@@ -88,11 +90,19 @@ Exeggcute -> Exeggutor
 
 Cubone -> Marowak
 
+Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
+
+Lickitung
+
 Koffing -> Weezing
 
 Rhyhorn -> Rhydon
 
 Chansey -> Blissey
+
+Tangela
+
+Kangaskhan
 
 Horsea -> Seadra -> Kingdra
 
@@ -100,9 +110,25 @@ Goldeen -> Seaking
 
 Staryu -> Starmie
 
+Mr. Mime
+
 Scyther -> Scizor
 
+Smoochum -> Jynx
+
+Elekid -> Electabuzz
+
+Magby -> Magmar
+
+Pinsir
+
+Tauros
+
 Magikarp -> Gyarados
+
+Lapras
+
+Ditto
 
 Eevee -> Vaporeon, Jolteon, Flareon, Espeon, Umbreon
 
@@ -112,7 +138,21 @@ Omanyte -> Omastar
 
 Kabuto -> Kabutops
 
+Aerodactyl
+
+Snorlax
+
+Articuno
+
+Zapdos
+
+Moltres
+
 Dratini -> Dragonair -> Dragonite
+
+Mewtwo
+
+Mew
 
 Chikorita -> Bayleef -> Meganium
 
@@ -138,15 +178,43 @@ Mareep -> Flaaffy -> Ampharos
 
 Marill -> Azumarill
 
+Sudowoodo
+
 Hoppip -> Skiploom -> Jumpluff
+
+Aipom
 
 Sunkern -> Sunflora
 
+Yanma
+
 Wooper -> Quagsire
+
+Murkrow
+
+Misdreavus
+
+Unown
+
+Wobbuffet
+
+Girafarig
 
 Pineco -> Forretress
 
+Dunsparce
+
+Gligar
+
 Snubbull -> Granbull
+
+Qwilfish
+
+Shuckle
+
+Heracross
+
+Sneasel
 
 Teddiursa -> Ursaring
 
@@ -154,19 +222,36 @@ Slugma -> Magcargo
 
 Swinub -> Piloswine
 
+Corsola
+
 Remoraid -> Octillery
+
+Delibird
+
+Mantine
+
+Skarmory
 
 Houndour -> Houndoom
 
 Phanpy -> Donphan
 
-Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
+Stantler
 
-Smoochum -> Jynx
+Smeargle
 
-Elekid -> Electabuzz
+Miltank
 
-Magby -> Magmar
+Raikou
+
+Entei
+
+Suicune
 
 Larvitar -> Pupitar -> Tyranitar
 
+Lugia
+
+Ho-Oh
+
+Celebi
