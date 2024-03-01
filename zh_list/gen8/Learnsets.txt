@@ -17463,8 +17463,6 @@ Cherrim (樱花儿)
     Weather Ball (气象球) : TM
     Worry Seed (烦恼种子) : Level 48
 
-Cherrim-Sunshine
-
 Shellos (无壳海兔)
     Acid Armor (溶化) : Egg
     Amnesia (瞬间失忆) : TM
@@ -20671,8 +20669,6 @@ Giratina (骑拉帝纳)
     Thunder Wave (电磁波) : TM
     Will-O-Wisp (磷火) : TM
 
-Giratina-Origin
-
 Cresselia (克雷色利亚)
     Ally Switch (交换场地) : TM
     Attract (迷人) : TM
@@ -22458,8 +22454,6 @@ Basculin (野蛮鲈鱼)
     Whirlpool (潮旋) : TM
     Zen Headbutt (意念头锤) : TM
 
-Basculin-Blue-Striped
-
 Sandile (黑眼鳄)
     Aqua Tail (水流尾) : Egg
     Assurance (恶意追击) : TM
@@ -22829,8 +22823,6 @@ Darmanitan (达摩狒狒)
     Work Up (自我激励) : TM, Level 16
     Zen Headbutt (意念头锤) : TM
 
-Darmanitan-Zen
-
 Darmanitan-Galar
     Attract (迷人) : TM
     Avalanche (雪崩) : TM, Level 12
@@ -22898,8 +22890,6 @@ Darmanitan-Galar
     Will-O-Wisp (磷火) : TM
     Work Up (自我激励) : TM, Level 16
     Zen Headbutt (意念头锤) : TM
-
-Darmanitan-Galar-Zen
 
 Maractus (沙铃仙人掌)
     Absorb (吸取) : Level 1
@@ -27099,8 +27089,6 @@ Tornadus (龙卷云)
     U-turn (急速折返) : TM
     Weather Ball (气象球) : TM
 
-Tornadus-Therian
-
 Thundurus (雷电云)
     Agility (高速移动) : TM, Level 25
     Assurance (恶意追击) : TM
@@ -27164,8 +27152,6 @@ Thundurus (雷电云)
     Volt Switch (伏特替换) : TM, Level 35
     Weather Ball (气象球) : TM
     Wild Charge (疯狂伏特) : TM
-
-Thundurus-Therian
 
 Reshiram (莱希拉姆)
     Ancient Power (原始之力) : Level 1
@@ -27343,8 +27329,6 @@ Landorus (土地云)
     Swords Dance (剑舞) : TM, Level 25
     U-turn (急速折返) : TM
     Weather Ball (气象球) : TM
-
-Landorus-Therian
 
 Kyurem (酋雷姆)
     Ancient Power (原始之力) : Level 1
@@ -27588,8 +27572,6 @@ Keldeo (凯路迪欧)
     Work Up (自我激励) : TM, Level 1
     X-Scissor (十字剪) : TM
 
-Keldeo-Resolute
-
 Genesect (盖诺赛克特)
     Ally Switch (交换场地) : TM
     Assurance (恶意追击) : TM
@@ -27645,14 +27627,6 @@ Genesect (盖诺赛克特)
     X-Scissor (十字剪) : TM, Level 42
     Zap Cannon (电磁炮) : Level 70
     Zen Headbutt (意念头锤) : TM
-
-Genesect-Douse
-
-Genesect-Shock
-
-Genesect-Burn
-
-Genesect-Chill
 
 Bunnelby (掘掘兔)
     Agility (高速移动) : TM
@@ -28334,8 +28308,6 @@ Aegislash (坚盾剑怪)
     Sunny Day (大晴天) : TM
     Swords Dance (剑舞) : TM, Level 1
     Tackle (撞击) : Level 1
-
-Aegislash-Blade
 
 Spritzee (粉香香)
     After You (您先请) : Egg
@@ -29899,10 +29871,6 @@ Pumpkaboo (南瓜精)
     Will-O-Wisp (磷火) : TM
     Worry Seed (烦恼种子) : Level 28
 
-Pumpkaboo-Small
-
-Pumpkaboo-Large
-
 Pumpkaboo-Super
 
 Gourgeist (南瓜怪人)
@@ -29963,12 +29931,6 @@ Gourgeist (南瓜怪人)
     Trick Room (戏法空间) : TM
     Will-O-Wisp (磷火) : TM
     Worry Seed (烦恼种子) : Level 28
-
-Gourgeist-Small
-
-Gourgeist-Large
-
-Gourgeist-Super
 
 Bergmite (冰宝)
     Attract (迷人) : TM
@@ -30335,8 +30297,6 @@ Zygarde (基格尔德)
     Zen Headbutt (意念头锤) : TM
 
 Zygarde-10%
-
-Zygarde-Complete
 
 Diancie (蒂安希)
     Ally Switch (交换场地) : TM
@@ -31432,8 +31392,6 @@ Wishiwashi (弱丁鱼)
     Water Gun (水枪) : Level 1
     Water Pulse (水之波动) : Egg
     Whirlpool (潮旋) : TM
-
-Wishiwashi-School
 
 Mareanie (好坏星)
     Attract (迷人) : TM
@@ -32755,40 +32713,6 @@ Silvally (银伴战兽)
     X-Scissor (十字剪) : TM, Level 40
     Zen Headbutt (意念头锤) : TM
 
-Silvally-Fighting
-
-Silvally-Flying
-
-Silvally-Poison
-
-Silvally-Ground
-
-Silvally-Rock
-
-Silvally-Bug
-
-Silvally-Ghost
-
-Silvally-Steel
-
-Silvally-Fire
-
-Silvally-Water
-
-Silvally-Grass
-
-Silvally-Electric
-
-Silvally-Psychic
-
-Silvally-Ice
-
-Silvally-Dragon
-
-Silvally-Dark
-
-Silvally-Fairy
-
 Turtonator (爆焰龟兽)
     Attract (迷人) : TM
     Body Press (扑击) : TM
@@ -32978,8 +32902,6 @@ Mimikyu (谜拟丘)
     Wood Hammer (木槌) : Level 1
     Work Up (自我激励) : TM
     X-Scissor (十字剪) : TM
-
-Mimikyu-Busted
 
 Drampa (老翁龙)
     Amnesia (瞬间失忆) : TM
@@ -36245,10 +36167,6 @@ Cramorant (古月鸟)
     Weather Ball (气象球) : TM
     Whirlpool (潮旋) : TM
 
-Cramorant-Gulping
-
-Cramorant-Gorging
-
 Arrokuda (刺梭鱼)
     Acupressure (点穴) : Egg
     Agility (高速移动) : TM, Level 18
@@ -36746,8 +36664,6 @@ Polteageist (怖思壶)
     Will-O-Wisp (磷火) : TM
     Withdraw (缩入壳中) : Level 1
     Wonder Room (奇妙空间) : TM
-
-Polteageist-Antique
 
 Hatenna (迷布莉姆)
     After You (您先请) : Egg
@@ -37798,8 +37714,6 @@ Eiscue (冰砌鹅)
     Whirlpool (潮旋) : TM
     Zen Headbutt (意念头锤) : TM
 
-Eiscue-Noice
-
 Indeedee (爱管侍)
     After You (您先请) : Level 25
     Ally Switch (交换场地) : TM
@@ -37969,8 +37883,6 @@ Morpeko (莫鲁贝可)
     Uproar (吵闹) : TM
     Volt Switch (伏特替换) : TM
     Wild Charge (疯狂伏特) : TM
-
-Morpeko-Hangry
 
 Cufant (铜象)
     Attract (迷人) : TM
@@ -39413,3 +39325,4 @@ Calyrex-Shadow
     Will-O-Wisp (磷火) : TM
     Wonder Room (奇妙空间) : TM
     Zen Headbutt (意念头锤) : TM
+

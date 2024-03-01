@@ -17119,12 +17119,6 @@ Castform (飘浮泡泡)
     Water Pulse (水之波动) : TM
     Weather Ball (气象球) : Level 30
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon (变隐龙)
     Aerial Ace (燕返) : TM
     Ancient Power (原始之力) : Level 49
@@ -18910,8 +18904,3 @@ Deoxys (代欧奇希斯)
     Wrap (紧束) : Level 1
     Zap Cannon (电磁炮) : Level 40
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed

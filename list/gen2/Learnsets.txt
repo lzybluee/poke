@@ -9323,3 +9323,4 @@ Celebi
     Sweet Scent : TM
     Swift : TM
     Toxic : TM
+

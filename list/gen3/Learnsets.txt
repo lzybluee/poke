@@ -17119,12 +17119,6 @@ Castform
     Water Pulse : TM
     Weather Ball : Level 30
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon
     Aerial Ace : TM
     Ancient Power : Level 49
@@ -18910,8 +18904,3 @@ Deoxys
     Wrap : Level 1
     Zap Cannon : Level 40
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed

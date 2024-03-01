@@ -17463,8 +17463,6 @@ Cherrim
     Weather Ball : TM
     Worry Seed : Level 48
 
-Cherrim-Sunshine
-
 Shellos
     Acid Armor : Egg
     Amnesia : TM
@@ -20671,8 +20669,6 @@ Giratina
     Thunder Wave : TM
     Will-O-Wisp : TM
 
-Giratina-Origin
-
 Cresselia
     Ally Switch : TM
     Attract : TM
@@ -22458,8 +22454,6 @@ Basculin
     Whirlpool : TM
     Zen Headbutt : TM
 
-Basculin-Blue-Striped
-
 Sandile
     Aqua Tail : Egg
     Assurance : TM
@@ -22829,8 +22823,6 @@ Darmanitan
     Work Up : TM, Level 16
     Zen Headbutt : TM
 
-Darmanitan-Zen
-
 Darmanitan-Galar
     Attract : TM
     Avalanche : TM, Level 12
@@ -22898,8 +22890,6 @@ Darmanitan-Galar
     Will-O-Wisp : TM
     Work Up : TM, Level 16
     Zen Headbutt : TM
-
-Darmanitan-Galar-Zen
 
 Maractus
     Absorb : Level 1
@@ -27099,8 +27089,6 @@ Tornadus
     U-turn : TM
     Weather Ball : TM
 
-Tornadus-Therian
-
 Thundurus
     Agility : TM, Level 25
     Assurance : TM
@@ -27164,8 +27152,6 @@ Thundurus
     Volt Switch : TM, Level 35
     Weather Ball : TM
     Wild Charge : TM
-
-Thundurus-Therian
 
 Reshiram
     Ancient Power : Level 1
@@ -27343,8 +27329,6 @@ Landorus
     Swords Dance : TM, Level 25
     U-turn : TM
     Weather Ball : TM
-
-Landorus-Therian
 
 Kyurem
     Ancient Power : Level 1
@@ -27588,8 +27572,6 @@ Keldeo
     Work Up : TM, Level 1
     X-Scissor : TM
 
-Keldeo-Resolute
-
 Genesect
     Ally Switch : TM
     Assurance : TM
@@ -27645,14 +27627,6 @@ Genesect
     X-Scissor : TM, Level 42
     Zap Cannon : Level 70
     Zen Headbutt : TM
-
-Genesect-Douse
-
-Genesect-Shock
-
-Genesect-Burn
-
-Genesect-Chill
 
 Bunnelby
     Agility : TM
@@ -28334,8 +28308,6 @@ Aegislash
     Sunny Day : TM
     Swords Dance : TM, Level 1
     Tackle : Level 1
-
-Aegislash-Blade
 
 Spritzee
     After You : Egg
@@ -29899,10 +29871,6 @@ Pumpkaboo
     Will-O-Wisp : TM
     Worry Seed : Level 28
 
-Pumpkaboo-Small
-
-Pumpkaboo-Large
-
 Pumpkaboo-Super
 
 Gourgeist
@@ -29963,12 +29931,6 @@ Gourgeist
     Trick Room : TM
     Will-O-Wisp : TM
     Worry Seed : Level 28
-
-Gourgeist-Small
-
-Gourgeist-Large
-
-Gourgeist-Super
 
 Bergmite
     Attract : TM
@@ -30335,8 +30297,6 @@ Zygarde
     Zen Headbutt : TM
 
 Zygarde-10%
-
-Zygarde-Complete
 
 Diancie
     Ally Switch : TM
@@ -31432,8 +31392,6 @@ Wishiwashi
     Water Gun : Level 1
     Water Pulse : Egg
     Whirlpool : TM
-
-Wishiwashi-School
 
 Mareanie
     Attract : TM
@@ -32755,40 +32713,6 @@ Silvally
     X-Scissor : TM, Level 40
     Zen Headbutt : TM
 
-Silvally-Fighting
-
-Silvally-Flying
-
-Silvally-Poison
-
-Silvally-Ground
-
-Silvally-Rock
-
-Silvally-Bug
-
-Silvally-Ghost
-
-Silvally-Steel
-
-Silvally-Fire
-
-Silvally-Water
-
-Silvally-Grass
-
-Silvally-Electric
-
-Silvally-Psychic
-
-Silvally-Ice
-
-Silvally-Dragon
-
-Silvally-Dark
-
-Silvally-Fairy
-
 Turtonator
     Attract : TM
     Body Press : TM
@@ -32978,8 +32902,6 @@ Mimikyu
     Wood Hammer : Level 1
     Work Up : TM
     X-Scissor : TM
-
-Mimikyu-Busted
 
 Drampa
     Amnesia : TM
@@ -36245,10 +36167,6 @@ Cramorant
     Weather Ball : TM
     Whirlpool : TM
 
-Cramorant-Gulping
-
-Cramorant-Gorging
-
 Arrokuda
     Acupressure : Egg
     Agility : TM, Level 18
@@ -36746,8 +36664,6 @@ Polteageist
     Will-O-Wisp : TM
     Withdraw : Level 1
     Wonder Room : TM
-
-Polteageist-Antique
 
 Hatenna
     After You : Egg
@@ -37798,8 +37714,6 @@ Eiscue
     Whirlpool : TM
     Zen Headbutt : TM
 
-Eiscue-Noice
-
 Indeedee
     After You : Level 25
     Ally Switch : TM
@@ -37969,8 +37883,6 @@ Morpeko
     Uproar : TM
     Volt Switch : TM
     Wild Charge : TM
-
-Morpeko-Hangry
 
 Cufant
     Attract : TM
@@ -39413,3 +39325,4 @@ Calyrex-Shadow
     Will-O-Wisp : TM
     Wonder Room : TM
     Zen Headbutt : TM
+

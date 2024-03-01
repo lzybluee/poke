@@ -21053,12 +21053,6 @@ Castform (飘浮泡泡)
     Water Pulse (水之波动) : TM
     Weather Ball (气象球) : Level 30
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon (变隐龙)
     Aerial Ace (燕返) : TM
     Ancient Power (原始之力) : Tutor, Level 55
@@ -23215,12 +23209,6 @@ Deoxys (代欧奇希斯)
     Zap Cannon (电磁炮) : Level 81
     Zen Headbutt (意念头锤) : Tutor, Level 65
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
-
 Turtwig (草苗龟)
     Absorb (吸取) : Level 9
     Amnesia (瞬间失忆) : Egg
@@ -25218,8 +25206,6 @@ Cherrim (樱花儿)
     Take Down (猛撞) : Level 35
     Toxic (剧毒) : TM
     Worry Seed (烦恼种子) : Tutor, Level 30
-
-Cherrim-Sunshine
 
 Shellos (无壳海兔)
     Amnesia (瞬间失忆) : Egg
@@ -29511,8 +29497,6 @@ Giratina (骑拉帝纳)
     Twister (龙卷风) : Tutor
     Will-O-Wisp (磷火) : TM
 
-Giratina-Origin
-
 Cresselia (克雷色利亚)
     Attract (迷人) : TM
     Aurora Beam (极光束) : Level 29
@@ -29821,8 +29805,6 @@ Shaymin (谢米)
     Worry Seed (烦恼种子) : Tutor, Level 55
     Zen Headbutt (意念头锤) : Tutor
 
-Shaymin-Sky
-
 Arceus (阿尔宙斯)
     Aerial Ace (燕返) : TM
     Ancient Power (原始之力) : Tutor
@@ -29939,34 +29921,3 @@ Arceus (阿尔宙斯)
     X-Scissor (十字剪) : TM
     Zen Headbutt (意念头锤) : Tutor
 
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark

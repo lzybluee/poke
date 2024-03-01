@@ -220,51 +220,51 @@ function log_species(list_folder, detail_folder, file, obj) {
 
 function log_learnsets(file, dex, gen, species_info, move_names) {
     let text = '';
-    let count = 0;
-
+ 
     for (let i in species_info) {
-        text += get_name(species_info[i].name, SPECIES) + '\n';
         learnsets = dex.species.getLearnsetData(i).learnset;
-        for(let j in learnsets) {
-            if (move_names[j]) {
-                let methods = [];
-                for (let k in learnsets[j]) {
-                    let result = learnsets[j][k].match(/^\d+/);
-                    if (result && result[0] == gen) {
-                        let method = learnsets[j][k].substring(result.index + 1);
-                        switch(method[0]) {
-                            case 'L':
-                                methods.push(method.replace('L', 'Level '));
-                                break;
-                            case 'M':
-                                methods.push('TM');
-                                break;
-                            case 'E':
-                                methods.push('Egg');
-                                break;
-                            case 'T':
-                                methods.push('Tutor');
-                                break;
-                            case 'D':
-                                methods.push('DreamWorld');
-                                break;
-                            case 'R':
-                                methods.push('Special');
-                                break;
-                            case 'S':
-                            case 'V':
-                                break;
+        if (learnsets) {
+            text += get_name(species_info[i].name, SPECIES) + '\n';
+
+            for(let j in learnsets) {
+                if (move_names[j]) {
+                    let methods = [];
+                    for (let k in learnsets[j]) {
+                        let result = learnsets[j][k].match(/^\d+/);
+                        if (result && result[0] == gen) {
+                            let method = learnsets[j][k].substring(result.index + 1);
+                            switch(method[0]) {
+                                case 'L':
+                                    methods.push(method.replace('L', 'Level '));
+                                    break;
+                                case 'M':
+                                    methods.push('TM');
+                                    break;
+                                case 'E':
+                                    methods.push('Egg');
+                                    break;
+                                case 'T':
+                                    methods.push('Tutor');
+                                    break;
+                                case 'D':
+                                    methods.push('DreamWorld');
+                                    break;
+                                case 'R':
+                                    methods.push('Special');
+                                    break;
+                                case 'S':
+                                case 'V':
+                                    break;
+                            }
                         }
                     }
+                    if (methods.length > 0)
+                        text += '    ' + get_name(move_names[j], MOVES) + ' : ' + methods.join(', ') + '\n';
                 }
-                if (methods.length > 0)
-                    text += '    ' + get_name(move_names[j], MOVES) + ' : ' + methods.join(', ') + '\n';
             }
-        }
 
-        count++;
-        if (count < Object.keys(species_info).length)
             text += '\n';
+        }
     }
 
     fs.writeFileSync(file + '.txt', text);
@@ -319,10 +319,7 @@ function log_evolves(file, species_info) {
         }
     }
 
-    let k = 0;
     for (let i in evos_list) {
-        k++;
-
         if (!evos_processed.includes(i)) {
             let species_name = i;
 
@@ -338,8 +335,7 @@ function log_evolves(file, species_info) {
                 text += get_name(species_name, SPECIES) + '\n';
             }
 
-            if (k < Object.keys(evos_list).length)
-                text += '\n';
+            text += '\n';
         }
     }
 

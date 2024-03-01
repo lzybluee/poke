@@ -20563,12 +20563,6 @@ Castform
     Weather Ball : Level 30
     Work Up : TM
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon
     Aerial Ace : TM
     After You : Tutor
@@ -22618,12 +22612,6 @@ Deoxys
     Zap Cannon : Level 81
     Zen Headbutt : Tutor, Level 65
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
-
 Turtwig
     Absorb : Level 9
     Amnesia : Egg
@@ -24542,8 +24530,6 @@ Cherrim
     Take Down : Level 35
     Toxic : TM
     Worry Seed : Tutor, Level 30
-
-Cherrim-Sunshine
 
 Shellos
     Amnesia : Egg
@@ -28692,8 +28678,6 @@ Giratina
     Toxic : TM
     Will-O-Wisp : TM
 
-Giratina-Origin
-
 Cresselia
     Attract : TM
     Aurora Beam : Level 29
@@ -28976,8 +28960,6 @@ Shaymin
     Worry Seed : Tutor, Level 55
     Zen Headbutt : Tutor
 
-Shaymin-Sky
-
 Arceus
     Aerial Ace : TM
     Aqua Tail : Tutor
@@ -29085,38 +29067,6 @@ Arceus
     Work Up : TM
     X-Scissor : TM
     Zen Headbutt : Tutor
-
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark
 
 Victini
     Bounce : Tutor
@@ -32316,8 +32266,6 @@ Basculin
     Whirlpool : Egg
     Zen Headbutt : Tutor, DreamWorld
 
-Basculin-Blue-Striped
-
 Sandile
     Aqua Tail : Tutor
     Assurance : Level 16
@@ -32643,8 +32591,6 @@ Darmanitan
     Will-O-Wisp : TM
     Work Up : TM, Level 25
     Zen Headbutt : Tutor
-
-Darmanitan-Zen
 
 Maractus
     Absorb : Level 1
@@ -37593,8 +37539,6 @@ Tornadus
     Uproar : Tutor, Level 1
     U-turn : TM
 
-Tornadus-Therian
-
 Thundurus
     Agility : Level 37
     Astonish : Level 1
@@ -37661,8 +37605,6 @@ Thundurus
     U-turn : TM
     Volt Switch : TM
     Wild Charge : TM
-
-Thundurus-Therian
 
 Reshiram
     Ancient Power : Level 15
@@ -37852,8 +37794,6 @@ Landorus
     Swords Dance : TM, Level 37
     Toxic : TM
     U-turn : TM
-
-Landorus-Therian
 
 Kyurem
     Ancient Power : Level 15
@@ -38095,8 +38035,6 @@ Keldeo
     Work Up : TM, Level 61
     X-Scissor : TM
 
-Keldeo-Resolute
-
 Meloetta
     Acrobatics : TM, Level 26
     Brick Break : TM
@@ -38182,8 +38120,6 @@ Meloetta
     Work Up : TM
     Zen Headbutt : Tutor
 
-Meloetta-Pirouette
-
 Genesect
     Aerial Ace : TM
     Blizzard : TM
@@ -38253,10 +38189,3 @@ Genesect
     Zap Cannon : Level 66
     Zen Headbutt : Tutor
 
-Genesect-Douse
-
-Genesect-Shock
-
-Genesect-Burn
-
-Genesect-Chill

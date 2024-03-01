@@ -20563,12 +20563,6 @@ Castform (飘浮泡泡)
     Weather Ball (气象球) : Level 30
     Work Up (自我激励) : TM
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon (变隐龙)
     Aerial Ace (燕返) : TM
     After You (您先请) : Tutor
@@ -22618,12 +22612,6 @@ Deoxys (代欧奇希斯)
     Zap Cannon (电磁炮) : Level 81
     Zen Headbutt (意念头锤) : Tutor, Level 65
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
-
 Turtwig (草苗龟)
     Absorb (吸取) : Level 9
     Amnesia (瞬间失忆) : Egg
@@ -24542,8 +24530,6 @@ Cherrim (樱花儿)
     Take Down (猛撞) : Level 35
     Toxic (剧毒) : TM
     Worry Seed (烦恼种子) : Tutor, Level 30
-
-Cherrim-Sunshine
 
 Shellos (无壳海兔)
     Amnesia (瞬间失忆) : Egg
@@ -28692,8 +28678,6 @@ Giratina (骑拉帝纳)
     Toxic (剧毒) : TM
     Will-O-Wisp (磷火) : TM
 
-Giratina-Origin
-
 Cresselia (克雷色利亚)
     Attract (迷人) : TM
     Aurora Beam (极光束) : Level 29
@@ -28976,8 +28960,6 @@ Shaymin (谢米)
     Worry Seed (烦恼种子) : Tutor, Level 55
     Zen Headbutt (意念头锤) : Tutor
 
-Shaymin-Sky
-
 Arceus (阿尔宙斯)
     Aerial Ace (燕返) : TM
     Aqua Tail (水流尾) : Tutor
@@ -29085,38 +29067,6 @@ Arceus (阿尔宙斯)
     Work Up (自我激励) : TM
     X-Scissor (十字剪) : TM
     Zen Headbutt (意念头锤) : Tutor
-
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark
 
 Victini (比克提尼)
     Bounce (弹跳) : Tutor
@@ -32316,8 +32266,6 @@ Basculin (野蛮鲈鱼)
     Whirlpool (潮旋) : Egg
     Zen Headbutt (意念头锤) : Tutor, DreamWorld
 
-Basculin-Blue-Striped
-
 Sandile (黑眼鳄)
     Aqua Tail (水流尾) : Tutor
     Assurance (恶意追击) : Level 16
@@ -32643,8 +32591,6 @@ Darmanitan (达摩狒狒)
     Will-O-Wisp (磷火) : TM
     Work Up (自我激励) : TM, Level 25
     Zen Headbutt (意念头锤) : Tutor
-
-Darmanitan-Zen
 
 Maractus (沙铃仙人掌)
     Absorb (吸取) : Level 1
@@ -37593,8 +37539,6 @@ Tornadus (龙卷云)
     Uproar (吵闹) : Tutor, Level 1
     U-turn (急速折返) : TM
 
-Tornadus-Therian
-
 Thundurus (雷电云)
     Agility (高速移动) : Level 37
     Astonish (惊吓) : Level 1
@@ -37661,8 +37605,6 @@ Thundurus (雷电云)
     U-turn (急速折返) : TM
     Volt Switch (伏特替换) : TM
     Wild Charge (疯狂伏特) : TM
-
-Thundurus-Therian
 
 Reshiram (莱希拉姆)
     Ancient Power (原始之力) : Level 15
@@ -37852,8 +37794,6 @@ Landorus (土地云)
     Swords Dance (剑舞) : TM, Level 37
     Toxic (剧毒) : TM
     U-turn (急速折返) : TM
-
-Landorus-Therian
 
 Kyurem (酋雷姆)
     Ancient Power (原始之力) : Level 15
@@ -38095,8 +38035,6 @@ Keldeo (凯路迪欧)
     Work Up (自我激励) : TM, Level 61
     X-Scissor (十字剪) : TM
 
-Keldeo-Resolute
-
 Meloetta (美洛耶塔)
     Acrobatics (杂技) : TM, Level 26
     Brick Break (劈瓦) : TM
@@ -38182,8 +38120,6 @@ Meloetta (美洛耶塔)
     Work Up (自我激励) : TM
     Zen Headbutt (意念头锤) : Tutor
 
-Meloetta-Pirouette
-
 Genesect (盖诺赛克特)
     Aerial Ace (燕返) : TM
     Blizzard (暴风雪) : TM
@@ -38253,10 +38189,3 @@ Genesect (盖诺赛克特)
     Zap Cannon (电磁炮) : Level 66
     Zen Headbutt (意念头锤) : Tutor
 
-Genesect-Douse
-
-Genesect-Shock
-
-Genesect-Burn
-
-Genesect-Chill

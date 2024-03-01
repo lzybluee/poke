@@ -21053,12 +21053,6 @@ Castform
     Water Pulse : TM
     Weather Ball : Level 30
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon
     Aerial Ace : TM
     Ancient Power : Tutor, Level 55
@@ -23215,12 +23209,6 @@ Deoxys
     Zap Cannon : Level 81
     Zen Headbutt : Tutor, Level 65
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
-
 Turtwig
     Absorb : Level 9
     Amnesia : Egg
@@ -25218,8 +25206,6 @@ Cherrim
     Take Down : Level 35
     Toxic : TM
     Worry Seed : Tutor, Level 30
-
-Cherrim-Sunshine
 
 Shellos
     Amnesia : Egg
@@ -29511,8 +29497,6 @@ Giratina
     Twister : Tutor
     Will-O-Wisp : TM
 
-Giratina-Origin
-
 Cresselia
     Attract : TM
     Aurora Beam : Level 29
@@ -29821,8 +29805,6 @@ Shaymin
     Worry Seed : Tutor, Level 55
     Zen Headbutt : Tutor
 
-Shaymin-Sky
-
 Arceus
     Aerial Ace : TM
     Ancient Power : Tutor
@@ -29939,34 +29921,3 @@ Arceus
     X-Scissor : TM
     Zen Headbutt : Tutor
 
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark

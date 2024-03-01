@@ -19118,12 +19118,6 @@ Deoxys
     Zap Cannon : Level 61
     Zen Headbutt : TM, Level 49
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
-
 Turtwig
     Absorb : Level 9
     Amnesia : TM
@@ -23652,8 +23646,6 @@ Dialga
     Trick : TM
     Trick Room : TM
 
-Dialga-Origin
-
 Palkia
     Aerial Ace : TM
     Ancient Power : Level 16
@@ -23725,8 +23717,6 @@ Palkia
     Waterfall : TM
     Water Pulse : TM, Level 1
     Whirlpool : TM
-
-Palkia-Origin
 
 Heatran
     Ancient Power : Level 12
@@ -23899,8 +23889,6 @@ Giratina
     Thunderbolt : TM
     Thunder Wave : TM
     Will-O-Wisp : TM
-
-Giratina-Origin
 
 Cresselia
     Ally Switch : Level 24
@@ -24175,8 +24163,6 @@ Shaymin
     Worry Seed : Level 55
     Zen Headbutt : TM
 
-Shaymin-Sky
-
 Arceus
     Acid Spray : TM
     Agility : TM
@@ -24299,40 +24285,6 @@ Arceus
     Will-O-Wisp : TM
     X-Scissor : TM
     Zen Headbutt : TM
-
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark
-
-Arceus-Fairy
 
 Snivy
     Aerial Ace : TM
@@ -25709,8 +25661,6 @@ Basculin
     Wave Crash : Level 44
     Whirlpool : TM
     Zen Headbutt : TM
-
-Basculin-Blue-Striped
 
 Basculin-White-Striped
     Agility : TM
@@ -29023,8 +28973,6 @@ Tornadus
     U-turn : TM
     Weather Ball : TM
 
-Tornadus-Therian
-
 Thundurus
     Acrobatics : TM
     Agility : TM, Level 25
@@ -29090,8 +29038,6 @@ Thundurus
     Wildbolt Storm : Level 75
     Wild Charge : TM
     Zen Headbutt : TM
-
-Thundurus-Therian
 
 Reshiram
     Ancient Power : Level 1
@@ -29288,8 +29234,6 @@ Landorus
     Tera Blast : TM
     U-turn : TM
     Weather Ball : TM
-
-Landorus-Therian
 
 Kyurem
     Aerial Ace : TM
@@ -29545,8 +29489,6 @@ Keldeo
     Work Up : Level 1
     X-Scissor : TM
 
-Keldeo-Resolute
-
 Meloetta
     Acrobatics : TM, Level 26
     Alluring Voice : TM
@@ -29616,8 +29558,6 @@ Meloetta
     Triple Axel : TM
     U-turn : TM, Level 43
     Zen Headbutt : TM
-
-Meloetta-Pirouette
 
 Chespin
     Aerial Ace : TM
@@ -32457,8 +32397,6 @@ Hoopa
     Wonder Room : Level 50
     Zen Headbutt : TM, Level 46
 
-Hoopa-Unbound
-
 Volcanion
     Body Press : TM
     Body Slam : TM
@@ -33672,12 +33610,6 @@ Oricorio
     Tera Blast : TM
     Trailblaze : TM
     U-turn : TM
-
-Oricorio-Pom-Pom
-
-Oricorio-Pa'u
-
-Oricorio-Sensu
 
 Cutiefly
     Absorb : Level 1
@@ -34973,8 +34905,6 @@ Palossand
     Tera Blast : TM
     Trick : TM
 
-Minior-Meteor
-
 Minior
     Acrobatics : TM
     Ancient Power : Level 17
@@ -35147,8 +35077,6 @@ Mimikyu
     Will-O-Wisp : TM
     Wood Hammer : Level 1
     X-Scissor : TM
-
-Mimikyu-Busted
 
 Bruxish
     Agility : TM
@@ -36957,10 +36885,6 @@ Cramorant
     Weather Ball : TM
     Whirlpool : TM
 
-Cramorant-Gulping
-
-Cramorant-Gorging
-
 Arrokuda
     Acupressure : Egg
     Agility : TM, Level 18
@@ -37346,8 +37270,6 @@ Polteageist
     Trick Room : TM
     Will-O-Wisp : TM
     Withdraw : Level 1
-
-Polteageist-Antique
 
 Hatenna
     After You : Egg
@@ -38069,8 +37991,6 @@ Eiscue
     Whirlpool : TM
     Zen Headbutt : TM
 
-Eiscue-Noice
-
 Indeedee
     After You : Level 25
     Body Slam : TM
@@ -38231,8 +38151,6 @@ Morpeko
     Uproar : TM
     Volt Switch : TM
     Wild Charge : TM
-
-Morpeko-Hangry
 
 Cufant
     Belch : Egg
@@ -41148,8 +41066,6 @@ Maushold
     U-turn : TM
     Water Pulse : TM
 
-Maushold-Four
-
 Fidough
     Agility : TM
     Alluring Voice : TM
@@ -41422,12 +41338,6 @@ Squawkabilly
     Torment : Level 10
     Uproar : TM, Level 24
     U-turn : TM
-
-Squawkabilly-Blue
-
-Squawkabilly-Yellow
-
-Squawkabilly-White
 
 Nacli
     Ancient Power : Egg
@@ -43090,8 +43000,6 @@ Palafin
     Whirlpool : TM
     Zen Headbutt : TM
 
-Palafin-Hero
-
 Varoom
     Acid Spray : TM
     Assurance : Level 10
@@ -44094,8 +44002,6 @@ Dudunsparce
     Yawn : Level 28
     Zen Headbutt : TM
 
-Dudunsparce-Three-Segment
-
 Kingambit
     Aerial Ace : TM
     Air Slash : TM
@@ -45011,8 +44917,6 @@ Gimmighoul
     Take Down : TM
     Tera Blast : TM
     Thief : TM
-
-Gimmighoul-Roaming
 
 Gholdengo
     Astonish : Level 1
@@ -46119,20 +46023,6 @@ Ogerpon
     Wood Hammer : Level 66
     Zen Headbutt : TM
 
-Ogerpon-Wellspring
-
-Ogerpon-Hearthflame
-
-Ogerpon-Cornerstone
-
-Ogerpon-Teal-Tera
-
-Ogerpon-Wellspring-Tera
-
-Ogerpon-Hearthflame-Tera
-
-Ogerpon-Cornerstone-Tera
-
 Archaludon
     Aura Sphere : TM
     Body Press : TM
@@ -46532,10 +46422,6 @@ Terapagos
     Withdraw : Level 1
     Zen Headbutt : TM
 
-Terapagos-Terastal
-
-Terapagos-Stellar
-
 Pecharunt
     Acid Spray : TM
     Astonish : Level 1
@@ -46572,3 +46458,4 @@ Pecharunt
     Toxic : TM, Level 56
     Venoshock : TM
     Withdraw : Level 8
+

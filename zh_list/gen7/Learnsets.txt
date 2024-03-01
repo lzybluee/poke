@@ -163,8 +163,6 @@ Venusaur (妙蛙花)
     Work Up (自我激励) : TM
     Worry Seed (烦恼种子) : Tutor, Level 39
 
-Venusaur-Mega
-
 Charmander (小火龙)
     Aerial Ace (燕返) : TM
     Air Cutter (空气利刃) : Egg
@@ -350,10 +348,6 @@ Charizard (喷火龙)
     Wing Attack (翅膀攻击) : Level 1
     Work Up (自我激励) : TM
 
-Charizard-Mega-X
-
-Charizard-Mega-Y
-
 Squirtle (杰尼龟)
     Aqua Jet (水流喷射) : Egg
     Aqua Ring (水流环) : Egg
@@ -528,8 +522,6 @@ Blastoise (水箭龟)
     Work Up (自我激励) : TM
     Zen Headbutt (意念头锤) : Tutor
 
-Blastoise-Mega
-
 Caterpie (绿毛虫)
     Bug Bite (虫咬) : Tutor, Level 9
     Electroweb (电网) : Tutor
@@ -667,8 +659,6 @@ Beedrill (大针蜂)
     Venoshock (毒液冲击) : TM, Level 23
     X-Scissor (十字剪) : TM
 
-Beedrill-Mega
-
 Pidgey (波波)
     Aerial Ace (燕返) : TM
     Agility (高速移动) : Level 29
@@ -805,8 +795,6 @@ Pidgeot (大比鸟)
     Whirlwind (吹飞) : Level 17
     Wing Attack (翅膀攻击) : Level 38
     Work Up (自我激励) : TM
-
-Pidgeot-Mega
 
 Rattata (小拉达)
     Assurance (恶意追击) : Level 19
@@ -4813,8 +4801,6 @@ Alakazam (胡地)
     Wonder Room (奇妙空间) : Tutor
     Zen Headbutt (意念头锤) : Tutor
 
-Alakazam-Mega
-
 Machop (腕力)
     Attract (迷人) : TM
     Brick Break (劈瓦) : TM
@@ -5895,8 +5881,6 @@ Slowbro (呆壳兽)
     Yawn (哈欠) : Level 1
     Zen Headbutt (意念头锤) : Tutor, Level 32
 
-Slowbro-Mega
-
 Magnemite (小磁怪)
     Charge Beam (充电光束) : TM
     Confide (密语) : TM
@@ -6874,8 +6858,6 @@ Gengar (耿鬼)
     Venoshock (毒液冲击) : TM
     Will-O-Wisp (磷火) : TM
     Wonder Room (奇妙空间) : Tutor
-
-Gengar-Mega
 
 Onix (大岩蛇)
     Attract (迷人) : TM
@@ -8501,8 +8483,6 @@ Kangaskhan (袋兽)
     Water Pulse (水之波动) : Tutor
     Work Up (自我激励) : TM
 
-Kangaskhan-Mega
-
 Horsea (墨海马)
     Agility (高速移动) : Level 36
     Attract (迷人) : TM
@@ -9215,8 +9195,6 @@ Pinsir (凯罗斯)
     Vital Throw (借力摔) : Level 18
     X-Scissor (十字剪) : TM, Level 29
 
-Pinsir-Mega
-
 Tauros (肯泰罗)
     Attract (迷人) : TM
     Blizzard (暴风雪) : TM
@@ -9346,8 +9324,6 @@ Gyarados (暴鲤龙)
     Uproar (吵闹) : Tutor
     Waterfall (攀瀑) : TM
     Water Pulse (水之波动) : Tutor
-
-Gyarados-Mega
 
 Lapras (拉普拉斯)
     Ancient Power (原始之力) : Egg
@@ -10013,8 +9989,6 @@ Aerodactyl (化石翼龙)
     Wide Guard (广域防守) : Egg
     Wing Attack (翅膀攻击) : Level 1
 
-Aerodactyl-Mega
-
 Snorlax (卡比兽)
     After You (您先请) : Tutor, Egg
     Amnesia (瞬间失忆) : Level 9
@@ -10540,10 +10514,6 @@ Mewtwo (超梦)
     Will-O-Wisp (磷火) : TM
     Wonder Room (奇妙空间) : Tutor
     Zen Headbutt (意念头锤) : Tutor
-
-Mewtwo-Mega-X
-
-Mewtwo-Mega-Y
 
 Mew (梦幻)
     Acrobatics (杂技) : TM
@@ -12570,8 +12540,6 @@ Ampharos (电龙)
     Wild Charge (疯狂伏特) : TM
     Zap Cannon (电磁炮) : Level 1
 
-Ampharos-Mega
-
 Bellossom (美丽花)
     After You (您先请) : Tutor
     Attract (迷人) : TM
@@ -14147,8 +14115,6 @@ Steelix (大钢蛇)
     Torment (无理取闹) : TM
     Toxic (剧毒) : TM
 
-Steelix-Mega
-
 Snubbull (布鲁)
     Attract (迷人) : TM
     Bite (咬住) : Level 7
@@ -14431,8 +14397,6 @@ Scizor (巨钳螳螂)
     Venoshock (毒液冲击) : TM
     X-Scissor (十字剪) : TM, Level 41
 
-Scizor-Mega
-
 Shuckle (壶壶)
     Acid (溶解液) : Egg
     Acupressure (点穴) : Egg
@@ -14562,8 +14526,6 @@ Heracross (赫拉克罗斯)
     Toxic (剧毒) : TM
     Venoshock (毒液冲击) : TM
     Work Up (自我激励) : TM
-
-Heracross-Mega
 
 Sneasel (狃拉)
     Aerial Ace (燕返) : TM
@@ -15512,8 +15474,6 @@ Houndoom (黑鲁加)
     Toxic (剧毒) : TM
     Uproar (吵闹) : Tutor
     Will-O-Wisp (磷火) : TM
-
-Houndoom-Mega
 
 Kingdra (刺龙王)
     Agility (高速移动) : Level 38
@@ -16621,8 +16581,6 @@ Tyranitar (班基拉斯)
     Uproar (吵闹) : Tutor
     Water Pulse (水之波动) : Tutor
 
-Tyranitar-Mega
-
 Lugia (洛奇亚)
     Aerial Ace (燕返) : TM
     Aeroblast (气旋攻击) : Level 43
@@ -17050,8 +17008,6 @@ Sceptile (蜥蜴王)
     Worry Seed (烦恼种子) : Tutor
     X-Scissor (十字剪) : TM, Level 45
 
-Sceptile-Mega
-
 Torchic (火稚鸡)
     Aerial Ace (燕返) : TM
     Agility (高速移动) : Egg
@@ -17244,8 +17200,6 @@ Blaziken (火焰鸡)
     Will-O-Wisp (磷火) : TM
     Work Up (自我激励) : TM
 
-Blaziken-Mega
-
 Mudkip (水跃鱼)
     Ancient Power (原始之力) : Egg
     Aqua Tail (水流尾) : Tutor
@@ -17430,8 +17384,6 @@ Swampert (巨沼怪)
     Water Pledge (水之誓约) : Tutor
     Water Pulse (水之波动) : Tutor
     Work Up (自我激励) : TM
-
-Swampert-Mega
 
 Poochyena (土狼犬)
     Assurance (恶意追击) : Level 22
@@ -18566,8 +18518,6 @@ Gardevoir (沙奈朵)
     Wish (祈愿) : Level 14
     Wonder Room (奇妙空间) : Tutor
     Zen Headbutt (意念头锤) : Tutor
-
-Gardevoir-Mega
 
 Surskit (溜溜糖球)
     Agility (高速移动) : Level 22
@@ -19759,8 +19709,6 @@ Sableye (勾魂眼)
     Wonder Room (奇妙空间) : Tutor
     Zen Headbutt (意念头锤) : Tutor, Level 34
 
-Sableye-Mega
-
 Mawile (大嘴娃)
     Ancient Power (原始之力) : Egg
     Astonish (惊吓) : Level 1
@@ -19849,8 +19797,6 @@ Mawile (大嘴娃)
     Torment (无理取闹) : TM
     Toxic (剧毒) : TM
     Vise Grip (夹住) : Level 17
-
-Mawile-Mega
 
 Aron (可可多拉)
     Aerial Ace (燕返) : TM
@@ -20050,8 +19996,6 @@ Aggron (波士可多拉)
     Uproar (吵闹) : Tutor
     Water Pulse (水之波动) : Tutor
 
-Aggron-Mega
-
 Meditite (玛沙那)
     Acupressure (点穴) : Level 33
     Attract (迷人) : TM
@@ -20200,8 +20144,6 @@ Medicham (恰雷姆)
     Work Up (自我激励) : TM
     Zen Headbutt (意念头锤) : Tutor, Level 1
 
-Medicham-Mega
-
 Electrike (落雷兽)
     Attract (迷人) : TM
     Bite (咬住) : Level 24
@@ -20305,8 +20247,6 @@ Manectric (雷电兽)
     Uproar (吵闹) : Tutor
     Volt Switch (伏特替换) : TM
     Wild Charge (疯狂伏特) : TM, Level 42
-
-Manectric-Mega
 
 Plusle (正电拍拍)
     Agility (高速移动) : Level 37
@@ -20856,8 +20796,6 @@ Sharpedo (巨牙鲨)
     Water Pulse (水之波动) : Tutor
     Zen Headbutt (意念头锤) : Tutor
 
-Sharpedo-Mega
-
 Wailmer (吼吼鲸)
     Amnesia (瞬间失忆) : Level 37
     Aqua Ring (水流环) : Egg
@@ -21086,8 +21024,6 @@ Camerupt (喷火驼)
     Toxic (剧毒) : TM
     Will-O-Wisp (磷火) : TM
     Yawn (哈欠) : Level 39
-
-Camerupt-Mega
 
 Torkoal (煤炭龟)
     After You (您先请) : Tutor
@@ -21794,8 +21730,6 @@ Altaria (七夕青鸟)
     Toxic (剧毒) : TM
     Uproar (吵闹) : Tutor
     Wonder Room (奇妙空间) : Tutor
-
-Altaria-Mega
 
 Zangoose (猫鼬斩)
     Aerial Ace (燕返) : TM
@@ -22841,12 +22775,6 @@ Castform (飘浮泡泡)
     Weather Ball (气象球) : Level 25
     Work Up (自我激励) : TM
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon (变隐龙)
     Aerial Ace (燕返) : TM
     After You (您先请) : Tutor
@@ -23067,8 +22995,6 @@ Banette (诅咒娃娃)
     Trick (戏法) : Tutor, Level 58
     Trick Room (戏法空间) : TM
     Will-O-Wisp (磷火) : TM, Level 16
-
-Banette-Mega
 
 Duskull (夜巡灵)
     Ally Switch (交换场地) : Tutor
@@ -23446,8 +23372,6 @@ Absol (阿勃梭鲁)
     X-Scissor (十字剪) : TM
     Zen Headbutt (意念头锤) : Tutor, Egg
 
-Absol-Mega
-
 Wynaut (小果然)
     Charm (撒娇) : Level 1
     Counter (双倍奉还) : Level 15
@@ -23553,8 +23477,6 @@ Glalie (冰鬼护)
     Torment (无理取闹) : TM
     Toxic (剧毒) : TM
     Water Pulse (水之波动) : Tutor
-
-Glalie-Mega
 
 Spheal (海豹球)
     Aqua Ring (水流环) : Egg
@@ -24124,8 +24046,6 @@ Salamence (暴飞龙)
     Toxic (剧毒) : TM
     Zen Headbutt (意念头锤) : Tutor, Level 35
 
-Salamence-Mega
-
 Beldum (铁哑铃)
     Iron Defense (铁壁) : Tutor
     Iron Head (铁头) : Tutor
@@ -24256,8 +24176,6 @@ Metagross (巨金怪)
     Toxic (剧毒) : TM
     Trick (戏法) : Tutor
     Zen Headbutt (意念头锤) : Tutor, Level 32
-
-Metagross-Mega
 
 Regirock (雷吉洛克)
     Ancient Power (原始之力) : Level 31
@@ -24517,8 +24435,6 @@ Latias (拉帝亚斯)
     Wish (祈愿) : Level 1
     Zen Headbutt (意念头锤) : Tutor, Level 41
 
-Latias-Mega
-
 Latios (拉帝欧斯)
     Aerial Ace (燕返) : TM
     Ally Switch (交换场地) : Tutor
@@ -24598,8 +24514,6 @@ Latios (拉帝欧斯)
     Wonder Room (奇妙空间) : Tutor
     Zen Headbutt (意念头锤) : Tutor, Level 41
 
-Latios-Mega
-
 Kyogre (盖欧卡)
     Ancient Power (原始之力) : Level 1
     Aqua Ring (水流环) : Level 30
@@ -24655,8 +24569,6 @@ Kyogre (盖欧卡)
     Waterfall (攀瀑) : TM
     Water Pulse (水之波动) : Tutor, Level 1
     Water Spout (喷水) : Level 90
-
-Kyogre-Primal
 
 Groudon (固拉多)
     Aerial Ace (燕返) : TM
@@ -24723,8 +24635,6 @@ Groudon (固拉多)
     Thunder Wave (电磁波) : TM
     Toxic (剧毒) : TM
     Uproar (吵闹) : Tutor
-
-Groudon-Primal
 
 Rayquaza (烈空坐)
     Aerial Ace (燕返) : TM
@@ -24802,8 +24712,6 @@ Rayquaza (烈空坐)
     Uproar (吵闹) : Tutor
     Waterfall (攀瀑) : TM
     Water Pulse (水之波动) : Tutor
-
-Rayquaza-Mega
 
 Jirachi (基拉祈)
     Aerial Ace (燕返) : TM
@@ -24975,12 +24883,6 @@ Deoxys (代欧奇希斯)
     Wrap (紧束) : Level 1
     Zap Cannon (电磁炮) : Level 61
     Zen Headbutt (意念头锤) : Tutor, Level 49
-
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
 
 Turtwig (草苗龟)
     Absorb (吸取) : Level 9
@@ -26933,8 +26835,6 @@ Cherrim (樱花儿)
     Toxic (剧毒) : TM
     Worry Seed (烦恼种子) : Tutor, Level 30
 
-Cherrim-Sunshine
-
 Shellos (无壳海兔)
     Acid Armor (溶化) : Egg
     Amnesia (瞬间失忆) : Egg
@@ -27386,8 +27286,6 @@ Lopunny (长耳兔)
     Uproar (吵闹) : Tutor
     Water Pulse (水之波动) : Tutor
     Work Up (自我激励) : TM
-
-Lopunny-Mega
 
 Mismagius (梦妖魔)
     Aerial Ace (燕返) : TM
@@ -28437,8 +28335,6 @@ Garchomp (烈咬陆鲨)
     Take Down (猛撞) : Level 15
     Toxic (剧毒) : TM
 
-Garchomp-Mega
-
 Munchlax (小卡比兽)
     After You (您先请) : Tutor, Egg
     Amnesia (瞬间失忆) : Level 9
@@ -28660,8 +28556,6 @@ Lucario (路卡利欧)
     Water Pulse (水之波动) : Tutor
     Work Up (自我激励) : TM, Level 42
     Zen Headbutt (意念头锤) : Tutor
-
-Lucario-Mega
 
 Hippopotas (沙河马)
     Attract (迷人) : TM
@@ -29375,8 +29269,6 @@ Abomasnow (暴雪王)
     Water Pulse (水之波动) : Tutor
     Wood Hammer (木槌) : Level 36
     Worry Seed (烦恼种子) : Tutor
-
-Abomasnow-Mega
 
 Weavile (玛狃拉)
     Aerial Ace (燕返) : TM
@@ -30363,8 +30255,6 @@ Gallade (艾路雷朵)
     X-Scissor (十字剪) : TM
     Zen Headbutt (意念头锤) : Tutor
 
-Gallade-Mega
-
 Probopass (大朝北鼻)
     Ally Switch (交换场地) : Tutor
     Attract (迷人) : TM
@@ -31186,8 +31076,6 @@ Giratina (骑拉帝纳)
     Toxic (剧毒) : TM
     Will-O-Wisp (磷火) : TM
 
-Giratina-Origin
-
 Cresselia (克雷色利亚)
     Ally Switch (交换场地) : Tutor
     Attract (迷人) : TM
@@ -31478,8 +31366,6 @@ Shaymin (谢米)
     Worry Seed (烦恼种子) : Tutor, Level 55
     Zen Headbutt (意念头锤) : Tutor
 
-Shaymin-Sky
-
 Arceus (阿尔宙斯)
     Aerial Ace (燕返) : TM
     Aqua Tail (水流尾) : Tutor
@@ -31586,40 +31472,6 @@ Arceus (阿尔宙斯)
     Work Up (自我激励) : TM
     X-Scissor (十字剪) : TM
     Zen Headbutt (意念头锤) : Tutor
-
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark
-
-Arceus-Fairy
 
 Victini (比克提尼)
     Bounce (弹跳) : Tutor
@@ -33918,8 +33770,6 @@ Audino (差不多娃娃)
     Yawn (哈欠) : Egg
     Zen Headbutt (意念头锤) : Tutor
 
-Audino-Mega
-
 Timburr (搬运小匠)
     Attract (迷人) : TM
     Bide (忍耐) : Level 8
@@ -34935,8 +34785,6 @@ Basculin (野蛮鲈鱼)
     Whirlpool (潮旋) : Egg
     Zen Headbutt (意念头锤) : Tutor
 
-Basculin-Blue-Striped
-
 Sandile (黑眼鳄)
     Aqua Tail (水流尾) : Tutor
     Assurance (恶意追击) : Level 16
@@ -35257,8 +35105,6 @@ Darmanitan (达摩狒狒)
     Will-O-Wisp (磷火) : TM
     Work Up (自我激励) : TM, Level 25
     Zen Headbutt (意念头锤) : Tutor
-
-Darmanitan-Zen
 
 Maractus (沙铃仙人掌)
     Absorb (吸取) : Level 1
@@ -40313,8 +40159,6 @@ Tornadus (龙卷云)
     Uproar (吵闹) : Tutor, Level 1
     U-turn (急速折返) : TM
 
-Tornadus-Therian
-
 Thundurus (雷电云)
     Agility (高速移动) : Level 31
     Astonish (惊吓) : Level 1
@@ -40383,8 +40227,6 @@ Thundurus (雷电云)
     U-turn (急速折返) : TM
     Volt Switch (伏特替换) : TM
     Wild Charge (疯狂伏特) : TM
-
-Thundurus-Therian
 
 Reshiram (莱希拉姆)
     Ancient Power (原始之力) : Level 15
@@ -40577,8 +40419,6 @@ Landorus (土地云)
     Swords Dance (剑舞) : TM, Level 31
     Toxic (剧毒) : TM
     U-turn (急速折返) : TM
-
-Landorus-Therian
 
 Kyurem (酋雷姆)
     Ancient Power (原始之力) : Level 15
@@ -40824,8 +40664,6 @@ Keldeo (凯路迪欧)
     Work Up (自我激励) : TM, Level 61
     X-Scissor (十字剪) : TM
 
-Keldeo-Resolute
-
 Meloetta (美洛耶塔)
     Acrobatics (杂技) : TM, Level 26
     Ally Switch (交换场地) : Tutor
@@ -40912,8 +40750,6 @@ Meloetta (美洛耶塔)
     Work Up (自我激励) : TM
     Zen Headbutt (意念头锤) : Tutor
 
-Meloetta-Pirouette
-
 Genesect (盖诺赛克特)
     Aerial Ace (燕返) : TM
     Ally Switch (交换场地) : Tutor
@@ -40985,14 +40821,6 @@ Genesect (盖诺赛克特)
     X-Scissor (十字剪) : TM, Level 51
     Zap Cannon (电磁炮) : Level 66
     Zen Headbutt (意念头锤) : Tutor
-
-Genesect-Douse
-
-Genesect-Shock
-
-Genesect-Burn
-
-Genesect-Chill
 
 Chespin (哈力栗)
     Aerial Ace (燕返) : TM
@@ -41659,8 +41487,6 @@ Greninja-Bond
     Water Pulse (水之波动) : Tutor, Level 14
     Water Shuriken (飞水手里剑) : Level 1
     Work Up (自我激励) : TM
-
-Greninja-Ash
 
 Bunnelby (掘掘兔)
     Agility (高速移动) : Level 1
@@ -43074,8 +42900,6 @@ Aegislash (坚盾剑怪)
     Swagger (虚张声势) : TM
     Swords Dance (剑舞) : TM, Level 1
     Toxic (剧毒) : TM
-
-Aegislash-Blade
 
 Spritzee (粉香香)
     After You (您先请) : Tutor
@@ -44806,10 +44630,6 @@ Pumpkaboo (南瓜精)
     Will-O-Wisp (磷火) : TM
     Worry Seed (烦恼种子) : Tutor, Level 11
 
-Pumpkaboo-Small
-
-Pumpkaboo-Large
-
 Pumpkaboo-Super
 
 Gourgeist (南瓜怪人)
@@ -44874,12 +44694,6 @@ Gourgeist (南瓜怪人)
     Trick Room (戏法空间) : TM
     Will-O-Wisp (磷火) : TM
     Worry Seed (烦恼种子) : Tutor, Level 11
-
-Gourgeist-Small
-
-Gourgeist-Large
-
-Gourgeist-Super
 
 Bergmite (冰宝)
     After You (您先请) : Tutor
@@ -45305,8 +45119,6 @@ Zygarde (基格尔德)
 
 Zygarde-10%
 
-Zygarde-Complete
-
 Diancie (蒂安希)
     After You (您先请) : Tutor
     Ancient Power (原始之力) : Level 27
@@ -45368,8 +45180,6 @@ Diancie (蒂安希)
     Toxic (剧毒) : TM
     Trick Room (戏法空间) : TM, Level 46
     Wonder Room (奇妙空间) : Tutor
-
-Diancie-Mega
 
 Hoopa (胡帕)
     Ally Switch (交换场地) : Tutor, Level 1
@@ -45453,8 +45263,6 @@ Hoopa (胡帕)
     Uproar (吵闹) : Tutor
     Wonder Room (奇妙空间) : Tutor, Level 50
     Zen Headbutt (意念头锤) : Tutor, Level 46
-
-Hoopa-Unbound
 
 Volcanion (波尔凯尼恩)
     Body Slam (泰山压顶) : Level 46
@@ -46729,12 +46537,6 @@ Oricorio (花舞鸟)
     U-turn (急速折返) : TM
     Work Up (自我激励) : TM
 
-Oricorio-Pom-Pom
-
-Oricorio-Pa'u
-
-Oricorio-Sensu
-
 Cutiefly (萌虻)
     Absorb (吸取) : Level 1
     Acrobatics (杂技) : TM
@@ -47186,8 +46988,6 @@ Wishiwashi (弱丁鱼)
     Water Pulse (水之波动) : Tutor, Egg
     Water Sport (玩水) : Egg
     Whirlpool (潮旋) : Egg
-
-Wishiwashi-School
 
 Mareanie (好坏星)
     After You (您先请) : Tutor
@@ -48874,42 +48674,6 @@ Silvally (银伴战兽)
     X-Scissor (十字剪) : TM, Level 35
     Zen Headbutt (意念头锤) : Tutor
 
-Silvally-Fighting
-
-Silvally-Flying
-
-Silvally-Poison
-
-Silvally-Ground
-
-Silvally-Rock
-
-Silvally-Bug
-
-Silvally-Ghost
-
-Silvally-Steel
-
-Silvally-Fire
-
-Silvally-Water
-
-Silvally-Grass
-
-Silvally-Electric
-
-Silvally-Psychic
-
-Silvally-Ice
-
-Silvally-Dragon
-
-Silvally-Dark
-
-Silvally-Fairy
-
-Minior-Meteor
-
 Minior (小陨星)
     Acrobatics (杂技) : TM
     Ancient Power (原始之力) : Level 17
@@ -49299,8 +49063,6 @@ Mimikyu (谜拟丘)
     Work Up (自我激励) : TM
     X-Scissor (十字剪) : TM
 
-Mimikyu-Busted
-
 Mimikyu-Totem
     After You (您先请) : Tutor
     Astonish (惊吓) : Level 1
@@ -49368,8 +49130,6 @@ Mimikyu-Totem
     Wood Hammer (木槌) : Level 1
     Work Up (自我激励) : TM
     X-Scissor (十字剪) : TM
-
-Mimikyu-Busted-Totem
 
 Bruxish (磨牙彩皮鱼)
     Aerial Ace (燕返) : TM
@@ -51199,3 +50959,4 @@ Zeraora (捷拉奥拉)
     Volt Switch (伏特替换) : TM, Level 15
     Wild Charge (疯狂伏特) : TM, Level 36
     Work Up (自我激励) : TM
+

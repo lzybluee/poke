@@ -19118,12 +19118,6 @@ Deoxys (代欧奇希斯)
     Zap Cannon (电磁炮) : Level 61
     Zen Headbutt (意念头锤) : TM, Level 49
 
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
-
 Turtwig (草苗龟)
     Absorb (吸取) : Level 9
     Amnesia (瞬间失忆) : TM
@@ -23652,8 +23646,6 @@ Dialga (帝牙卢卡)
     Trick (戏法) : TM
     Trick Room (戏法空间) : TM
 
-Dialga-Origin
-
 Palkia (帕路奇亚)
     Aerial Ace (燕返) : TM
     Ancient Power (原始之力) : Level 16
@@ -23725,8 +23717,6 @@ Palkia (帕路奇亚)
     Waterfall (攀瀑) : TM
     Water Pulse (水之波动) : TM, Level 1
     Whirlpool (潮旋) : TM
-
-Palkia-Origin
 
 Heatran (席多蓝恩)
     Ancient Power (原始之力) : Level 12
@@ -23899,8 +23889,6 @@ Giratina (骑拉帝纳)
     Thunderbolt (十万伏特) : TM
     Thunder Wave (电磁波) : TM
     Will-O-Wisp (磷火) : TM
-
-Giratina-Origin
 
 Cresselia (克雷色利亚)
     Ally Switch (交换场地) : Level 24
@@ -24175,8 +24163,6 @@ Shaymin (谢米)
     Worry Seed (烦恼种子) : Level 55
     Zen Headbutt (意念头锤) : TM
 
-Shaymin-Sky
-
 Arceus (阿尔宙斯)
     Acid Spray (酸液炸弹) : TM
     Agility (高速移动) : TM
@@ -24299,40 +24285,6 @@ Arceus (阿尔宙斯)
     Will-O-Wisp (磷火) : TM
     X-Scissor (十字剪) : TM
     Zen Headbutt (意念头锤) : TM
-
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark
-
-Arceus-Fairy
 
 Snivy (藤藤蛇)
     Aerial Ace (燕返) : TM
@@ -25709,8 +25661,6 @@ Basculin (野蛮鲈鱼)
     Wave Crash (波动冲) : Level 44
     Whirlpool (潮旋) : TM
     Zen Headbutt (意念头锤) : TM
-
-Basculin-Blue-Striped
 
 Basculin-White-Striped
     Agility (高速移动) : TM
@@ -29023,8 +28973,6 @@ Tornadus (龙卷云)
     U-turn (急速折返) : TM
     Weather Ball (气象球) : TM
 
-Tornadus-Therian
-
 Thundurus (雷电云)
     Acrobatics (杂技) : TM
     Agility (高速移动) : TM, Level 25
@@ -29090,8 +29038,6 @@ Thundurus (雷电云)
     Wildbolt Storm (鸣雷风暴) : Level 75
     Wild Charge (疯狂伏特) : TM
     Zen Headbutt (意念头锤) : TM
-
-Thundurus-Therian
 
 Reshiram (莱希拉姆)
     Ancient Power (原始之力) : Level 1
@@ -29288,8 +29234,6 @@ Landorus (土地云)
     Tera Blast (太晶爆发) : TM
     U-turn (急速折返) : TM
     Weather Ball (气象球) : TM
-
-Landorus-Therian
 
 Kyurem (酋雷姆)
     Aerial Ace (燕返) : TM
@@ -29545,8 +29489,6 @@ Keldeo (凯路迪欧)
     Work Up (自我激励) : Level 1
     X-Scissor (十字剪) : TM
 
-Keldeo-Resolute
-
 Meloetta (美洛耶塔)
     Acrobatics (杂技) : TM, Level 26
     Alluring Voice (魅诱之声) : TM
@@ -29616,8 +29558,6 @@ Meloetta (美洛耶塔)
     Triple Axel (三旋击) : TM
     U-turn (急速折返) : TM, Level 43
     Zen Headbutt (意念头锤) : TM
-
-Meloetta-Pirouette
 
 Chespin (哈力栗)
     Aerial Ace (燕返) : TM
@@ -32457,8 +32397,6 @@ Hoopa (胡帕)
     Wonder Room (奇妙空间) : Level 50
     Zen Headbutt (意念头锤) : TM, Level 46
 
-Hoopa-Unbound
-
 Volcanion (波尔凯尼恩)
     Body Press (扑击) : TM
     Body Slam (泰山压顶) : TM
@@ -33672,12 +33610,6 @@ Oricorio (花舞鸟)
     Tera Blast (太晶爆发) : TM
     Trailblaze (起草) : TM
     U-turn (急速折返) : TM
-
-Oricorio-Pom-Pom
-
-Oricorio-Pa'u
-
-Oricorio-Sensu
 
 Cutiefly (萌虻)
     Absorb (吸取) : Level 1
@@ -34973,8 +34905,6 @@ Palossand (噬沙堡爷)
     Tera Blast (太晶爆发) : TM
     Trick (戏法) : TM
 
-Minior-Meteor
-
 Minior (小陨星)
     Acrobatics (杂技) : TM
     Ancient Power (原始之力) : Level 17
@@ -35147,8 +35077,6 @@ Mimikyu (谜拟丘)
     Will-O-Wisp (磷火) : TM
     Wood Hammer (木槌) : Level 1
     X-Scissor (十字剪) : TM
-
-Mimikyu-Busted
 
 Bruxish (磨牙彩皮鱼)
     Agility (高速移动) : TM
@@ -36957,10 +36885,6 @@ Cramorant (古月鸟)
     Weather Ball (气象球) : TM
     Whirlpool (潮旋) : TM
 
-Cramorant-Gulping
-
-Cramorant-Gorging
-
 Arrokuda (刺梭鱼)
     Acupressure (点穴) : Egg
     Agility (高速移动) : TM, Level 18
@@ -37346,8 +37270,6 @@ Polteageist (怖思壶)
     Trick Room (戏法空间) : TM
     Will-O-Wisp (磷火) : TM
     Withdraw (缩入壳中) : Level 1
-
-Polteageist-Antique
 
 Hatenna (迷布莉姆)
     After You (您先请) : Egg
@@ -38069,8 +37991,6 @@ Eiscue (冰砌鹅)
     Whirlpool (潮旋) : TM
     Zen Headbutt (意念头锤) : TM
 
-Eiscue-Noice
-
 Indeedee (爱管侍)
     After You (您先请) : Level 25
     Body Slam (泰山压顶) : TM
@@ -38231,8 +38151,6 @@ Morpeko (莫鲁贝可)
     Uproar (吵闹) : TM
     Volt Switch (伏特替换) : TM
     Wild Charge (疯狂伏特) : TM
-
-Morpeko-Hangry
 
 Cufant (铜象)
     Belch (打嗝) : Egg
@@ -41148,8 +41066,6 @@ Maushold (一家鼠)
     U-turn (急速折返) : TM
     Water Pulse (水之波动) : TM
 
-Maushold-Four
-
 Fidough (狗仔包)
     Agility (高速移动) : TM
     Alluring Voice (魅诱之声) : TM
@@ -41422,12 +41338,6 @@ Squawkabilly (怒鹦哥)
     Torment (无理取闹) : Level 10
     Uproar (吵闹) : TM, Level 24
     U-turn (急速折返) : TM
-
-Squawkabilly-Blue
-
-Squawkabilly-Yellow
-
-Squawkabilly-White
 
 Nacli (盐石宝)
     Ancient Power (原始之力) : Egg
@@ -43090,8 +43000,6 @@ Palafin (海豚侠)
     Whirlpool (潮旋) : TM
     Zen Headbutt (意念头锤) : TM
 
-Palafin-Hero
-
 Varoom (噗隆隆)
     Acid Spray (酸液炸弹) : TM
     Assurance (恶意追击) : Level 10
@@ -44094,8 +44002,6 @@ Dudunsparce (土龙节节)
     Yawn (哈欠) : Level 28
     Zen Headbutt (意念头锤) : TM
 
-Dudunsparce-Three-Segment
-
 Kingambit (仆刀将军)
     Aerial Ace (燕返) : TM
     Air Slash (空气之刃) : TM
@@ -45011,8 +44917,6 @@ Gimmighoul (索财灵)
     Take Down (猛撞) : TM
     Tera Blast (太晶爆发) : TM
     Thief (小偷) : TM
-
-Gimmighoul-Roaming
 
 Gholdengo (赛富豪)
     Astonish (惊吓) : Level 1
@@ -46119,20 +46023,6 @@ Ogerpon (厄诡椪)
     Wood Hammer (木槌) : Level 66
     Zen Headbutt (意念头锤) : TM
 
-Ogerpon-Wellspring
-
-Ogerpon-Hearthflame
-
-Ogerpon-Cornerstone
-
-Ogerpon-Teal-Tera
-
-Ogerpon-Wellspring-Tera
-
-Ogerpon-Hearthflame-Tera
-
-Ogerpon-Cornerstone-Tera
-
 Archaludon (铝钢桥龙)
     Aura Sphere (波导弹) : TM
     Body Press (扑击) : TM
@@ -46532,10 +46422,6 @@ Terapagos (太乐巴戈斯)
     Withdraw (缩入壳中) : Level 1
     Zen Headbutt (意念头锤) : TM
 
-Terapagos-Terastal
-
-Terapagos-Stellar
-
 Pecharunt (桃歹郎)
     Acid Spray (酸液炸弹) : TM
     Astonish (惊吓) : Level 1
@@ -46572,3 +46458,4 @@ Pecharunt (桃歹郎)
     Toxic (剧毒) : TM, Level 56
     Venoshock (毒液冲击) : TM
     Withdraw (缩入壳中) : Level 8
+

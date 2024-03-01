@@ -163,8 +163,6 @@ Venusaur
     Work Up : TM
     Worry Seed : Tutor, Level 39
 
-Venusaur-Mega
-
 Charmander
     Aerial Ace : TM
     Air Cutter : Egg
@@ -350,10 +348,6 @@ Charizard
     Wing Attack : Level 1
     Work Up : TM
 
-Charizard-Mega-X
-
-Charizard-Mega-Y
-
 Squirtle
     Aqua Jet : Egg
     Aqua Ring : Egg
@@ -528,8 +522,6 @@ Blastoise
     Work Up : TM
     Zen Headbutt : Tutor
 
-Blastoise-Mega
-
 Caterpie
     Bug Bite : Tutor, Level 9
     Electroweb : Tutor
@@ -667,8 +659,6 @@ Beedrill
     Venoshock : TM, Level 23
     X-Scissor : TM
 
-Beedrill-Mega
-
 Pidgey
     Aerial Ace : TM
     Agility : Level 29
@@ -805,8 +795,6 @@ Pidgeot
     Whirlwind : Level 17
     Wing Attack : Level 38
     Work Up : TM
-
-Pidgeot-Mega
 
 Rattata
     Assurance : Level 19
@@ -4813,8 +4801,6 @@ Alakazam
     Wonder Room : Tutor
     Zen Headbutt : Tutor
 
-Alakazam-Mega
-
 Machop
     Attract : TM
     Brick Break : TM
@@ -5895,8 +5881,6 @@ Slowbro
     Yawn : Level 1
     Zen Headbutt : Tutor, Level 32
 
-Slowbro-Mega
-
 Magnemite
     Charge Beam : TM
     Confide : TM
@@ -6874,8 +6858,6 @@ Gengar
     Venoshock : TM
     Will-O-Wisp : TM
     Wonder Room : Tutor
-
-Gengar-Mega
 
 Onix
     Attract : TM
@@ -8501,8 +8483,6 @@ Kangaskhan
     Water Pulse : Tutor
     Work Up : TM
 
-Kangaskhan-Mega
-
 Horsea
     Agility : Level 36
     Attract : TM
@@ -9215,8 +9195,6 @@ Pinsir
     Vital Throw : Level 18
     X-Scissor : TM, Level 29
 
-Pinsir-Mega
-
 Tauros
     Attract : TM
     Blizzard : TM
@@ -9346,8 +9324,6 @@ Gyarados
     Uproar : Tutor
     Waterfall : TM
     Water Pulse : Tutor
-
-Gyarados-Mega
 
 Lapras
     Ancient Power : Egg
@@ -10013,8 +9989,6 @@ Aerodactyl
     Wide Guard : Egg
     Wing Attack : Level 1
 
-Aerodactyl-Mega
-
 Snorlax
     After You : Tutor, Egg
     Amnesia : Level 9
@@ -10540,10 +10514,6 @@ Mewtwo
     Will-O-Wisp : TM
     Wonder Room : Tutor
     Zen Headbutt : Tutor
-
-Mewtwo-Mega-X
-
-Mewtwo-Mega-Y
 
 Mew
     Acrobatics : TM
@@ -12570,8 +12540,6 @@ Ampharos
     Wild Charge : TM
     Zap Cannon : Level 1
 
-Ampharos-Mega
-
 Bellossom
     After You : Tutor
     Attract : TM
@@ -14147,8 +14115,6 @@ Steelix
     Torment : TM
     Toxic : TM
 
-Steelix-Mega
-
 Snubbull
     Attract : TM
     Bite : Level 7
@@ -14431,8 +14397,6 @@ Scizor
     Venoshock : TM
     X-Scissor : TM, Level 41
 
-Scizor-Mega
-
 Shuckle
     Acid : Egg
     Acupressure : Egg
@@ -14562,8 +14526,6 @@ Heracross
     Toxic : TM
     Venoshock : TM
     Work Up : TM
-
-Heracross-Mega
 
 Sneasel
     Aerial Ace : TM
@@ -15512,8 +15474,6 @@ Houndoom
     Toxic : TM
     Uproar : Tutor
     Will-O-Wisp : TM
-
-Houndoom-Mega
 
 Kingdra
     Agility : Level 38
@@ -16621,8 +16581,6 @@ Tyranitar
     Uproar : Tutor
     Water Pulse : Tutor
 
-Tyranitar-Mega
-
 Lugia
     Aerial Ace : TM
     Aeroblast : Level 43
@@ -17050,8 +17008,6 @@ Sceptile
     Worry Seed : Tutor
     X-Scissor : TM, Level 45
 
-Sceptile-Mega
-
 Torchic
     Aerial Ace : TM
     Agility : Egg
@@ -17244,8 +17200,6 @@ Blaziken
     Will-O-Wisp : TM
     Work Up : TM
 
-Blaziken-Mega
-
 Mudkip
     Ancient Power : Egg
     Aqua Tail : Tutor
@@ -17430,8 +17384,6 @@ Swampert
     Water Pledge : Tutor
     Water Pulse : Tutor
     Work Up : TM
-
-Swampert-Mega
 
 Poochyena
     Assurance : Level 22
@@ -18566,8 +18518,6 @@ Gardevoir
     Wish : Level 14
     Wonder Room : Tutor
     Zen Headbutt : Tutor
-
-Gardevoir-Mega
 
 Surskit
     Agility : Level 22
@@ -19759,8 +19709,6 @@ Sableye
     Wonder Room : Tutor
     Zen Headbutt : Tutor, Level 34
 
-Sableye-Mega
-
 Mawile
     Ancient Power : Egg
     Astonish : Level 1
@@ -19849,8 +19797,6 @@ Mawile
     Torment : TM
     Toxic : TM
     Vise Grip : Level 17
-
-Mawile-Mega
 
 Aron
     Aerial Ace : TM
@@ -20050,8 +19996,6 @@ Aggron
     Uproar : Tutor
     Water Pulse : Tutor
 
-Aggron-Mega
-
 Meditite
     Acupressure : Level 33
     Attract : TM
@@ -20200,8 +20144,6 @@ Medicham
     Work Up : TM
     Zen Headbutt : Tutor, Level 1
 
-Medicham-Mega
-
 Electrike
     Attract : TM
     Bite : Level 24
@@ -20305,8 +20247,6 @@ Manectric
     Uproar : Tutor
     Volt Switch : TM
     Wild Charge : TM, Level 42
-
-Manectric-Mega
 
 Plusle
     Agility : Level 37
@@ -20856,8 +20796,6 @@ Sharpedo
     Water Pulse : Tutor
     Zen Headbutt : Tutor
 
-Sharpedo-Mega
-
 Wailmer
     Amnesia : Level 37
     Aqua Ring : Egg
@@ -21086,8 +21024,6 @@ Camerupt
     Toxic : TM
     Will-O-Wisp : TM
     Yawn : Level 39
-
-Camerupt-Mega
 
 Torkoal
     After You : Tutor
@@ -21794,8 +21730,6 @@ Altaria
     Toxic : TM
     Uproar : Tutor
     Wonder Room : Tutor
-
-Altaria-Mega
 
 Zangoose
     Aerial Ace : TM
@@ -22841,12 +22775,6 @@ Castform
     Weather Ball : Level 25
     Work Up : TM
 
-Castform-Sunny
-
-Castform-Rainy
-
-Castform-Snowy
-
 Kecleon
     Aerial Ace : TM
     After You : Tutor
@@ -23067,8 +22995,6 @@ Banette
     Trick : Tutor, Level 58
     Trick Room : TM
     Will-O-Wisp : TM, Level 16
-
-Banette-Mega
 
 Duskull
     Ally Switch : Tutor
@@ -23446,8 +23372,6 @@ Absol
     X-Scissor : TM
     Zen Headbutt : Tutor, Egg
 
-Absol-Mega
-
 Wynaut
     Charm : Level 1
     Counter : Level 15
@@ -23553,8 +23477,6 @@ Glalie
     Torment : TM
     Toxic : TM
     Water Pulse : Tutor
-
-Glalie-Mega
 
 Spheal
     Aqua Ring : Egg
@@ -24124,8 +24046,6 @@ Salamence
     Toxic : TM
     Zen Headbutt : Tutor, Level 35
 
-Salamence-Mega
-
 Beldum
     Iron Defense : Tutor
     Iron Head : Tutor
@@ -24256,8 +24176,6 @@ Metagross
     Toxic : TM
     Trick : Tutor
     Zen Headbutt : Tutor, Level 32
-
-Metagross-Mega
 
 Regirock
     Ancient Power : Level 31
@@ -24517,8 +24435,6 @@ Latias
     Wish : Level 1
     Zen Headbutt : Tutor, Level 41
 
-Latias-Mega
-
 Latios
     Aerial Ace : TM
     Ally Switch : Tutor
@@ -24598,8 +24514,6 @@ Latios
     Wonder Room : Tutor
     Zen Headbutt : Tutor, Level 41
 
-Latios-Mega
-
 Kyogre
     Ancient Power : Level 1
     Aqua Ring : Level 30
@@ -24655,8 +24569,6 @@ Kyogre
     Waterfall : TM
     Water Pulse : Tutor, Level 1
     Water Spout : Level 90
-
-Kyogre-Primal
 
 Groudon
     Aerial Ace : TM
@@ -24723,8 +24635,6 @@ Groudon
     Thunder Wave : TM
     Toxic : TM
     Uproar : Tutor
-
-Groudon-Primal
 
 Rayquaza
     Aerial Ace : TM
@@ -24802,8 +24712,6 @@ Rayquaza
     Uproar : Tutor
     Waterfall : TM
     Water Pulse : Tutor
-
-Rayquaza-Mega
 
 Jirachi
     Aerial Ace : TM
@@ -24975,12 +24883,6 @@ Deoxys
     Wrap : Level 1
     Zap Cannon : Level 61
     Zen Headbutt : Tutor, Level 49
-
-Deoxys-Attack
-
-Deoxys-Defense
-
-Deoxys-Speed
 
 Turtwig
     Absorb : Level 9
@@ -26933,8 +26835,6 @@ Cherrim
     Toxic : TM
     Worry Seed : Tutor, Level 30
 
-Cherrim-Sunshine
-
 Shellos
     Acid Armor : Egg
     Amnesia : Egg
@@ -27386,8 +27286,6 @@ Lopunny
     Uproar : Tutor
     Water Pulse : Tutor
     Work Up : TM
-
-Lopunny-Mega
 
 Mismagius
     Aerial Ace : TM
@@ -28437,8 +28335,6 @@ Garchomp
     Take Down : Level 15
     Toxic : TM
 
-Garchomp-Mega
-
 Munchlax
     After You : Tutor, Egg
     Amnesia : Level 9
@@ -28660,8 +28556,6 @@ Lucario
     Water Pulse : Tutor
     Work Up : TM, Level 42
     Zen Headbutt : Tutor
-
-Lucario-Mega
 
 Hippopotas
     Attract : TM
@@ -29375,8 +29269,6 @@ Abomasnow
     Water Pulse : Tutor
     Wood Hammer : Level 36
     Worry Seed : Tutor
-
-Abomasnow-Mega
 
 Weavile
     Aerial Ace : TM
@@ -30363,8 +30255,6 @@ Gallade
     X-Scissor : TM
     Zen Headbutt : Tutor
 
-Gallade-Mega
-
 Probopass
     Ally Switch : Tutor
     Attract : TM
@@ -31186,8 +31076,6 @@ Giratina
     Toxic : TM
     Will-O-Wisp : TM
 
-Giratina-Origin
-
 Cresselia
     Ally Switch : Tutor
     Attract : TM
@@ -31478,8 +31366,6 @@ Shaymin
     Worry Seed : Tutor, Level 55
     Zen Headbutt : Tutor
 
-Shaymin-Sky
-
 Arceus
     Aerial Ace : TM
     Aqua Tail : Tutor
@@ -31586,40 +31472,6 @@ Arceus
     Work Up : TM
     X-Scissor : TM
     Zen Headbutt : Tutor
-
-Arceus-Fighting
-
-Arceus-Flying
-
-Arceus-Poison
-
-Arceus-Ground
-
-Arceus-Rock
-
-Arceus-Bug
-
-Arceus-Ghost
-
-Arceus-Steel
-
-Arceus-Fire
-
-Arceus-Water
-
-Arceus-Grass
-
-Arceus-Electric
-
-Arceus-Psychic
-
-Arceus-Ice
-
-Arceus-Dragon
-
-Arceus-Dark
-
-Arceus-Fairy
 
 Victini
     Bounce : Tutor
@@ -33918,8 +33770,6 @@ Audino
     Yawn : Egg
     Zen Headbutt : Tutor
 
-Audino-Mega
-
 Timburr
     Attract : TM
     Bide : Level 8
@@ -34935,8 +34785,6 @@ Basculin
     Whirlpool : Egg
     Zen Headbutt : Tutor
 
-Basculin-Blue-Striped
-
 Sandile
     Aqua Tail : Tutor
     Assurance : Level 16
@@ -35257,8 +35105,6 @@ Darmanitan
     Will-O-Wisp : TM
     Work Up : TM, Level 25
     Zen Headbutt : Tutor
-
-Darmanitan-Zen
 
 Maractus
     Absorb : Level 1
@@ -40313,8 +40159,6 @@ Tornadus
     Uproar : Tutor, Level 1
     U-turn : TM
 
-Tornadus-Therian
-
 Thundurus
     Agility : Level 31
     Astonish : Level 1
@@ -40383,8 +40227,6 @@ Thundurus
     U-turn : TM
     Volt Switch : TM
     Wild Charge : TM
-
-Thundurus-Therian
 
 Reshiram
     Ancient Power : Level 15
@@ -40577,8 +40419,6 @@ Landorus
     Swords Dance : TM, Level 31
     Toxic : TM
     U-turn : TM
-
-Landorus-Therian
 
 Kyurem
     Ancient Power : Level 15
@@ -40824,8 +40664,6 @@ Keldeo
     Work Up : TM, Level 61
     X-Scissor : TM
 
-Keldeo-Resolute
-
 Meloetta
     Acrobatics : TM, Level 26
     Ally Switch : Tutor
@@ -40912,8 +40750,6 @@ Meloetta
     Work Up : TM
     Zen Headbutt : Tutor
 
-Meloetta-Pirouette
-
 Genesect
     Aerial Ace : TM
     Ally Switch : Tutor
@@ -40985,14 +40821,6 @@ Genesect
     X-Scissor : TM, Level 51
     Zap Cannon : Level 66
     Zen Headbutt : Tutor
-
-Genesect-Douse
-
-Genesect-Shock
-
-Genesect-Burn
-
-Genesect-Chill
 
 Chespin
     Aerial Ace : TM
@@ -41659,8 +41487,6 @@ Greninja-Bond
     Water Pulse : Tutor, Level 14
     Water Shuriken : Level 1
     Work Up : TM
-
-Greninja-Ash
 
 Bunnelby
     Agility : Level 1
@@ -43074,8 +42900,6 @@ Aegislash
     Swagger : TM
     Swords Dance : TM, Level 1
     Toxic : TM
-
-Aegislash-Blade
 
 Spritzee
     After You : Tutor
@@ -44806,10 +44630,6 @@ Pumpkaboo
     Will-O-Wisp : TM
     Worry Seed : Tutor, Level 11
 
-Pumpkaboo-Small
-
-Pumpkaboo-Large
-
 Pumpkaboo-Super
 
 Gourgeist
@@ -44874,12 +44694,6 @@ Gourgeist
     Trick Room : TM
     Will-O-Wisp : TM
     Worry Seed : Tutor, Level 11
-
-Gourgeist-Small
-
-Gourgeist-Large
-
-Gourgeist-Super
 
 Bergmite
     After You : Tutor
@@ -45305,8 +45119,6 @@ Zygarde
 
 Zygarde-10%
 
-Zygarde-Complete
-
 Diancie
     After You : Tutor
     Ancient Power : Level 27
@@ -45368,8 +45180,6 @@ Diancie
     Toxic : TM
     Trick Room : TM, Level 46
     Wonder Room : Tutor
-
-Diancie-Mega
 
 Hoopa
     Ally Switch : Tutor, Level 1
@@ -45453,8 +45263,6 @@ Hoopa
     Uproar : Tutor
     Wonder Room : Tutor, Level 50
     Zen Headbutt : Tutor, Level 46
-
-Hoopa-Unbound
 
 Volcanion
     Body Slam : Level 46
@@ -46729,12 +46537,6 @@ Oricorio
     U-turn : TM
     Work Up : TM
 
-Oricorio-Pom-Pom
-
-Oricorio-Pa'u
-
-Oricorio-Sensu
-
 Cutiefly
     Absorb : Level 1
     Acrobatics : TM
@@ -47186,8 +46988,6 @@ Wishiwashi
     Water Pulse : Tutor, Egg
     Water Sport : Egg
     Whirlpool : Egg
-
-Wishiwashi-School
 
 Mareanie
     After You : Tutor
@@ -48874,42 +48674,6 @@ Silvally
     X-Scissor : TM, Level 35
     Zen Headbutt : Tutor
 
-Silvally-Fighting
-
-Silvally-Flying
-
-Silvally-Poison
-
-Silvally-Ground
-
-Silvally-Rock
-
-Silvally-Bug
-
-Silvally-Ghost
-
-Silvally-Steel
-
-Silvally-Fire
-
-Silvally-Water
-
-Silvally-Grass
-
-Silvally-Electric
-
-Silvally-Psychic
-
-Silvally-Ice
-
-Silvally-Dragon
-
-Silvally-Dark
-
-Silvally-Fairy
-
-Minior-Meteor
-
 Minior
     Acrobatics : TM
     Ancient Power : Level 17
@@ -49299,8 +49063,6 @@ Mimikyu
     Work Up : TM
     X-Scissor : TM
 
-Mimikyu-Busted
-
 Mimikyu-Totem
     After You : Tutor
     Astonish : Level 1
@@ -49368,8 +49130,6 @@ Mimikyu-Totem
     Wood Hammer : Level 1
     Work Up : TM
     X-Scissor : TM
-
-Mimikyu-Busted-Totem
 
 Bruxish
     Aerial Ace : TM
@@ -51199,3 +50959,4 @@ Zeraora
     Volt Switch : TM, Level 15
     Wild Charge : TM, Level 36
     Work Up : TM
+
