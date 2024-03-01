@@ -12,7 +12,7 @@ Bulbasaur (妙蛙种子)
     Growl (叫声) : Level 4
     Growth (生长) : Level 32
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Seed (寄生种子) : Level 7
     Light Screen (光墙) : Egg
     Mud-Slap (掷泥) : TM
@@ -51,7 +51,7 @@ Ivysaur (妙蛙草)
     Growl (叫声) : Level 4, Level 1
     Growth (生长) : Level 38
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Seed (寄生种子) : Level 7, Level 1
     Mud-Slap (掷泥) : TM
     Poison Powder (毒粉) : Level 15
@@ -85,7 +85,7 @@ Venusaur (妙蛙花)
     Growl (叫声) : Level 4, Level 1
     Growth (生长) : Level 41
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Seed (寄生种子) : Level 7, Level 1
     Mud-Slap (掷泥) : TM
@@ -131,7 +131,7 @@ Charmander (小火龙)
     Fury Cutter (连斩) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Outrage (逆鳞) : Egg
@@ -173,7 +173,7 @@ Charmeleon (火恐龙)
     Fury Cutter (连斩) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -215,7 +215,7 @@ Charizard (喷火龙)
     Fury Cutter (连斩) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -257,7 +257,7 @@ Squirtle (杰尼龟)
     Frustration (迁怒) : TM
     Haze (黑雾) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 47
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -300,7 +300,7 @@ Wartortle (卡咪龟)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 53
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -342,7 +342,7 @@ Blastoise (水箭龟)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 68
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -389,7 +389,7 @@ Butterfree (巴大蝶)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Gust (起风) : Level 28
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Nightmare (恶梦) : TM
     Poison Powder (毒粉) : Level 13
@@ -431,7 +431,7 @@ Beedrill (大针蜂)
     Fury Attack (乱击) : Level 10, Level 1
     Fury Cutter (连斩) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Pin Missile (飞弹针) : Level 35
     Protect (守住) : TM
@@ -461,7 +461,7 @@ Pidgey (波波)
     Foresight (识破) : Egg
     Frustration (迁怒) : TM
     Gust (起风) : Level 9
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mirror Move (鹦鹉学舌) : Level 47
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -492,7 +492,7 @@ Pidgeotto (比比鸟)
     Fly (飞翔) : TM
     Frustration (迁怒) : TM
     Gust (起风) : Level 9, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mirror Move (鹦鹉学舌) : Level 55
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -522,7 +522,7 @@ Pidgeot (大比鸟)
     Fly (飞翔) : TM
     Frustration (迁怒) : TM
     Gust (起风) : Level 9, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Mirror Move (鹦鹉学舌) : Level 61
     Mud-Slap (掷泥) : TM
@@ -558,7 +558,7 @@ Rattata (小拉达)
     Frustration (迁怒) : TM
     Fury Swipes (乱抓) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Fang (终结门牙) : Level 13
     Icy Wind (冰冻之风) : TM
     Iron Tail (铁尾) : TM
@@ -595,7 +595,7 @@ Raticate (拉达)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hyper Fang (终结门牙) : Level 13
     Ice Beam (冰冻光束) : Tutor
@@ -639,7 +639,7 @@ Spearow (烈雀)
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 13
     Growl (叫声) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leer (瞪眼) : Level 7
     Mirror Move (鹦鹉学舌) : Level 31
     Mud-Slap (掷泥) : TM
@@ -672,7 +672,7 @@ Fearow (大嘴雀)
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 13, Level 1
     Growl (叫声) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leer (瞪眼) : Level 7, Level 1
     Mirror Move (鹦鹉学舌) : Level 32
@@ -707,7 +707,7 @@ Ekans (阿柏蛇)
     Glare (大蛇瞪眼) : Level 23
     Haze (黑雾) : Level 43
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leer (瞪眼) : Level 1
     Poison Sting (毒针) : Level 9
     Protect (守住) : TM
@@ -741,7 +741,7 @@ Arbok (阿柏怪)
     Glare (大蛇瞪眼) : Level 25
     Haze (黑雾) : Level 51
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leer (瞪眼) : Level 1
     Poison Sting (毒针) : Level 9, Level 1
@@ -772,7 +772,7 @@ Pikachu (皮卡丘)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Light Screen (光墙) : Level 50
     Mud-Slap (掷泥) : TM
@@ -808,7 +808,7 @@ Raichu (雷丘)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -849,7 +849,7 @@ Sandshrew (穿山鼠)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 37
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Metal Claw (金属爪) : Egg
     Mud-Slap (掷泥) : TM
@@ -889,7 +889,7 @@ Sandslash (穿山王)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 42
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -931,7 +931,7 @@ Nidoran-F
     Fury Swipes (乱抓) : Level 38
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Poison Sting (毒针) : Level 17
@@ -967,7 +967,7 @@ Nidorina (尼多娜)
     Fury Swipes (乱抓) : Level 46
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -1008,7 +1008,7 @@ Nidoqueen (尼多后)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -1056,7 +1056,7 @@ Nidoran-M
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 30
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 8
     Horn Drill (角钻) : Level 38
     Iron Tail (铁尾) : TM
@@ -1092,7 +1092,7 @@ Nidorino (尼多力诺)
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 36
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 8
     Horn Drill (角钻) : Level 46
     Ice Beam (冰冻光束) : Tutor
@@ -1133,7 +1133,7 @@ Nidoking (尼多王)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 1
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -1183,7 +1183,7 @@ Clefairy (皮皮)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
@@ -1232,7 +1232,7 @@ Clefable (皮可西)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -1278,7 +1278,7 @@ Vulpix (六尾)
     Flamethrower (喷射火焰) : Tutor, Level 31
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Egg
     Iron Tail (铁尾) : TM
     Protect (守住) : TM
@@ -1309,7 +1309,7 @@ Ninetales (九尾)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Protect (守住) : TM
@@ -1345,7 +1345,7 @@ Jigglypuff (胖丁)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
     Mud-Slap (掷泥) : TM
@@ -1390,7 +1390,7 @@ Wigglytuff (胖可丁)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -1430,7 +1430,7 @@ Zubat (超音蝠)
     Giga Drain (终极吸取) : TM
     Gust (起风) : Egg
     Haze (黑雾) : Level 46
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Life (汲取) : Level 1
     Mean Look (黑色目光) : Level 36
     Protect (守住) : TM
@@ -1461,7 +1461,7 @@ Golbat (大嘴蝠)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Haze (黑雾) : Level 55
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Life (汲取) : Level 1
     Mean Look (黑色目光) : Level 42
@@ -1492,7 +1492,7 @@ Oddish (走路草)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Moonlight (月光) : Level 32
     Petal Dance (花瓣舞) : Level 39
     Poison Powder (毒粉) : Level 14
@@ -1524,7 +1524,7 @@ Gloom (臭臭花)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Moonlight (月光) : Level 35
     Petal Dance (花瓣舞) : Level 44
     Poison Powder (毒粉) : Level 14, Level 1
@@ -1552,7 +1552,7 @@ Vileplume (霸王花)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Petal Dance (花瓣舞) : Level 1
     Protect (守住) : TM
@@ -1583,7 +1583,7 @@ Paras (派拉斯)
     Fury Cutter (连斩) : TM
     Giga Drain (终极吸取) : TM, Level 43
     Growth (生长) : Level 37
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Life (汲取) : Level 19
     Light Screen (光墙) : Egg
     Poison Powder (毒粉) : Level 13
@@ -1620,7 +1620,7 @@ Parasect (派拉斯特)
     Fury Cutter (连斩) : TM
     Giga Drain (终极吸取) : TM, Level 55
     Growth (生长) : Level 46
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Life (汲取) : Level 19
     Poison Powder (毒粉) : Level 13, Level 1
@@ -1653,7 +1653,7 @@ Venonat (毛球)
     Foresight (识破) : Level 1
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM, Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Life (汲取) : Level 25
     Poison Powder (毒粉) : Level 20
     Protect (守住) : TM
@@ -1689,7 +1689,7 @@ Venomoth (摩鲁蛾)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Gust (起风) : Level 31
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Life (汲取) : Level 25
     Poison Powder (毒粉) : Level 20
@@ -1727,7 +1727,7 @@ Diglett (地鼠)
     Fissure (地裂) : Level 49
     Frustration (迁怒) : TM
     Growl (叫声) : Level 5
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Magnitude (震级) : Level 9
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -1758,7 +1758,7 @@ Dugtrio (三地鼠)
     Fissure (地裂) : Level 61
     Frustration (迁怒) : TM
     Growl (叫声) : Level 5, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Magnitude (震级) : Level 9, Level 1
     Mud-Slap (掷泥) : TM
@@ -1794,7 +1794,7 @@ Meowth (喵喵)
     Fury Swipes (乱抓) : Level 41
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Egg
     Icy Wind (冰冻之风) : TM
     Iron Tail (铁尾) : TM
@@ -1835,7 +1835,7 @@ Persian (猫老大)
     Fury Swipes (乱抓) : Level 46
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Icy Wind (冰冻之风) : TM
     Iron Tail (铁尾) : TM
@@ -1879,7 +1879,7 @@ Psyduck (可达鸭)
     Fury Swipes (乱抓) : Level 40
     Future Sight (预知未来) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 50
     Hypnosis (催眠术) : Egg
     Ice Beam (冰冻光束) : Tutor, Egg
@@ -1924,7 +1924,7 @@ Golduck (哥达鸭)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 44
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 58
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -1969,7 +1969,7 @@ Mankey (猴怪)
     Frustration (迁怒) : TM
     Fury Swipes (乱抓) : Level 21
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
     Karate Chop (空手劈) : Level 15
@@ -2015,7 +2015,7 @@ Primeape (火暴猴)
     Frustration (迁怒) : TM
     Fury Swipes (乱抓) : Level 21
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
@@ -2063,7 +2063,7 @@ Growlithe (卡蒂狗)
     Flame Wheel (火焰轮) : Level 34
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 18
     Protect (守住) : TM
@@ -2094,7 +2094,7 @@ Arcanine (风速狗)
     Flame Wheel (火焰轮) : Level 1
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
@@ -2126,7 +2126,7 @@ Poliwag (蚊香蝌蚪)
     Frustration (迁怒) : TM
     Haze (黑雾) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 43
     Hypnosis (催眠术) : Level 7
     Ice Beam (冰冻光束) : Tutor
@@ -2164,7 +2164,7 @@ Poliwhirl (蚊香君)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 51
     Hypnosis (催眠术) : Level 7, Level 1
     Ice Beam (冰冻光束) : Tutor
@@ -2201,7 +2201,7 @@ Poliwrath (蚊香泳士)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hypnosis (催眠术) : Level 1
     Ice Beam (冰冻光束) : Tutor
@@ -2240,7 +2240,7 @@ Abra (凯西)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Light Screen (光墙) : Egg
     Nightmare (恶梦) : TM
@@ -2276,7 +2276,7 @@ Kadabra (勇基拉)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Level 31
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Kinesis (折弯汤匙) : Level 1
     Nightmare (恶梦) : TM
@@ -2315,7 +2315,7 @@ Alakazam (胡地)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Level 31
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Kinesis (折弯汤匙) : Level 1
@@ -2358,7 +2358,7 @@ Machop (腕力)
     Foresight (识破) : Level 25
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Karate Chop (空手劈) : Level 13
     Leer (瞪眼) : Level 1
@@ -2401,7 +2401,7 @@ Machoke (豪力)
     Foresight (识破) : Level 25
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Karate Chop (空手劈) : Level 15
     Leer (瞪眼) : Level 1
@@ -2441,7 +2441,7 @@ Machamp (怪力)
     Foresight (识破) : Level 25
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Karate Chop (空手劈) : Level 15
@@ -2477,7 +2477,7 @@ Bellsprout (喇叭芽)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Growth (生长) : Level 6
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Life (汲取) : Egg
     Poison Powder (毒粉) : Level 17
     Protect (守住) : TM
@@ -2512,7 +2512,7 @@ Weepinbell (口呆花)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Growth (生长) : Level 6, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Poison Powder (毒粉) : Level 17
     Protect (守住) : TM
     Razor Leaf (飞叶快刀) : Level 42
@@ -2541,7 +2541,7 @@ Victreebel (大食花)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Protect (守住) : TM
     Razor Leaf (飞叶快刀) : Level 1
@@ -2573,7 +2573,7 @@ Tentacool (玛瑙水母)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 49
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -2609,7 +2609,7 @@ Tentacruel (毒刺水母)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 55
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -2646,7 +2646,7 @@ Geodude (小拳石)
     Frustration (迁怒) : TM
     Harden (变硬) : Level 26
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Magnitude (震级) : Level 16
     Mega Punch (百万吨重拳) : Egg
     Mud-Slap (掷泥) : TM
@@ -2683,7 +2683,7 @@ Graveler (隆隆石)
     Frustration (迁怒) : TM
     Harden (变硬) : Level 27
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Magnitude (震级) : Level 16
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -2719,7 +2719,7 @@ Golem (隆隆岩)
     Fury Cutter (连斩) : TM
     Harden (变硬) : Level 27
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Magnitude (震级) : Level 16, Level 1
     Mud-Slap (掷泥) : TM
@@ -2756,7 +2756,7 @@ Ponyta (小火马)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 4
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Egg
     Iron Tail (铁尾) : TM
     Protect (守住) : TM
@@ -2789,7 +2789,7 @@ Rapidash (烈焰马)
     Fury Attack (乱击) : Level 40
     Growl (叫声) : Level 4, Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Protect (守住) : TM
@@ -2826,7 +2826,7 @@ Slowpoke (呆呆兽)
     Future Sight (预知未来) : Egg
     Growl (叫声) : Level 6
     Headbutt (头锤) : TM, Level 34
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
     Iron Tail (铁尾) : TM
@@ -2873,7 +2873,7 @@ Slowbro (呆壳兽)
     Fury Cutter (连斩) : TM
     Growl (叫声) : Level 6, Level 1
     Headbutt (头锤) : TM, Level 34
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -2908,7 +2908,7 @@ Magnemite (小磁怪)
     Endure (挺住) : TM
     Flash (闪光) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Lock-On (锁定) : Level 27
     Protect (守住) : TM
     Rain Dance (求雨) : TM
@@ -2936,7 +2936,7 @@ Magneton (三合一磁怪)
     Endure (挺住) : TM
     Flash (闪光) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Lock-On (锁定) : Level 27
     Protect (守住) : TM
@@ -2976,7 +2976,7 @@ Farfetch’d (大葱鸭)
     Fury Attack (乱击) : Level 19
     Gust (起风) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 13
     Mirror Move (鹦鹉学舌) : Egg
@@ -3013,7 +3013,7 @@ Doduo (嘟嘟)
     Fury Attack (乱击) : Level 13
     Growl (叫声) : Level 1
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mud-Slap (掷泥) : TM
     Peck (啄) : Level 1
     Protect (守住) : TM
@@ -3044,7 +3044,7 @@ Dodrio (嘟嘟利)
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 13, Level 1
     Growl (叫声) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Mud-Slap (掷泥) : TM
     Peck (啄) : Level 1
@@ -3075,7 +3075,7 @@ Seel (小海狮)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 5
     Headbutt (头锤) : TM, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor, Level 37
     Icy Wind (冰冻之风) : TM
     Lick (舌舔) : Egg
@@ -3106,7 +3106,7 @@ Dewgong (白海狮)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 5, Level 1
     Headbutt (头锤) : TM, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor, Level 43
     Icy Wind (冰冻之风) : TM
@@ -3139,7 +3139,7 @@ Grimer (臭泥)
     Giga Drain (终极吸取) : TM
     Harden (变硬) : Level 5
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Lick (舌舔) : Egg
     Mean Look (黑色目光) : Egg
@@ -3178,7 +3178,7 @@ Muk (臭臭泥)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Harden (变硬) : Level 33, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Minimize (变小) : Level 23
@@ -3213,7 +3213,7 @@ Shellder (大舌贝)
     Double Team (影子分身) : TM
     Endure (挺住) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor, Level 49
     Icy Wind (冰冻之风) : TM
     Leer (瞪眼) : Level 33
@@ -3243,7 +3243,7 @@ Cloyster (刺甲贝)
     Double Team (影子分身) : TM
     Endure (挺住) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -3274,7 +3274,7 @@ Gastly (鬼斯)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Level 1
     Lick (舌舔) : Level 1
     Mean Look (黑色目光) : Level 13
@@ -3310,7 +3310,7 @@ Haunter (鬼斯通)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Level 1
     Lick (舌舔) : Level 1
     Mean Look (黑色目光) : Level 13
@@ -3347,7 +3347,7 @@ Gengar (耿鬼)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hypnosis (催眠术) : Level 1
     Ice Punch (冰冻拳) : TM
@@ -3388,7 +3388,7 @@ Onix (大岩蛇)
     Frustration (迁怒) : TM
     Harden (变硬) : Level 23
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -3425,7 +3425,7 @@ Drowzee (催眠貘)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Level 45
     Headbutt (头锤) : TM, Level 25
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Level 1
     Ice Punch (冰冻拳) : TM
     Light Screen (光墙) : Egg
@@ -3462,7 +3462,7 @@ Hypno (引梦貘人)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Level 60
     Headbutt (头锤) : TM, Level 25
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hypnosis (催眠术) : Level 1
     Ice Punch (冰冻拳) : TM
@@ -3502,7 +3502,7 @@ Krabby (大钳蟹)
     Guillotine (极落钳) : Level 27
     Harden (变硬) : Level 16
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
     Leer (瞪眼) : Level 5
@@ -3537,7 +3537,7 @@ Kingler (巨钳蟹)
     Fury Cutter (连斩) : TM
     Guillotine (极落钳) : Level 27
     Harden (变硬) : Level 16
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -3567,7 +3567,7 @@ Voltorb (霹雳电球)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Light Screen (光墙) : Level 33
     Mirror Coat (镜面反射) : Level 41
     Protect (守住) : TM
@@ -3596,7 +3596,7 @@ Electrode (顽皮雷弹)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Light Screen (光墙) : Level 34
     Mirror Coat (镜面反射) : Level 48
@@ -3630,7 +3630,7 @@ Exeggcute (蛋蛋)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Level 1
     Leech Seed (寄生种子) : Level 13
     Mega Drain (超级吸取) : Egg
@@ -3670,7 +3670,7 @@ Exeggutor (椰蛋树)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hypnosis (催眠术) : Level 1
     Nightmare (恶梦) : TM
@@ -3714,7 +3714,7 @@ Cubone (卡拉卡拉)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM, Level 13
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
     Iron Tail (铁尾) : TM
@@ -3763,7 +3763,7 @@ Marowak (嘎啦嘎啦)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM, Level 13, Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -3799,7 +3799,7 @@ Hitmonlee (飞腿郎)
     Foresight (识破) : Level 36
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     High Jump Kick (飞膝踢) : Level 26
     Jump Kick (飞踢) : Level 16
     Meditate (瑜伽姿势) : Level 6
@@ -3834,7 +3834,7 @@ Hitmonchan (快拳郎)
     Fire Punch (火焰拳) : TM, Level 26
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM, Level 26
     Mach Punch (音速拳) : Level 32
     Mega Punch (百万吨重拳) : Level 38
@@ -3873,7 +3873,7 @@ Lickitung (大舌头)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -3920,7 +3920,7 @@ Koffing (瓦斯弹)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Haze (黑雾) : Level 33
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Pain Split (分担痛楚) : Egg
     Poison Gas (毒瓦斯) : Level 1
     Protect (守住) : TM
@@ -3957,7 +3957,7 @@ Weezing (双弹瓦斯)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Haze (黑雾) : Level 33
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Poison Gas (毒瓦斯) : Level 1
     Protect (守住) : TM
@@ -3995,7 +3995,7 @@ Rhyhorn (独角犀牛)
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 19
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 1
     Horn Drill (角钻) : Level 37
     Ice Beam (冰冻光束) : Tutor
@@ -4044,7 +4044,7 @@ Rhydon (钻角犀兽)
     Fury Attack (乱击) : Level 19, Level 1
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 1
     Horn Drill (角钻) : Level 37
     Hyper Beam (破坏光线) : TM
@@ -4094,7 +4094,7 @@ Chansey (吉利蛋)
     Growl (叫声) : Level 5
     Headbutt (头锤) : TM
     Heal Bell (治愈铃声) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -4146,7 +4146,7 @@ Tangela (蔓藤怪)
     Giga Drain (终极吸取) : TM
     Growth (生长) : Level 46
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Mega Drain (超级吸取) : Level 31, Egg
     Poison Powder (毒粉) : Level 13
@@ -4189,7 +4189,7 @@ Kangaskhan (袋兽)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -4238,7 +4238,7 @@ Horsea (墨海马)
     Flail (抓狂) : Egg
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 43
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -4272,7 +4272,7 @@ Seadra (海刺龙)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 51
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -4305,7 +4305,7 @@ Goldeen (角金鱼)
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 29
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 15
     Horn Drill (角钻) : Level 43
     Hydro Pump (水炮) : Egg
@@ -4337,7 +4337,7 @@ Seaking (金鱼王)
     Flail (抓狂) : Level 24
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 29
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 15
     Horn Drill (角钻) : Level 49
     Hyper Beam (破坏光线) : TM
@@ -4368,7 +4368,7 @@ Staryu (海星星)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Harden (变硬) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 50
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -4407,7 +4407,7 @@ Starmie (宝石海星)
     Endure (挺住) : TM
     Flash (闪光) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -4450,7 +4450,7 @@ Mr. Mime (魔墙人偶)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hypnosis (催眠术) : Egg
     Ice Punch (冰冻拳) : TM
@@ -4496,7 +4496,7 @@ Scyther (飞天螳螂)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leer (瞪眼) : Level 1
     Light Screen (光墙) : Egg
@@ -4533,7 +4533,7 @@ Jynx (迷唇姐)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM, Level 25
@@ -4571,7 +4571,7 @@ Electabuzz (电击兽)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
@@ -4612,7 +4612,7 @@ Magmar (鸭嘴火兽)
     Flamethrower (喷射火焰) : Tutor, Level 41
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 7, Level 1
@@ -4648,7 +4648,7 @@ Pinsir (凯罗斯)
     Guillotine (极落钳) : Level 31
     Harden (变硬) : Level 25
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Protect (守住) : TM
     Rest (睡觉) : TM
@@ -4677,7 +4677,7 @@ Tauros (肯泰罗)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 13
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -4723,7 +4723,7 @@ Gyarados (暴鲤龙)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 40
     Hyper Beam (破坏光线) : TM, Level 50
     Ice Beam (冰冻光束) : Tutor
@@ -4765,7 +4765,7 @@ Lapras (拉普拉斯)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 57
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor, Level 36
@@ -4811,7 +4811,7 @@ Eevee (伊布)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 16
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -4844,7 +4844,7 @@ Vaporeon (水伊布)
     Frustration (迁怒) : TM
     Haze (黑雾) : Level 42
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 52
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -4883,7 +4883,7 @@ Jolteon (雷伊布)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -4923,7 +4923,7 @@ Flareon (火伊布)
     Flamethrower (喷射火焰) : Tutor, Level 52
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 47
@@ -4957,7 +4957,7 @@ Porygon (多边兽)
     Endure (挺住) : TM
     Flash (闪光) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -5000,7 +5000,7 @@ Omanyte (菊石兽)
     Frustration (迁怒) : TM
     Haze (黑雾) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 55
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -5035,7 +5035,7 @@ Omastar (多刺菊石兽)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 65
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -5074,7 +5074,7 @@ Kabuto (化石盔)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Harden (变硬) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
     Leer (瞪眼) : Level 19
@@ -5109,7 +5109,7 @@ Kabutops (镰刀盔)
     Giga Drain (终极吸取) : TM
     Harden (变硬) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -5150,7 +5150,7 @@ Aerodactyl (化石翼龙)
     Foresight (识破) : Egg
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 50
     Iron Tail (铁尾) : TM
     Protect (守住) : TM
@@ -5190,7 +5190,7 @@ Snorlax (卡比兽)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM, Level 29
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 57
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -5231,7 +5231,7 @@ Articuno (急冻鸟)
     Fly (飞翔) : TM
     Frustration (迁怒) : TM
     Gust (起风) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor, Level 49
     Icy Wind (冰冻之风) : TM
@@ -5265,7 +5265,7 @@ Zapdos (闪电鸟)
     Flash (闪光) : TM
     Fly (飞翔) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Light Screen (光墙) : Level 61
     Mud-Slap (掷泥) : TM
@@ -5302,7 +5302,7 @@ Moltres (火焰鸟)
     Flamethrower (喷射火焰) : Tutor, Level 49
     Fly (飞翔) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -5338,7 +5338,7 @@ Dratini (迷你龙)
     Frustration (迁怒) : TM
     Haze (黑雾) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : Level 57
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -5382,7 +5382,7 @@ Dragonair (哈克龙)
     Flamethrower (喷射火焰) : Tutor
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : Level 65
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -5427,7 +5427,7 @@ Dragonite (快龙)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 75
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -5482,7 +5482,7 @@ Mewtwo (超梦)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Level 44
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -5538,7 +5538,7 @@ Mew (梦幻)
     Fury Cutter (连斩) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -5597,7 +5597,7 @@ Chikorita (菊草叶)
     Giga Drain (终极吸取) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Leech Seed (寄生种子) : Egg
     Light Screen (光墙) : Level 36
@@ -5635,7 +5635,7 @@ Bayleef (月桂叶)
     Giga Drain (终极吸取) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Light Screen (光墙) : Level 39
     Mud-Slap (掷泥) : TM
@@ -5673,7 +5673,7 @@ Meganium (大竺葵)
     Giga Drain (终极吸取) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Light Screen (光墙) : Level 41
@@ -5714,7 +5714,7 @@ Cyndaquil (火球鼠)
     Frustration (迁怒) : TM
     Fury Swipes (乱抓) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
     Mud-Slap (掷泥) : TM
@@ -5751,7 +5751,7 @@ Quilava (火岩鼠)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
     Mud-Slap (掷泥) : TM
@@ -5791,7 +5791,7 @@ Typhlosion (火暴兽)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
@@ -5829,7 +5829,7 @@ Totodile (小锯鳄)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 52, Egg
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -5871,7 +5871,7 @@ Croconaw (蓝鳄)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 55
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -5914,7 +5914,7 @@ Feraligatr (大力鳄)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 58
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -5961,7 +5961,7 @@ Sentret (尾立)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 17
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -6002,7 +6002,7 @@ Furret (大尾立)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 18
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
@@ -6040,7 +6040,7 @@ Hoothoot (咕咕)
     Foresight (识破) : Level 6
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Level 16
     Mirror Move (鹦鹉学舌) : Egg
     Mud-Slap (掷泥) : TM
@@ -6078,7 +6078,7 @@ Noctowl (猫头夜鹰)
     Foresight (识破) : Level 6, Level 1
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hypnosis (催眠术) : Level 16
     Mud-Slap (掷泥) : TM
@@ -6115,7 +6115,7 @@ Ledyba (芭瓢虫)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Light Screen (光墙) : Level 22, Egg
     Protect (守住) : TM
@@ -6153,7 +6153,7 @@ Ledian (安瓢虫)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Light Screen (光墙) : Level 24
@@ -6190,7 +6190,7 @@ Spinarak (圆丝蛛)
     Frustration (迁怒) : TM
     Fury Swipes (乱抓) : Level 30
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Life (汲取) : Level 23
     Night Shade (黑夜魔影) : Level 17
     Poison Sting (毒针) : Level 1
@@ -6226,7 +6226,7 @@ Ariados (阿利多斯)
     Frustration (迁怒) : TM
     Fury Swipes (乱抓) : Level 34
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Life (汲取) : Level 25
     Night Shade (黑夜魔影) : Level 17
@@ -6260,7 +6260,7 @@ Crobat (叉字蝠)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Haze (黑雾) : Level 55
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Life (汲取) : Level 1
     Mean Look (黑色目光) : Level 42
@@ -6289,7 +6289,7 @@ Chinchou (灯笼鱼)
     Flail (抓狂) : Level 13, Egg
     Flash (闪光) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 41
     Ice Beam (冰冻光束) : Tutor
     Protect (守住) : TM
@@ -6323,7 +6323,7 @@ Lanturn (电灯怪)
     Flail (抓狂) : Level 13
     Flash (闪光) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 53
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -6361,7 +6361,7 @@ Pichu (皮丘)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Present (礼物) : Egg
@@ -6401,7 +6401,7 @@ Cleffa (皮宝宝)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Icy Wind (冰冻之风) : TM
     Iron Tail (铁尾) : TM
     Metronome (挥指) : Egg
@@ -6444,7 +6444,7 @@ Igglybuff (宝宝丁)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Icy Wind (冰冻之风) : TM
     Mud-Slap (掷泥) : TM
     Nightmare (恶梦) : TM
@@ -6488,7 +6488,7 @@ Togepi (波克比)
     Future Sight (预知未来) : Egg
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Metronome (挥指) : Level 7
     Mirror Move (鹦鹉学舌) : Egg
     Mud-Slap (掷泥) : TM
@@ -6532,7 +6532,7 @@ Togetic (波克基古)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Metronome (挥指) : Level 7
     Mud-Slap (掷泥) : TM
@@ -6572,7 +6572,7 @@ Natu (天然雀)
     Future Sight (预知未来) : Level 30
     Giga Drain (终极吸取) : TM
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leer (瞪眼) : Level 1
     Nightmare (恶梦) : TM
     Night Shade (黑夜魔影) : Level 10
@@ -6607,7 +6607,7 @@ Xatu (天然鸟)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Level 35
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leer (瞪眼) : Level 1
     Nightmare (恶梦) : TM
@@ -6640,7 +6640,7 @@ Mareep (咩利羊)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Light Screen (光墙) : Level 30
     Protect (守住) : TM
@@ -6676,7 +6676,7 @@ Flaaffy (茸茸羊)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Light Screen (光墙) : Level 36
     Protect (守住) : TM
@@ -6711,7 +6711,7 @@ Ampharos (电龙)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Light Screen (光墙) : Level 42
@@ -6744,7 +6744,7 @@ Bellossom (美丽花)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Petal Dance (花瓣舞) : Level 1
     Protect (守住) : TM
@@ -6775,7 +6775,7 @@ Marill (玛力露)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
     Icy Wind (冰冻之风) : TM
@@ -6814,7 +6814,7 @@ Azumarill (玛力露丽)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -6854,7 +6854,7 @@ Sudowoodo (树才怪)
     Flail (抓狂) : Level 10
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Low Kick (踢倒) : Level 19
     Mimic (模仿) : Level 1
@@ -6892,7 +6892,7 @@ Politoed (蚊香蛙皇)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Hypnosis (催眠术) : Level 1
     Ice Beam (冰冻光束) : Tutor
@@ -6933,7 +6933,7 @@ Hoppip (毽子草)
     Giga Drain (终极吸取) : TM
     Growl (叫声) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Seed (寄生种子) : Level 20
     Mega Drain (超级吸取) : Level 30
     Pay Day (聚宝功) : Egg
@@ -6967,7 +6967,7 @@ Skiploom (毽子花)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Seed (寄生种子) : Level 22
     Mega Drain (超级吸取) : Level 36
     Poison Powder (毒粉) : Level 13
@@ -6999,7 +6999,7 @@ Jumpluff (毽子棉)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Seed (寄生种子) : Level 22
     Mega Drain (超级吸取) : Level 44
@@ -7041,7 +7041,7 @@ Aipom (长尾怪手)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 19
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -7082,7 +7082,7 @@ Sunkern (向日种子)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM, Level 46
     Growth (生长) : Level 4
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mega Drain (超级吸取) : Level 10
     Protect (守住) : TM
     Rest (睡觉) : TM
@@ -7108,7 +7108,7 @@ Sunflora (向日花怪)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Growth (生长) : Level 4
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Petal Dance (花瓣舞) : Level 31
     Pound (拍击) : Level 1
@@ -7136,7 +7136,7 @@ Yanma (蜻蜻蜓)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leech Life (汲取) : Egg
     Protect (守住) : TM
     Quick Attack (电光一闪) : Level 7
@@ -7174,7 +7174,7 @@ Wooper (乌波)
     Frustration (迁怒) : TM
     Haze (黑雾) : Level 51
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
     Iron Tail (铁尾) : TM
@@ -7213,7 +7213,7 @@ Quagsire (沼王)
     Frustration (迁怒) : TM
     Haze (黑雾) : Level 59
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -7251,7 +7251,7 @@ Espeon (太阳伊布)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Morning Sun (晨光) : Level 52
@@ -7290,7 +7290,7 @@ Umbreon (月亮伊布)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Mean Look (黑色目光) : Level 42
@@ -7330,7 +7330,7 @@ Murkrow (黑暗鸦)
     Fly (飞翔) : TM
     Frustration (迁怒) : TM
     Haze (黑雾) : Level 16
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Icy Wind (冰冻之风) : TM
     Mean Look (黑色目光) : Level 41
     Mirror Move (鹦鹉学舌) : Egg
@@ -7376,7 +7376,7 @@ Slowking (呆呆王)
     Fury Cutter (连斩) : TM
     Growl (叫声) : Level 6
     Headbutt (头锤) : TM, Level 34
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -7418,7 +7418,7 @@ Misdreavus (梦妖)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mean Look (黑色目光) : Level 19
     Nightmare (恶梦) : TM
     Pain Split (分担痛楚) : Level 36
@@ -7446,7 +7446,7 @@ Misdreavus (梦妖)
     Zap Cannon (电磁炮) : TM
 
 Unown (未知图腾)
-    Hidden Power Water : Level 1
+    Hidden Power (觉醒力量) : Level 1
 
 Wobbuffet (果然翁)
     Counter (双倍奉还) : Level 1
@@ -7472,7 +7472,7 @@ Girafarig (麒麟奇)
     Future Sight (预知未来) : Egg
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Nightmare (恶梦) : TM
@@ -7512,7 +7512,7 @@ Pineco (榛果球)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Pin Missile (飞弹针) : Egg
     Protect (守住) : TM, Level 1
     Rapid Spin (高速旋转) : Level 22
@@ -7547,7 +7547,7 @@ Forretress (佛烈托斯)
     Frustration (迁怒) : TM
     Giga Drain (终极吸取) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Protect (守住) : TM, Level 1
     Rapid Spin (高速旋转) : Level 22
@@ -7584,7 +7584,7 @@ Dunsparce (土龙弟弟)
     Frustration (迁怒) : TM
     Glare (大蛇瞪眼) : Level 13
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
     Nightmare (恶梦) : TM
@@ -7627,7 +7627,7 @@ Gligar (天蝎)
     Guillotine (极落钳) : Level 52
     Harden (变硬) : Level 13
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Metal Claw (金属爪) : Egg
     Poison Sting (毒针) : Level 1
@@ -7667,7 +7667,7 @@ Steelix (大钢蛇)
     Frustration (迁怒) : TM
     Harden (变硬) : Level 23
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Mud-Slap (掷泥) : TM
@@ -7706,7 +7706,7 @@ Snubbull (布鲁)
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
     Heal Bell (治愈铃声) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Leer (瞪眼) : Egg
     Lick (舌舔) : Level 19, Egg
@@ -7752,7 +7752,7 @@ Granbull (布鲁皇)
     Fire Punch (火焰拳) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Lick (舌舔) : Level 19
@@ -7795,7 +7795,7 @@ Qwilfish (千针鱼)
     Harden (变硬) : Level 10
     Haze (黑雾) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 46
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -7835,7 +7835,7 @@ Scizor (巨钳螳螂)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leer (瞪眼) : Level 1
     Metal Claw (金属爪) : Level 30
@@ -7872,7 +7872,7 @@ Shuckle (壶壶)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
     Rest (睡觉) : TM, Level 37
@@ -7908,7 +7908,7 @@ Heracross (赫拉克罗斯)
     Fury Cutter (连斩) : TM
     Harden (变硬) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 6
     Leer (瞪眼) : Level 1
     Megahorn (超级角击) : Level 54
@@ -7949,7 +7949,7 @@ Sneasel (狃拉)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 33
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
     Icy Wind (冰冻之风) : TM
@@ -7999,7 +7999,7 @@ Teddiursa (熊宝宝)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 15
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Leer (瞪眼) : Level 1
     Lick (舌舔) : Level 8
@@ -8043,7 +8043,7 @@ Ursaring (圈圈熊)
     Fury Cutter (连斩) : TM
     Fury Swipes (乱抓) : Level 15, Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Punch (冰冻拳) : TM
     Leer (瞪眼) : Level 1
@@ -8083,7 +8083,7 @@ Slugma (熔岩虫)
     Flamethrower (喷射火焰) : Tutor, Level 36
     Frustration (迁怒) : TM
     Harden (变硬) : Level 22
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
     Rest (睡觉) : TM
@@ -8113,7 +8113,7 @@ Magcargo (熔岩蜗牛)
     Flamethrower (喷射火焰) : Tutor, Level 36
     Frustration (迁怒) : TM
     Harden (变硬) : Level 22
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
@@ -8146,7 +8146,7 @@ Swinub (小山猪)
     Endure (挺住) : TM, Level 19
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
     Mist (白雾) : Level 37
@@ -8180,7 +8180,7 @@ Piloswine (长毛猪)
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 33
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 1
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -8215,7 +8215,7 @@ Corsola (太阳珊瑚)
     Frustration (迁怒) : TM
     Harden (变硬) : Level 7
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Mirror Coat (镜面反射) : Level 37
     Mist (白雾) : Egg
@@ -8255,7 +8255,7 @@ Remoraid (铁炮鱼)
     Focus Energy (聚气) : Level 33
     Frustration (迁怒) : TM
     Haze (黑雾) : Egg
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 55
     Ice Beam (冰冻光束) : Tutor, Level 44
     Lock-On (锁定) : Level 11
@@ -8290,7 +8290,7 @@ Octillery (章鱼桶)
     Flamethrower (喷射火焰) : Tutor
     Focus Energy (聚气) : Level 38
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 70
     Ice Beam (冰冻光束) : Tutor, Level 54
     Mud-Slap (掷泥) : TM
@@ -8322,7 +8322,7 @@ Delibird (信使鸟)
     Frustration (迁怒) : TM
     Future Sight (预知未来) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
     Mud-Slap (掷泥) : TM
@@ -8354,7 +8354,7 @@ Mantine (巨翅飞鱼)
     Frustration (迁怒) : TM
     Haze (黑雾) : Egg
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Egg
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -8390,7 +8390,7 @@ Skarmory (盔甲鸟)
     Fly (飞翔) : TM
     Frustration (迁怒) : TM
     Fury Attack (乱击) : Level 37
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Leer (瞪眼) : Level 1
     Mud-Slap (掷泥) : TM
     Peck (啄) : Level 1
@@ -8429,7 +8429,7 @@ Houndour (戴鲁比)
     Flamethrower (喷射火焰) : Tutor, Level 35
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
     Mud-Slap (掷泥) : TM
@@ -8470,7 +8470,7 @@ Houndoom (黑鲁加)
     Flamethrower (喷射火焰) : Tutor, Level 41
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
@@ -8505,7 +8505,7 @@ Kingdra (刺龙王)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 51
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -8542,7 +8542,7 @@ Phanpy (小小象)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
     Rest (睡觉) : TM
@@ -8573,7 +8573,7 @@ Donphan (顿甲)
     Fury Attack (乱击) : Level 25
     Growl (叫声) : Level 1
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Horn Attack (角撞) : Level 1
     Hyper Beam (破坏光线) : TM
     Mud-Slap (掷泥) : TM
@@ -8604,7 +8604,7 @@ Porygon2 (多边兽２型)
     Endure (挺住) : TM
     Flash (闪光) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -8645,7 +8645,7 @@ Stantler (惊角鹿)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hypnosis (催眠术) : Level 15
     Leer (瞪眼) : Level 8
     Light Screen (光墙) : Egg
@@ -8683,7 +8683,7 @@ Tyrogue (无畏小子)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     High Jump Kick (飞膝踢) : Egg
     Mach Punch (音速拳) : Egg
     Mind Reader (心之眼) : Egg
@@ -8715,7 +8715,7 @@ Hitmontop (战舞郎)
     Focus Energy (聚气) : Level 7
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Mud-Slap (掷泥) : TM
     Protect (守住) : TM
     Pursuit (追打) : Level 13
@@ -8745,7 +8745,7 @@ Smoochum (迷唇娃)
     Dynamic Punch (爆裂拳) : TM
     Endure (挺住) : TM
     Frustration (迁怒) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
     Icy Wind (冰冻之风) : TM
@@ -8786,7 +8786,7 @@ Elekid (电击怪)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Ice Punch (冰冻拳) : TM
     Karate Chop (空手劈) : Egg
     Leer (瞪眼) : Level 1
@@ -8828,7 +8828,7 @@ Magby (鸭嘴宝宝)
     Flamethrower (喷射火焰) : Tutor, Level 37
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Iron Tail (铁尾) : TM
     Karate Chop (空手劈) : Egg
     Leer (瞪眼) : Level 7
@@ -8865,7 +8865,7 @@ Miltank (大奶罐)
     Growl (叫声) : Level 4
     Headbutt (头锤) : TM
     Heal Bell (治愈铃声) : Level 53
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Ice Punch (冰冻拳) : TM
@@ -8918,7 +8918,7 @@ Blissey (幸福蛋)
     Frustration (迁怒) : TM
     Growl (叫声) : Level 4
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
     Icy Wind (冰冻之风) : TM
@@ -8961,7 +8961,7 @@ Raikou (雷公)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
@@ -9004,7 +9004,7 @@ Entei (炎帝)
     Flash (闪光) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Iron Tail (铁尾) : TM
     Leer (瞪眼) : Level 1
@@ -9041,7 +9041,7 @@ Suicune (水君)
     Frustration (迁怒) : TM
     Gust (起风) : Level 31
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 71
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -9084,7 +9084,7 @@ Larvitar (幼基拉斯)
     Focus Energy (聚气) : Egg
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 57
     Leer (瞪眼) : Level 1
     Mud-Slap (掷泥) : TM
@@ -9118,7 +9118,7 @@ Pupitar (沙基拉斯)
     Endure (挺住) : TM
     Frustration (迁怒) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 65
     Leer (瞪眼) : Level 1
     Mud-Slap (掷泥) : TM
@@ -9156,7 +9156,7 @@ Tyranitar (班基拉斯)
     Frustration (迁怒) : TM
     Fury Cutter (连斩) : TM
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM, Level 75
     Ice Beam (冰冻光束) : Tutor
     Iron Tail (铁尾) : TM
@@ -9200,7 +9200,7 @@ Lugia (洛奇亚)
     Giga Drain (终极吸取) : TM
     Gust (起风) : Level 22
     Headbutt (头锤) : TM
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hydro Pump (水炮) : Level 44
     Hyper Beam (破坏光线) : TM
     Ice Beam (冰冻光束) : Tutor
@@ -9253,7 +9253,7 @@ Ho-Oh (凤王)
     Future Sight (预知未来) : Level 99
     Giga Drain (终极吸取) : TM
     Gust (起风) : Level 22
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Mud-Slap (掷泥) : TM
     Nightmare (恶梦) : TM
@@ -9299,7 +9299,7 @@ Celebi (时拉比)
     Future Sight (预知未来) : Level 30
     Giga Drain (终极吸取) : TM
     Heal Bell (治愈铃声) : Level 1
-    Hidden Power Water : TM
+    Hidden Power (觉醒力量) : TM
     Hyper Beam (破坏光线) : TM
     Leech Seed (寄生种子) : Level 1
     Mud-Slap (掷泥) : TM

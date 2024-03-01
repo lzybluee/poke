@@ -96,7 +96,7 @@ function log_moves(list_folder, detail_folder, file, obj) {
     let list = [];
 
     for (let i in obj) {
-        if (obj[i].isNonstandard === null)
+        if (obj[i].isNonstandard === null && obj[i].desc)
             list.push(obj[i]);
     }
 

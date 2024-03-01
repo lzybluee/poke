@@ -19,7 +19,7 @@ Bulbasaur
     Grass Whistle : Egg
     Growl : Level 3
     Growth : Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Egg
     Knock Off : Tutor
     Leaf Storm : Egg
@@ -75,7 +75,7 @@ Ivysaur
     Grass Pledge : Tutor
     Growl : Level 1
     Growth : Level 28
-    Hidden Power Water : TM
+    Hidden Power : TM
     Knock Off : Tutor
     Leech Seed : Level 1
     Light Screen : TM
@@ -128,7 +128,7 @@ Venusaur
     Grass Pledge : Tutor
     Growl : Level 1
     Growth : Level 28
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Knock Off : Tutor
     Leech Seed : Level 1
@@ -199,7 +199,7 @@ Charmander
     Frustration : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Inferno : Level 46
@@ -254,7 +254,7 @@ Charmeleon
     Frustration : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Inferno : Level 54
@@ -318,7 +318,7 @@ Charizard
     Giga Impact : TM
     Growl : Level 1
     Heat Wave : Tutor, Level 71
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -377,7 +377,7 @@ Squirtle
     Gyro Ball : TM
     Hail : TM
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 40
     Ice Beam : TM
     Ice Punch : Tutor
@@ -432,7 +432,7 @@ Wartortle
     Frustration : TM
     Gyro Ball : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 48
     Ice Beam : TM
     Ice Punch : Tutor
@@ -486,7 +486,7 @@ Blastoise
     Giga Impact : TM
     Gyro Ball : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Cannon : Tutor
     Hydro Pump : Level 60
     Hyper Beam : TM
@@ -558,7 +558,7 @@ Butterfree
     Giga Drain : Tutor
     Giga Impact : TM
     Gust : Level 16
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Poison Powder : Level 12
     Protect : TM
@@ -629,7 +629,7 @@ Beedrill
     Fury Cutter : DreamWorld
     Giga Drain : Tutor
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Knock Off : Tutor
     Payback : TM
@@ -678,7 +678,7 @@ Pidgey
     Frustration : TM
     Gust : Level 9, DreamWorld
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 53
     Mirror Move : Level 45
     Pluck : TM
@@ -721,7 +721,7 @@ Pidgeotto
     Frustration : TM
     Gust : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 62
     Mirror Move : Level 52
     Pluck : TM
@@ -762,7 +762,7 @@ Pidgeot
     Giga Impact : TM
     Gust : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 68
     Hyper Beam : TM
     Mirror Move : Level 56
@@ -813,7 +813,7 @@ Rattata
     Frustration : TM
     Fury Swipes : Egg
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Fang : Level 16
     Ice Beam : TM
     Icy Wind : Tutor
@@ -873,7 +873,7 @@ Raticate
     Frustration : TM
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Fang : Level 16
     Ice Beam : TM
@@ -935,7 +935,7 @@ Spearow
     Fury Attack : Level 9
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leer : Level 5
     Mirror Move : Level 21
     Peck : Level 1, DreamWorld
@@ -983,7 +983,7 @@ Fearow
     Giga Impact : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leer : Level 1
     Mirror Move : Level 23
@@ -1031,7 +1031,7 @@ Ekans
     Glare : Level 12
     Gunk Shot : Tutor, Level 49
     Haze : Level 41
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor, Egg
     Leer : Level 1
     Mud Bomb : Level 33
@@ -1097,7 +1097,7 @@ Arbok
     Glare : Level 12
     Gunk Shot : Tutor, Level 63
     Haze : Level 51
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Fang : Level 1
     Iron Tail : Tutor
@@ -1154,7 +1154,7 @@ Pikachu
     Grass Knot : TM
     Growl : Level 1
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Knock Off : Tutor
     Light Screen : TM, Level 45
@@ -1199,7 +1199,7 @@ Raichu
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Tail : Tutor
     Knock Off : Tutor
@@ -1252,7 +1252,7 @@ Sandshrew
     Fury Cutter : Level 14
     Fury Swipes : Level 19
     Gyro Ball : TM, Level 33
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Tail : Tutor
     Knock Off : Tutor
@@ -1314,7 +1314,7 @@ Sandslash
     Fury Swipes : Level 19
     Giga Impact : TM
     Gyro Ball : TM, Level 34
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Tail : Tutor
@@ -1377,7 +1377,7 @@ Nidoran-F
     Fury Swipes : Level 19
     Growl : Level 1
     Helping Hand : Tutor, Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Iron Tail : Tutor, Egg
@@ -1432,7 +1432,7 @@ Nidorina
     Fury Swipes : Level 20
     Growl : Level 1
     Helping Hand : Tutor, Level 28
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Iron Tail : Tutor
@@ -1490,7 +1490,7 @@ Nidoqueen
     Frustration : TM
     Giga Impact : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -1564,7 +1564,7 @@ Nidoran-M
     Fury Attack : Level 19
     Head Smash : Egg
     Helping Hand : Tutor, Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Horn Attack : Level 21
     Horn Drill : Level 45
@@ -1616,7 +1616,7 @@ Nidorino
     Frustration : TM
     Fury Attack : Level 20
     Helping Hand : Tutor, Level 28
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Horn Attack : Level 23
     Horn Drill : Level 58
@@ -1675,7 +1675,7 @@ Nidoking
     Frustration : TM
     Giga Impact : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -1761,7 +1761,7 @@ Clefairy
     Heal Bell : Tutor
     Healing Wish : Level 49
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ice Beam : TM
     Ice Punch : Tutor
@@ -1846,7 +1846,7 @@ Clefable
     Gravity : Tutor
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -1923,7 +1923,7 @@ Vulpix
     Grudge : Level 44
     Heat Wave : Tutor, Egg, DreamWorld
     Hex : Level 28, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Egg
     Hypnosis : Egg
     Imprison : Level 18
@@ -1975,7 +1975,7 @@ Ninetales
     Frustration : TM
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -2034,7 +2034,7 @@ Jigglypuff
     Gyro Ball : TM, Level 37
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor, Level 49
     Ice Beam : TM
     Ice Punch : Tutor
@@ -2110,7 +2110,7 @@ Wigglytuff
     Gyro Ball : TM
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -2175,7 +2175,7 @@ Zubat
     Gust : Egg
     Haze : Level 41
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Egg, DreamWorld
     Leech Life : Level 1
     Mean Look : Level 29
@@ -2232,7 +2232,7 @@ Golbat
     Giga Impact : TM
     Haze : Level 47
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leech Life : Level 1
     Mean Look : Level 33
@@ -2284,7 +2284,7 @@ Oddish
     Gastro Acid : Tutor
     Giga Drain : Tutor, Level 37, DreamWorld
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Egg
     Lucky Chant : Level 25
     Mega Drain : Level 21
@@ -2334,7 +2334,7 @@ Gloom
     Gastro Acid : Tutor
     Giga Drain : Tutor, Level 47
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Lucky Chant : Level 29
     Mega Drain : Level 23
     Moonlight : Level 41
@@ -2378,7 +2378,7 @@ Vileplume
     Giga Drain : Tutor
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Mega Drain : Level 1
     Petal Dance : Level 53
@@ -2426,7 +2426,7 @@ Paras
     Giga Drain : Tutor, Level 38
     Grass Knot : TM
     Growth : Level 33
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Knock Off : Tutor
     Leech Life : Level 11
@@ -2487,7 +2487,7 @@ Parasect
     Giga Impact : TM
     Grass Knot : TM
     Growth : Level 37
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Knock Off : Tutor
@@ -2534,7 +2534,7 @@ Venonat
     Foresight : Level 1
     Frustration : TM
     Giga Drain : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Life : Level 17
     Morning Sun : Egg
     Poison Fang : Level 41
@@ -2585,7 +2585,7 @@ Venomoth
     Giga Drain : Tutor
     Giga Impact : TM
     Gust : Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leech Life : Level 17
     Poison Fang : Level 47
@@ -2641,7 +2641,7 @@ Diglett
     Frustration : TM
     Growl : Level 4
     Headbutt : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Magnitude : Level 15
     Memento : Egg
@@ -2690,7 +2690,7 @@ Dugtrio
     Frustration : TM
     Giga Impact : TM
     Growl : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Magnitude : Level 15
@@ -2752,7 +2752,7 @@ Meowth
     Fury Swipes : Level 14
     Growl : Level 1
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Voice : Tutor
     Hypnosis : Egg, DreamWorld
@@ -2823,7 +2823,7 @@ Persian
     Giga Impact : TM
     Growl : Level 1
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -2893,7 +2893,7 @@ Psyduck
     Fury Swipes : Level 22
     Future Sight : Egg
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Level 46
     Hypnosis : Egg
@@ -2963,7 +2963,7 @@ Golduck
     Fury Swipes : Level 22
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Level 54
     Hyper Beam : TM
@@ -3038,7 +3038,7 @@ Mankey
     Fury Swipes : Level 9
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Punch : Tutor
     Iron Tail : Tutor
@@ -3114,7 +3114,7 @@ Primeape
     Giga Impact : TM
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Punch : Tutor
@@ -3189,7 +3189,7 @@ Growlithe
     Frustration : TM
     Heat Wave : Tutor, Level 41, Egg
     Helping Hand : Tutor, Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Egg
     Incinerate : TM
     Iron Tail : Tutor, Egg
@@ -3240,7 +3240,7 @@ Arcanine
     Giga Impact : TM
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Head : Tutor
@@ -3289,7 +3289,7 @@ Poliwag
     Hail : TM
     Haze : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 38
     Hypnosis : Level 8, DreamWorld
     Ice Ball : Egg
@@ -3341,7 +3341,7 @@ Poliwhirl
     Frustration : TM
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 48
     Hypnosis : Level 1
     Ice Beam : TM
@@ -3392,7 +3392,7 @@ Poliwrath
     Giga Impact : TM
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 1
     Ice Beam : TM
@@ -3446,7 +3446,7 @@ Abra
     Gravity : Tutor, DreamWorld
     Guard Split : Egg
     Guard Swap : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor, Egg
     Iron Tail : Tutor
     Knock Off : Tutor, Egg
@@ -3509,7 +3509,7 @@ Kadabra
     Future Sight : Level 48
     Grass Knot : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Iron Tail : Tutor
     Kinesis : Level 1
@@ -3578,7 +3578,7 @@ Alakazam
     Giga Impact : TM
     Grass Knot : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Iron Tail : Tutor
@@ -3651,7 +3651,7 @@ Machop
     Frustration : TM
     Heavy Slam : Egg
     Helping Hand : Tutor, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor, Egg
     Incinerate : TM
     Karate Chop : Level 10
@@ -3717,7 +3717,7 @@ Machoke
     Foresight : Level 19
     Frustration : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Incinerate : TM
     Karate Chop : Level 1
@@ -3779,7 +3779,7 @@ Machamp
     Frustration : TM
     Giga Impact : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Incinerate : TM
@@ -3839,7 +3839,7 @@ Bellsprout
     Giga Drain : Tutor, Egg
     Grass Knot : TM
     Growth : Level 7
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Egg
     Knock Off : Tutor, Level 27
     Leech Life : Egg
@@ -3892,7 +3892,7 @@ Weepinbell
     Giga Drain : Tutor
     Grass Knot : TM
     Growth : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Knock Off : Tutor, Level 27
     Poison Powder : Level 15
     Protect : TM
@@ -3937,7 +3937,7 @@ Victreebel
     Giga Drain : Tutor
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Knock Off : Tutor
     Leaf Blade : Level 47
@@ -3993,7 +3993,7 @@ Tentacool
     Hail : TM
     Haze : Egg
     Hex : Level 43
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 47
     Ice Beam : TM
     Icy Wind : Tutor
@@ -4050,7 +4050,7 @@ Tentacruel
     Giga Impact : TM
     Hail : TM
     Hex : Level 47
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 52
     Hyper Beam : TM
     Ice Beam : TM
@@ -4111,7 +4111,7 @@ Geodude
     Frustration : TM
     Gyro Ball : TM
     Hammer Arm : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Iron Defense : Tutor
     Magnitude : Level 15
@@ -4164,7 +4164,7 @@ Graveler
     Fling : TM
     Frustration : TM
     Gyro Ball : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Iron Defense : Tutor
     Magnitude : Level 15
@@ -4218,7 +4218,7 @@ Golem
     Giga Impact : TM
     Gyro Ball : TM
     Heavy Slam : Level 69
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Defense : Tutor
@@ -4274,7 +4274,7 @@ Ponyta
     Frustration : TM
     Growl : Level 1
     Heat Wave : Tutor, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Drill : Egg
     Hypnosis : Egg
     Incinerate : TM
@@ -4323,7 +4323,7 @@ Rapidash
     Giga Impact : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Inferno : Level 33
@@ -4382,7 +4382,7 @@ Slowpoke
     Hail : TM
     Headbutt : Level 23
     Heal Pulse : Level 58
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Incinerate : TM
@@ -4461,7 +4461,7 @@ Slowbro
     Hail : TM
     Headbutt : Level 23
     Heal Pulse : Level 68
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -4520,7 +4520,7 @@ Magnemite
     Frustration : TM
     Gravity : Tutor, DreamWorld
     Gyro Ball : TM, Level 53
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor
     Light Screen : TM
     Lock-On : Level 30
@@ -4571,7 +4571,7 @@ Magneton
     Giga Impact : TM
     Gravity : Tutor
     Gyro Ball : TM, Level 60
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor
     Light Screen : TM
@@ -4635,7 +4635,7 @@ Farfetch’d
     Gust : Egg
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Knock Off : Tutor, Level 9
     Last Resort : Tutor
@@ -4694,7 +4694,7 @@ Doduo
     Fury Attack : Level 14
     Growl : Level 1, DreamWorld
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Knock Off : Tutor
     Mirror Move : Egg
     Natural Gift : Egg
@@ -4735,7 +4735,7 @@ Dodrio
     Fury Attack : Level 14
     Giga Impact : TM
     Growl : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Knock Off : Tutor
     Payback : TM
@@ -4785,7 +4785,7 @@ Seel
     Growl : Level 3
     Hail : TM, Level 53
     Headbutt : Level 1, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Drill : Egg
     Ice Beam : TM, Level 47
     Ice Shard : Level 17
@@ -4838,7 +4838,7 @@ Dewgong
     Growl : Level 1
     Hail : TM, Level 65
     Headbutt : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM, Level 55
     Ice Shard : Level 17
@@ -4881,7 +4881,7 @@ Grimer
     Gunk Shot : Tutor, Level 43
     Harden : Level 4
     Haze : Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Imprison : Egg
     Incinerate : TM
@@ -4950,7 +4950,7 @@ Muk
     Giga Impact : TM
     Gunk Shot : Tutor, Level 49
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Incinerate : TM
@@ -5007,7 +5007,7 @@ Shellder
     Facade : TM
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 61
     Ice Beam : TM, Level 52
     Ice Shard : Level 28
@@ -5053,7 +5053,7 @@ Cloyster
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icicle Crash : Level 52
@@ -5102,7 +5102,7 @@ Gastly
     Grudge : Egg
     Haze : Egg
     Hex : Level 43
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 1, DreamWorld
     Ice Punch : Tutor, Egg
     Icy Wind : Tutor
@@ -5168,7 +5168,7 @@ Haunter
     Frustration : TM
     Giga Drain : Tutor
     Hex : Level 55
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 1
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -5236,7 +5236,7 @@ Gengar
     Giga Drain : Tutor
     Giga Impact : TM
     Hex : Level 55
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 1
     Ice Punch : Tutor
@@ -5310,7 +5310,7 @@ Onix
     Gyro Ball : TM
     Harden : Level 1
     Heavy Slam : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Head : Tutor
     Iron Tail : Tutor, Level 40
     Mud Sport : Level 1
@@ -5370,7 +5370,7 @@ Drowzee
     Grass Knot : TM
     Guard Swap : Egg
     Headbutt : Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 1, DreamWorld
     Ice Punch : Tutor, Egg
     Light Screen : TM
@@ -5437,7 +5437,7 @@ Hypno
     Giga Impact : TM
     Grass Knot : TM
     Headbutt : Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 1
     Ice Punch : Tutor
@@ -5512,7 +5512,7 @@ Krabby
     Hail : TM
     Harden : Level 11
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -5569,7 +5569,7 @@ Kingler
     Guillotine : Level 37
     Hail : TM
     Harden : Level 11
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -5617,7 +5617,7 @@ Voltorb
     Foul Play : Tutor
     Frustration : TM
     Gyro Ball : TM, Level 43
-    Hidden Power Water : TM
+    Hidden Power : TM
     Light Screen : TM, Level 26
     Magic Coat : Tutor
     Magnet Rise : Tutor, Level 40
@@ -5662,7 +5662,7 @@ Electrode
     Frustration : TM
     Giga Impact : TM
     Gyro Ball : TM, Level 51
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Light Screen : TM, Level 26
     Magic Coat : Tutor
@@ -5715,7 +5715,7 @@ Exeggcute
     Giga Drain : Tutor, Egg, DreamWorld
     Grass Knot : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 1
     Ingrain : Egg
     Leaf Storm : Egg
@@ -5772,7 +5772,7 @@ Exeggutor
     Giga Impact : TM
     Grass Knot : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 1
     Leaf Storm : Level 47
@@ -5839,7 +5839,7 @@ Cubone
     Frustration : TM
     Growl : Level 1
     Headbutt : Level 11
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Incinerate : TM
@@ -5906,7 +5906,7 @@ Marowak
     Giga Impact : TM
     Growl : Level 1
     Headbutt : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -5966,7 +5966,7 @@ Hitmonlee
     Foresight : Level 37
     Frustration : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Level 29
     Jump Kick : Level 13
     Knock Off : Tutor
@@ -6025,7 +6025,7 @@ Hitmonchan
     Focus Punch : Level 56
     Frustration : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor, Level 36
     Low Kick : Tutor
     Low Sweep : TM
@@ -6086,7 +6086,7 @@ Lickitung
     Frustration : TM
     Giga Impact : TM
     Hammer Arm : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -6155,7 +6155,7 @@ Koffing
     Grudge : Egg
     Gyro Ball : TM, Level 29
     Haze : Level 26
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Memento : Level 45
     Pain Split : Tutor, Egg
@@ -6213,7 +6213,7 @@ Weezing
     Giga Impact : TM
     Gyro Ball : TM
     Haze : Level 26
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Memento : Level 54
@@ -6273,7 +6273,7 @@ Rhyhorn
     Flamethrower : TM
     Frustration : TM
     Fury Attack : Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 1, DreamWorld
     Horn Drill : Level 63
     Ice Beam : TM
@@ -6349,7 +6349,7 @@ Rhydon
     Fury Attack : Level 1
     Giga Impact : TM
     Hammer Arm : Level 42
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 1
     Horn Drill : Level 71
     Hyper Beam : TM
@@ -6437,7 +6437,7 @@ Chansey
     Healing Wish : Level 50
     Heal Pulse : Level 38
     Helping Hand : Tutor, Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -6512,7 +6512,7 @@ Tangela
     Giga Impact : TM
     Grass Knot : TM
     Growth : Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ingrain : Level 1
     Knock Off : Tutor, Level 27
@@ -6594,7 +6594,7 @@ Kangaskhan
     Hail : TM
     Hammer Arm : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -6665,7 +6665,7 @@ Horsea
     Focus Energy : Level 14
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 35
     Ice Beam : TM
     Icy Wind : Tutor
@@ -6712,7 +6712,7 @@ Seadra
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 40
     Hyper Beam : TM
     Ice Beam : TM
@@ -6754,7 +6754,7 @@ Goldeen
     Fury Attack : Level 31
     Hail : TM
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 11
     Horn Drill : Level 41
     Hydro Pump : Egg
@@ -6806,7 +6806,7 @@ Seaking
     Fury Attack : Level 31
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 11
     Horn Drill : Level 47
     Hyper Beam : TM
@@ -6852,7 +6852,7 @@ Staryu
     Gyro Ball : TM, Level 30
     Hail : TM
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 52
     Ice Beam : TM
     Icy Wind : Tutor, DreamWorld
@@ -6904,7 +6904,7 @@ Starmie
     Gravity : Tutor
     Gyro Ball : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -6974,7 +6974,7 @@ Mr. Mime
     Grass Knot : TM
     Guard Swap : Level 1
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Egg
     Ice Punch : Tutor
@@ -7054,7 +7054,7 @@ Scyther
     Frustration : TM
     Fury Cutter : Level 25
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Knock Off : Tutor
     Leer : Level 1
@@ -7117,7 +7117,7 @@ Jynx
     Heal Bell : Tutor
     Heart Stamp : Level 21
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -7180,7 +7180,7 @@ Electabuzz
     Frustration : TM
     Giga Impact : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Iron Tail : Tutor
@@ -7239,7 +7239,7 @@ Magmar
     Giga Impact : TM
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -7292,7 +7292,7 @@ Pinsir
     Giga Impact : TM
     Guillotine : Level 47
     Harden : Level 11
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor
     Knock Off : Tutor
@@ -7342,7 +7342,7 @@ Tauros
     Frustration : TM
     Giga Impact : TM, Level 63
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 8
     Hyper Beam : TM
     Ice Beam : TM
@@ -7416,7 +7416,7 @@ Gyarados
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 41
     Hyper Beam : TM, Level 47
     Ice Beam : TM
@@ -7485,7 +7485,7 @@ Lapras
     Growl : Level 1
     Hail : TM
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Drill : Egg, DreamWorld
     Hydro Pump : Level 49
     Hyper Beam : TM
@@ -7550,7 +7550,7 @@ Eevee
     Growl : Level 9
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Iron Tail : Tutor
     Last Resort : Tutor, Level 41
@@ -7602,7 +7602,7 @@ Vaporeon
     Haze : Level 33
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 45
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -7655,7 +7655,7 @@ Jolteon
     Giga Impact : TM
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Iron Tail : Tutor
@@ -7712,7 +7712,7 @@ Flareon
     Heal Bell : Tutor
     Heat Wave : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Incinerate : TM
@@ -7763,7 +7763,7 @@ Porygon
     Frustration : TM
     Giga Impact : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -7825,7 +7825,7 @@ Omanyte
     Gyro Ball : TM
     Hail : TM
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 55
     Ice Beam : TM
     Icy Wind : Tutor, DreamWorld
@@ -7885,7 +7885,7 @@ Omastar
     Giga Impact : TM
     Gyro Ball : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 75
     Hyper Beam : TM
     Ice Beam : TM
@@ -7944,7 +7944,7 @@ Kabuto
     Giga Drain : Tutor, Egg
     Hail : TM
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Icy Wind : Tutor, Egg
@@ -8003,7 +8003,7 @@ Kabutops
     Giga Impact : TM
     Hail : TM
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -8072,7 +8072,7 @@ Aerodactyl
     Frustration : TM
     Giga Impact : TM, Level 81
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 65
     Ice Fang : Level 1
@@ -8148,7 +8148,7 @@ Snorlax
     Giga Impact : TM, Level 57
     Gunk Shot : Tutor
     Heavy Slam : Level 52
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -8210,7 +8210,7 @@ Articuno
     Giga Impact : TM
     Gust : Level 1
     Hail : TM, Level 85
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 92
     Hyper Beam : TM
     Ice Beam : TM, Level 43
@@ -8259,7 +8259,7 @@ Zapdos
     Frustration : TM
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Light Screen : TM, Level 64
     Peck : Level 1
@@ -8309,7 +8309,7 @@ Moltres
     Frustration : TM
     Giga Impact : TM
     Heat Wave : Tutor, Level 64
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 92
     Hyper Beam : TM
     Incinerate : TM
@@ -8361,7 +8361,7 @@ Dratini
     Frustration : TM
     Hail : TM
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 61
     Ice Beam : TM
     Icy Wind : Tutor
@@ -8412,7 +8412,7 @@ Dragonair
     Flamethrower : TM
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 75
     Ice Beam : TM
     Icy Wind : Tutor
@@ -8473,7 +8473,7 @@ Dragonite
     Giga Impact : TM
     Hail : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hurricane : Level 81
     Hyper Beam : TM, Level 75
@@ -8555,7 +8555,7 @@ Mewtwo
     Gravity : Tutor
     Guard Swap : Level 57
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -8686,7 +8686,7 @@ Mew
     Heal Bell : Tutor
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -8813,7 +8813,7 @@ Chikorita
     Grass Whistle : Egg
     Growl : Level 1
     Heal Pulse : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Egg
     Iron Tail : Tutor
     Leaf Storm : Egg
@@ -8863,7 +8863,7 @@ Bayleef
     Grass Knot : TM
     Grass Pledge : Tutor
     Growl : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Light Screen : TM, Level 36
     Magical Leaf : Level 22
@@ -8913,7 +8913,7 @@ Meganium
     Grass Knot : TM
     Grass Pledge : Tutor
     Growl : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Tail : Tutor
     Light Screen : TM, Level 40
@@ -8972,7 +8972,7 @@ Cyndaquil
     Frustration : TM
     Fury Swipes : Egg
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Egg
     Incinerate : TM
     Inferno : Level 46
@@ -9020,7 +9020,7 @@ Quilava
     Flame Wheel : Level 20
     Frustration : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Inferno : Level 53
     Lava Plume : Level 42
@@ -9075,7 +9075,7 @@ Typhlosion
     Giga Impact : TM
     Gyro Ball : TM, Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Inferno : Level 56
@@ -9133,7 +9133,7 @@ Totodile
     Fling : TM
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Level 50, Egg
     Ice Beam : TM
@@ -9196,7 +9196,7 @@ Croconaw
     Fling : TM
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Level 60
     Ice Beam : TM
@@ -9265,7 +9265,7 @@ Feraligatr
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Cannon : Tutor
     Hydro Pump : Level 76
@@ -9338,7 +9338,7 @@ Sentret
     Fury Swipes : Level 13
     Grass Knot : TM
     Helping Hand : Tutor, Level 16
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Voice : Tutor, Level 47
     Ice Beam : TM
@@ -9406,7 +9406,7 @@ Furret
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor, Level 17
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 56
@@ -9467,7 +9467,7 @@ Hoothoot
     Frustration : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Hypnosis : Level 5
     Magic Coat : Tutor
@@ -9521,7 +9521,7 @@ Noctowl
     Giga Impact : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Hypnosis : Level 1
@@ -9578,7 +9578,7 @@ Ledyba
     Focus Punch : Egg
     Frustration : TM
     Giga Drain : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Knock Off : Tutor, Egg
     Light Screen : TM, Level 14
@@ -9632,7 +9632,7 @@ Ledian
     Frustration : TM
     Giga Drain : Tutor
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Knock Off : Tutor
@@ -9684,7 +9684,7 @@ Spinarak
     Frustration : TM
     Fury Swipes : Level 22
     Giga Drain : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Leech Life : Level 12
     Night Shade : Level 15
@@ -9738,7 +9738,7 @@ Ariados
     Fury Swipes : Level 23
     Giga Drain : Tutor
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Leech Life : Level 12
@@ -9788,7 +9788,7 @@ Crobat
     Giga Impact : TM
     Haze : Level 47
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leech Life : Level 1
     Mean Look : Level 33
@@ -9849,7 +9849,7 @@ Chinchou
     Frustration : TM
     Hail : TM
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 45
     Ice Beam : TM
     Icy Wind : Tutor
@@ -9905,7 +9905,7 @@ Lanturn
     Giga Impact : TM
     Hail : TM
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 57
     Hyper Beam : TM
     Ice Beam : TM
@@ -9958,7 +9958,7 @@ Pichu
     Frustration : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Light Screen : TM
     Lucky Chant : Egg
@@ -10016,7 +10016,7 @@ Cleffa
     Grass Knot : TM
     Gravity : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Icy Wind : Tutor
     Incinerate : TM
@@ -10089,7 +10089,7 @@ Igglybuff
     Gravity : Tutor, Egg
     Heal Bell : Tutor
     Helping Hand : Tutor, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Icy Wind : Tutor
     Incinerate : TM
@@ -10155,7 +10155,7 @@ Togepi
     Grass Knot : TM
     Growl : Level 1
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Incinerate : TM
     Last Resort : Tutor, Level 49
@@ -10231,7 +10231,7 @@ Togetic
     Growl : Level 1
     Heal Bell : Tutor
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Incinerate : TM
@@ -10292,7 +10292,7 @@ Natu
     Guard Swap : Level 47
     Haze : Egg
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leer : Level 1
     Light Screen : TM
     Lucky Chant : Level 12
@@ -10363,7 +10363,7 @@ Xatu
     Grass Knot : TM
     Guard Swap : Level 59
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leer : Level 1
     Light Screen : TM
@@ -10432,7 +10432,7 @@ Mareep
     Frustration : TM
     Growl : Level 1
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor, Egg
     Light Screen : TM, Level 43
     Magnet Rise : Tutor
@@ -10482,7 +10482,7 @@ Flaaffy
     Frustration : TM
     Growl : Level 1
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Light Screen : TM, Level 52
     Magnet Rise : Tutor
@@ -10534,7 +10534,7 @@ Ampharos
     Giga Impact : TM
     Growl : Level 1
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Tail : Tutor
     Light Screen : TM, Level 57
@@ -10580,7 +10580,7 @@ Bellossom
     Giga Drain : Tutor
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leaf Blade : Level 1
     Leaf Storm : Level 53
@@ -10634,7 +10634,7 @@ Marill
     Grass Knot : TM
     Hail : TM
     Helping Hand : Tutor, Level 16
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 40
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -10695,7 +10695,7 @@ Azumarill
     Grass Knot : TM
     Hail : TM
     Helping Hand : Tutor, Level 16
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 46
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -10758,7 +10758,7 @@ Sudowoodo
     Harden : Egg
     Headbutt : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Low Kick : Tutor, Level 1
     Mimic : Level 15
@@ -10816,7 +10816,7 @@ Politoed
     Giga Impact : TM
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 48
     Hypnosis : Level 1
@@ -10865,7 +10865,7 @@ Hoppip
     Giga Drain : Tutor, Level 43
     Grass Knot : TM
     Helping Hand : Tutor, Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Seed : Level 22
     Mega Drain : Level 25
     Memento : Level 49
@@ -10910,7 +10910,7 @@ Skiploom
     Giga Drain : Tutor, Level 52
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Seed : Level 24
     Mega Drain : Level 28
     Memento : Level 60
@@ -10956,7 +10956,7 @@ Jumpluff
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leech Seed : Level 24
     Mega Drain : Level 29
@@ -11014,7 +11014,7 @@ Aipom
     Fury Swipes : Level 18
     Grass Knot : TM
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Punch : Tutor
     Iron Tail : Tutor
@@ -11087,7 +11087,7 @@ Sunkern
     Grass Whistle : Level 7, Egg
     Growth : Level 1
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Level 4, Egg
     Leech Seed : Level 13, Egg
     Light Screen : TM
@@ -11136,7 +11136,7 @@ Sunflora
     Grass Whistle : Level 7
     Growth : Level 1
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ingrain : Level 4
     Leaf Storm : Level 43
@@ -11184,7 +11184,7 @@ Yanma
     Foresight : Level 1
     Frustration : TM
     Giga Drain : Tutor, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 38
     Leech Life : Egg
     Protect : TM
@@ -11242,7 +11242,7 @@ Wooper
     Frustration : TM
     Hail : TM
     Haze : Level 43
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -11300,7 +11300,7 @@ Quagsire
     Giga Impact : TM
     Hail : TM
     Haze : Level 48
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -11357,7 +11357,7 @@ Espeon
     Grass Knot : TM
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Iron Tail : Tutor
@@ -11418,7 +11418,7 @@ Umbreon
     Guard Swap : Level 45
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Iron Tail : Tutor
@@ -11476,7 +11476,7 @@ Murkrow
     Frustration : TM
     Haze : Level 11
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Icy Wind : Tutor
     Mean Look : Level 41
     Mirror Move : Egg
@@ -11552,7 +11552,7 @@ Slowking
     Hail : TM
     Headbutt : Level 23
     Heal Pulse : Level 58
-    Hidden Power Water : TM, Level 1
+    Hidden Power : TM, Level 1
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -11622,7 +11622,7 @@ Misdreavus
     Grudge : Level 50
     Heal Bell : Tutor
     Hex : Level 23
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Icy Wind : Tutor
     Imprison : Egg
@@ -11673,7 +11673,7 @@ Misdreavus
     Wonder Room : Tutor, Egg
 
 Unown
-    Hidden Power Water : Level 1
+    Hidden Power : Level 1
 
 Wobbuffet
     Charm : DreamWorld
@@ -11713,7 +11713,7 @@ Girafarig
     Gravity : Tutor
     Growl : Level 1
     Guard Swap : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Iron Tail : Tutor
     Light Screen : TM
@@ -11781,7 +11781,7 @@ Pineco
     Giga Drain : Tutor
     Gravity : Tutor, DreamWorld
     Gyro Ball : TM, Level 42
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor, Level 39
     Light Screen : TM
     Natural Gift : Level 23
@@ -11840,7 +11840,7 @@ Forretress
     Gravity : Tutor
     Gyro Ball : TM, Level 50
     Heavy Slam : Level 70
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor, Level 46
     Light Screen : TM
@@ -11913,7 +11913,7 @@ Dunsparce
     Gyro Ball : TM
     Headbutt : Egg
     Hex : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -11986,7 +11986,7 @@ Gligar
     Fury Cutter : Level 16
     Guillotine : Level 49
     Harden : Level 7
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Tail : Tutor
     Knock Off : Tutor, Level 10
@@ -12064,7 +12064,7 @@ Steelix
     Giga Impact : TM
     Gyro Ball : TM
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Fang : Level 1
     Iron Head : Tutor
@@ -12127,7 +12127,7 @@ Snubbull
     Frustration : TM
     Headbutt : Level 19
     Heal Bell : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ice Fang : Level 1, Egg
     Ice Punch : Tutor
@@ -12202,7 +12202,7 @@ Granbull
     Giga Impact : TM
     Headbutt : Level 19
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Fang : Level 1
@@ -12277,7 +12277,7 @@ Qwilfish
     Hail : TM
     Harden : Level 9
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 57
     Ice Beam : TM
     Icy Wind : Tutor
@@ -12340,7 +12340,7 @@ Scizor
     Frustration : TM
     Fury Cutter : Level 25
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor, Level 37
     Iron Head : Tutor, Level 53
@@ -12401,7 +12401,7 @@ Shuckle
     Guard Split : Level 45
     Gyro Ball : TM
     Helping Hand : Tutor, Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Knock Off : Tutor, Egg
     Mud-Slap : Egg
     Power Split : Level 45
@@ -12468,7 +12468,7 @@ Heracross
     Giga Impact : TM
     Harden : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 1, DreamWorld
     Hyper Beam : TM
     Iron Defense : Tutor
@@ -12539,7 +12539,7 @@ Sneasel
     Frustration : TM
     Fury Swipes : Level 16
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 25
     Ice Beam : TM
     Ice Punch : Tutor, Egg, DreamWorld
@@ -12615,7 +12615,7 @@ Teddiursa
     Frustration : TM
     Fury Swipes : Level 8
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Voice : Tutor
     Ice Punch : Tutor
@@ -12681,7 +12681,7 @@ Ursaring
     Giga Impact : TM
     Gunk Shot : Tutor
     Hammer Arm : Level 67
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -12745,7 +12745,7 @@ Slugma
     Frustration : TM
     Harden : Level 14
     Heat Wave : Tutor, Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Inferno : Egg, DreamWorld
     Iron Defense : Tutor
@@ -12801,7 +12801,7 @@ Magcargo
     Gyro Ball : TM
     Harden : Level 14
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Defense : Tutor
@@ -12859,7 +12859,7 @@ Swinub
     Flail : Level 40
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Shard : Level 24
     Icicle Crash : Egg
@@ -12912,7 +12912,7 @@ Piloswine
     Fury Attack : Level 33
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Fang : Level 24
@@ -12975,7 +12975,7 @@ Corsola
     Hail : TM
     Harden : Level 4
     Head Smash : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icicle Spear : Egg
     Icy Wind : Tutor
@@ -13041,7 +13041,7 @@ Remoraid
     Frustration : TM
     Gunk Shot : Tutor
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 42
     Hyper Beam : TM, Level 45
     Ice Beam : TM, Level 34
@@ -13101,7 +13101,7 @@ Octillery
     Frustration : TM
     Giga Impact : TM
     Gunk Shot : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 52
     Hyper Beam : TM, Level 55
     Ice Beam : TM, Level 40
@@ -13156,7 +13156,7 @@ Delibird
     Future Sight : Egg
     Gunk Shot : Tutor
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Ball : Egg
     Ice Beam : TM
     Ice Punch : Tutor, Egg
@@ -13210,7 +13210,7 @@ Mantine
     Haze : Egg
     Headbutt : Level 13
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 49, Egg
     Hyper Beam : TM
     Ice Beam : TM
@@ -13271,7 +13271,7 @@ Skarmory
     Frustration : TM
     Fury Attack : Level 17
     Guard Swap : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Icy Wind : Tutor
     Iron Defense : Tutor
     Iron Head : Tutor
@@ -13336,7 +13336,7 @@ Houndour
     Foul Play : Tutor, Level 40
     Frustration : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 4, DreamWorld
     Hyper Voice : Tutor
     Incinerate : TM
@@ -13401,7 +13401,7 @@ Houndoom
     Frustration : TM
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 1
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -13462,7 +13462,7 @@ Kingdra
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 40
     Hyper Beam : TM
     Ice Beam : TM
@@ -13514,7 +13514,7 @@ Phanpy
     Gunk Shot : Tutor
     Head Smash : Egg
     Heavy Slam : Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ice Shard : Egg
     Iron Tail : Tutor
@@ -13567,7 +13567,7 @@ Donphan
     Growl : Level 1
     Gunk Shot : Tutor
     Gyro Ball : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 1
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -13622,7 +13622,7 @@ Porygon2
     Frustration : TM
     Giga Impact : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 67
     Ice Beam : TM
     Icy Wind : Tutor
@@ -13686,7 +13686,7 @@ Stantler
     Frustration : TM
     Giga Impact : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 10
     Imprison : Level 49
     Iron Tail : Tutor
@@ -13759,7 +13759,7 @@ Tyrogue
     Foresight : Level 1
     Frustration : TM
     Helping Hand : Tutor, Level 1, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Egg
     Low Kick : Tutor
     Low Sweep : TM
@@ -13811,7 +13811,7 @@ Hitmontop
     Frustration : TM
     Gyro Ball : TM, Level 42
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Low Kick : Tutor
     Low Sweep : TM
     Protect : TM
@@ -13867,7 +13867,7 @@ Smoochum
     Heal Bell : Tutor
     Heart Stamp : Level 21
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Punch : Tutor, Egg
     Icy Wind : Tutor
@@ -13935,7 +13935,7 @@ Elekid
     Frustration : TM
     Hammer Arm : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor, Egg
     Karate Chop : Egg
     Leer : Level 1
@@ -13998,7 +13998,7 @@ Magby
     Frustration : TM
     Heat Wave : Tutor, DreamWorld
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Iron Tail : Tutor, Egg
     Karate Chop : Egg
@@ -14057,7 +14057,7 @@ Miltank
     Heal Bell : Tutor, Level 48
     Heart Stamp : Egg
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -14140,7 +14140,7 @@ Blissey
     Healing Wish : Level 50
     Heal Pulse : Level 38
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -14206,7 +14206,7 @@ Raikou
     Flash : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Head : Tutor
     Iron Tail : Tutor
@@ -14264,7 +14264,7 @@ Entei
     Frustration : TM
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Head : Tutor
@@ -14314,7 +14314,7 @@ Suicune
     Giga Impact : TM
     Gust : Level 22
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 71
     Hyper Beam : TM
     Ice Beam : TM
@@ -14369,7 +14369,7 @@ Larvitar
     Facade : TM
     Focus Energy : Egg
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 55
     Iron Defense : Tutor, Egg
     Iron Head : Tutor, Egg
@@ -14423,7 +14423,7 @@ Pupitar
     Earthquake : TM, Level 54
     Facade : TM
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 67
     Iron Defense : Tutor
     Iron Head : Tutor
@@ -14491,7 +14491,7 @@ Tyranitar
     Foul Play : Tutor
     Frustration : TM
     Giga Impact : TM, Level 82
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 73
     Ice Beam : TM
@@ -14572,7 +14572,7 @@ Lugia
     Giga Impact : TM
     Gust : Level 9
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 37
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -14648,7 +14648,7 @@ Ho-Oh
     Giga Impact : TM
     Gust : Level 9
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Incinerate : TM
@@ -14719,7 +14719,7 @@ Celebi
     Heal Block : Level 55
     Healing Wish : Level 73
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Last Resort : Tutor
     Leaf Storm : Level 82
@@ -14791,7 +14791,7 @@ Treecko
     Grass Knot : TM
     Grass Pledge : Tutor
     Grass Whistle : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Leaf Storm : Egg
     Leech Seed : Egg
@@ -14852,7 +14852,7 @@ Grovyle
     Giga Drain : Tutor
     Grass Knot : TM
     Grass Pledge : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Leaf Blade : Level 29
     Leaf Storm : Level 59
@@ -14916,7 +14916,7 @@ Sceptile
     Giga Impact : TM
     Grass Knot : TM
     Grass Pledge : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Tail : Tutor
@@ -14985,7 +14985,7 @@ Torchic
     Growl : Level 1
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Last Resort : Tutor, Egg
@@ -15045,7 +15045,7 @@ Combusken
     Growl : Level 1
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Last Resort : Tutor
@@ -15114,7 +15114,7 @@ Blaziken
     Growl : Level 1
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Level 1
     Hone Claws : TM
     Hyper Beam : TM
@@ -15178,7 +15178,7 @@ Mudkip
     Frustration : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 42
     Ice Ball : Egg
     Ice Beam : TM
@@ -15240,7 +15240,7 @@ Marshtomp
     Frustration : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -15298,7 +15298,7 @@ Swampert
     Growl : Level 1
     Hail : TM
     Hammer Arm : Level 69
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Cannon : Tutor
     Hyper Beam : TM
     Ice Beam : TM
@@ -15353,7 +15353,7 @@ Poochyena
     Fire Fang : Egg
     Foul Play : Tutor
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 5, DreamWorld
     Hyper Voice : Tutor
     Ice Fang : Egg
@@ -15408,7 +15408,7 @@ Mightyena
     Foul Play : Tutor
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 1
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -15467,7 +15467,7 @@ Zigzagoon
     Gunk Shot : Tutor
     Headbutt : Level 9
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -15530,7 +15530,7 @@ Linoone
     Gunk Shot : Tutor
     Headbutt : Level 1
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -15602,7 +15602,7 @@ Beautifly
     Giga Drain : Tutor, Level 38
     Giga Impact : TM
     Gust : Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Mega Drain : Level 24
     Morning Sun : Level 20
@@ -15654,7 +15654,7 @@ Dustox
     Giga Drain : Tutor
     Giga Impact : TM
     Gust : Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Light Screen : TM, Level 31
     Moonlight : Level 20
@@ -15702,7 +15702,7 @@ Lotad
     Grass Knot : TM
     Growl : Level 3
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Leech Seed : Egg, DreamWorld
@@ -15760,7 +15760,7 @@ Lombre
     Grass Knot : TM
     Growl : Level 3
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Level 45
     Hyper Voice : Tutor
@@ -15815,7 +15815,7 @@ Ludicolo
     Grass Knot : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -15869,7 +15869,7 @@ Seedot
     Grass Knot : TM
     Growth : Level 7, DreamWorld
     Harden : Level 3
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Seed : Egg
     Nasty Plot : Egg
     Nature Power : Level 13
@@ -15920,7 +15920,7 @@ Nuzleaf
     Grass Knot : TM
     Growth : Level 7
     Harden : Level 3
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Low Kick : Tutor
     Low Sweep : TM
@@ -15979,7 +15979,7 @@ Shiftry
     Giga Drain : Tutor
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Icy Wind : Tutor
     Knock Off : Tutor
@@ -16037,7 +16037,7 @@ Taillow
     Frustration : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Mirror Move : Egg, DreamWorld
     Peck : Level 1, DreamWorld
     Pluck : TM
@@ -16082,7 +16082,7 @@ Swellow
     Giga Impact : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Peck : Level 1
     Pluck : TM, Level 1
@@ -16123,7 +16123,7 @@ Wingull
     Growl : Level 1
     Gust : Egg
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 49
     Ice Beam : TM
     Icy Wind : Tutor
@@ -16171,7 +16171,7 @@ Pelipper
     Growl : Level 1
     Gunk Shot : Tutor
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 63
     Hydro Pump : Level 57
     Hyper Beam : TM
@@ -16236,7 +16236,7 @@ Ralts
     Grudge : Egg
     Heal Pulse : Level 23
     Helping Hand : Tutor, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Hypnosis : Level 45
     Ice Punch : Tutor
@@ -16308,7 +16308,7 @@ Kirlia
     Growl : Level 1
     Heal Pulse : Level 25
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Hypnosis : Level 53
     Ice Punch : Tutor
@@ -16381,7 +16381,7 @@ Gardevoir
     Healing Wish : Level 1
     Heal Pulse : Level 25
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Hypnosis : Level 65
@@ -16447,7 +16447,7 @@ Surskit
     Frustration : TM
     Giga Drain : Tutor, DreamWorld
     Haze : Level 37
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Egg, DreamWorld
     Ice Beam : TM
     Icy Wind : Tutor
@@ -16493,7 +16493,7 @@ Masquerain
     Giga Drain : Tutor
     Giga Impact : TM
     Gust : Level 22
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -16547,7 +16547,7 @@ Shroomish
     Growth : Level 33
     Headbutt : Level 21
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Seed : Level 13
     Mega Drain : Level 17
     Natural Gift : Egg
@@ -16599,7 +16599,7 @@ Breloom
     Grass Knot : TM
     Headbutt : Level 21
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Tail : Tutor
     Leech Seed : Level 1
@@ -16666,7 +16666,7 @@ Slakoth
     Frustration : TM
     Gunk Shot : Tutor
     Hammer Arm : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -16731,7 +16731,7 @@ Vigoroth
     Frustration : TM
     Fury Swipes : Level 19
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -16797,7 +16797,7 @@ Slaking
     Giga Impact : TM
     Gunk Shot : Tutor
     Hammer Arm : Level 67
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -16856,7 +16856,7 @@ Nincada
     Giga Drain : Tutor
     Gust : Egg
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Leech Life : Level 5, DreamWorld
     Metal Claw : Level 38
@@ -16901,7 +16901,7 @@ Ninjask
     Giga Drain : Tutor
     Giga Impact : TM
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Leech Life : Level 1
@@ -16950,7 +16950,7 @@ Shedinja
     Grudge : Level 45
     Harden : Level 1
     Heal Block : Level 52
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Leech Life : Level 5
@@ -16997,7 +16997,7 @@ Whismur
     Fling : TM
     Frustration : TM
     Hammer Arm : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 15
     Hyper Voice : Tutor, Level 51
     Ice Beam : TM
@@ -17049,7 +17049,7 @@ Loudred
     Flamethrower : TM
     Fling : TM
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 1
     Hyper Voice : Tutor, Level 65
     Ice Beam : TM
@@ -17111,7 +17111,7 @@ Exploud
     Focus Blast : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 1
     Hyper Beam : TM, Level 79
     Hyper Voice : Tutor, Level 71
@@ -17189,7 +17189,7 @@ Makuhita
     Frustration : TM
     Heavy Slam : Level 46
     Helping Hand : Tutor, Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor, DreamWorld
     Knock Off : Tutor, Level 19
     Low Kick : Tutor
@@ -17252,7 +17252,7 @@ Hariyama
     Giga Impact : TM
     Heavy Slam : Level 62
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Iron Head : Tutor
@@ -17309,7 +17309,7 @@ Azurill
     Frustration : TM
     Hail : TM
     Helping Hand : Tutor, Level 16
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ice Beam : TM
     Icy Wind : Tutor
@@ -17359,7 +17359,7 @@ Nosepass
     Frustration : TM
     Gravity : Tutor
     Harden : Level 4
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Iron Defense : Tutor
     Lock-On : Level 50
@@ -17429,7 +17429,7 @@ Skitty
     Growl : Level 1
     Heal Bell : Tutor, Level 39
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ice Beam : TM
     Icy Wind : Tutor
@@ -17488,7 +17488,7 @@ Delcatty
     Grass Knot : TM
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -17551,7 +17551,7 @@ Sableye
     Frustration : TM
     Fury Swipes : Level 15
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -17635,7 +17635,7 @@ Mawile
     Giga Impact : TM
     Grass Knot : TM
     Guard Swap : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Fang : Egg
@@ -17711,7 +17711,7 @@ Aron
     Headbutt : Level 8
     Head Smash : Egg, DreamWorld
     Heavy Slam : Level 43
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Defense : Tutor, Level 15
     Iron Head : Tutor, Level 25, Egg
@@ -17767,7 +17767,7 @@ Lairon
     Harden : Level 1
     Headbutt : Level 1
     Heavy Slam : Level 51
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Defense : Tutor, Level 15
     Iron Head : Tutor, Level 25
@@ -17836,7 +17836,7 @@ Aggron
     Harden : Level 1
     Headbutt : Level 1
     Heavy Slam : Level 57
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -17919,7 +17919,7 @@ Meditite
     Gravity : Tutor
     Guard Swap : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM, Level 15
+    Hidden Power : TM, Level 15
     High Jump Kick : Level 32
     Ice Punch : Tutor, Egg
     Light Screen : TM
@@ -17991,7 +17991,7 @@ Medicham
     Grass Knot : TM
     Gravity : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM, Level 15
+    Hidden Power : TM, Level 15
     High Jump Kick : Level 32
     Hyper Beam : TM
     Ice Punch : Tutor, Level 1
@@ -18053,7 +18053,7 @@ Electrike
     Flash : TM
     Frustration : TM
     Headbutt : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 12
     Ice Fang : Egg, DreamWorld
     Iron Tail : Tutor
@@ -18103,7 +18103,7 @@ Manectric
     Flash : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Level 1
     Hyper Beam : TM
     Iron Tail : Tutor
@@ -18159,7 +18159,7 @@ Plusle
     Grass Knot : TM
     Growl : Level 1
     Helping Hand : Tutor, Level 10
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Last Resort : Tutor, Level 51
     Light Screen : TM
@@ -18213,7 +18213,7 @@ Minun
     Grass Knot : TM
     Growl : Level 1
     Helping Hand : Tutor, Level 10
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Last Resort : Tutor
     Light Screen : TM
@@ -18266,7 +18266,7 @@ Volbeat
     Frustration : TM
     Giga Drain : Tutor
     Helping Hand : Tutor, Level 33
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Light Screen : TM
     Moonlight : Level 13
@@ -18326,7 +18326,7 @@ Illumise
     Giga Drain : Tutor
     Growth : Egg
     Helping Hand : Tutor, Level 33
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Light Screen : TM
     Moonlight : Level 13
@@ -18376,7 +18376,7 @@ Roselia
     Grass Knot : TM
     Grass Whistle : Level 22, Egg
     Growth : Level 4, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Level 34
     Leaf Storm : Egg
     Leech Seed : Level 16
@@ -18433,7 +18433,7 @@ Gulpin
     Gastro Acid : Tutor, Level 49
     Giga Drain : Tutor, DreamWorld
     Gunk Shot : Tutor, Level 59, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Punch : Tutor
     Mud-Slap : Egg
@@ -18488,7 +18488,7 @@ Swalot
     Giga Drain : Tutor
     Giga Impact : TM
     Gunk Shot : Tutor, Level 73
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -18542,7 +18542,7 @@ Carvanha
     Focus Energy : Level 8
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Egg
     Ice Beam : TM
     Ice Fang : Level 16
@@ -18598,7 +18598,7 @@ Sharpedo
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Fang : Level 16
@@ -18662,7 +18662,7 @@ Wailmer
     Growl : Level 4
     Hail : TM
     Heavy Slam : Level 50
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 47
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -18715,7 +18715,7 @@ Wailord
     Growl : Level 1
     Hail : TM
     Heavy Slam : Level 70
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 62
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -18774,7 +18774,7 @@ Numel
     Frustration : TM
     Growl : Level 1
     Heat Wave : Tutor, Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Egg
     Incinerate : TM
     Iron Head : Tutor, Egg
@@ -18835,7 +18835,7 @@ Camerupt
     Giga Impact : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Head : Tutor
@@ -18894,7 +18894,7 @@ Torkoal
     Giga Impact : TM
     Gyro Ball : TM
     Heat Wave : Tutor, Level 55
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Inferno : Level 60
@@ -18947,7 +18947,7 @@ Spoink
     Future Sight : Egg
     Grass Knot : TM
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Icy Wind : Tutor
     Iron Tail : Tutor
     Light Screen : TM
@@ -19013,7 +19013,7 @@ Grumpig
     Giga Impact : TM
     Grass Knot : TM
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -19083,7 +19083,7 @@ Spinda
     Fling : TM
     Frustration : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Hypnosis : Level 23
     Ice Punch : Tutor
@@ -19156,7 +19156,7 @@ Trapinch
     Fury Cutter : Egg
     Giga Drain : Tutor, DreamWorld
     Gust : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 49
     Mud Shot : Egg
     Mud-Slap : Level 13
@@ -19201,7 +19201,7 @@ Vibrava
     Frustration : TM
     Giga Drain : Tutor
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 49
     Mud-Slap : Level 13
     Outrage : Tutor
@@ -19258,7 +19258,7 @@ Flygon
     Giga Drain : Tutor
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 49
     Incinerate : TM
@@ -19320,7 +19320,7 @@ Cacnea
     Grass Knot : TM
     Grass Whistle : Egg
     Growth : Level 9
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Level 25
     Leech Seed : Level 13
     Leer : Level 1
@@ -19383,7 +19383,7 @@ Cacturne
     Giga Impact : TM
     Grass Knot : TM
     Growth : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ingrain : Level 25
     Leech Seed : Level 13
@@ -19442,7 +19442,7 @@ Swablu
     Haze : Egg
     Heal Bell : Tutor
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor, Egg
     Ice Beam : TM
     Mirror Move : Level 34
@@ -19503,7 +19503,7 @@ Altaria
     Growl : Level 1
     Heal Bell : Tutor
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -19573,7 +19573,7 @@ Zangoose
     Fury Cutter : Level 8
     Fury Swipes : Egg
     Giga Drain : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -19646,7 +19646,7 @@ Seviper
     Giga Drain : Tutor
     Glare : Level 23
     Haze : Level 38
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor, Egg
     Knock Off : Tutor
     Lick : Level 1
@@ -19711,7 +19711,7 @@ Lunatone
     Harden : Level 1
     Heal Block : Level 37
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 9
     Ice Beam : TM
@@ -19782,7 +19782,7 @@ Solrock
     Heal Block : Level 37
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Defense : Tutor
@@ -19846,7 +19846,7 @@ Barboach
     Frustration : TM
     Future Sight : Level 43
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Egg
     Ice Beam : TM
     Icy Wind : Tutor
@@ -19896,7 +19896,7 @@ Whiscash
     Future Sight : Level 51
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -19954,7 +19954,7 @@ Corphish
     Guillotine : Level 53
     Hail : TM
     Harden : Level 7, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -20014,7 +20014,7 @@ Crawdaunt
     Guillotine : Level 65
     Hail : TM
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -20078,7 +20078,7 @@ Baltoy
     Gyro Ball : TM
     Harden : Level 1
     Heal Block : Level 45
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Light Screen : TM
     Magic Coat : Tutor
@@ -20147,7 +20147,7 @@ Claydol
     Gyro Ball : TM
     Harden : Level 1
     Heal Block : Level 54
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 36
     Ice Beam : TM
     Light Screen : TM
@@ -20216,7 +20216,7 @@ Lileep
     Gastro Acid : Tutor, Level 36
     Giga Drain : Tutor, DreamWorld
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Level 15
     Mega Drain : Egg
     Mirror Coat : Egg, DreamWorld
@@ -20272,7 +20272,7 @@ Cradily
     Giga Drain : Tutor
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ingrain : Level 1
     Pain Split : Tutor
@@ -20325,7 +20325,7 @@ Anorith
     Frustration : TM
     Fury Cutter : Level 37
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Defense : Tutor, Egg
     Knock Off : Tutor, Egg
@@ -20382,7 +20382,7 @@ Armaldo
     Fury Cutter : Level 37
     Giga Impact : TM
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Defense : Tutor
@@ -20434,7 +20434,7 @@ Feebas
     Frustration : TM
     Hail : TM
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Egg
     Ice Beam : TM
     Icy Wind : Tutor
@@ -20476,7 +20476,7 @@ Milotic
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 37
     Hyper Beam : TM
     Ice Beam : TM
@@ -20526,7 +20526,7 @@ Castform
     Hail : TM, Level 20
     Headbutt : Level 15
     Hex : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 40
     Ice Beam : TM
     Icy Wind : Tutor
@@ -20599,7 +20599,7 @@ Kecleon
     Frustration : TM
     Fury Swipes : Level 10
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -20679,7 +20679,7 @@ Shuppet
     Grudge : Level 46
     Gunk Shot : Egg
     Hex : Level 26
-    Hidden Power Water : TM
+    Hidden Power : TM
     Icy Wind : Tutor
     Imprison : Egg
     Knock Off : Tutor, Level 1
@@ -20739,7 +20739,7 @@ Banette
     Giga Impact : TM
     Grudge : Level 52
     Hex : Level 26
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Icy Wind : Tutor
     Knock Off : Tutor, Level 1
@@ -20804,7 +20804,7 @@ Duskull
     Gravity : Tutor
     Grudge : Egg
     Hex : Level 38
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Imprison : Egg
@@ -20870,7 +20870,7 @@ Dusclops
     Giga Impact : TM
     Gravity : Tutor, Level 1
     Hex : Level 42
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor, Level 1
@@ -20939,7 +20939,7 @@ Tropius
     Growth : Level 7
     Gust : Level 1, DreamWorld
     Headbutt : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leaf Blade : Egg
     Leaf Storm : Level 71, Egg
@@ -21005,7 +21005,7 @@ Chimecho
     Healing Wish : Level 57
     Heal Pulse : Level 49
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor, DreamWorld
     Hypnosis : Egg, DreamWorld
     Icy Wind : Tutor
@@ -21081,7 +21081,7 @@ Absol
     Giga Impact : TM
     Hail : TM
     Hex : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -21169,7 +21169,7 @@ Snorunt
     Hail : TM, Level 40
     Headbutt : Level 19
     Hex : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Fang : Level 28
     Ice Shard : Level 37
@@ -21214,7 +21214,7 @@ Glalie
     Gyro Ball : TM
     Hail : TM, Level 40
     Headbutt : Level 19
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM, Level 37
     Ice Fang : Level 28
@@ -21264,7 +21264,7 @@ Spheal
     Frustration : TM
     Growl : Level 1
     Hail : TM, Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Ball : Level 13
     Ice Beam : TM
     Icy Wind : Tutor
@@ -21315,7 +21315,7 @@ Sealeo
     Frustration : TM
     Growl : Level 1
     Hail : TM, Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Ball : Level 13
     Ice Beam : TM
     Icy Wind : Tutor
@@ -21363,7 +21363,7 @@ Walrein
     Giga Impact : TM
     Growl : Level 1
     Hail : TM, Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Ball : Level 13
     Ice Beam : TM
@@ -21410,7 +21410,7 @@ Clamperl
     Facade : TM
     Frustration : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Iron Defense : Tutor, Level 1
@@ -21452,7 +21452,7 @@ Huntail
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 51
     Hyper Beam : TM
     Ice Beam : TM
@@ -21497,7 +21497,7 @@ Gorebyss
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 51
     Hyper Beam : TM
     Ice Beam : TM
@@ -21544,7 +21544,7 @@ Relicanth
     Hail : TM
     Harden : Level 1
     Head Smash : Level 78
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 71
     Hyper Beam : TM
     Ice Beam : TM
@@ -21602,7 +21602,7 @@ Luvdisc
     Frustration : TM
     Hail : TM
     Heal Pulse : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 40
     Ice Beam : TM
     Icy Wind : Tutor, DreamWorld
@@ -21658,7 +21658,7 @@ Bagon
     Focus Energy : Level 20
     Frustration : TM
     Headbutt : Level 16
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Egg
     Hyper Voice : Tutor
@@ -21708,7 +21708,7 @@ Shelgon
     Focus Energy : Level 20
     Frustration : TM
     Headbutt : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Voice : Tutor
     Incinerate : TM
@@ -21764,7 +21764,7 @@ Salamence
     Giga Impact : TM
     Headbutt : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -21821,7 +21821,7 @@ Metang
     Grass Knot : TM
     Gravity : Tutor
     Gyro Ball : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 50
     Ice Punch : Tutor
@@ -21887,7 +21887,7 @@ Metagross
     Gravity : Tutor
     Gyro Ball : TM
     Hammer Arm : Level 45
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 62
     Ice Punch : Tutor
@@ -21953,7 +21953,7 @@ Regirock
     Giga Impact : TM
     Gravity : Tutor
     Hammer Arm : Level 81
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 89
     Ice Punch : Tutor
     Iron Defense : Tutor, Level 41
@@ -22011,7 +22011,7 @@ Regice
     Gravity : Tutor
     Hail : TM
     Hammer Arm : Level 81
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 89
     Ice Beam : TM, Level 73
     Ice Punch : Tutor
@@ -22064,7 +22064,7 @@ Registeel
     Giga Impact : TM
     Gravity : Tutor
     Hammer Arm : Level 81
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 89
     Ice Punch : Tutor
@@ -22130,7 +22130,7 @@ Latias
     Healing Wish : Level 85
     Heal Pulse : Level 65
     Helping Hand : Tutor, Level 10
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -22208,7 +22208,7 @@ Latios
     Heal Block : Level 5
     Heal Pulse : Level 65
     Helping Hand : Tutor, Level 10
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -22276,7 +22276,7 @@ Kyogre
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 90
     Hyper Beam : TM
     Ice Beam : TM, Level 35
@@ -22339,7 +22339,7 @@ Groudon
     Frustration : TM
     Giga Impact : TM
     Hammer Arm : Level 20
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -22412,7 +22412,7 @@ Rayquaza
     Frustration : TM
     Giga Impact : TM
     Gyro Ball : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 80
     Hyper Voice : Tutor, Level 20
@@ -22480,7 +22480,7 @@ Jirachi
     Gravity : Tutor, Level 45
     Healing Wish : Level 50
     Helping Hand : Tutor, Level 15
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -22553,7 +22553,7 @@ Deoxys
     Giga Impact : TM
     Grass Knot : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 97
     Ice Beam : TM
     Ice Punch : Tutor
@@ -22644,7 +22644,7 @@ Turtwig
     Grass Knot : TM
     Grass Pledge : Tutor
     Growth : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Leaf Storm : Level 45
     Leech Seed : Level 29
@@ -22698,7 +22698,7 @@ Grotle
     Giga Drain : Tutor, Level 47
     Grass Knot : TM
     Grass Pledge : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Leaf Storm : Level 52
     Leech Seed : Level 32
@@ -22750,7 +22750,7 @@ Torterra
     Giga Impact : TM
     Grass Knot : TM
     Grass Pledge : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Head : Tutor
     Iron Tail : Tutor
@@ -22826,7 +22826,7 @@ Chimchar
     Gunk Shot : Tutor
     Heat Wave : Tutor, Egg
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -22894,7 +22894,7 @@ Monferno
     Gunk Shot : Tutor
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -22969,7 +22969,7 @@ Infernape
     Gunk Shot : Tutor
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -23039,7 +23039,7 @@ Piplup
     Grass Knot : TM
     Growl : Level 4
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 43, Egg
     Ice Beam : TM
     Icy Wind : Tutor, Egg
@@ -23095,7 +23095,7 @@ Prinplup
     Grass Knot : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Level 51
     Ice Beam : TM
@@ -23156,7 +23156,7 @@ Empoleon
     Grass Knot : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Cannon : Tutor
     Hydro Pump : Level 59
@@ -23216,7 +23216,7 @@ Starly
     Fury Attack : Egg
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Pluck : TM
     Protect : TM
     Pursuit : Egg
@@ -23260,7 +23260,7 @@ Staravia
     Frustration : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Pluck : TM
     Protect : TM
     Quick Attack : Level 1
@@ -23301,7 +23301,7 @@ Staraptor
     Giga Impact : TM
     Growl : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Pluck : TM
     Protect : TM
@@ -23349,7 +23349,7 @@ Bidoof
     Grass Knot : TM
     Growl : Level 5
     Headbutt : Level 17
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Fang : Level 21
     Ice Beam : TM
     Icy Wind : Tutor
@@ -23412,7 +23412,7 @@ Bibarel
     Grass Knot : TM
     Growl : Level 1
     Headbutt : Level 18
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Fang : Level 23
     Ice Beam : TM
@@ -23482,7 +23482,7 @@ Kricketune
     Giga Impact : TM
     Growl : Level 1
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -23526,7 +23526,7 @@ Shinx
     Flash : TM
     Frustration : TM
     Helping Hand : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Egg
     Ice Fang : Egg
     Iron Tail : Tutor
@@ -23574,7 +23574,7 @@ Luxio
     Facade : TM
     Flash : TM
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Leer : Level 1
     Light Screen : TM
@@ -23616,7 +23616,7 @@ Luxray
     Flash : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Tail : Tutor
     Leer : Level 1
@@ -23664,7 +23664,7 @@ Budew
     Grass Knot : TM
     Grass Whistle : Egg
     Growth : Level 4
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leaf Storm : Egg
     Mega Drain : Level 13
     Mind Reader : Egg
@@ -23709,7 +23709,7 @@ Roserade
     Giga Drain : Tutor
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Magical Leaf : Level 1
     Mega Drain : Level 1
@@ -23764,7 +23764,7 @@ Cranidos
     Hammer Arm : Egg
     Headbutt : Level 1, DreamWorld
     Head Smash : Level 46
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Incinerate : TM
     Iron Head : Tutor, Egg, DreamWorld
@@ -23837,7 +23837,7 @@ Rampardos
     Giga Impact : TM
     Headbutt : Level 1
     Head Smash : Level 58
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Incinerate : TM
@@ -23906,7 +23906,7 @@ Shieldon
     Frustration : TM
     Headbutt : Egg
     Heavy Slam : Level 46
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Incinerate : TM
     Iron Defense : Tutor, Level 19
@@ -23965,7 +23965,7 @@ Bastiodon
     Frustration : TM
     Giga Impact : TM
     Heavy Slam : Level 58
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Incinerate : TM
@@ -24008,7 +24008,7 @@ Bastiodon
 Burmy
     Bug Bite : Tutor, Level 15, DreamWorld
     Electroweb : Tutor
-    Hidden Power Water : Level 20
+    Hidden Power : Level 20
     Protect : Level 1, DreamWorld
     Snore : Tutor, DreamWorld
     Tackle : Level 10
@@ -24031,7 +24031,7 @@ Wormadam
     Giga Impact : TM
     Grass Knot : TM
     Growth : Level 29
-    Hidden Power Water : TM, Level 20
+    Hidden Power : TM, Level 20
     Hyper Beam : TM
     Leaf Storm : Level 47
     Protect : TM, Level 10
@@ -24083,7 +24083,7 @@ Wormadam-Sandy
     Frustration : TM
     Giga Impact : TM
     Harden : Level 29
-    Hidden Power Water : TM, Level 20
+    Hidden Power : TM, Level 20
     Hyper Beam : TM
     Protect : TM, Level 10
     Psybeam : Level 32
@@ -24130,7 +24130,7 @@ Wormadam-Trash
     Giga Impact : TM
     Gunk Shot : Tutor
     Gyro Ball : TM
-    Hidden Power Water : TM, Level 20
+    Hidden Power : TM, Level 20
     Hyper Beam : TM
     Iron Defense : Tutor
     Iron Head : Tutor, Level 47
@@ -24181,7 +24181,7 @@ Mothim
     Giga Drain : Tutor
     Giga Impact : TM
     Gust : Level 26
-    Hidden Power Water : TM, Level 20
+    Hidden Power : TM, Level 20
     Hyper Beam : TM
     Poison Powder : Level 29
     Protect : TM, Level 10
@@ -24246,7 +24246,7 @@ Vespiquen
     Giga Impact : TM
     Gust : Level 1
     Heal Order : Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Poison Sting : Level 1
@@ -24305,7 +24305,7 @@ Pachirisu
     Growl : Level 1
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Fang : Level 49
     Iron Tail : Tutor, Egg
     Last Resort : Tutor, Level 45
@@ -24361,7 +24361,7 @@ Buizel
     Growl : Level 1
     Hail : TM
     Headbutt : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 45
     Ice Beam : TM
     Ice Punch : Tutor
@@ -24419,7 +24419,7 @@ Floatzel
     Giga Impact : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 57
     Hyper Beam : TM
     Ice Beam : TM
@@ -24474,7 +24474,7 @@ Cherubi
     Healing Wish : Egg
     Heal Pulse : Egg, DreamWorld
     Helping Hand : Tutor, Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Seed : Level 10, DreamWorld
     Lucky Chant : Level 40
     Magical Leaf : Level 19
@@ -24517,7 +24517,7 @@ Cherrim
     Grass Knot : TM
     Growth : Level 1
     Helping Hand : Tutor, Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leech Seed : Level 10
     Lucky Chant : Level 48
@@ -24562,7 +24562,7 @@ Shellos
     Frustration : TM
     Hail : TM
     Harden : Level 4
-    Hidden Power Water : TM, Level 16
+    Hidden Power : TM, Level 16
     Ice Beam : TM
     Icy Wind : Tutor
     Memento : Egg
@@ -24612,7 +24612,7 @@ Gastrodon
     Giga Impact : TM
     Hail : TM
     Harden : Level 1
-    Hidden Power Water : TM, Level 16
+    Hidden Power : TM, Level 16
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -24669,7 +24669,7 @@ Ambipom
     Giga Impact : TM
     Grass Knot : TM
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Punch : Tutor
@@ -24745,7 +24745,7 @@ Drifloon
     Gyro Ball : TM
     Haze : Egg
     Hex : Level 22
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Egg, DreamWorld
     Icy Wind : Tutor
     Knock Off : Tutor
@@ -24809,7 +24809,7 @@ Drifblim
     Gust : Level 1
     Gyro Ball : TM
     Hex : Level 22
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Icy Wind : Tutor
     Knock Off : Tutor
@@ -24882,7 +24882,7 @@ Buneary
     Heal Bell : Tutor
     Healing Wish : Level 63
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ice Beam : TM
     Ice Punch : Tutor, Egg
@@ -24948,7 +24948,7 @@ Lopunny
     Heal Bell : Tutor
     Healing Wish : Level 63
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -25005,7 +25005,7 @@ Mismagius
     Giga Impact : TM
     Growl : Level 1
     Heal Bell : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Icy Wind : Tutor
@@ -25062,7 +25062,7 @@ Honchkrow
     Giga Impact : TM
     Haze : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Icy Wind : Tutor
     Incinerate : TM
@@ -25124,7 +25124,7 @@ Glameow
     Frustration : TM
     Fury Swipes : Level 20
     Growl : Level 8
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 48
     Hyper Voice : Tutor
     Hypnosis : Level 13
@@ -25188,7 +25188,7 @@ Purugly
     Fury Swipes : Level 20
     Giga Impact : TM
     Growl : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 60
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -25247,7 +25247,7 @@ Chingling
     Growl : Level 6
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Hypnosis : Egg
     Icy Wind : Tutor
@@ -25310,7 +25310,7 @@ Stunky
     Frustration : TM
     Fury Swipes : Level 10
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Tail : Tutor, Egg
@@ -25368,7 +25368,7 @@ Skuntank
     Frustration : TM
     Fury Swipes : Level 10
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -25427,7 +25427,7 @@ Bronzor
     Gyro Ball : TM, Level 35
     Heal Block : Level 45
     Heavy Slam : Level 49
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 5, DreamWorld
     Imprison : Level 9
     Iron Defense : Tutor, Level 19
@@ -25491,7 +25491,7 @@ Bronzong
     Gyro Ball : TM, Level 36
     Heal Block : Level 52
     Heavy Slam : Level 58
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 1
     Imprison : Level 1
@@ -25561,7 +25561,7 @@ Bonsly
     Harden : Egg
     Headbutt : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Low Kick : Tutor, Level 8
     Mimic : Level 17
     Protect : TM
@@ -25617,7 +25617,7 @@ Mime Jr.
     Grass Knot : TM
     Healing Wish : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Egg
     Icy Wind : Tutor, Egg
     Light Screen : TM, Level 22
@@ -25690,7 +25690,7 @@ Happiny
     Hail : TM
     Heal Bell : Tutor, Egg
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Icy Wind : Tutor
     Incinerate : TM
@@ -25742,7 +25742,7 @@ Chatot
     Fury Attack : Level 17
     Growl : Level 5
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor, Level 57
     Mimic : Level 33
     Mirror Move : Level 9, DreamWorld
@@ -25794,7 +25794,7 @@ Spiritomb
     Frustration : TM
     Giga Impact : TM
     Grudge : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 13
     Icy Wind : Tutor, DreamWorld
@@ -25859,7 +25859,7 @@ Gible
     Fire Blast : TM
     Flamethrower : TM
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Head : Tutor, Egg
@@ -25916,7 +25916,7 @@ Gabite
     Fire Blast : TM
     Flamethrower : TM
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Head : Tutor
@@ -25975,7 +25975,7 @@ Garchomp
     Fling : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -26035,7 +26035,7 @@ Munchlax
     Fling : TM, Level 41
     Frustration : TM
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ice Beam : TM
     Ice Punch : Tutor
@@ -26118,7 +26118,7 @@ Riolu
     Foresight : Level 1
     Frustration : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Egg
     Ice Punch : Tutor
     Iron Defense : Tutor, Egg
@@ -26189,7 +26189,7 @@ Lucario
     Giga Impact : TM
     Heal Pulse : Level 42
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Punch : Tutor
@@ -26247,7 +26247,7 @@ Hippopotas
     Facade : TM
     Fissure : Level 50
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Protect : TM
     Rest : TM
@@ -26294,7 +26294,7 @@ Hippowdon
     Fissure : Level 60
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Fang : Level 1
     Iron Head : Tutor
@@ -26347,7 +26347,7 @@ Skorupi
     Flash : TM
     Fling : TM
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 30
     Iron Tail : Tutor, Egg
     Knock Off : Tutor, Level 5
@@ -26414,7 +26414,7 @@ Drapion
     Fling : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 30
     Hyper Beam : TM
     Ice Fang : Level 1
@@ -26490,7 +26490,7 @@ Croagunk
     Gunk Shot : Tutor, DreamWorld
     Headbutt : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
     Knock Off : Tutor
@@ -26566,7 +26566,7 @@ Toxicroak
     Giga Impact : TM
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -26635,7 +26635,7 @@ Carnivine
     Grass Knot : TM
     Grass Whistle : Egg
     Growth : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ingrain : Level 21
     Knock Off : Tutor
@@ -26692,7 +26692,7 @@ Finneon
     Frustration : TM
     Gust : Level 17
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Payback : TM
@@ -26740,7 +26740,7 @@ Lumineon
     Giga Impact : TM
     Gust : Level 17
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -26793,7 +26793,7 @@ Mantyke
     Haze : Egg
     Headbutt : Level 13
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 49, Egg
     Ice Beam : TM
     Icy Wind : Tutor
@@ -26842,7 +26842,7 @@ Snover
     Grass Whistle : Level 13
     Growth : Egg
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Punch : Tutor
     Ice Shard : Level 26
@@ -26900,7 +26900,7 @@ Abomasnow
     Grass Knot : TM
     Grass Whistle : Level 13
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor, Level 1
@@ -26962,7 +26962,7 @@ Weavile
     Fury Swipes : Level 16
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 25
     Hyper Beam : TM
     Ice Beam : TM
@@ -27026,7 +27026,7 @@ Magnezone
     Giga Impact : TM
     Gravity : Tutor
     Gyro Ball : TM, Level 60
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor
     Iron Head : Tutor
@@ -27093,7 +27093,7 @@ Lickilicky
     Frustration : TM
     Giga Impact : TM
     Gyro Ball : TM, Level 61
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -27169,7 +27169,7 @@ Rhyperior
     Fury Attack : Level 1
     Giga Impact : TM
     Hammer Arm : Level 42
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 1
     Horn Drill : Level 71
     Hyper Beam : TM
@@ -27245,7 +27245,7 @@ Tangrowth
     Giga Impact : TM
     Grass Knot : TM
     Growth : Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ingrain : Level 1
     Knock Off : Tutor, Level 27
@@ -27308,7 +27308,7 @@ Electivire
     Frustration : TM
     Giga Impact : TM, Level 62
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Iron Tail : Tutor
@@ -27373,7 +27373,7 @@ Magmortar
     Giga Impact : TM
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 62
     Incinerate : TM
     Iron Tail : Tutor
@@ -27431,7 +27431,7 @@ Togekiss
     Grass Knot : TM
     Heal Bell : Tutor
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Incinerate : TM
@@ -27486,7 +27486,7 @@ Yanmega
     Frustration : TM
     Giga Drain : Tutor
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Night Slash : Level 1
     Protect : TM
@@ -27535,7 +27535,7 @@ Leafeon
     Grass Whistle : Level 17
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Iron Tail : Tutor
@@ -27589,7 +27589,7 @@ Glaceon
     Hail : TM, Level 37
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -27646,7 +27646,7 @@ Gliscor
     Giga Impact : TM
     Guillotine : Level 49
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Fang : Level 1
@@ -27709,7 +27709,7 @@ Mamoswine
     Frustration : TM
     Giga Impact : TM
     Hail : TM, Level 21
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Fang : Level 24
@@ -27767,7 +27767,7 @@ Porygon-Z
     Frustration : TM
     Giga Impact : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 67
     Ice Beam : TM
     Icy Wind : Tutor
@@ -27842,7 +27842,7 @@ Gallade
     Grass Knot : TM
     Heal Pulse : Level 25
     Helping Hand : Tutor, Level 39
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Punch : Tutor
@@ -27919,7 +27919,7 @@ Probopass
     Frustration : TM
     Giga Impact : TM
     Gravity : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Iron Defense : Tutor, Level 1
@@ -27989,7 +27989,7 @@ Dusknoir
     Giga Impact : TM
     Gravity : Tutor, Level 1
     Hex : Level 42
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor, Level 1
@@ -28050,7 +28050,7 @@ Froslass
     Frustration : TM
     Giga Impact : TM
     Hail : TM, Level 40
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -28103,7 +28103,7 @@ Rotom
     Flash : TM
     Frustration : TM
     Hex : Level 50
-    Hidden Power Water : TM
+    Hidden Power : TM
     Light Screen : TM
     Ominous Wind : Level 29
     Pain Split : Tutor
@@ -28175,7 +28175,7 @@ Uxie
     Grass Knot : TM
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Imprison : Level 6
@@ -28245,7 +28245,7 @@ Mesprit
     Grass Knot : TM
     Healing Wish : Level 76
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -28314,7 +28314,7 @@ Azelf
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Imprison : Level 6
@@ -28392,7 +28392,7 @@ Dialga
     Frustration : TM
     Giga Impact : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -28466,7 +28466,7 @@ Palkia
     Giga Impact : TM
     Gravity : Tutor
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Level 50
     Hyper Beam : TM
@@ -28529,7 +28529,7 @@ Heatran
     Frustration : TM
     Giga Impact : TM
     Heat Wave : Tutor, Level 81
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Defense : Tutor
@@ -28585,7 +28585,7 @@ Regigigas
     Giga Impact : TM, Level 100
     Gravity : Tutor
     Heavy Slam : Level 90
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor, Level 1
     Icy Wind : Tutor
@@ -28648,7 +28648,7 @@ Giratina
     Giga Impact : TM
     Gravity : Tutor
     Hex : Level 50
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -28711,7 +28711,7 @@ Cresselia
     Grass Knot : TM
     Gravity : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -28769,7 +28769,7 @@ Phione
     Hail : TM
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Knock Off : Tutor
@@ -28820,7 +28820,7 @@ Manaphy
     Heal Bell : Tutor
     Heart Swap : Level 76
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Icy Wind : Tutor
@@ -28878,7 +28878,7 @@ Darkrai
     Frustration : TM
     Giga Impact : TM
     Haze : Level 57
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 20
     Ice Beam : TM
@@ -28944,7 +28944,7 @@ Shaymin
     Grass Knot : TM
     Growth : Level 1
     Healing Wish : Level 91
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Last Resort : Tutor
     Leaf Storm : Level 91
@@ -29014,7 +29014,7 @@ Arceus
     Gravity : Tutor, Level 10
     Hail : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 80
     Hyper Voice : Tutor, Level 30
@@ -29146,7 +29146,7 @@ Victini
     Headbutt : Level 17
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM, Level 1
     Inferno : Level 57
@@ -29213,7 +29213,7 @@ Snivy
     Grass Knot : TM
     Grass Pledge : Tutor
     Growth : Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor, Egg
     Knock Off : Tutor
     Leaf Blade : Level 28
@@ -29274,7 +29274,7 @@ Servine
     Grass Knot : TM
     Grass Pledge : Tutor
     Growth : Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Knock Off : Tutor
     Leaf Blade : Level 32
@@ -29332,7 +29332,7 @@ Serperior
     Grass Knot : TM
     Grass Pledge : Tutor
     Growth : Level 13
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Tail : Tutor
     Knock Off : Tutor
@@ -29397,7 +29397,7 @@ Tepig
     Heat Wave : Tutor
     Heavy Slam : Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Iron Tail : Tutor
     Magnitude : Egg
@@ -29458,7 +29458,7 @@ Pignite
     Heat Crash : Level 31
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Iron Tail : Tutor
     Low Kick : Tutor
@@ -29529,7 +29529,7 @@ Emboar
     Heat Crash : Level 31
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Head : Tutor
@@ -29596,7 +29596,7 @@ Oshawott
     Grass Knot : TM
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 43
     Ice Beam : TM
     Icy Wind : Tutor
@@ -29652,7 +29652,7 @@ Dewott
     Grass Knot : TM
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 52
     Ice Beam : TM
     Icy Wind : Tutor
@@ -29708,7 +29708,7 @@ Samurott
     Grass Knot : TM
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Cannon : Tutor
     Hydro Pump : Level 62
     Hyper Beam : TM
@@ -29770,7 +29770,7 @@ Patrat
     Grass Knot : TM
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Fang : Level 28
     Hypnosis : Level 18
     Iron Tail : Tutor, Egg
@@ -29831,7 +29831,7 @@ Watchog
     Grass Knot : TM
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Fang : Level 32
     Hypnosis : Level 18
@@ -29888,7 +29888,7 @@ Lillipup
     Frustration : TM
     Giga Impact : TM, Level 40
     Helping Hand : Tutor, Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Howl : Egg
     Hyper Voice : Tutor
     Ice Fang : Egg
@@ -29939,7 +29939,7 @@ Herdier
     Frustration : TM
     Giga Impact : TM, Level 47
     Helping Hand : Tutor, Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Last Resort : Tutor, Level 42
     Leer : Level 1
@@ -29986,7 +29986,7 @@ Stoutland
     Frustration : TM
     Giga Impact : TM, Level 59
     Helping Hand : Tutor, Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Fang : Level 1
@@ -30051,7 +30051,7 @@ Purrloin
     Grass Knot : TM
     Growl : Level 3
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 24
     Hyper Voice : Tutor
     Iron Tail : Tutor
@@ -30113,7 +30113,7 @@ Liepard
     Grass Knot : TM
     Growl : Level 1
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 26
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -30177,7 +30177,7 @@ Pansage
     Grass Whistle : Egg
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Tail : Tutor
     Knock Off : Tutor
@@ -30240,7 +30240,7 @@ Simisage
     Grass Knot : TM
     Gunk Shot : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Tail : Tutor
@@ -30303,7 +30303,7 @@ Pansear
     Gunk Shot : Tutor
     Heat Wave : Tutor, Egg
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM, Level 10
     Iron Tail : Tutor
@@ -30366,7 +30366,7 @@ Simisear
     Gunk Shot : Tutor
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -30427,7 +30427,7 @@ Panpour
     Gunk Shot : Tutor
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hydro Pump : Egg
     Ice Beam : TM
@@ -30493,7 +30493,7 @@ Simipour
     Gunk Shot : Tutor
     Hail : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -30552,7 +30552,7 @@ Munna
     Gyro Ball : TM
     Heal Bell : Tutor
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Level 19
     Imprison : Level 13
     Light Screen : TM
@@ -30615,7 +30615,7 @@ Musharna
     Gyro Ball : TM
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 1
     Light Screen : TM
@@ -30668,7 +30668,7 @@ Pidove
     Growl : Level 4
     Gust : Level 1, DreamWorld
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hypnosis : Egg, DreamWorld
     Leer : Level 8
     Lucky Chant : Egg
@@ -30712,7 +30712,7 @@ Tranquill
     Growl : Level 1
     Gust : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leer : Level 1
     Pluck : TM
     Protect : TM
@@ -30752,7 +30752,7 @@ Unfezant
     Growl : Level 1
     Gust : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leer : Level 1
     Pluck : TM
@@ -30793,7 +30793,7 @@ Blitzle
     Flame Charge : TM, Level 18
     Flash : TM
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Light Screen : TM
     Magnet Rise : Tutor
     Me First : Egg
@@ -30838,7 +30838,7 @@ Zebstrika
     Flash : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Light Screen : TM
     Magnet Rise : Tutor
@@ -30885,7 +30885,7 @@ Roggenrola
     Harden : Level 4
     Headbutt : Level 10
     Heavy Slam : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor, Level 20
     Lock-On : Egg
     Magnitude : Egg
@@ -30929,7 +30929,7 @@ Boldore
     Harden : Level 1
     Headbutt : Level 1
     Heavy Slam : DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor, Level 20
     Mud-Slap : Level 17
     Power Gem : Level 25
@@ -30970,7 +30970,7 @@ Gigalith
     Gravity : Tutor
     Harden : Level 1
     Headbutt : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor, Level 20
     Iron Head : Tutor
@@ -31031,7 +31031,7 @@ Woobat
     Heart Stamp : Level 15
     Heat Wave : Tutor
     Helping Hand : Tutor, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Imprison : Level 19
     Knock Off : Tutor, Egg
     Light Screen : TM
@@ -31102,7 +31102,7 @@ Swoobat
     Heart Stamp : Level 15
     Heat Wave : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Imprison : Level 19
     Knock Off : Tutor
@@ -31160,7 +31160,7 @@ Drilbur
     Fling : TM
     Frustration : TM
     Fury Swipes : Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 22
     Iron Defense : Tutor, Egg
     Metal Claw : Level 15
@@ -31212,7 +31212,7 @@ Excadrill
     Frustration : TM
     Fury Swipes : Level 12
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 22
     Horn Drill : Level 31
     Hyper Beam : TM
@@ -31278,7 +31278,7 @@ Audino
     Healing Wish : Egg
     Heal Pulse : Level 35
     Helping Hand : Tutor, Level 1, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Ice Beam : TM
@@ -31363,7 +31363,7 @@ Timburr
     Grass Knot : TM
     Hammer Arm : Level 40
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Knock Off : Tutor
     Leer : Level 1
@@ -31423,7 +31423,7 @@ Gurdurr
     Grass Knot : TM
     Hammer Arm : Level 45
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Knock Off : Tutor
     Leer : Level 1
@@ -31483,7 +31483,7 @@ Conkeldurr
     Grass Knot : TM
     Hammer Arm : Level 45
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Punch : Tutor
     Knock Off : Tutor
@@ -31534,7 +31534,7 @@ Tympole
     Frustration : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 42
     Hyper Voice : Tutor, Level 45
     Icy Wind : Tutor
@@ -31579,7 +31579,7 @@ Palpitoad
     Gastro Acid : Tutor
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 47
     Hyper Voice : Tutor, Level 51
     Icy Wind : Tutor
@@ -31630,7 +31630,7 @@ Seismitoad
     Grass Knot : TM
     Growl : Level 1
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 53
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 59
@@ -31688,7 +31688,7 @@ Throh
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor, DreamWorld
     Knock Off : Tutor
     Leer : Level 1
@@ -31749,7 +31749,7 @@ Sawk
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Punch : Tutor
     Karate Chop : Level 25
     Knock Off : Tutor
@@ -31804,7 +31804,7 @@ Sewaddle
     Frustration : TM
     Giga Drain : Tutor
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor
     Light Screen : TM
     Magic Coat : Tutor
@@ -31850,7 +31850,7 @@ Swadloon
     Giga Drain : Tutor
     Grass Knot : TM
     Grass Whistle : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor
     Light Screen : TM
     Magic Coat : Tutor
@@ -31896,7 +31896,7 @@ Leavanny
     Grass Knot : TM
     Heal Bell : Tutor
     Helping Hand : Tutor, Level 32
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Defense : Tutor
@@ -31945,7 +31945,7 @@ Venipede
     Facade : TM
     Frustration : TM
     Gyro Ball : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor
     Payback : TM
     Pin Missile : Egg
@@ -31988,7 +31988,7 @@ Whirlipede
     Facade : TM
     Frustration : TM
     Gyro Ball : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Defense : Tutor, Level 22
     Payback : TM
     Poison Jab : TM
@@ -32033,7 +32033,7 @@ Scolipede
     Frustration : TM
     Giga Impact : TM
     Gyro Ball : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor
     Iron Tail : Tutor
@@ -32093,7 +32093,7 @@ Cottonee
     Grass Whistle : Egg
     Growth : Level 4
     Helping Hand : Tutor, Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Knock Off : Tutor
     Leech Seed : Level 8, DreamWorld
     Mega Drain : Level 13
@@ -32139,7 +32139,7 @@ Whimsicott
     Growth : Level 1
     Gust : Level 10
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 46
     Hyper Beam : TM
     Knock Off : Tutor
@@ -32192,7 +32192,7 @@ Petilil
     Heal Bell : Tutor
     Healing Wish : Egg
     Helping Hand : Tutor, Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Egg
     Leaf Storm : Level 46
     Leech Seed : Level 8
@@ -32235,7 +32235,7 @@ Lilligant
     Growth : Level 1
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leech Seed : Level 1
     Light Screen : TM
@@ -32283,7 +32283,7 @@ Basculin
     Frustration : TM
     Hail : TM
     Headbutt : Level 7, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Icy Wind : Tutor
     Muddy Water : Egg
@@ -32340,7 +32340,7 @@ Sandile
     Focus Energy : Egg
     Foul Play : Tutor, Level 37
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -32401,7 +32401,7 @@ Krokorok
     Foul Play : Tutor, Level 40
     Frustration : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -32473,7 +32473,7 @@ Krookodile
     Frustration : TM
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -32546,7 +32546,7 @@ Darumaka
     Hammer Arm : Egg
     Headbutt : Level 14
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM, Level 6
     Overheat : TM, Level 42
     Protect : TM
@@ -32606,7 +32606,7 @@ Darmanitan
     Hammer Arm : Level 35
     Headbutt : Level 14
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM, Level 1
     Overheat : TM, Level 54
@@ -32667,7 +32667,7 @@ Maractus
     Grass Whistle : Egg
     Growth : Level 6
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor
     Ingrain : Level 33
     Knock Off : Tutor
@@ -32717,7 +32717,7 @@ Dwebble
     Flail : Level 41
     Frustration : TM
     Fury Cutter : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Defense : Tutor, Egg
     Knock Off : Tutor
@@ -32771,7 +32771,7 @@ Crustle
     Flail : Level 50
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Defense : Tutor
@@ -32838,7 +32838,7 @@ Scraggy
     Grass Knot : TM
     Headbutt : Level 12
     Head Smash : Level 53
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Level 31
     Ice Punch : Tutor, Egg
     Incinerate : TM
@@ -32910,7 +32910,7 @@ Scrafty
     Grass Knot : TM
     Headbutt : Level 12
     Head Smash : Level 65
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Level 31
     Hyper Beam : TM
     Ice Punch : Tutor
@@ -32980,7 +32980,7 @@ Sigilyph
     Gravity : Tutor, Level 38
     Gust : Level 1
     Heat Wave : Tutor, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hypnosis : Level 4, DreamWorld
     Ice Beam : TM
@@ -33052,7 +33052,7 @@ Yamask
     Haze : Level 9
     Heal Block : Egg
     Hex : Level 17
-    Hidden Power Water : TM
+    Hidden Power : TM
     Imprison : Egg
     Iron Defense : Tutor
     Knock Off : Tutor
@@ -33114,7 +33114,7 @@ Cofagrigus
     Guard Split : Level 33
     Haze : Level 1
     Hex : Level 17
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor
     Knock Off : Tutor
@@ -33173,7 +33173,7 @@ Tirtouga
     Facade : TM
     Flail : Egg, DreamWorld
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 51
     Ice Beam : TM
     Icy Wind : Tutor
@@ -33234,7 +33234,7 @@ Carracosta
     Focus Blast : TM
     Frustration : TM
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 61
     Hyper Beam : TM
     Ice Beam : TM
@@ -33297,7 +33297,7 @@ Archen
     Frustration : TM
     Head Smash : Egg
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Defense : Tutor
     Iron Tail : Tutor
@@ -33363,7 +33363,7 @@ Archeops
     Frustration : TM
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Defense : Tutor
@@ -33420,7 +33420,7 @@ Trubbish
     Giga Drain : Tutor
     Gunk Shot : Tutor, Level 45
     Haze : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Mud Sport : Egg
     Pain Split : Tutor
     Payback : TM
@@ -33473,7 +33473,7 @@ Garbodor
     Giga Drain : Tutor
     Giga Impact : TM
     Gunk Shot : Tutor, Level 54
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Pain Split : Tutor
     Payback : TM
@@ -33531,7 +33531,7 @@ Zorua
     Frustration : TM
     Fury Swipes : Level 13
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Voice : Tutor
     Imprison : Level 53
@@ -33595,7 +33595,7 @@ Zoroark
     Fury Swipes : Level 13
     Giga Impact : TM
     Grass Knot : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 1
     Hyper Beam : TM
     Hyper Voice : Tutor
@@ -33664,7 +33664,7 @@ Minccino
     Growl : Level 3
     Gunk Shot : Tutor
     Helping Hand : Tutor, Level 7
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor, Level 43
     Iron Tail : Tutor, Egg
     Knock Off : Tutor, Egg
@@ -33717,7 +33717,7 @@ Cinccino
     Grass Knot : TM
     Gunk Shot : Tutor
     Helping Hand : Tutor, Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor
     Iron Tail : Tutor
@@ -33778,7 +33778,7 @@ Gothita
     Heal Bell : Tutor
     Heal Block : Level 33
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Light Screen : TM
     Magic Coat : Tutor
     Magic Room : Tutor, Level 48
@@ -33849,7 +33849,7 @@ Gothorita
     Heal Bell : Tutor
     Heal Block : Level 34
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Light Screen : TM
     Magic Coat : Tutor
     Magic Room : Tutor, Level 53
@@ -33919,7 +33919,7 @@ Gothitelle
     Heal Bell : Tutor
     Heal Block : Level 34
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Light Screen : TM
     Low Sweep : TM
@@ -33985,7 +33985,7 @@ Solosis
     Gravity : Tutor
     Gyro Ball : TM
     Heal Block : Level 46
-    Hidden Power Water : TM, Level 14
+    Hidden Power : TM, Level 14
     Imprison : Egg
     Light Screen : TM, Level 16
     Magic Coat : Tutor
@@ -34044,7 +34044,7 @@ Duosion
     Gravity : Tutor
     Gyro Ball : TM
     Heal Block : Level 50
-    Hidden Power Water : TM, Level 14
+    Hidden Power : TM, Level 14
     Imprison : DreamWorld
     Light Screen : TM, Level 16
     Magic Coat : Tutor
@@ -34109,7 +34109,7 @@ Reuniclus
     Gyro Ball : TM
     Heal Block : Level 54
     Helping Hand : Tutor
-    Hidden Power Water : TM, Level 14
+    Hidden Power : TM, Level 14
     Hyper Beam : TM
     Ice Punch : Tutor
     Knock Off : Tutor
@@ -34172,7 +34172,7 @@ Ducklett
     Frustration : TM
     Gust : Egg
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 46
     Ice Beam : TM
     Icy Wind : Tutor
@@ -34218,7 +34218,7 @@ Swanna
     Frustration : TM
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 55
     Hyper Beam : TM
     Ice Beam : TM
@@ -34260,7 +34260,7 @@ Vanillite
     Frustration : TM
     Hail : TM, Level 40
     Harden : Level 4
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM, Level 35
     Ice Shard : Egg
     Icicle Spear : Level 1
@@ -34305,7 +34305,7 @@ Vanillish
     Frustration : TM
     Hail : TM, Level 42
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM, Level 36
     Ice Shard : DreamWorld
     Icicle Spear : Level 1
@@ -34348,7 +34348,7 @@ Vanilluxe
     Giga Impact : TM
     Hail : TM, Level 42
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM, Level 36
     Icicle Spear : Level 1
@@ -34398,7 +34398,7 @@ Deerling
     Grass Knot : TM
     Grass Whistle : Egg
     Growl : Level 4
-    Hidden Power Water : TM
+    Hidden Power : TM
     Jump Kick : Level 24
     Last Resort : Tutor
     Leech Seed : Level 13
@@ -34451,7 +34451,7 @@ Sawsbuck
     Giga Impact : TM
     Grass Knot : TM
     Growl : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Leech : Level 37
     Hyper Beam : TM
     Jump Kick : Level 24
@@ -34509,7 +34509,7 @@ Emolga
     Fling : TM
     Frustration : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor, Egg
     Knock Off : Tutor
     Last Resort : Tutor
@@ -34562,7 +34562,7 @@ Karrablast
     Fury Cutter : Level 13
     Giga Drain : Tutor
     Headbutt : Level 20
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Egg
     Iron Defense : Tutor
     Knock Off : Tutor, Egg
@@ -34605,7 +34605,7 @@ Escavalier
     Giga Drain : Tutor
     Giga Impact : TM, Level 56
     Headbutt : Level 20
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Defense : Tutor, Level 40
     Iron Head : Tutor, Level 37
@@ -34653,7 +34653,7 @@ Foongus
     Giga Drain : Tutor, Level 28
     Grass Knot : TM
     Growth : Level 6, Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ingrain : Level 18
     Mega Drain : Level 15
     Payback : TM
@@ -34700,7 +34700,7 @@ Amoonguss
     Giga Impact : TM
     Grass Knot : TM
     Growth : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ingrain : Level 18
     Mega Drain : Level 15
@@ -34748,7 +34748,7 @@ Frillish
     Giga Drain : Tutor
     Hail : TM
     Hex : Level 43
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 49
     Ice Beam : TM
     Icy Wind : Tutor
@@ -34807,7 +34807,7 @@ Jellicent
     Giga Impact : TM
     Hail : TM
     Hex : Level 45
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 53
     Hyper Beam : TM
     Ice Beam : TM
@@ -34864,7 +34864,7 @@ Alomomola
     Healing Wish : Level 57
     Heal Pulse : Level 17
     Helping Hand : Tutor, Level 49
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 61
     Ice Beam : TM
     Icy Wind : Tutor
@@ -34923,7 +34923,7 @@ Joltik
     Fury Cutter : Level 12
     Gastro Acid : Tutor, Level 23
     Giga Drain : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Life : Level 1
     Light Screen : TM
     Magnet Rise : Tutor
@@ -34977,7 +34977,7 @@ Galvantula
     Gastro Acid : Tutor, Level 23
     Giga Drain : Tutor
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leech Life : Level 1
     Light Screen : TM
@@ -35024,7 +35024,7 @@ Ferroseed
     Gravity : Tutor, Egg
     Gyro Ball : TM, Level 21
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ingrain : Level 35
     Iron Defense : Tutor, Level 26
@@ -35079,7 +35079,7 @@ Ferrothorn
     Gravity : Tutor
     Gyro Ball : TM, Level 21
     Harden : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ingrain : Level 35
@@ -35133,7 +35133,7 @@ Klink
     Frustration : TM
     Gear Grind : Level 16
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 57
     Iron Defense : Tutor
     Lock-On : Level 51
@@ -35178,7 +35178,7 @@ Klang
     Frustration : TM
     Gear Grind : Level 1
     Gravity : Tutor, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 64
     Iron Defense : Tutor
     Lock-On : Level 56
@@ -35224,7 +35224,7 @@ Klinklang
     Gear Grind : Level 1
     Giga Impact : TM
     Gravity : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM, Level 72
     Iron Defense : Tutor
     Lock-On : Level 60
@@ -35286,7 +35286,7 @@ Eelektrik
     Gastro Acid : Tutor, Level 64
     Giga Drain : Tutor
     Headbutt : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Iron Tail : Tutor
     Knock Off : Tutor
     Light Screen : TM
@@ -35341,7 +35341,7 @@ Eelektross
     Giga Impact : TM
     Grass Knot : TM
     Headbutt : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Tail : Tutor
@@ -35399,7 +35399,7 @@ Elgyem
     Guard Swap : Egg
     Headbutt : Level 18
     Heal Block : Level 8, DreamWorld
-    Hidden Power Water : TM, Level 22
+    Hidden Power : TM, Level 22
     Imprison : Level 25
     Light Screen : TM
     Magic Coat : Tutor
@@ -35468,7 +35468,7 @@ Beheeyem
     Guard Split : Level 56
     Headbutt : Level 18
     Heal Block : Level 1
-    Hidden Power Water : TM, Level 22
+    Hidden Power : TM, Level 22
     Hyper Beam : TM
     Imprison : Level 25
     Light Screen : TM
@@ -35541,7 +35541,7 @@ Litwick
     Haze : Egg
     Heat Wave : Tutor, Egg
     Hex : Level 28
-    Hidden Power Water : TM
+    Hidden Power : TM
     Imprison : Level 24
     Incinerate : TM
     Inferno : Level 38
@@ -35597,7 +35597,7 @@ Lampent
     Frustration : TM
     Heat Wave : Tutor
     Hex : Level 28
-    Hidden Power Water : TM
+    Hidden Power : TM
     Imprison : Level 24
     Incinerate : TM
     Inferno : Level 38
@@ -35650,7 +35650,7 @@ Chandelure
     Giga Impact : TM
     Heat Wave : Tutor
     Hex : Level 1
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Overheat : TM
@@ -35705,7 +35705,7 @@ Axew
     Giga Impact : TM, Level 61
     Guillotine : Level 51
     Harden : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Tail : Tutor, Egg
@@ -35761,7 +35761,7 @@ Fraxure
     Frustration : TM
     Giga Impact : TM, Level 66
     Guillotine : Level 54
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -35821,7 +35821,7 @@ Haxorus
     Giga Impact : TM, Level 74
     Grass Knot : TM
     Guillotine : Level 58
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Incinerate : TM
@@ -35883,7 +35883,7 @@ Cubchoo
     Grass Knot : TM
     Growl : Level 5
     Hail : TM, Level 49
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Ice Beam : TM
     Ice Punch : Tutor, Egg
@@ -35940,7 +35940,7 @@ Beartic
     Grass Knot : TM
     Growl : Level 1
     Hail : TM, Level 53
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Ice Beam : TM
@@ -35990,7 +35990,7 @@ Cryogonal
     Frustration : TM
     Hail : TM
     Haze : Level 21
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM, Level 33
     Ice Shard : Level 5
@@ -36044,7 +36044,7 @@ Shelmet
     Giga Drain : Tutor, Level 37
     Guard Split : Egg
     Guard Swap : Level 52
-    Hidden Power Water : TM
+    Hidden Power : TM
     Leech Life : Level 1
     Mega Drain : Level 20
     Mind Reader : Egg
@@ -36083,7 +36083,7 @@ Accelgor
     Gastro Acid : Tutor
     Giga Drain : Tutor, Level 37
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Knock Off : Tutor
     Leech Life : Level 1
@@ -36133,7 +36133,7 @@ Stunfisk
     Flash : TM
     Foul Play : Tutor
     Frustration : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Magnet Rise : Tutor
     Mud Bomb : Level 21
     Muddy Water : Level 40
@@ -36198,7 +36198,7 @@ Mienfoo
     Frustration : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Level 53
     Jump Kick : Level 37
     Knock Off : Tutor, Egg
@@ -36263,7 +36263,7 @@ Mienshao
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     High Jump Kick : Level 56
     Hyper Beam : TM
     Jump Kick : Level 37
@@ -36335,7 +36335,7 @@ Druddigon
     Glare : Egg
     Gunk Shot : Tutor
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 5
     Hyper Beam : TM
     Incinerate : TM
@@ -36407,7 +36407,7 @@ Golett
     Gravity : Tutor
     Gyro Ball : TM
     Hammer Arm : Level 50
-    Hidden Power Water : TM
+    Hidden Power : TM
     Ice Beam : TM
     Ice Punch : Tutor
     Icy Wind : Tutor
@@ -36475,7 +36475,7 @@ Golurk
     Gyro Ball : TM
     Hammer Arm : Level 60
     Heavy Slam : Level 43
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Ice Beam : TM
     Ice Punch : Tutor
@@ -36541,7 +36541,7 @@ Pawniard
     Grass Knot : TM
     Guillotine : Level 62
     Headbutt : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Defense : Tutor, Level 46
     Iron Head : Tutor, Level 54
@@ -36613,7 +36613,7 @@ Bisharp
     Giga Impact : TM
     Grass Knot : TM
     Guillotine : Level 71
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Defense : Tutor, Level 46
@@ -36677,7 +36677,7 @@ Bouffalant
     Giga Impact : TM, Level 61
     Headbutt : Egg
     Head Charge : Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Horn Attack : Level 16
     Iron Head : Tutor, Egg
     Leer : Level 1
@@ -36737,7 +36737,7 @@ Rufflet
     Frustration : TM
     Fury Attack : Level 5
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 14
     Leer : Level 1
     Peck : Level 1
@@ -36787,7 +36787,7 @@ Braviary
     Fury Attack : Level 1
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM, Level 14
     Hyper Beam : TM
     Leer : Level 1
@@ -36844,7 +36844,7 @@ Vullaby
     Fury Attack : Level 5
     Gust : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Iron Defense : Tutor
     Knock Off : Tutor, Egg
@@ -36905,7 +36905,7 @@ Mandibuzz
     Giga Impact : TM
     Gust : Level 1
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Defense : Tutor
@@ -36969,7 +36969,7 @@ Heatmor
     Giga Drain : Tutor, DreamWorld
     Giga Impact : TM
     Heat Wave : Tutor, Egg, DreamWorld
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Incinerate : TM, Level 1, DreamWorld
     Inferno : Level 61
@@ -37031,7 +37031,7 @@ Durant
     Fury Cutter : Level 6, DreamWorld
     Giga Impact : TM
     Guillotine : Level 61
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Iron Defense : Tutor, Level 56
     Iron Head : Tutor, Level 36
@@ -37089,7 +37089,7 @@ Deino
     Frustration : TM
     Headbutt : Level 12
     Head Smash : Egg
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor, Level 58
     Ice Fang : Egg
     Incinerate : TM
@@ -37144,7 +37144,7 @@ Zweilous
     Focus Energy : Level 1
     Frustration : TM
     Headbutt : Level 12
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Voice : Tutor, Level 64
     Incinerate : TM
     Outrage : Tutor, Level 71
@@ -37206,7 +37206,7 @@ Hydreigon
     Giga Impact : TM
     Headbutt : Level 12
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 68
     Incinerate : TM
@@ -37271,7 +37271,7 @@ Larvesta
     Giga Drain : Tutor
     Harden : Egg
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Incinerate : TM
     Leech Life : Level 10
     Light Screen : TM
@@ -37321,7 +37321,7 @@ Volcarona
     Giga Impact : TM
     Gust : Level 1
     Heat Wave : Tutor, Level 60
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 90
     Hyper Beam : TM
     Incinerate : TM
@@ -37373,7 +37373,7 @@ Cobalion
     Frustration : TM
     Giga Impact : TM
     Helping Hand : Tutor, Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Iron Defense : Tutor
@@ -37433,7 +37433,7 @@ Terrakion
     Frustration : TM
     Giga Impact : TM
     Helping Hand : Tutor, Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Iron Head : Tutor
     Leer : Level 1
@@ -37491,7 +37491,7 @@ Virizion
     Giga Impact : TM
     Grass Knot : TM
     Helping Hand : Tutor, Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Leaf Blade : Level 67
     Leer : Level 1
@@ -37557,7 +37557,7 @@ Tornadus
     Gust : Level 1
     Hammer Arm : Level 79
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hurricane : Level 67
     Hyper Beam : TM
     Icy Wind : Tutor
@@ -37620,7 +37620,7 @@ Thundurus
     Grass Knot : TM
     Hammer Arm : Level 79
     Heal Block : Level 31
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Incinerate : TM
     Iron Tail : Tutor
@@ -37691,7 +37691,7 @@ Reshiram
     Fusion Flare : Level 50
     Giga Impact : TM
     Heat Wave : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 92
@@ -37752,7 +37752,7 @@ Zekrom
     Frustration : TM
     Fusion Bolt : Level 50
     Giga Impact : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 92
@@ -37817,7 +37817,7 @@ Landorus
     Grass Knot : TM
     Gravity : Tutor
     Hammer Arm : Level 79
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hyper Beam : TM
     Imprison : Level 7
     Iron Tail : Tutor
@@ -37878,7 +37878,7 @@ Kyurem
     Giga Impact : TM
     Glaciate : Level 50
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 92
@@ -37939,7 +37939,7 @@ Kyurem-White
     Fusion Flare : Level 43
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 92
@@ -38001,7 +38001,7 @@ Kyurem-Black
     Fusion Bolt : Level 43
     Giga Impact : TM
     Hail : TM
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 92
@@ -38058,7 +38058,7 @@ Keldeo
     Giga Impact : TM
     Hail : TM
     Helping Hand : Tutor, Level 25
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hydro Pump : Level 67
     Hyper Beam : TM
     Icy Wind : Tutor
@@ -38123,7 +38123,7 @@ Meloetta
     Gravity : Tutor
     Heal Bell : Tutor
     Helping Hand : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM
     Hyper Voice : Tutor, Level 64
@@ -38207,7 +38207,7 @@ Genesect
     Giga Impact : TM
     Gravity : Tutor
     Gunk Shot : Tutor
-    Hidden Power Water : TM
+    Hidden Power : TM
     Hone Claws : TM
     Hyper Beam : TM, Level 73
     Ice Beam : TM
