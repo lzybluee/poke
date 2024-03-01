@@ -478,7 +478,7 @@ Status
 pow: 0, acc: true, pp: 20, pri: 0, target: self
 Raises the user's Special Attack and Special Defense by 1 stage.
 
-Ceaseless Edge (秘剑・千重涛)
+Ceaseless Edge (秘剑·千重涛)
 Dark
 Physical
 pow: 65, acc: 90, pp: 15, pri: 0, target: normal

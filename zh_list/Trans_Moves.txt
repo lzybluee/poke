@@ -2039,7 +2039,7 @@ Oceanic Operetta
 海神庄严交响乐
 
 Guardian of Alola
-巨人卫士・阿罗拉
+巨人卫士·阿罗拉
 
 Soul-Stealing 7-Star Strike
 七星夺魂腿
@@ -2480,7 +2480,7 @@ Infernal Parade
 群魔乱舞
 
 Ceaseless Edge
-秘剑・千重涛
+秘剑·千重涛
 
 Bleakwind Storm
 枯叶风暴

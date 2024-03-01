@@ -406,8 +406,9 @@ function get_trans(file, output) {
         if (en_list[i] != zh_list[i] && !trans[en_list[i]] && !en_list[i].startsWith('?')) {
             let en = en_list[i].replaceAll('’', "'").replaceAll('é', 'e').replaceAll('♀', '-F').replaceAll('♂', '-M');
             en = en.replace('Upgrade', 'Up-Grade');
-            trans[en] = zh_list[i];
-            text += en + '\r\n' + zh_list[i] + '\r\n\r\n';
+            let zh = zh_list[i].replace('・', '·');
+            trans[en] = zh;
+            text += en + '\r\n' + zh + '\r\n\r\n';
         }
     }
 

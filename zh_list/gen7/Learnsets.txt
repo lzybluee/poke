@@ -49872,7 +49872,7 @@ Kommo-o-Totem
     Work Up (自我激励) : TM, Level 29
     X-Scissor (十字剪) : TM
 
-Tapu Koko (卡璞・鸣鸣)
+Tapu Koko (卡璞·鸣鸣)
     Acrobatics (杂技) : TM
     Aerial Ace (燕返) : TM
     Agility (高速移动) : Level 53
@@ -49941,7 +49941,7 @@ Tapu Koko (卡璞・鸣鸣)
     Withdraw (缩入壳中) : Level 1
     Work Up (自我激励) : TM
 
-Tapu Lele (卡璞・蝶蝶)
+Tapu Lele (卡璞·蝶蝶)
     Ally Switch (交换场地) : Tutor
     Aromatherapy (芳香治疗) : Level 1
     Aromatic Mist (芳香薄雾) : Level 1
@@ -50004,7 +50004,7 @@ Tapu Lele (卡璞・蝶蝶)
     Withdraw (缩入壳中) : Level 1
     Wonder Room (奇妙空间) : Tutor
 
-Tapu Bulu (卡璞・哞哞)
+Tapu Bulu (卡璞·哞哞)
     Brick Break (劈瓦) : TM
     Brutal Swing (狂舞挥打) : TM
     Bulk Up (健美) : TM
@@ -50074,7 +50074,7 @@ Tapu Bulu (卡璞・哞哞)
     Worry Seed (烦恼种子) : Tutor
     Zen Headbutt (意念头锤) : Tutor, Level 48
 
-Tapu Fini (卡璞・鳍鳍)
+Tapu Fini (卡璞·鳍鳍)
     Aqua Ring (水流环) : Level 53
     Blizzard (暴风雪) : TM
     Brine (盐水) : Level 32

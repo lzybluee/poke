@@ -24865,7 +24865,7 @@ Samurott-Hisui
     Body Slam (泰山压顶) : TM
     Brick Break (劈瓦) : TM
     Bulldoze (重踏) : TM
-    Ceaseless Edge (秘剑・千重涛) : Level 0
+    Ceaseless Edge (秘剑·千重涛) : Level 0
     Chilling Water (泼冷水) : TM
     Dark Pulse (恶之波动) : TM
     Dig (挖洞) : TM

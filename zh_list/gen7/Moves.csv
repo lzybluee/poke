@@ -252,7 +252,7 @@
 "Grudge (怨念)","Ghost","Status",0,true,0,5,0,"self","Until the user's next turn, if an opposing Pokemon's attack knocks the user out, that move loses all its remaining PP.",
 "Guard Split (防守平分)","Psychic","Status",0,true,0,10,0,"normal","The user and the target have their Defense and Special Defense stats set to be equal to the average of the user and the target's Defense and Special Defense stats, respectively, rounded down. Stat stage changes are unaffected.",
 "Guard Swap (防守互换)","Psychic","Status",0,true,0,10,0,"normal","The user swaps its Defense and Special Defense stat stage changes with the target.",
-"Guardian of Alola (巨人卫士・阿罗拉)","Fairy","Special",0,true,0,1,0,"normal","Deals damage to the target equal to 3/4 of its current HP, rounded down, but not less than 1 HP.",
+"Guardian of Alola (巨人卫士·阿罗拉)","Fairy","Special",0,true,0,1,0,"normal","Deals damage to the target equal to 3/4 of its current HP, rounded down, but not less than 1 HP.",
 "Guillotine (极落钳)","Normal","Physical",0,30,0,5,0,"normal","Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
 "Gunk Shot (垃圾射击)","Poison","Physical",120,80,96,5,0,"normal","Has a 30% chance to poison the target.",
 "Gust (起风)","Flying","Special",40,100,40,35,0,"any","Power doubles if the target is using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop.",

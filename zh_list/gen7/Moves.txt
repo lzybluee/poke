@@ -1522,7 +1522,7 @@ Status
 pow: 0, acc: true, pp: 10, pri: 0, target: normal
 The user swaps its Defense and Special Defense stat stage changes with the target.
 
-Guardian of Alola (巨人卫士・阿罗拉)
+Guardian of Alola (巨人卫士·阿罗拉)
 Fairy
 Special
 pow: 0, acc: true, pp: 1, pri: 0, target: normal

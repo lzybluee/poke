@@ -3833,25 +3833,25 @@ hp: 75, atk: 110, def: 125, spa: 100, spd: 105, spe: 85, sum: 600
 0: Bulletproof (防弹), 1: Soundproof (隔音), H: Overcoat (防尘)
 
 785
-Tapu Koko (卡璞・鸣鸣)
+Tapu Koko (卡璞·鸣鸣)
 Electric, Fairy
 hp: 70, atk: 115, def: 85, spa: 95, spd: 75, spe: 130, sum: 570
 0: Electric Surge (电气制造者), H: Telepathy (心灵感应)
 
 786
-Tapu Lele (卡璞・蝶蝶)
+Tapu Lele (卡璞·蝶蝶)
 Psychic, Fairy
 hp: 70, atk: 85, def: 75, spa: 130, spd: 115, spe: 95, sum: 570
 0: Psychic Surge (精神制造者), H: Telepathy (心灵感应)
 
 787
-Tapu Bulu (卡璞・哞哞)
+Tapu Bulu (卡璞·哞哞)
 Grass, Fairy
 hp: 70, atk: 130, def: 115, spa: 85, spd: 95, spe: 75, sum: 570
 0: Grassy Surge (青草制造者), H: Telepathy (心灵感应)
 
 788
-Tapu Fini (卡璞・鳍鳍)
+Tapu Fini (卡璞·鳍鳍)
 Water, Fairy
 hp: 70, atk: 75, def: 115, spa: 95, spd: 130, spe: 85, sum: 570
 0: Misty Surge (薄雾制造者), H: Telepathy (心灵感应)
