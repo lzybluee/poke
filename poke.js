@@ -1,6 +1,36 @@
 const fs = require('fs');
 const util = require('util');
 
+var ZH = false;
+const ABILITIES = 0;
+const ITEMS = 1;
+const MOVES = 2;
+const SPECIES = 3;
+
+function get_name(name, type) {
+    if (ZH) {
+        trans = null;
+        switch(type) {
+            case ABILITIES:
+                trans = trans_abilities[name];
+                break;
+            case ITEMS:
+                trans = trans_items[name];
+                break;
+            case MOVES:
+                trans = trans_moves[name];
+                break;
+            case SPECIES:
+                trans = trans_species[name];
+                break;
+        }
+
+        if(trans)
+            return name + ' (' + trans + ')';
+    }
+    return name;
+}
+
 function log_detail(file, obj) {
     let text = '';
 
@@ -48,11 +78,13 @@ function log_list(list_folder, detail_folder, file, obj) {
     let text = '';
     let csv = '';
     for (let i in list) {
-        text += list[i].name + '\n' + list[i].desc + '\n';
+        let name = get_name(list[i].name, file == 'Abilities' ? ABILITIES : ITEMS);
+
+        text += name + '\n' + list[i].desc + '\n';
         if (i < list.length - 1)
             text += '\n';
 
-        csv += csv_text(list[i].name, list[i].desc);
+        csv += csv_text(name, list[i].desc);
     }
 
     fs.writeFileSync(list_folder + file + '.txt', text);
@@ -77,9 +109,10 @@ function log_moves(list_folder, detail_folder, file, obj) {
     let text = '';
     let csv = '';
     for (let i in list) {
+        let name = get_name(list[i].name, MOVES);
         move_names[list[i].id] = list[i].name;
 
-        text += list[i].name + '\n' +
+        text += name + '\n' +
                 list[i].type + '\n' +
                 list[i].category + '\n' +
                 'pow: ' + list[i].basePower +
@@ -97,7 +130,7 @@ function log_moves(list_folder, detail_folder, file, obj) {
         else
             dmg = list[i].basePower * list[i].accuracy / 100;
 
-        csv += csv_text(list[i].name, list[i].type, list[i].category,
+        csv += csv_text(name, list[i].type, list[i].category,
             list[i].basePower, list[i].accuracy, dmg, list[i].pp, list[i].priority,
             list[i].target, list[i].desc);
     }
@@ -133,9 +166,10 @@ function log_species(list_folder, detail_folder, file, obj) {
     let text = '';
     let csv = '';
     for (let i in list) {
+        let species_name = get_name(list[i].name, SPECIES);
         species_info[list[i].id] = { name: list[i].name, evos: list[i].evos };
 
-        text += list[i].num + '\n' + list[i].name + '\n';
+        text += list[i].num + '\n' + species_name + '\n';
 
         text += list[i].types.join(', ') + '\n';
 
@@ -154,7 +188,7 @@ function log_species(list_folder, detail_folder, file, obj) {
 
         let k = 0;
         for (let j in list[i].abilities) {
-            text += j + ": " + list[i].abilities[j];
+            text += j + ": " + get_name(list[i].abilities[j], ABILITIES);
             k++;
             if (k < Object.keys(list[i].abilities).length)
                 text += ', ';
@@ -162,15 +196,15 @@ function log_species(list_folder, detail_folder, file, obj) {
         text += '\n';
 
         let abilities = [];
-        abilities.push(list[i].abilities[0] ?? '');
-        abilities.push(list[i].abilities[1] ?? '');
-        abilities.push(list[i].abilities['H'] ?? '');
-        abilities.push(list[i].abilities['S'] ?? '');
+        abilities.push(list[i].abilities[0] ? get_name(list[i].abilities[0], ABILITIES) : '');
+        abilities.push(list[i].abilities[1] ? get_name(list[i].abilities[1], ABILITIES) : '');
+        abilities.push(list[i].abilities['H'] ? get_name(list[i].abilities['H'], ABILITIES) : '');
+        abilities.push(list[i].abilities['S'] ? get_name(list[i].abilities['S'], ABILITIES) : '');
 
         if (i < list.length - 1)
             text += '\n';
 
-        csv += csv_text(list[i].num, list[i].name, types,
+        csv += csv_text(list[i].num, species_name, types,
             list[i].baseStats['hp'], list[i].baseStats['atk'], list[i].baseStats['def'],
             list[i].baseStats['spa'], list[i].baseStats['spd'], list[i].baseStats['spe'],
             sum, abilities);
@@ -187,7 +221,7 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
     let count = 0;
 
     for (let i in species_info) {
-        text += species_info[i].name + '\n';
+        text += get_name(species_info[i].name, SPECIES) + '\n';
         learnsets = dex.species.getLearnsetData(i).learnset;
         for(let j in learnsets) {
             if (move_names[j]) {
@@ -222,7 +256,7 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
                     }
                 }
                 if (methods.length > 0)
-                    text += '    ' + move_names[j] + ' : ' + methods.join(', ') + '\n';
+                    text += '    ' + get_name(move_names[j], MOVES) + ' : ' + methods.join(', ') + '\n';
             }
         }
 
@@ -245,9 +279,9 @@ function log_evolve(name, evos_list, evos_processed) {
         if (evos_list[evolve_name]) {
             evolves = log_evolve(evolve_name, evos_list, evos_processed);
             for (let j in evolves)
-                evolve_list.push(' -> ' + evolve_name + evolves[j]);
+                evolve_list.push(' -> ' + get_name(evolve_name, SPECIES) + evolves[j]);
         } else {
-            no_further_evolve.push(evos_list[name][i]);
+            no_further_evolve.push(get_name(evos_list[name][i], SPECIES));
         }
     }
 
@@ -286,13 +320,15 @@ function log_evolves(file, species_info) {
 
     for (let i in evos_list) {
         if (!evos_processed.includes(i)) {
-            species_name = i;
+            let species_name = i;
+
             while (pre_evos[species_name])
                 species_name = pre_evos[species_name];
+
             evolves = log_evolve(species_name, evos_list, evos_processed);
-            for (let j in evolves) {
-                text += species_name + evolves[j] + '\n';
-            }
+            for (let j in evolves)
+                text += get_name(species_name, SPECIES) + evolves[j] + '\n';
+
             text += '\n';
         }
     }
@@ -301,28 +337,18 @@ function log_evolves(file, species_info) {
 }
 
 function log_data(file, obj) {
-    fs.writeFileSync(file + '.txt', util.inspect(obj, {depth: null, maxArrayLength: null}));
+    if (!ZH)
+        fs.writeFileSync(file + '.txt', util.inspect(obj, {depth: null, maxArrayLength: null}));
 }
 
 function log_json(file, obj) {
-    fs.writeFileSync(file + '.json', JSON.stringify(obj));
+    if (!ZH)
+        fs.writeFileSync(file + '.json', JSON.stringify(obj));
 }
-
-const {Dex} = require('../pokemon-showdown');
-
-if (!fs.existsSync('data'))
-    fs.mkdirSync('data');
-
-if (!fs.existsSync('json'))
-    fs.mkdirSync('json');
-
-const formats = Dex.formats.all();
-log_data('data/Formats', formats);
-log_json('json/Formats', formats);
 
 function log_gen(gen) {
     let dex = Dex.mod('gen' + gen);
-    let list_folder = 'list/gen' + gen + '/';
+    let list_folder = (ZH ? 'zh_list' : 'list') + '/gen' + gen + '/';
     let data_folder = 'data/gen' + gen + '/';
     let json_folder = 'json/gen' + gen + '/';
     let detail_folder = 'detail/gen' + gen + '/';
@@ -367,5 +393,52 @@ function log_gen(gen) {
     }
 }
 
-for (let i = 1; i < 10; i++)
-    log_gen(i);
+function get_trans(file, output) {
+    var trans = [];
+    let text = '';
+
+    let en_list = fs.readFileSync(file.replaceAll('*', 'en')).toString().split('\r\n');
+    let zh_list = fs.readFileSync(file.replaceAll('*', 'zh')).toString().split('\r\n');
+
+    for (let i = 0; i < en_list.length; i++) {
+        if (en_list[i] != zh_list[i] && !trans[en_list[i]] && !en_list[i].startsWith('?')) {
+            trans[en_list[i]] = zh_list[i];
+            text += en_list[i] + '\r\n' + zh_list[i] + '\r\n\r\n';
+        }
+    }
+
+    fs.writeFileSync('zh_list/Trans_' + output, text);
+
+    return trans;
+}
+
+const {Dex} = require('../pokemon-showdown');
+
+if (process.argv.length <= 2) {
+    if (!fs.existsSync('data'))
+        fs.mkdirSync('data');
+
+    if (!fs.existsSync('json'))
+        fs.mkdirSync('json');
+
+    const formats = Dex.formats.all();
+    log_data('data/Formats', formats);
+    log_json('json/Formats', formats);
+
+    for (let i = 1; i < 10; i++)
+        log_gen(i);
+} else {
+    ZH = true;
+
+    if (!fs.existsSync('zh_list'))
+        fs.mkdirSync('zh_list');
+
+    const trans_folder = '../PKHeX/PKHeX.Core/Resources/text/';
+    trans_items = get_trans(trans_folder + 'items/text_Items_*.txt', 'Items.txt');
+    trans_abilities = get_trans(trans_folder + 'other/*/text_Abilities_*.txt', 'Abilities.txt');
+    trans_species = get_trans(trans_folder + 'other/*/text_Species_*.txt', 'Species.txt');
+    trans_moves = get_trans(trans_folder + 'other/*/text_Moves_*.txt', 'Moves.txt');
+
+    for (let i = 1; i < 10; i++)
+        log_gen(i);
+}

@@ -1,0 +1,461 @@
+Bulbasaur (妙蛙种子) -> Ivysaur (妙蛙草) -> Venusaur (妙蛙花)
+
+Charmander (小火龙) -> Charmeleon (火恐龙) -> Charizard (喷火龙)
+
+Squirtle (杰尼龟) -> Wartortle (卡咪龟) -> Blastoise (水箭龟)
+
+Caterpie (绿毛虫) -> Metapod (铁甲蛹) -> Butterfree (巴大蝶)
+
+Pichu (皮丘) -> Pikachu (皮卡丘) -> Raichu (雷丘), Raichu-Alola
+
+Sandshrew (穿山鼠) -> Sandslash (穿山王)
+
+Sandshrew-Alola -> Sandslash-Alola
+
+Nidoran-F -> Nidorina (尼多娜) -> Nidoqueen (尼多后)
+
+Nidoran-M -> Nidorino (尼多力诺) -> Nidoking (尼多王)
+
+Cleffa (皮宝宝) -> Clefairy (皮皮) -> Clefable (皮可西)
+
+Vulpix (六尾) -> Ninetales (九尾)
+
+Vulpix-Alola -> Ninetales-Alola
+
+Igglybuff (宝宝丁) -> Jigglypuff (胖丁) -> Wigglytuff (胖可丁)
+
+Zubat (超音蝠) -> Golbat (大嘴蝠) -> Crobat (叉字蝠)
+
+Oddish (走路草) -> Gloom (臭臭花) -> Vileplume (霸王花), Bellossom (美丽花)
+
+Diglett (地鼠) -> Dugtrio (三地鼠)
+
+Diglett-Alola -> Dugtrio-Alola
+
+Meowth (喵喵) -> Persian (猫老大)
+
+Meowth-Alola -> Persian-Alola
+
+Meowth-Galar -> Perrserker (喵头目)
+
+Psyduck (可达鸭) -> Golduck (哥达鸭)
+
+Growlithe (卡蒂狗) -> Arcanine (风速狗)
+
+Poliwag (蚊香蝌蚪) -> Poliwhirl (蚊香君) -> Poliwrath (蚊香泳士), Politoed (蚊香蛙皇)
+
+Abra (凯西) -> Kadabra (勇基拉) -> Alakazam (胡地)
+
+Machop (腕力) -> Machoke (豪力) -> Machamp (怪力)
+
+Tentacool (玛瑙水母) -> Tentacruel (毒刺水母)
+
+Ponyta (小火马) -> Rapidash (烈焰马)
+
+Ponyta-Galar -> Rapidash-Galar
+
+Slowpoke (呆呆兽) -> Slowbro (呆壳兽), Slowking (呆呆王)
+
+Slowpoke-Galar -> Slowbro-Galar, Slowking-Galar
+
+Magnemite (小磁怪) -> Magneton (三合一磁怪) -> Magnezone (自爆磁怪)
+
+Farfetch’d-Galar -> Sirfetch’d (葱游兵)
+
+Shellder (大舌贝) -> Cloyster (刺甲贝)
+
+Gastly (鬼斯) -> Haunter (鬼斯通) -> Gengar (耿鬼)
+
+Onix (大岩蛇) -> Steelix (大钢蛇)
+
+Krabby (大钳蟹) -> Kingler (巨钳蟹)
+
+Exeggcute (蛋蛋) -> Exeggutor (椰蛋树), Exeggutor-Alola
+
+Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦), Marowak-Alola
+
+Lickitung (大舌头) -> Lickilicky (大舌舔)
+
+Koffing (瓦斯弹) -> Weezing (双弹瓦斯), Weezing-Galar
+
+Rhyhorn (独角犀牛) -> Rhydon (钻角犀兽) -> Rhyperior (超甲狂犀)
+
+Happiny (小福蛋) -> Chansey (吉利蛋) -> Blissey (幸福蛋)
+
+Tangela (蔓藤怪) -> Tangrowth (巨蔓藤)
+
+Horsea (墨海马) -> Seadra (海刺龙) -> Kingdra (刺龙王)
+
+Goldeen (角金鱼) -> Seaking (金鱼王)
+
+Staryu (海星星) -> Starmie (宝石海星)
+
+Mime Jr. (魔尼尼) -> Mr. Mime-Galar -> Mr. Rime (踏冰人偶)
+Mime Jr. (魔尼尼) -> Mr. Mime (魔墙人偶)
+
+Scyther (飞天螳螂) -> Scizor (巨钳螳螂)
+
+Elekid (电击怪) -> Electabuzz (电击兽) -> Electivire (电击魔兽)
+
+Magby (鸭嘴宝宝) -> Magmar (鸭嘴火兽) -> Magmortar (鸭嘴炎兽)
+
+Magikarp (鲤鱼王) -> Gyarados (暴鲤龙)
+
+Eevee (伊布) -> Vaporeon (水伊布), Jolteon (雷伊布), Flareon (火伊布), Espeon (太阳伊布), Umbreon (月亮伊布), Leafeon (叶伊布), Glaceon (冰伊布), Sylveon (仙子伊布)
+
+Porygon (多边兽) -> Porygon2 (多边兽２型) -> Porygon-Z (多边兽乙型)
+
+Omanyte (菊石兽) -> Omastar (多刺菊石兽)
+
+Kabuto (化石盔) -> Kabutops (镰刀盔)
+
+Dratini (迷你龙) -> Dragonair (哈克龙) -> Dragonite (快龙)
+
+Hoothoot (咕咕) -> Noctowl (猫头夜鹰)
+
+Chinchou (灯笼鱼) -> Lanturn (电灯怪)
+
+Togepi (波克比) -> Togetic (波克基古) -> Togekiss (波克基斯)
+
+Natu (天然雀) -> Xatu (天然鸟)
+
+Azurill (露力丽) -> Marill (玛力露) -> Azumarill (玛力露丽)
+
+Wooper (乌波) -> Quagsire (沼王)
+
+Sneasel (狃拉) -> Weavile (玛狃拉)
+
+Swinub (小山猪) -> Piloswine (长毛猪) -> Mamoswine (象牙猪)
+
+Corsola-Galar -> Cursola (魔灵珊瑚)
+
+Remoraid (铁炮鱼) -> Octillery (章鱼桶)
+
+Tyrogue (无畏小子) -> Hitmonlee (飞腿郎), Hitmonchan (快拳郎), Hitmontop (战舞郎)
+
+Smoochum (迷唇娃) -> Jynx (迷唇姐)
+
+Larvitar (幼基拉斯) -> Pupitar (沙基拉斯) -> Tyranitar (班基拉斯)
+
+Treecko (木守宫) -> Grovyle (森林蜥蜴) -> Sceptile (蜥蜴王)
+
+Torchic (火稚鸡) -> Combusken (力壮鸡) -> Blaziken (火焰鸡)
+
+Mudkip (水跃鱼) -> Marshtomp (沼跃鱼) -> Swampert (巨沼怪)
+
+Zigzagoon (蛇纹熊) -> Linoone (直冲熊)
+
+Zigzagoon-Galar -> Linoone-Galar -> Obstagoon (堵拦熊)
+
+Lotad (莲叶童子) -> Lombre (莲帽小童) -> Ludicolo (乐天河童)
+
+Seedot (橡实果) -> Nuzleaf (长鼻叶) -> Shiftry (狡猾天狗)
+
+Wingull (长翅鸥) -> Pelipper (大嘴鸥)
+
+Ralts (拉鲁拉丝) -> Kirlia (奇鲁莉安) -> Gardevoir (沙奈朵), Gallade (艾路雷朵)
+
+Nincada (土居忍士) -> Ninjask (铁面忍者), Shedinja (脱壳忍者)
+
+Whismur (咕妞妞) -> Loudred (吼爆弹) -> Exploud (爆音怪)
+
+Aron (可可多拉) -> Lairon (可多拉) -> Aggron (波士可多拉)
+
+Electrike (落雷兽) -> Manectric (雷电兽)
+
+Budew (含羞苞) -> Roselia (毒蔷薇) -> Roserade (罗丝雷朵)
+
+Carvanha (利牙鱼) -> Sharpedo (巨牙鲨)
+
+Wailmer (吼吼鲸) -> Wailord (吼鲸王)
+
+Trapinch (大颚蚁) -> Vibrava (超音波幼虫) -> Flygon (沙漠蜻蜓)
+
+Swablu (青绵鸟) -> Altaria (七夕青鸟)
+
+Barboach (泥泥鳅) -> Whiscash (鲶鱼王)
+
+Corphish (龙虾小兵) -> Crawdaunt (铁螯龙虾)
+
+Baltoy (天秤偶) -> Claydol (念力土偶)
+
+Lileep (触手百合) -> Cradily (摇篮百合)
+
+Anorith (太古羽虫) -> Armaldo (太古盔甲)
+
+Feebas (丑丑鱼) -> Milotic (美纳斯)
+
+Duskull (夜巡灵) -> Dusclops (彷徨夜灵) -> Dusknoir (黑夜魔灵)
+
+Wynaut (小果然) -> Wobbuffet (果然翁)
+
+Snorunt (雪童子) -> Glalie (冰鬼护), Froslass (雪妖女)
+
+Spheal (海豹球) -> Sealeo (海魔狮) -> Walrein (帝牙海狮)
+
+Bagon (宝贝龙) -> Shelgon (甲壳龙) -> Salamence (暴飞龙)
+
+Beldum (铁哑铃) -> Metang (金属怪) -> Metagross (巨金怪)
+
+Shinx (小猫怪) -> Luxio (勒克猫) -> Luxray (伦琴猫)
+
+Combee (三蜜蜂) -> Vespiquen (蜂女王)
+
+Cherubi (樱花宝) -> Cherrim (樱花儿)
+
+Shellos (无壳海兔) -> Gastrodon (海兔兽)
+
+Drifloon (飘飘球) -> Drifblim (随风球)
+
+Buneary (卷卷耳) -> Lopunny (长耳兔)
+
+Stunky (臭鼬噗) -> Skuntank (坦克臭鼬)
+
+Bronzor (铜镜怪) -> Bronzong (青铜钟)
+
+Bonsly (盆才怪) -> Sudowoodo (树才怪)
+
+Gible (圆陆鲨) -> Gabite (尖牙陆鲨) -> Garchomp (烈咬陆鲨)
+
+Munchlax (小卡比兽) -> Snorlax (卡比兽)
+
+Riolu (利欧路) -> Lucario (路卡利欧)
+
+Hippopotas (沙河马) -> Hippowdon (河马兽)
+
+Skorupi (钳尾蝎) -> Drapion (龙王蝎)
+
+Croagunk (不良蛙) -> Toxicroak (毒骷蛙)
+
+Mantyke (小球飞鱼) -> Mantine (巨翅飞鱼)
+
+Snover (雪笠怪) -> Abomasnow (暴雪王)
+
+Lillipup (小约克) -> Herdier (哈约克) -> Stoutland (长毛狗)
+
+Purrloin (扒手猫) -> Liepard (酷豹)
+
+Munna (食梦梦) -> Musharna (梦梦蚀)
+
+Pidove (豆豆鸽) -> Tranquill (咕咕鸽) -> Unfezant (高傲雉鸡)
+
+Roggenrola (石丸子) -> Boldore (地幔岩) -> Gigalith (庞岩怪)
+
+Woobat (滚滚蝙蝠) -> Swoobat (心蝙蝠)
+
+Drilbur (螺钉地鼠) -> Excadrill (龙头地鼠)
+
+Timburr (搬运小匠) -> Gurdurr (铁骨土人) -> Conkeldurr (修建老匠)
+
+Tympole (圆蝌蚪) -> Palpitoad (蓝蟾蜍) -> Seismitoad (蟾蜍王)
+
+Venipede (百足蜈蚣) -> Whirlipede (车轮球) -> Scolipede (蜈蚣王)
+
+Cottonee (木棉球) -> Whimsicott (风妖精)
+
+Petilil (百合根娃娃) -> Lilligant (裙儿小姐)
+
+Sandile (黑眼鳄) -> Krokorok (混混鳄) -> Krookodile (流氓鳄)
+
+Darumaka (火红不倒翁) -> Darmanitan (达摩狒狒)
+
+Darumaka-Galar -> Darmanitan-Galar
+
+Dwebble (石居蟹) -> Crustle (岩殿居蟹)
+
+Scraggy (滑滑小子) -> Scrafty (头巾混混)
+
+Yamask (哭哭面具) -> Cofagrigus (迭失棺)
+
+Yamask-Galar -> Runerigus (迭失板)
+
+Tirtouga (原盖海龟) -> Carracosta (肋骨海龟)
+
+Archen (始祖小鸟) -> Archeops (始祖大鸟)
+
+Trubbish (破破袋) -> Garbodor (灰尘山)
+
+Zorua (索罗亚) -> Zoroark (索罗亚克)
+
+Minccino (泡沫栗鼠) -> Cinccino (奇诺栗鼠)
+
+Gothita (哥德宝宝) -> Gothorita (哥德小童) -> Gothitelle (哥德小姐)
+
+Solosis (单卵细胞球) -> Duosion (双卵细胞球) -> Reuniclus (人造细胞卵)
+
+Vanillite (迷你冰) -> Vanillish (多多冰) -> Vanilluxe (双倍多多冰)
+
+Karrablast (盖盖虫) -> Escavalier (骑士蜗牛)
+
+Foongus (哎呀球菇) -> Amoonguss (败露球菇)
+
+Frillish (轻飘飘) -> Jellicent (胖嘟嘟)
+
+Joltik (电电虫) -> Galvantula (电蜘蛛)
+
+Ferroseed (种子铁球) -> Ferrothorn (坚果哑铃)
+
+Klink (齿轮儿) -> Klang (齿轮组) -> Klinklang (齿轮怪)
+
+Elgyem (小灰怪) -> Beheeyem (大宇怪)
+
+Litwick (烛光灵) -> Lampent (灯火幽灵) -> Chandelure (水晶灯火灵)
+
+Axew (牙牙) -> Fraxure (斧牙龙) -> Haxorus (双斧战龙)
+
+Cubchoo (喷嚏熊) -> Beartic (冻原熊)
+
+Shelmet (小嘴蜗) -> Accelgor (敏捷虫)
+
+Mienfoo (功夫鼬) -> Mienshao (师父鼬)
+
+Golett (泥偶小人) -> Golurk (泥偶巨人)
+
+Pawniard (驹刀小兵) -> Bisharp (劈斩司令)
+
+Rufflet (毛头小鹰) -> Braviary (勇士雄鹰)
+
+Vullaby (秃鹰丫头) -> Mandibuzz (秃鹰娜)
+
+Deino (单首龙) -> Zweilous (双首暴龙) -> Hydreigon (三首恶龙)
+
+Larvesta (燃烧虫) -> Volcarona (火神蛾)
+
+Bunnelby (掘掘兔) -> Diggersby (掘地兔)
+
+Fletchling (小箭雀) -> Fletchinder (火箭雀) -> Talonflame (烈箭鹰)
+
+Pancham (顽皮熊猫) -> Pangoro (霸道熊猫)
+
+Espurr (妙喵) -> Meowstic (超能妙喵), Meowstic-F
+
+Honedge (独剑鞘) -> Doublade (双剑鞘) -> Aegislash (坚盾剑怪)
+
+Spritzee (粉香香) -> Aromatisse (芳香精)
+
+Swirlix (绵绵泡芙) -> Slurpuff (胖甜妮)
+
+Inkay (好啦鱿) -> Malamar (乌贼王)
+
+Binacle (龟脚脚) -> Barbaracle (龟足巨铠)
+
+Skrelp (垃垃藻) -> Dragalge (毒藻龙)
+
+Clauncher (铁臂枪虾) -> Clawitzer (钢炮臂虾)
+
+Helioptile (伞电蜥) -> Heliolisk (光电伞蜥)
+
+Tyrunt (宝宝暴龙) -> Tyrantrum (怪颚龙)
+
+Amaura (冰雪龙) -> Aurorus (冰雪巨龙)
+
+Goomy (黏黏宝) -> Sliggoo (黏美儿) -> Goodra (黏美龙)
+
+Phantump (小木灵) -> Trevenant (朽木妖)
+
+Pumpkaboo (南瓜精) -> Gourgeist (南瓜怪人)
+
+Pumpkaboo-Small -> Gourgeist-Small
+
+Pumpkaboo-Large -> Gourgeist-Large
+
+Pumpkaboo-Super -> Gourgeist-Super
+
+Bergmite (冰宝) -> Avalugg (冰岩怪)
+
+Noibat (嗡蝠) -> Noivern (音波龙)
+
+Rowlet (木木枭) -> Dartrix (投羽枭) -> Decidueye (狙射树枭)
+
+Litten (火斑喵) -> Torracat (炎热喵) -> Incineroar (炽焰咆哮虎)
+
+Popplio (球球海狮) -> Brionne (花漾海狮) -> Primarina (西狮海壬)
+
+Grubbin (强颚鸡母虫) -> Charjabug (虫电宝) -> Vikavolt (锹农炮虫)
+
+Cutiefly (萌虻) -> Ribombee (蝶结萌虻)
+
+Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人), Lycanroc-Midnight, Lycanroc-Dusk
+
+Mareanie (好坏星) -> Toxapex (超坏星)
+
+Mudbray (泥驴仔) -> Mudsdale (重泥挽马)
+
+Dewpider (滴蛛) -> Araquanid (滴蛛霸)
+
+Fomantis (伪螳草) -> Lurantis (兰螳花)
+
+Morelull (睡睡菇) -> Shiinotic (灯罩夜菇)
+
+Salandit (夜盗火蜥) -> Salazzle (焰后蜥)
+
+Stufful (童偶熊) -> Bewear (穿着熊)
+
+Bounsweet (甜竹竹) -> Steenee (甜舞妮) -> Tsareena (甜冷美后)
+
+Wimpod (胆小虫) -> Golisopod (具甲武者)
+
+Sandygast (沙丘娃) -> Palossand (噬沙堡爷)
+
+Type: Null (属性：空) -> Silvally (银伴战兽)
+
+Jangmo-o (心鳞宝) -> Hakamo-o (鳞甲龙) -> Kommo-o (杖尾鳞甲龙)
+
+Cosmog (科斯莫古) -> Cosmoem (科斯莫姆) -> Solgaleo (索尔迦雷欧), Lunala (露奈雅拉)
+
+Poipole (毒贝比) -> Naganadel (四颚针龙)
+
+Grookey (敲音猴) -> Thwackey (啪咚猴) -> Rillaboom (轰擂金刚猩)
+
+Scorbunny (炎兔儿) -> Raboot (腾蹴小将) -> Cinderace (闪焰王牌)
+
+Sobble (泪眼蜥) -> Drizzile (变涩蜥) -> Inteleon (千面避役)
+
+Skwovet (贪心栗鼠) -> Greedent (藏饱栗鼠)
+
+Rookidee (稚山雀) -> Corvisquire (蓝鸦) -> Corviknight (钢铠鸦)
+
+Blipbug (索侦虫) -> Dottler (天罩虫) -> Orbeetle (以欧路普)
+
+Nickit (狡小狐) -> Thievul (猾大狐)
+
+Gossifleur (幼棉棉) -> Eldegoss (白蓬蓬)
+
+Wooloo (毛辫羊) -> Dubwool (毛毛角羊)
+
+Chewtle (咬咬龟) -> Drednaw (暴噬龟)
+
+Yamper (来电汪) -> Boltund (逐电犬)
+
+Rolycoly (小炭仔) -> Carkol (大炭车) -> Coalossal (巨炭山)
+
+Applin (啃果虫) -> Flapple (苹裹龙), Appletun (丰蜜龙)
+
+Silicobra (沙包蛇) -> Sandaconda (沙螺蟒)
+
+Arrokuda (刺梭鱼) -> Barraskewda (戽斗尖梭)
+
+Toxel (电音婴) -> Toxtricity (颤弦蝾螈), Toxtricity-Low-Key
+
+Sizzlipede (烧火蚣) -> Centiskorch (焚焰蚣)
+
+Clobbopus (拳拳蛸) -> Grapploct (八爪武师)
+
+Sinistea (来悲茶) -> Polteageist (怖思壶)
+
+Sinistea-Antique -> Polteageist-Antique
+
+Hatenna (迷布莉姆) -> Hattrem (提布莉姆) -> Hatterene (布莉姆温)
+
+Impidimp (捣蛋小妖) -> Morgrem (诈唬魔) -> Grimmsnarl (长毛巨魔)
+
+Milcery (小仙奶) -> Alcremie (霜奶仙)
+
+Snom (雪吞虫) -> Frosmoth (雪绒蛾)
+
+Cufant (铜象) -> Copperajah (大王铜象)
+
+Dreepy (多龙梅西亚) -> Drakloak (多龙奇) -> Dragapult (多龙巴鲁托)
+
+Kubfu (熊徒弟) -> Urshifu (武道熊师), Urshifu-Rapid-Strike
+

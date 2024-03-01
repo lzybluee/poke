@@ -1,0 +1,4185 @@
+Bulbasaur (妙蛙种子)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growl (叫声) : Level 1
+    Growth (生长) : Level 34
+    Leech Seed (寄生种子) : Level 7
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 20
+    Rage (愤怒) : TM
+    Razor Leaf (飞叶快刀) : Level 27
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 41
+    Solar Beam (日光束) : TM, Level 48
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vine Whip (藤鞭) : Level 13
+
+Ivysaur (妙蛙草)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growl (叫声) : Level 1
+    Growth (生长) : Level 38
+    Leech Seed (寄生种子) : Level 7, Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 22
+    Rage (愤怒) : TM
+    Razor Leaf (飞叶快刀) : Level 30
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 46
+    Solar Beam (日光束) : TM, Level 54
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vine Whip (藤鞭) : Level 13
+
+Venusaur (妙蛙花)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growl (叫声) : Level 1
+    Growth (生长) : Level 43
+    Hyper Beam (破坏光线) : TM
+    Leech Seed (寄生种子) : Level 7, Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 22
+    Rage (愤怒) : TM
+    Razor Leaf (飞叶快刀) : Level 30
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 55
+    Solar Beam (日光束) : TM, Level 65
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vine Whip (藤鞭) : Level 13, Level 1
+
+Charmander (小火龙)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Ember (火花) : Level 9
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 46
+    Flamethrower (喷射火焰) : Level 38
+    Growl (叫声) : Level 1
+    Leer (瞪眼) : Level 15
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 22
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 30
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Charmeleon (火恐龙)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Ember (火花) : Level 9, Level 1
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 56
+    Flamethrower (喷射火焰) : Level 42
+    Growl (叫声) : Level 1
+    Leer (瞪眼) : Level 15
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 24
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 33
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Charizard (喷火龙)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Earthquake (地震) : TM
+    Ember (火花) : Level 9, Level 1
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 55
+    Fissure (地裂) : TM
+    Flamethrower (喷射火焰) : Level 46
+    Fly (飞翔) : TM
+    Growl (叫声) : Level 1
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 15, Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 24
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 36
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Squirtle (杰尼龟)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 22
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble (泡沫) : Level 8
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hydro Pump (水炮) : Level 42
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM, Level 35
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 15
+    Withdraw (缩入壳中) : Level 28
+
+Wartortle (卡咪龟)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 24
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble (泡沫) : Level 8, Level 1
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hydro Pump (水炮) : Level 47
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM, Level 39
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 15
+    Withdraw (缩入壳中) : Level 31
+
+Blastoise (水箭龟)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 24
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble (泡沫) : Level 8, Level 1
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fissure (地裂) : TM
+    Hydro Pump (水炮) : Level 52
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM, Level 42
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 15, Level 1
+    Withdraw (缩入壳中) : Level 31
+
+Caterpie (绿毛虫)
+    String Shot (吐丝) : Level 1
+    Tackle (撞击) : Level 1
+
+Metapod (铁甲蛹)
+    Harden (变硬) : Level 7, Level 1
+
+Butterfree (巴大蝶)
+    Bide (忍耐) : TM
+    Confusion (念力) : Level 10, Level 12, Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Gust (起风) : Level 28
+    Hyper Beam (破坏光线) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 13, Level 15
+    Psybeam (幻象光线) : Level 34, Level 32
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 15, Level 17
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 14, Level 16
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 18, Level 21
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM, Level 23, Level 26
+
+Weedle (独角虫)
+    Poison Sting (毒针) : Level 1
+    String Shot (吐丝) : Level 1
+
+Kakuna (铁壳蛹)
+    Harden (变硬) : Level 1
+
+Beedrill (大针蜂)
+    Agility (高速移动) : Level 35
+    Bide (忍耐) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 16
+    Fury Attack (乱击) : Level 12, Level 1
+    Hyper Beam (破坏光线) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Pin Missile (飞弹针) : Level 30
+    Rage (愤怒) : TM, Level 25
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Twineedle (双针) : Level 20
+
+Pidgey (波波)
+    Agility (高速移动) : Level 36
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fly (飞翔) : TM
+    Gust (起风) : Level 1
+    Mimic (模仿) : TM
+    Mirror Move (鹦鹉学舌) : Level 44
+    Quick Attack (电光一闪) : Level 12
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 5
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM, Level 19
+    Wing Attack (翅膀攻击) : Level 28
+
+Pidgeotto (比比鸟)
+    Agility (高速移动) : Level 40
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fly (飞翔) : TM
+    Gust (起风) : Level 1
+    Mimic (模仿) : TM
+    Mirror Move (鹦鹉学舌) : Level 49
+    Quick Attack (电光一闪) : Level 12
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 5, Level 1
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM, Level 21
+    Wing Attack (翅膀攻击) : Level 31
+
+Pidgeot (大比鸟)
+    Agility (高速移动) : Level 44
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fly (飞翔) : TM
+    Gust (起风) : Level 1
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Mirror Move (鹦鹉学舌) : Level 54
+    Quick Attack (电光一闪) : Level 12, Level 1
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 5, Level 1
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM, Level 21
+    Wing Attack (翅膀攻击) : Level 31
+
+Rattata (小拉达)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 23
+    Hyper Fang (终结门牙) : Level 14
+    Mimic (模仿) : TM
+    Quick Attack (电光一闪) : Level 7
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Super Fang (愤怒门牙) : Level 34
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Raticate (拉达)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 27
+    Hyper Beam (破坏光线) : TM
+    Hyper Fang (终结门牙) : Level 14
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Quick Attack (电光一闪) : Level 7, Level 1
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Super Fang (愤怒门牙) : Level 41
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Spearow (烈雀)
+    Agility (高速移动) : Level 36
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Drill Peck (啄钻) : Level 29
+    Fly (飞翔) : TM
+    Fury Attack (乱击) : Level 15
+    Growl (叫声) : Level 1
+    Leer (瞪眼) : Level 9
+    Mimic (模仿) : TM
+    Mirror Move (鹦鹉学舌) : Level 22
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Rest (睡觉) : TM
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+
+Fearow (大嘴雀)
+    Agility (高速移动) : Level 43
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Drill Peck (啄钻) : Level 34
+    Fly (飞翔) : TM
+    Fury Attack (乱击) : Level 15
+    Growl (叫声) : Level 1
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 9, Level 1
+    Mimic (模仿) : TM
+    Mirror Move (鹦鹉学舌) : Level 25
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Rest (睡觉) : TM
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+
+Ekans (阿柏蛇)
+    Acid (溶解液) : Level 38
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 17
+    Body Slam (泰山压顶) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fissure (地裂) : TM
+    Glare (大蛇瞪眼) : Level 24
+    Leer (瞪眼) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 10
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Screech (刺耳声) : Level 31
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Wrap (紧束) : Level 1
+
+Arbok (阿柏怪)
+    Acid (溶解液) : Level 47
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 17
+    Body Slam (泰山压顶) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fissure (地裂) : TM
+    Glare (大蛇瞪眼) : Level 27
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 10, Level 1
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Screech (刺耳声) : Level 36
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Wrap (紧束) : Level 1
+
+Pikachu (皮卡丘)
+    Agility (高速移动) : Level 33
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM, Level 15
+    Flash (闪光) : TM
+    Growl (叫声) : Level 1
+    Light Screen (光墙) : Level 50
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Quick Attack (电光一闪) : Level 11, Level 16
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slam (摔打) : Level 20
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : Tutor
+    Swift (高速星星) : TM, Level 26
+    Tail Whip (摇尾巴) : Level 6
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM, Level 41, Level 43
+    Thunderbolt (十万伏特) : TM, Level 26
+    Thunder Shock (电击) : Level 1
+    Thunder Wave (电磁波) : TM, Level 8, Level 9
+    Toxic (剧毒) : TM
+
+Raichu (雷丘)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Growl (叫声) : Level 1
+    Hyper Beam (破坏光线) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Shock (电击) : Level 1
+    Thunder Wave (电磁波) : TM, Level 1
+    Toxic (剧毒) : TM
+
+Sandshrew (穿山鼠)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fissure (地裂) : TM
+    Fury Swipes (乱抓) : Level 38
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 24
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Sand Attack (泼沙) : Level 10
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 17
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM, Level 31
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Sandslash (穿山王)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fissure (地裂) : TM
+    Fury Swipes (乱抓) : Level 47
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 27
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Sand Attack (泼沙) : Level 10, Level 1
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 17
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM, Level 36
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Nidoran-F
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 30, Level 29
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 12, Level 43
+    Double Team (影子分身) : TM
+    Fury Swipes (乱抓) : Level 38, Level 36
+    Growl (叫声) : Level 1
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 17, Level 14
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 8
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 23, Level 21
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Nidorina (尼多娜)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 36, Level 32
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 12, Level 50
+    Double Team (影子分身) : TM
+    Fury Swipes (乱抓) : Level 46, Level 41
+    Growl (叫声) : Level 1
+    Horn Drill (角钻) : TM
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 19, Level 14
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 8, Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 27, Level 23
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Nidoqueen (尼多后)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM, Level 23, Level 1
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 12
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Poison Sting (毒针) : Level 14
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Scratch (抓) : Level 8, Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Nidoran-M
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 12, Level 43
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 23, Level 21
+    Fury Attack (乱击) : Level 30, Level 29
+    Horn Attack (角撞) : Level 8
+    Horn Drill (角钻) : TM, Level 38, Level 36
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 17, Level 14
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Nidorino (尼多力诺)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 12, Level 50
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 27, Level 23
+    Fury Attack (乱击) : Level 36, Level 32
+    Horn Attack (角撞) : Level 8, Level 1
+    Horn Drill (角钻) : TM, Level 46, Level 41
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 19, Level 14
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Nidoking (尼多王)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 12
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Horn Attack (角撞) : Level 8, Level 1
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Poison Sting (毒针) : Level 14, Level 1
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Thrash (大闹一番) : Level 23, Level 1
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Clefairy (皮皮)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Defense Curl (变圆) : Level 39
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 18
+    Double Team (影子分身) : TM
+    Fire Blast (大字爆炎) : TM
+    Flash (闪光) : TM
+    Growl (叫声) : Level 1
+    Ice Beam (冰冻光束) : TM
+    Light Screen (光墙) : Level 48
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM, Level 31
+    Mimic (模仿) : TM
+    Minimize (变小) : Level 24
+    Pound (拍击) : Level 1
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Sing (唱歌) : Level 13
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+
+Clefable (皮可西)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 1
+    Double Team (影子分身) : TM
+    Fire Blast (大字爆炎) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM, Level 1
+    Mimic (模仿) : TM
+    Minimize (变小) : Level 1
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Sing (唱歌) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+
+Vulpix (六尾)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confuse Ray (奇异之光) : Level 28
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Ember (火花) : Level 1
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 42
+    Flamethrower (喷射火焰) : Level 35
+    Mimic (模仿) : TM
+    Quick Attack (电光一闪) : Level 16
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Roar (吼叫) : Level 21
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Ninetales (九尾)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Ember (火花) : Level 1
+    Fire Blast (大字爆炎) : TM
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Quick Attack (电光一闪) : Level 1
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Roar (吼叫) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Jigglypuff (胖丁)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM, Level 34
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Defense Curl (变圆) : Level 19
+    Disable (定身法) : Level 14
+    Double-Edge (舍身冲撞) : TM, Level 39
+    Double Slap (连环巴掌) : Level 24
+    Double Team (影子分身) : TM
+    Fire Blast (大字爆炎) : TM
+    Flash (闪光) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pound (拍击) : Level 9
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM, Level 29
+    Seismic Toss (地球上投) : TM
+    Sing (唱歌) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+
+Wigglytuff (胖可丁)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Defense Curl (变圆) : Level 1
+    Disable (定身法) : Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 1
+    Double Team (影子分身) : TM
+    Fire Blast (大字爆炎) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Sing (唱歌) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+
+Zubat (超音蝠)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 15
+    Confuse Ray (奇异之光) : Level 21
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Haze (黑雾) : Level 36
+    Leech Life (汲取) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Rest (睡觉) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 10
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+    Wing Attack (翅膀攻击) : Level 28
+
+Golbat (大嘴蝠)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 15, Level 1
+    Confuse Ray (奇异之光) : Level 21
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Haze (黑雾) : Level 43
+    Hyper Beam (破坏光线) : TM
+    Leech Life (汲取) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 1
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 10
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+    Wing Attack (翅膀攻击) : Level 32
+
+Oddish (走路草)
+    Absorb (吸取) : Level 1
+    Acid (溶解液) : Level 24
+    Bide (忍耐) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Petal Dance (花瓣舞) : Level 33
+    Poison Powder (毒粉) : Level 15
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 19
+    Solar Beam (日光束) : TM, Level 46
+    Stun Spore (麻痹粉) : Level 17
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Gloom (臭臭花)
+    Absorb (吸取) : Level 1
+    Acid (溶解液) : Level 28
+    Bide (忍耐) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Petal Dance (花瓣舞) : Level 38
+    Poison Powder (毒粉) : Level 15, Level 1
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 19
+    Solar Beam (日光束) : TM, Level 52
+    Stun Spore (麻痹粉) : Level 17, Level 1
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Vileplume (霸王花)
+    Acid (溶解液) : Level 1
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hyper Beam (破坏光线) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Petal Dance (花瓣舞) : Level 1
+    Poison Powder (毒粉) : Level 15
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 19, Level 1
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 17, Level 1
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Paras (派拉斯)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growth (生长) : Level 41
+    Leech Life (汲取) : Level 20
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 34
+    Solar Beam (日光束) : TM
+    Spore (蘑菇孢子) : Level 27
+    Stun Spore (麻痹粉) : Level 13
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Parasect (派拉斯特)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growth (生长) : Level 48
+    Hyper Beam (破坏光线) : TM
+    Leech Life (汲取) : Level 20, Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 39
+    Solar Beam (日光束) : TM
+    Spore (蘑菇孢子) : Level 30
+    Stun Spore (麻痹粉) : Level 13, Level 1
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Venonat (毛球)
+    Bide (忍耐) : TM
+    Confusion (念力) : Level 19
+    Disable (定身法) : Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Leech Life (汲取) : Level 27
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 22, Level 24
+    Psybeam (幻象光线) : Level 35
+    Psychic (精神强念) : TM, Level 43
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 38
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 30
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 11
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Venomoth (摩鲁蛾)
+    Bide (忍耐) : TM
+    Confusion (念力) : Level 1
+    Disable (定身法) : Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Leech Life (汲取) : Level 27, Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 22, Level 24, Level 1
+    Psybeam (幻象光线) : Level 38
+    Psychic (精神强念) : TM, Level 50
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 43
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 30
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 1
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+
+Diglett (地鼠)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM, Level 19
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM, Level 40
+    Fissure (地裂) : TM
+    Growl (叫声) : Level 15
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Sand Attack (泼沙) : Level 24
+    Scratch (抓) : Level 1
+    Slash (劈开) : Level 31
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Dugtrio (三地鼠)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM, Level 19, Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM, Level 47
+    Fissure (地裂) : TM
+    Growl (叫声) : Level 15, Level 1
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Sand Attack (泼沙) : Level 24
+    Scratch (抓) : Level 1
+    Slash (劈开) : Level 35
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Meowth (喵喵)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 12
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fury Swipes (乱抓) : Level 33
+    Growl (叫声) : Level 1
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM, Level 17
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Screech (刺耳声) : Level 24
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 44
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Persian (猫老大)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 12, Level 1
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fury Swipes (乱抓) : Level 37
+    Growl (叫声) : Level 1
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM, Level 17
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Screech (刺耳声) : Level 24, Level 1
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 51
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Psyduck (可达鸭)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Confusion (念力) : Level 36
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Disable (定身法) : Level 31
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fury Swipes (乱抓) : Level 43
+    Hydro Pump (水炮) : Level 52
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 28
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Golduck (哥达鸭)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Confusion (念力) : Level 39
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Disable (定身法) : Level 31, Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fury Swipes (乱抓) : Level 48
+    Hydro Pump (水炮) : Level 59
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 28, Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Mankey (猴怪)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 27
+    Fury Swipes (乱抓) : Level 21
+    Karate Chop (空手劈) : Level 15
+    Leer (瞪眼) : Level 1
+    Low Kick (踢倒) : Level 9
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Scratch (抓) : Level 1
+    Screech (刺耳声) : Level 45
+    Seismic Toss (地球上投) : TM, Level 33
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thrash (大闹一番) : Level 39
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Primeape (火暴猴)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 27
+    Fury Swipes (乱抓) : Level 21, Level 1
+    Hyper Beam (破坏光线) : TM
+    Karate Chop (空手劈) : Level 15, Level 1
+    Leer (瞪眼) : Level 1
+    Low Kick (踢倒) : Level 9, Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM, Level 28
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Scratch (抓) : Level 1
+    Screech (刺耳声) : Level 45
+    Seismic Toss (地球上投) : TM, Level 37
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thrash (大闹一番) : Level 46
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Growlithe (卡蒂狗)
+    Agility (高速移动) : Level 39
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 1
+    Body Slam (泰山压顶) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Ember (火花) : Level 18
+    Fire Blast (大字爆炎) : TM
+    Flamethrower (喷射火焰) : Level 50
+    Leer (瞪眼) : Level 23
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Roar (吼叫) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM, Level 30
+    Toxic (剧毒) : TM
+
+Arcanine (风速狗)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Ember (火花) : Level 1
+    Fire Blast (大字爆炎) : TM
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Roar (吼叫) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM, Level 1
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+
+Poliwag (蚊香蝌蚪)
+    Amnesia (瞬间失忆) : Level 38
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM, Level 31
+    Bubble (泡沫) : Level 1
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 25
+    Double Team (影子分身) : TM
+    Hydro Pump (水炮) : Level 45
+    Hypnosis (催眠术) : Level 16
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 19
+
+Poliwhirl (蚊香君)
+    Amnesia (瞬间失忆) : Level 41
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM, Level 33
+    Bubble (泡沫) : Level 1
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 26
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fissure (地裂) : TM
+    Hydro Pump (水炮) : Level 49
+    Hypnosis (催眠术) : Level 16, Level 1
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 19, Level 1
+
+Poliwrath (蚊香泳士)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM, Level 1
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 1
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fissure (地裂) : TM
+    Hyper Beam (破坏光线) : TM
+    Hypnosis (催眠术) : Level 16, Level 1
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 19, Level 1
+
+Abra (凯西)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM, Level 1
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+
+Kadabra (勇基拉)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confusion (念力) : Level 16, Level 1
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Disable (定身法) : Level 20, Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Kinesis (折弯汤匙) : Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psybeam (幻象光线) : Level 27
+    Psychic (精神强念) : TM, Level 38
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Recover (自我再生) : Level 31
+    Reflect (反射壁) : TM, Level 42
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM, Level 1
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+
+Alakazam (胡地)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confusion (念力) : Level 16, Level 1
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Disable (定身法) : Level 20, Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Kinesis (折弯汤匙) : Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psybeam (幻象光线) : Level 27
+    Psychic (精神强念) : TM, Level 38
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Recover (自我再生) : Level 31
+    Reflect (反射壁) : TM, Level 42
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM, Level 1
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+
+Machop (腕力)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Focus Energy (聚气) : Level 32
+    Karate Chop (空手劈) : Level 1
+    Leer (瞪眼) : Level 25
+    Low Kick (踢倒) : Level 20
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM, Level 39
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM, Level 46
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Machoke (豪力)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Focus Energy (聚气) : Level 36
+    Karate Chop (空手劈) : Level 1
+    Leer (瞪眼) : Level 25, Level 1
+    Low Kick (踢倒) : Level 20, Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM, Level 44
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM, Level 52
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Machamp (怪力)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Focus Energy (聚气) : Level 36
+    Hyper Beam (破坏光线) : TM
+    Karate Chop (空手劈) : Level 1
+    Leer (瞪眼) : Level 25, Level 1
+    Low Kick (踢倒) : Level 20, Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM, Level 44
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM, Level 52
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Bellsprout (喇叭芽)
+    Acid (溶解液) : Level 26
+    Bide (忍耐) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growth (生长) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 15
+    Rage (愤怒) : TM
+    Razor Leaf (飞叶快刀) : Level 33
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Slam (摔打) : Level 42
+    Sleep Powder (催眠粉) : Level 18
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 21
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vine Whip (藤鞭) : Level 1
+    Wrap (紧束) : Level 13
+
+Weepinbell (口呆花)
+    Acid (溶解液) : Level 29
+    Bide (忍耐) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growth (生长) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 15
+    Rage (愤怒) : TM
+    Razor Leaf (飞叶快刀) : Level 38
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Slam (摔打) : Level 49
+    Sleep Powder (催眠粉) : Level 18
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 23
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vine Whip (藤鞭) : Level 1
+    Wrap (紧束) : Level 13, Level 1
+
+Victreebel (大食花)
+    Acid (溶解液) : Level 1
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hyper Beam (破坏光线) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 15
+    Rage (愤怒) : TM
+    Razor Leaf (飞叶快刀) : Level 1
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sleep Powder (催眠粉) : Level 18, Level 1
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 1
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Wrap (紧束) : Level 13
+
+Tentacool (玛瑙水母)
+    Acid (溶解液) : Level 1
+    Barrier (屏障) : Level 33
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Constrict (缠绕) : Level 27
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hydro Pump (水炮) : Level 48
+    Ice Beam (冰冻光束) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 18
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 40
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 7
+    Surf (冲浪) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 22
+    Wrap (紧束) : Level 13
+
+Tentacruel (毒刺水母)
+    Acid (溶解液) : Level 1
+    Barrier (屏障) : Level 35
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Constrict (缠绕) : Level 27
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hydro Pump (水炮) : Level 50
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Sting (毒针) : Level 18
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 43
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 7, Level 1
+    Surf (冲浪) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 22
+    Wrap (紧束) : Level 13, Level 1
+
+Geodude (小拳石)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Defense Curl (变圆) : Level 11
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM, Level 31
+    Explosion (大爆炸) : TM, Level 36
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Harden (变硬) : Level 26
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Rock Throw (落石) : Level 16
+    Seismic Toss (地球上投) : TM
+    Self-Destruct (玉石俱碎) : TM, Level 21
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Graveler (隆隆石)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Defense Curl (变圆) : Level 11, Level 1
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM, Level 36
+    Explosion (大爆炸) : TM, Level 43
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Harden (变硬) : Level 29
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Rock Throw (落石) : Level 16
+    Seismic Toss (地球上投) : TM
+    Self-Destruct (玉石俱碎) : TM, Level 21
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Golem (隆隆岩)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Defense Curl (变圆) : Level 11, Level 1
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM, Level 36
+    Explosion (大爆炸) : TM, Level 43
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Harden (变硬) : Level 29
+    Hyper Beam (破坏光线) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Rock Throw (落石) : Level 16
+    Seismic Toss (地球上投) : TM
+    Self-Destruct (玉石俱碎) : TM, Level 21
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Ponyta (小火马)
+    Agility (高速移动) : Level 48
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Ember (火花) : Level 1
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 39
+    Growl (叫声) : Level 35
+    Horn Drill (角钻) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Stomp (踩踏) : Level 32
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 30
+    Take Down (猛撞) : TM, Level 43
+    Toxic (剧毒) : TM
+
+Rapidash (烈焰马)
+    Agility (高速移动) : Level 55
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Ember (火花) : Level 1
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 39
+    Growl (叫声) : Level 35, Level 1
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Stomp (踩踏) : Level 32, Level 1
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 30, Level 1
+    Take Down (猛撞) : TM, Level 47
+    Toxic (剧毒) : TM
+
+Slowpoke (呆呆兽)
+    Amnesia (瞬间失忆) : Level 40
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Confusion (念力) : Level 1
+    Dig (挖洞) : TM
+    Disable (定身法) : Level 18
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Flash (闪光) : TM
+    Growl (叫声) : Level 27
+    Headbutt (头锤) : Level 22
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Psychic (精神强念) : TM, Level 48
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM, Level 33
+
+Slowbro (呆壳兽)
+    Amnesia (瞬间失忆) : Level 44
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Confusion (念力) : Level 1
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Disable (定身法) : Level 18, Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Flash (闪光) : TM
+    Growl (叫声) : Level 27
+    Headbutt (头锤) : Level 22, Level 1
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Psychic (精神强念) : TM, Level 55
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM, Level 33
+    Withdraw (缩入壳中) : Level 37
+
+Magnemite (小磁怪)
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 47
+    Sonic Boom (音爆) : Level 21
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 29
+    Swift (高速星星) : TM, Level 41
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Shock (电击) : Level 25
+    Thunder Wave (电磁波) : TM, Level 35
+    Toxic (剧毒) : TM
+
+Magneton (三合一磁怪)
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 54
+    Sonic Boom (音爆) : Level 21, Level 1
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 29
+    Swift (高速星星) : TM, Level 46
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Shock (电击) : Level 25, Level 1
+    Thunder Wave (电磁波) : TM, Level 38
+    Toxic (剧毒) : TM
+
+Farfetch’d (大葱鸭)
+    Agility (高速移动) : Level 31
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fly (飞翔) : TM
+    Fury Attack (乱击) : Level 15
+    Leer (瞪眼) : Level 7
+    Mimic (模仿) : TM
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 39
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Swords Dance (剑舞) : TM, Level 23
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+
+Doduo (嘟嘟)
+    Agility (高速移动) : Level 44
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Drill Peck (啄钻) : Level 30
+    Fly (飞翔) : TM
+    Fury Attack (乱击) : Level 24
+    Growl (叫声) : Level 20
+    Mimic (模仿) : TM
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM, Level 36
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM, Level 40
+    Whirlwind (吹飞) : TM
+
+Dodrio (嘟嘟利)
+    Agility (高速移动) : Level 51
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Drill Peck (啄钻) : Level 30
+    Fly (飞翔) : TM
+    Fury Attack (乱击) : Level 24, Level 1
+    Growl (叫声) : Level 20, Level 1
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM, Level 39
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM, Level 45
+    Whirlwind (吹飞) : TM
+
+Seel (小海狮)
+    Aurora Beam (极光束) : Level 35
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growl (叫声) : Level 30
+    Headbutt (头锤) : Level 1
+    Horn Drill (角钻) : TM
+    Ice Beam (冰冻光束) : TM, Level 50
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM, Level 40
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM, Level 45
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Dewgong (白海狮)
+    Aurora Beam (极光束) : Level 35, Level 1
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growl (叫声) : Level 30, Level 1
+    Headbutt (头锤) : Level 1
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM, Level 56
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM, Level 44
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM, Level 50
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Grimer (臭泥)
+    Acid Armor (溶化) : Level 55
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Disable (定身法) : Level 1
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM
+    Fire Blast (大字爆炎) : TM
+    Harden (变硬) : Level 42
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Minimize (变小) : Level 33
+    Poison Gas (毒瓦斯) : Level 30
+    Pound (拍击) : Level 1
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 48
+    Self-Destruct (玉石俱碎) : TM
+    Sludge (污泥攻击) : Level 37
+    Substitute (替身) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Muk (臭臭泥)
+    Acid Armor (溶化) : Level 60
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Disable (定身法) : Level 1
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM
+    Fire Blast (大字爆炎) : TM
+    Harden (变硬) : Level 45
+    Hyper Beam (破坏光线) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Minimize (变小) : Level 33
+    Poison Gas (毒瓦斯) : Level 30, Level 1
+    Pound (拍击) : Level 1
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 53
+    Self-Destruct (玉石俱碎) : TM
+    Sludge (污泥攻击) : Level 37
+    Substitute (替身) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Shellder (大舌贝)
+    Aurora Beam (极光束) : Level 30
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Clamp (贝壳夹击) : Level 23
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM
+    Ice Beam (冰冻光束) : TM, Level 50
+    Leer (瞪眼) : Level 39
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 18
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+    Withdraw (缩入壳中) : Level 1
+
+Cloyster (刺甲贝)
+    Aurora Beam (极光束) : Level 1
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Clamp (贝壳夹击) : Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Spike Cannon (尖刺加农炮) : Level 50
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 1
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+    Withdraw (缩入壳中) : Level 1
+
+Gastly (鬼斯)
+    Bide (忍耐) : TM
+    Confuse Ray (奇异之光) : Level 1
+    Double Team (影子分身) : TM
+    Dream Eater (食梦) : TM, Level 35
+    Explosion (大爆炸) : TM
+    Hypnosis (催眠术) : Level 27
+    Lick (舌舔) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Night Shade (黑夜魔影) : Level 1
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Substitute (替身) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Haunter (鬼斯通)
+    Bide (忍耐) : TM
+    Confuse Ray (奇异之光) : Level 1
+    Double Team (影子分身) : TM
+    Dream Eater (食梦) : TM, Level 38
+    Explosion (大爆炸) : TM
+    Hypnosis (催眠术) : Level 29
+    Lick (舌舔) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Night Shade (黑夜魔影) : Level 1
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Substitute (替身) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Gengar (耿鬼)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confuse Ray (奇异之光) : Level 1
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dream Eater (食梦) : TM, Level 38
+    Explosion (大爆炸) : TM
+    Hyper Beam (破坏光线) : TM
+    Hypnosis (催眠术) : Level 29
+    Lick (舌舔) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Night Shade (黑夜魔影) : Level 1
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Onix (大岩蛇)
+    Bide (忍耐) : TM
+    Bind (绑紧) : Level 15
+    Body Slam (泰山压顶) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Explosion (大爆炸) : TM
+    Fissure (地裂) : TM
+    Harden (变硬) : Level 43
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 25
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Rock Throw (落石) : Level 19
+    Screech (刺耳声) : Level 1
+    Self-Destruct (玉石俱碎) : TM
+    Skull Bash (火箭头锤) : TM
+    Slam (摔打) : Level 33
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Drowzee (催眠貘)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confusion (念力) : Level 17
+    Counter (双倍奉还) : TM
+    Disable (定身法) : Level 12
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dream Eater (食梦) : TM
+    Flash (闪光) : TM
+    Headbutt (头锤) : Level 24
+    Hypnosis (催眠术) : Level 1
+    Meditate (瑜伽姿势) : Level 37
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Poison Gas (毒瓦斯) : Level 29
+    Pound (拍击) : Level 1
+    Psychic (精神强念) : TM, Level 32
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+
+Hypno (引梦貘人)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confusion (念力) : Level 17, Level 1
+    Counter (双倍奉还) : TM
+    Disable (定身法) : Level 12, Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dream Eater (食梦) : TM
+    Flash (闪光) : TM
+    Headbutt (头锤) : Level 24
+    Hyper Beam (破坏光线) : TM
+    Hypnosis (催眠术) : Level 1
+    Meditate (瑜伽姿势) : Level 43
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Poison Gas (毒瓦斯) : Level 33
+    Pound (拍击) : Level 1
+    Psychic (精神强念) : TM, Level 37
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+
+Krabby (大钳蟹)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble (泡沫) : Level 1
+    Bubble Beam (泡沫光线) : TM
+    Crabhammer (蟹钳锤) : Level 35
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Guillotine (极落钳) : Level 25
+    Harden (变硬) : Level 40
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Stomp (踩踏) : Level 30
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vise Grip (夹住) : Level 20
+    Water Gun (水枪) : TM
+
+Kingler (巨钳蟹)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble (泡沫) : Level 1
+    Bubble Beam (泡沫光线) : TM
+    Crabhammer (蟹钳锤) : Level 42
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Guillotine (极落钳) : Level 25
+    Harden (变硬) : Level 49
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Stomp (踩踏) : Level 34
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vise Grip (夹住) : Level 20, Level 1
+    Water Gun (水枪) : TM
+
+Voltorb (霹雳电球)
+    Bide (忍耐) : TM
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM, Level 43
+    Flash (闪光) : TM
+    Light Screen (光墙) : Level 29
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 1
+    Self-Destruct (玉石俱碎) : TM, Level 22
+    Sonic Boom (音爆) : Level 17
+    Substitute (替身) : TM
+    Swift (高速星星) : TM, Level 36
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+
+Electrode (顽皮雷弹)
+    Bide (忍耐) : TM
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM, Level 50
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Light Screen (光墙) : Level 29
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 1
+    Self-Destruct (玉石俱碎) : TM, Level 22
+    Skull Bash (火箭头锤) : TM
+    Sonic Boom (音爆) : Level 17, Level 1
+    Substitute (替身) : TM
+    Swift (高速星星) : TM, Level 40
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+
+Exeggcute (蛋蛋)
+    Barrage (投球) : Level 1
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Egg Bomb (炸蛋) : TM
+    Explosion (大爆炸) : TM
+    Hypnosis (催眠术) : Level 1
+    Leech Seed (寄生种子) : Level 28
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 37
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM, Level 25
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Sleep Powder (催眠粉) : Level 48
+    Solar Beam (日光束) : Level 42
+    Stun Spore (麻痹粉) : Level 32
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+
+Exeggutor (椰蛋树)
+    Barrage (投球) : Level 1
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Egg Bomb (炸蛋) : TM
+    Explosion (大爆炸) : TM
+    Hyper Beam (破坏光线) : TM
+    Hypnosis (催眠术) : Level 1
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Solar Beam (日光束) : TM
+    Stomp (踩踏) : Level 28
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+
+Cubone (卡拉卡拉)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bone Club (骨棒) : Level 10, Level 1
+    Bonemerang (骨头回力镖) : Level 43
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Focus Energy (聚气) : Level 31
+    Growl (叫声) : Level 1
+    Headbutt (头锤) : Level 18
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 25
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 46
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Tail Whip (摇尾巴) : Level 13
+    Take Down (猛撞) : TM
+    Thrash (大闹一番) : Level 38
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Marowak (嘎啦嘎啦)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bone Club (骨棒) : Level 10, Level 1
+    Bonemerang (骨头回力镖) : Level 48
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Focus Energy (聚气) : Level 33, Level 1
+    Growl (叫声) : Level 1
+    Headbutt (头锤) : Level 18
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 25, Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 55
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Tail Whip (摇尾巴) : Level 13, Level 1
+    Take Down (猛撞) : TM
+    Thrash (大闹一番) : Level 41
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Hitmonlee (飞腿郎)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 1
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 43
+    High Jump Kick (飞膝踢) : Level 48
+    Jump Kick (飞踢) : Level 38
+    Meditate (瑜伽姿势) : Level 1
+    Mega Kick (百万吨重踢) : TM, Level 53
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rolling Kick (回旋踢) : Level 33
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Hitmonchan (快拳郎)
+    Agility (高速移动) : Level 1
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Comet Punch (连续拳) : Level 1
+    Counter (双倍奉还) : TM, Level 53
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fire Punch (火焰拳) : Level 33
+    Ice Punch (冰冻拳) : Level 38
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM, Level 48
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder Punch (雷电拳) : Level 43
+    Toxic (剧毒) : TM
+
+Lickitung (大舌头)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Cut (居合劈) : TM
+    Defense Curl (变圆) : Level 23
+    Disable (定身法) : Level 15
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 39
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slam (摔打) : Level 31
+    Stomp (踩踏) : Level 7
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 1
+    Surf (冲浪) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+    Wrap (紧束) : Level 1
+
+Koffing (瓦斯弹)
+    Bide (忍耐) : TM
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM, Level 48
+    Fire Blast (大字爆炎) : TM
+    Haze (黑雾) : Level 45
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM, Level 40
+    Sludge (污泥攻击) : Level 32
+    Smog (浊雾) : Level 1
+    Smokescreen (烟幕) : Level 37
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Weezing (双弹瓦斯)
+    Bide (忍耐) : TM
+    Double Team (影子分身) : TM
+    Explosion (大爆炸) : TM, Level 53
+    Fire Blast (大字爆炎) : TM
+    Haze (黑雾) : Level 49
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Self-Destruct (玉石俱碎) : TM, Level 43
+    Sludge (污泥攻击) : Level 32, Level 1
+    Smog (浊雾) : Level 1
+    Smokescreen (烟幕) : Level 39
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Rhyhorn (独角犀牛)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Fury Attack (乱击) : Level 1, Level 40
+    Horn Attack (角撞) : Level 1
+    Horn Drill (角钻) : TM, Level 45
+    Leer (瞪眼) : Level 50
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Skull Bash (火箭头锤) : TM
+    Stomp (踩踏) : Level 1, Level 30
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Tail Whip (摇尾巴) : Level 1, Level 35
+    Take Down (猛撞) : TM, Level 55
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Rhydon (钻角犀兽)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Fury Attack (乱击) : Level 40, Level 1
+    Horn Attack (角撞) : Level 1
+    Horn Drill (角钻) : TM, Level 48
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 55
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Stomp (踩踏) : Level 30, Level 1
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tail Whip (摇尾巴) : Level 35, Level 1
+    Take Down (猛撞) : TM, Level 64
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Chansey (吉利蛋)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Defense Curl (变圆) : Level 44
+    Double-Edge (舍身冲撞) : TM, Level 54
+    Double Slap (连环巴掌) : Level 12, Level 1
+    Double Team (影子分身) : TM
+    Egg Bomb (炸蛋) : TM
+    Fire Blast (大字爆炎) : TM
+    Flash (闪光) : TM
+    Growl (叫声) : Level 30
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Light Screen (光墙) : Level 48
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Minimize (变小) : Level 38
+    Pound (拍击) : Level 1
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Sing (唱歌) : Level 24
+    Skull Bash (火箭头锤) : TM
+    Soft-Boiled (生蛋) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+
+Tangela (蔓藤怪)
+    Absorb (吸取) : Level 27, Level 29
+    Bide (忍耐) : TM
+    Bind (绑紧) : Level 24, Level 1
+    Body Slam (泰山压顶) : TM
+    Constrict (缠绕) : Level 1
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Growth (生长) : Level 48, Level 49
+    Hyper Beam (破坏光线) : TM
+    Mega Drain (超级吸取) : TM
+    Mimic (模仿) : TM
+    Poison Powder (毒粉) : Level 32
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Slam (摔打) : Level 45
+    Sleep Powder (催眠粉) : Level 39
+    Solar Beam (日光束) : TM
+    Stun Spore (麻痹粉) : Level 36
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vine Whip (藤鞭) : Level 29
+
+Kangaskhan (袋兽)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 26
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Comet Punch (连续拳) : Level 1
+    Counter (双倍奉还) : TM
+    Dizzy Punch (迷昏拳) : Level 46
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 41
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM, Level 36
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 1
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tail Whip (摇尾巴) : Level 31
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Horsea (墨海马)
+    Agility (高速移动) : Level 37
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble (泡沫) : Level 1
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hydro Pump (水炮) : Level 45
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 24
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Smokescreen (烟幕) : Level 19
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 30
+
+Seadra (海刺龙)
+    Agility (高速移动) : Level 41
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble (泡沫) : Level 1
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Hydro Pump (水炮) : Level 52
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 24
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Smokescreen (烟幕) : Level 19, Level 1
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 30
+
+Goldeen (角金鱼)
+    Agility (高速移动) : Level 54
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fury Attack (乱击) : Level 30
+    Horn Attack (角撞) : Level 24
+    Horn Drill (角钻) : TM, Level 45
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 19
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Waterfall (攀瀑) : Level 37
+    Water Gun (水枪) : TM
+
+Seaking (金鱼王)
+    Agility (高速移动) : Level 54
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fury Attack (乱击) : Level 30
+    Horn Attack (角撞) : Level 24
+    Horn Drill (角钻) : TM, Level 48
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 19, Level 1
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Tail Whip (摇尾巴) : Level 1
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Waterfall (攀瀑) : Level 39
+    Water Gun (水枪) : TM
+
+Staryu (海星星)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Harden (变硬) : Level 22
+    Hydro Pump (水炮) : Level 47
+    Ice Beam (冰冻光束) : TM
+    Light Screen (光墙) : Level 42
+    Mimic (模仿) : TM
+    Minimize (变小) : Level 37
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Recover (自我再生) : Level 27
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM, Level 32
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM, Level 17
+
+Starmie (宝石海星)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Harden (变硬) : Level 1
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM, Level 1
+
+Mr. Mime (魔墙人偶)
+    Barrier (屏障) : Level 1
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confusion (念力) : Level 15, Level 1
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 31
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Light Screen (光墙) : Level 23
+    Meditate (瑜伽姿势) : Level 39
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM, Level 47
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+
+Scyther (飞天螳螂)
+    Agility (高速移动) : Level 42
+    Bide (忍耐) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM, Level 24
+    Focus Energy (聚气) : Level 20
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 17
+    Mimic (模仿) : TM
+    Quick Attack (电光一闪) : Level 1
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 29
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Swords Dance (剑舞) : TM, Level 35
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Wing Attack (翅膀攻击) : Level 50
+
+Jynx (迷唇姐)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM, Level 58
+    Body Slam (泰山压顶) : TM, Level 39
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Slap (连环巴掌) : Level 23
+    Double Team (影子分身) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Ice Punch (冰冻拳) : Level 31
+    Lick (舌舔) : Level 18
+    Lovely Kiss (恶魔之吻) : Level 1
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Pound (拍击) : Level 1
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thrash (大闹一番) : Level 47
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Electabuzz (电击兽)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 1
+    Light Screen (光墙) : Level 49
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Quick Attack (电光一闪) : Level 1
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Screech (刺耳声) : Level 37
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM, Level 54
+    Thunderbolt (十万伏特) : TM
+    Thunder Punch (雷电拳) : Level 42
+    Thunder Shock (电击) : Level 34
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+
+Magmar (鸭嘴火兽)
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Confuse Ray (奇异之光) : Level 39
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Ember (火花) : Level 1
+    Fire Blast (大字爆炎) : TM
+    Fire Punch (火焰拳) : Level 43
+    Flamethrower (喷射火焰) : Level 55
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 36
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Smog (浊雾) : Level 52
+    Smokescreen (烟幕) : Level 48
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Toxic (剧毒) : TM
+
+Pinsir (凯罗斯)
+    Bide (忍耐) : TM
+    Bind (绑紧) : Level 21
+    Body Slam (泰山压顶) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 36
+    Guillotine (极落钳) : Level 30
+    Harden (变硬) : Level 43
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM, Level 25
+    Slash (劈开) : Level 49
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM, Level 54
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Vise Grip (夹住) : Level 1
+
+Tauros (肯泰罗)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 35
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM, Level 44
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Stomp (踩踏) : Level 21
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 28
+    Take Down (猛撞) : TM, Level 51
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+
+Magikarp (鲤鱼王)
+    Splash (跃起) : Level 1
+    Tackle (撞击) : Level 15
+
+Gyarados (暴鲤龙)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 20, Level 1
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM, Level 25, Level 1
+    Fire Blast (大字爆炎) : TM
+    Hydro Pump (水炮) : Level 41, Level 1
+    Hyper Beam (破坏光线) : TM, Level 52
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 32, Level 1
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Lapras (拉普拉斯)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM, Level 25
+    Bubble Beam (泡沫光线) : TM
+    Confuse Ray (奇异之光) : Level 31
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Growl (叫声) : Level 1
+    Horn Drill (角钻) : TM
+    Hydro Pump (水炮) : Level 46
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM, Level 38
+    Mimic (模仿) : TM
+    Mist (白雾) : Level 20
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sing (唱歌) : Level 16
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 1
+
+Ditto (百变怪)
+    Transform (变身) : Level 1
+
+Eevee (伊布)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 30, Level 37
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Focus Energy (聚气) : Level 36
+    Growl (叫声) : Level 16
+    Mimic (模仿) : TM
+    Quick Attack (电光一闪) : Level 23, Level 27
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 8, Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1, Level 31
+    Take Down (猛撞) : TM, Level 42, Level 45
+    Toxic (剧毒) : TM
+
+Vaporeon (水伊布)
+    Acid Armor (溶化) : Level 47, Level 42
+    Aurora Beam (极光束) : Level 36
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 30, Level 40
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Haze (黑雾) : Level 42, Level 44
+    Hydro Pump (水炮) : Level 52, Level 54
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Mist (白雾) : Level 42, Level 48
+    Quick Attack (电光一闪) : Level 23, Level 27, Level 1
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 8, Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1, Level 37
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 16, Level 31, Level 1
+
+Jolteon (雷伊布)
+    Agility (高速移动) : Level 47, Level 44
+    Bide (忍耐) : TM
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Kick (二连踢) : Level 30, Level 42
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Mimic (模仿) : TM
+    Pin Missile (飞弹针) : Level 36, Level 48
+    Quick Attack (电光一闪) : Level 23, Level 27, Level 1
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 8, Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1, Level 37
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM, Level 52, Level 54
+    Thunderbolt (十万伏特) : TM
+    Thunder Shock (电击) : Level 16, Level 31, Level 1
+    Thunder Wave (电磁波) : TM, Level 42, Level 40
+    Toxic (剧毒) : TM
+
+Flareon (火伊布)
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 30, Level 40
+    Body Slam (泰山压顶) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Ember (火花) : Level 16, Level 31, Level 1
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 36, Level 44
+    Flamethrower (喷射火焰) : Level 52, Level 54
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 47, Level 42
+    Mimic (模仿) : TM
+    Quick Attack (电光一闪) : Level 23, Level 27, Level 1
+    Rage (愤怒) : TM, Level 48
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sand Attack (泼沙) : Level 8, Level 1
+    Skull Bash (火箭头锤) : TM
+    Smog (浊雾) : Level 42
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Tail Whip (摇尾巴) : Level 1, Level 37
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+
+Porygon (多边兽)
+    Agility (高速移动) : Level 35
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Conversion (纹理) : Level 1
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mimic (模仿) : TM
+    Psybeam (幻象光线) : Level 23
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Recover (自我再生) : Level 28
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sharpen (棱角化) : Level 1
+    Skull Bash (火箭头锤) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM, Level 42
+
+Omanyte (菊石兽)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Horn Attack (角撞) : Level 34
+    Hydro Pump (水炮) : Level 53
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 39
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Spike Cannon (尖刺加农炮) : Level 46
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 1
+    Withdraw (缩入壳中) : Level 1
+
+Omastar (多刺菊石兽)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Horn Attack (角撞) : Level 34, Level 1
+    Horn Drill (角钻) : TM
+    Hydro Pump (水炮) : Level 49
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 39
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Spike Cannon (尖刺加农炮) : Level 44
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM, Level 1
+    Withdraw (缩入壳中) : Level 1
+
+Kabuto (化石盔)
+    Absorb (吸取) : Level 34
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Harden (变硬) : Level 1
+    Hydro Pump (水炮) : Level 49
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 44
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Slash (劈开) : Level 39
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Kabutops (镰刀盔)
+    Absorb (吸取) : Level 34, Level 1
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Cut (居合劈) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Harden (变硬) : Level 1
+    Hydro Pump (水炮) : Level 53
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 46
+    Mega Kick (百万吨重踢) : TM
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Scratch (抓) : Level 1
+    Seismic Toss (地球上投) : TM
+    Skull Bash (火箭头锤) : TM
+    Slash (劈开) : Level 39
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Aerodactyl (化石翼龙)
+    Agility (高速移动) : Level 1
+    Bide (忍耐) : TM
+    Bite (咬住) : Level 38
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Fire Blast (大字爆炎) : TM
+    Fly (飞翔) : TM
+    Hyper Beam (破坏光线) : TM, Level 54
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Supersonic (超音波) : Level 33
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM, Level 45
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+    Wing Attack (翅膀攻击) : Level 1
+
+Snorlax (卡比兽)
+    Amnesia (瞬间失忆) : Level 1
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM, Level 35
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM, Level 48
+    Double Team (影子分身) : TM
+    Earthquake (地震) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Harden (变硬) : Level 41
+    Headbutt (头锤) : Level 1
+    Hyper Beam (破坏光线) : TM, Level 56
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Psychic (精神强念) : TM
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM, Level 1
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+
+Articuno (急冻鸟)
+    Agility (高速移动) : Level 55
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM, Level 51
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fly (飞翔) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM, Level 1
+    Mimic (模仿) : TM
+    Mist (白雾) : Level 60
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+    Whirlwind (吹飞) : TM
+
+Zapdos (闪电鸟)
+    Agility (高速移动) : Level 55
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Drill Peck (啄钻) : Level 1
+    Flash (闪光) : TM
+    Fly (飞翔) : TM
+    Hyper Beam (破坏光线) : TM
+    Light Screen (光墙) : Level 60
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sky Attack (神鸟猛击) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM, Level 51
+    Thunderbolt (十万伏特) : TM
+    Thunder Shock (电击) : Level 1
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+
+Moltres (火焰鸟)
+    Agility (高速移动) : Level 55
+    Bide (忍耐) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fire Blast (大字爆炎) : TM
+    Fire Spin (火焰旋涡) : Level 1
+    Fly (飞翔) : TM
+    Hyper Beam (破坏光线) : TM
+    Leer (瞪眼) : Level 51
+    Mimic (模仿) : TM
+    Peck (啄) : Level 1
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Sky Attack (神鸟猛击) : TM, Level 60
+    Substitute (替身) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Toxic (剧毒) : TM
+    Whirlwind (吹飞) : TM
+
+Dratini (迷你龙)
+    Agility (高速移动) : Level 20
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM, Level 40
+    Fire Blast (大字爆炎) : TM
+    Hyper Beam (破坏光线) : Level 50
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Slam (摔打) : Level 30
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM, Level 10
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+    Wrap (紧束) : Level 1
+
+Dragonair (哈克龙)
+    Agility (高速移动) : Level 20
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM, Level 45
+    Fire Blast (大字爆炎) : TM
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : Level 55
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Slam (摔打) : Level 35
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM, Level 10, Level 1
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+    Wrap (紧束) : Level 1
+
+Dragonite (快龙)
+    Agility (高速移动) : Level 20, Level 1
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM, Level 45
+    Fire Blast (大字爆炎) : TM
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : TM, Level 60
+    Ice Beam (冰冻光束) : TM
+    Leer (瞪眼) : Level 1
+    Mimic (模仿) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Skull Bash (火箭头锤) : TM
+    Slam (摔打) : Level 35
+    Strength (怪力) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Take Down (猛撞) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM, Level 10, Level 1
+    Toxic (剧毒) : TM
+    Water Gun (水枪) : TM
+    Wrap (紧束) : Level 1
+
+Mewtwo (超梦)
+    Amnesia (瞬间失忆) : Level 81
+    Barrier (屏障) : Level 63
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Fire Blast (大字爆炎) : TM
+    Flash (闪光) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM
+    Metronome (挥指) : TM
+    Mimic (模仿) : TM
+    Mist (白雾) : Level 75
+    Pay Day (聚宝功) : TM
+    Psychic (精神强念) : TM, Level 66, Level 1
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Recover (自我再生) : Level 70
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Seismic Toss (地球上投) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Skull Bash (火箭头锤) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Swift (高速星星) : Level 1
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+
+Mew (梦幻)
+    Bide (忍耐) : TM
+    Blizzard (暴风雪) : TM
+    Body Slam (泰山压顶) : TM
+    Bubble Beam (泡沫光线) : TM
+    Counter (双倍奉还) : TM
+    Cut (居合劈) : TM
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : TM
+    Dragon Rage (龙之怒) : TM
+    Dream Eater (食梦) : TM
+    Earthquake (地震) : TM
+    Egg Bomb (炸蛋) : TM
+    Explosion (大爆炸) : TM
+    Fire Blast (大字爆炎) : TM
+    Fissure (地裂) : TM
+    Flash (闪光) : TM
+    Fly (飞翔) : TM
+    Horn Drill (角钻) : TM
+    Hyper Beam (破坏光线) : TM
+    Ice Beam (冰冻光束) : TM
+    Mega Drain (超级吸取) : TM
+    Mega Kick (百万吨重踢) : TM
+    Mega Punch (百万吨重拳) : TM, Level 20
+    Metronome (挥指) : TM, Level 30
+    Mimic (模仿) : TM
+    Pay Day (聚宝功) : TM
+    Pound (拍击) : Level 1
+    Psychic (精神强念) : TM, Level 40
+    Psywave (精神波) : TM
+    Rage (愤怒) : TM
+    Razor Wind (旋风刀) : TM
+    Reflect (反射壁) : TM
+    Rest (睡觉) : TM
+    Rock Slide (岩崩) : TM
+    Seismic Toss (地球上投) : TM
+    Self-Destruct (玉石俱碎) : TM
+    Skull Bash (火箭头锤) : TM
+    Sky Attack (神鸟猛击) : TM
+    Soft-Boiled (生蛋) : TM
+    Solar Beam (日光束) : TM
+    Strength (怪力) : TM
+    Submission (深渊翻滚) : TM
+    Substitute (替身) : TM
+    Surf (冲浪) : TM
+    Swift (高速星星) : TM
+    Swords Dance (剑舞) : TM
+    Take Down (猛撞) : TM
+    Teleport (瞬间移动) : TM
+    Thunder (打雷) : TM
+    Thunderbolt (十万伏特) : TM
+    Thunder Wave (电磁波) : TM
+    Toxic (剧毒) : TM
+    Transform (变身) : Level 10
+    Tri Attack (三重攻击) : TM
+    Water Gun (水枪) : TM
+    Whirlwind (吹飞) : TM

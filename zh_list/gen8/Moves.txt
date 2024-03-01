@@ -1,0 +1,3989 @@
+Absorb (吸取)
+Grass
+Special
+pow: 20, acc: 100, pp: 25, pri: 0, target: normal
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Accelerock (冲岩)
+Rock
+Physical
+pow: 40, acc: 100, pp: 20, pri: 1, target: normal
+No additional effect.
+
+Acid (溶解液)
+Poison
+Special
+pow: 40, acc: 100, pp: 30, pri: 0, target: allAdjacentFoes
+Has a 10% chance to lower the target's Special Defense by 1 stage.
+
+Acid Armor (溶化)
+Poison
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Defense by 2 stages.
+
+Acid Spray (酸液炸弹)
+Poison
+Special
+pow: 40, acc: 100, pp: 20, pri: 0, target: normal
+Has a 100% chance to lower the target's Special Defense by 2 stages.
+
+Acrobatics (杂技)
+Flying
+Physical
+pow: 55, acc: 100, pp: 15, pri: 0, target: any
+Power doubles if the user has no held item.
+
+Acupressure (点穴)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: adjacentAllyOrSelf
+Raises a random stat by 2 stages as long as the stat is not already at stage 6. The user can choose to use this move on itself or an adjacent ally. Fails if no stat stage can be raised or if used on an ally with a substitute.
+
+Aerial Ace (燕返)
+Flying
+Physical
+pow: 60, acc: true, pp: 20, pri: 0, target: any
+This move does not check accuracy.
+
+Aeroblast (气旋攻击)
+Flying
+Special
+pow: 100, acc: 95, pp: 5, pri: 0, target: any
+Has a higher chance for a critical hit.
+
+After You (您先请)
+Normal
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: normal
+The target makes its move immediately after the user this turn, no matter the priority of its selected move. Fails if the target would have moved next anyway, or if the target already moved this turn.
+
+Agility (高速移动)
+Psychic
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: self
+Raises the user's Speed by 2 stages.
+
+Air Cutter (空气利刃)
+Flying
+Special
+pow: 60, acc: 95, pp: 25, pri: 0, target: allAdjacentFoes
+Has a higher chance for a critical hit.
+
+Air Slash (空气之刃)
+Flying
+Special
+pow: 75, acc: 95, pp: 15, pri: 0, target: any
+Has a 30% chance to make the target flinch.
+
+Ally Switch (交换场地)
+Psychic
+Status
+pow: 0, acc: true, pp: 15, pri: 2, target: self
+The user swaps positions with its ally. Fails if the user is the only Pokemon on its side.
+
+Amnesia (瞬间失忆)
+Psychic
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Special Defense by 2 stages.
+
+Anchor Shot (掷锚)
+Steel
+Physical
+pow: 80, acc: 100, pp: 20, pri: 0, target: normal
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+
+Ancient Power (原始之力)
+Rock
+Special
+pow: 60, acc: 100, pp: 5, pri: 0, target: normal
+Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.
+
+Apple Acid (苹果酸)
+Grass
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Has a 100% chance to lower the target's Special Defense by 1 stage.
+
+Aqua Jet (水流喷射)
+Water
+Physical
+pow: 40, acc: 100, pp: 20, pri: 1, target: normal
+No additional effect.
+
+Aqua Ring (水流环)
+Water
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+The user has 1/16 of its maximum HP, rounded down, restored at the end of each turn while it remains active. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down. If the user uses Baton Pass, the replacement will receive the healing effect.
+
+Aqua Tail (水流尾)
+Water
+Physical
+pow: 90, acc: 90, pp: 10, pri: 0, target: normal
+No additional effect.
+
+Arm Thrust (猛推)
+Fighting
+Physical
+pow: 15, acc: 100, pp: 20, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Aromatherapy (芳香治疗)
+Grass
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: allyTeam
+Every Pokemon in the user's party is cured of its non-volatile status condition. Active Pokemon with the Sap Sipper Ability are not cured, unless they are the user.
+
+Aromatic Mist (芳香薄雾)
+Fairy
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: adjacentAlly
+Raises the target's Special Defense by 1 stage. Fails if there is no ally adjacent to the user.
+
+Assurance (恶意追击)
+Dark
+Physical
+pow: 60, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the target has already taken damage this turn, other than direct damage from Belly Drum, confusion, Curse, or Pain Split.
+
+Astonish (惊吓)
+Ghost
+Physical
+pow: 30, acc: 100, pp: 15, pri: 0, target: normal
+Has a 30% chance to make the target flinch.
+
+Astral Barrage (星碎)
+Ghost
+Special
+pow: 120, acc: 100, pp: 5, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Attack Order (攻击指令)
+Bug
+Physical
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Attract (迷人)
+Normal
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Causes the target to become infatuated, making it unable to attack 50% of the time. Fails if both the user and the target are the same gender, if either is genderless, or if the target is already infatuated. The effect ends when either the user or the target is no longer active. Pokemon with the Oblivious Ability or protected by the Aroma Veil Ability are immune.
+
+Aura Sphere (波导弹)
+Fighting
+Special
+pow: 80, acc: true, pp: 20, pri: 0, target: any
+This move does not check accuracy.
+
+Aura Wheel (气场轮)
+Electric
+Physical
+pow: 110, acc: 100, pp: 10, pri: 0, target: normal
+Has a 100% chance to raise the user's Speed by 1 stage. If the user is a Morpeko in Full Belly Mode, this move is Electric type. If the user is a Morpeko in Hangry Mode, this move is Dark type. This move cannot be used successfully unless the user's current form, while considering Transform, is Full Belly or Hangry Mode Morpeko.
+
+Aurora Beam (极光束)
+Ice
+Special
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+Has a 10% chance to lower the target's Attack by 1 stage.
+
+Aurora Veil (极光幕)
+Ice
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: allySide
+For 5 turns, the user and its party members take 0.5x damage from physical and special attacks, or 0.66x damage if in a Double Battle; does not reduce damage further with Reflect or Light Screen. Critical hits ignore this protection. It is removed from the user's side if the user or an ally is successfully hit by Brick Break, Psychic Fangs, or Defog. Brick Break and Psychic Fangs remove the effect before damage is calculated. Lasts for 8 turns if the user is holding Light Clay. Fails unless the weather is Hail.
+
+Autotomize (身体轻量化)
+Steel
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: self
+Raises the user's Speed by 2 stages. If the user's Speed was changed, the user's weight is reduced by 100 kg as long as it remains active. This effect is stackable but cannot reduce the user's weight to less than 0.1 kg.
+
+Avalanche (雪崩)
+Ice
+Physical
+pow: 60, acc: 100, pp: 10, pri: -4, target: normal
+Power doubles if the user was hit by the target this turn.
+
+Baby-Doll Eyes (圆瞳)
+Fairy
+Status
+pow: 0, acc: 100, pp: 30, pri: 1, target: normal
+Lowers the target's Attack by 1 stage.
+
+Baneful Bunker (碉堡)
+Poison
+Status
+pow: 0, acc: true, pp: 10, pri: 4, target: self
+The user is protected from most attacks made by other Pokemon during this turn, and Pokemon making contact with the user become poisoned. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Baton Pass (接棒)
+Normal
+Status
+pow: 0, acc: true, pp: 40, pri: 0, target: self
+The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes, confusion, and certain move effects transferred to it.
+
+Beat Up (围攻)
+Dark
+Physical
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Hits one time for the user and one time for each unfainted Pokemon without a non-volatile status condition in the user's party. The power of each hit is equal to 5+(X/10), where X is each participating Pokemon's base Attack; each hit is considered to come from the user.
+
+Behemoth Bash (巨兽弹)
+Steel
+Physical
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+Damage doubles if the target is Dynamaxed.
+
+Behemoth Blade (巨兽斩)
+Steel
+Physical
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+Damage doubles if the target is Dynamaxed.
+
+Belch (打嗝)
+Poison
+Special
+pow: 120, acc: 90, pp: 10, pri: 0, target: normal
+This move cannot be selected until the user eats a Berry, either by eating one that was held, stealing and eating one off another Pokemon with Bug Bite or Pluck, or eating one that was thrown at it with Fling. Once the condition is met, this move can be selected and used for the rest of the battle even if the user gains or uses another item or switches out. Consuming a Berry with Natural Gift does not count for the purposes of eating one.
+
+Belly Drum (腹鼓)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+Raises the user's Attack by 12 stages in exchange for the user losing 1/2 of its maximum HP, rounded down. Fails if the user would faint or if its Attack stat stage is 6.
+
+Bind (绑紧)
+Normal
+Physical
+pow: 15, acc: 85, pp: 20, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+Bite (咬住)
+Dark
+Physical
+pow: 60, acc: 100, pp: 25, pri: 0, target: normal
+Has a 30% chance to make the target flinch.
+
+Blast Burn (爆炸烈焰)
+Fire
+Special
+pow: 150, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Blaze Kick (火焰踢)
+Fire
+Physical
+pow: 85, acc: 90, pp: 10, pri: 0, target: normal
+Has a 10% chance to burn the target and a higher chance for a critical hit.
+
+Blizzard (暴风雪)
+Ice
+Special
+pow: 110, acc: 70, pp: 5, pri: 0, target: allAdjacentFoes
+Has a 10% chance to freeze the target. If the weather is Hail, this move does not check accuracy.
+
+Block (挡路)
+Normal
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: normal
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+
+Blue Flare (青焰)
+Fire
+Special
+pow: 130, acc: 85, pp: 5, pri: 0, target: normal
+Has a 20% chance to burn the target.
+
+Body Press (扑击)
+Fighting
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Damage is calculated using the user's Defense stat as its Attack, including stat stage changes. Other effects that modify the Attack stat are used as normal.
+
+Body Slam (泰山压顶)
+Normal
+Physical
+pow: 85, acc: 100, pp: 15, pri: 0, target: normal
+Has a 30% chance to paralyze the target. Damage doubles and no accuracy check is done if the target has used Minimize while active.
+
+Bolt Beak (电喙)
+Electric
+Physical
+pow: 85, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the user moves before the target.
+
+Bolt Strike (雷击)
+Electric
+Physical
+pow: 130, acc: 85, pp: 5, pri: 0, target: normal
+Has a 20% chance to paralyze the target.
+
+Bone Rush (骨棒乱打)
+Ground
+Physical
+pow: 25, acc: 90, pp: 10, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Bonemerang (骨头回力镖)
+Ground
+Physical
+pow: 50, acc: 90, pp: 10, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.
+
+Boomburst (爆音波)
+Normal
+Special
+pow: 140, acc: 100, pp: 10, pri: 0, target: allAdjacent
+No additional effect.
+
+Bounce (弹跳)
+Flying
+Physical
+pow: 85, acc: 85, pp: 5, pri: 0, target: any
+Has a 30% chance to paralyze the target. This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Gust, Hurricane, Sky Uppercut, Smack Down, Thousand Arrows, Thunder, and Twister, and Gust and Twister have doubled power when used against it. If the user is holding a Power Herb, the move completes in one turn.
+
+Branch Poke (木枝突刺)
+Grass
+Physical
+pow: 40, acc: 100, pp: 40, pri: 0, target: normal
+No additional effect.
+
+Brave Bird (勇鸟猛攻)
+Flying
+Physical
+pow: 120, acc: 100, pp: 15, pri: 0, target: any
+If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Breaking Swipe (广域破坏)
+Dragon
+Physical
+pow: 60, acc: 100, pp: 15, pri: 0, target: allAdjacentFoes
+Has a 100% chance to lower the target's Attack by 1 stage.
+
+Brick Break (劈瓦)
+Fighting
+Physical
+pow: 75, acc: 100, pp: 15, pri: 0, target: normal
+If this attack does not miss, the effects of Reflect, Light Screen, and Aurora Veil end for the target's side of the field before damage is calculated.
+
+Brine (盐水)
+Water
+Special
+pow: 65, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the target has less than or equal to half of its maximum HP remaining.
+
+Brutal Swing (狂舞挥打)
+Dark
+Physical
+pow: 60, acc: 100, pp: 20, pri: 0, target: allAdjacent
+No additional effect.
+
+Bubble Beam (泡沫光线)
+Water
+Special
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+Has a 10% chance to lower the target's Speed by 1 stage.
+
+Bug Bite (虫咬)
+Bug
+Physical
+pow: 60, acc: 100, pp: 20, pri: 0, target: normal
+If this move is successful and the user has not fainted, it steals the target's held Berry if it is holding one and eats it immediately, gaining its effects even if the user's item is being ignored. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+Bug Buzz (虫鸣)
+Bug
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 10% chance to lower the target's Special Defense by 1 stage.
+
+Bulk Up (健美)
+Fighting
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Attack and Defense by 1 stage.
+
+Bulldoze (重踏)
+Ground
+Physical
+pow: 60, acc: 100, pp: 20, pri: 0, target: allAdjacent
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Bullet Punch (子弹拳)
+Steel
+Physical
+pow: 40, acc: 100, pp: 30, pri: 1, target: normal
+No additional effect.
+
+Bullet Seed (种子机关枪)
+Grass
+Physical
+pow: 25, acc: 100, pp: 30, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Burn Up (燃尽)
+Fire
+Special
+pow: 130, acc: 100, pp: 5, pri: 0, target: normal
+Fails unless the user is a Fire type. If this move is successful, the user's Fire type becomes typeless as long as it remains active.
+
+Burning Jealousy (妒火)
+Fire
+Special
+pow: 70, acc: 100, pp: 5, pri: 0, target: allAdjacentFoes
+Has a 100% chance to burn the target if it had a stat stage raised this turn.
+
+Calm Mind (冥想)
+Psychic
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Special Attack and Special Defense by 1 stage.
+
+Celebrate (庆祝)
+Normal
+Status
+pow: 0, acc: true, pp: 40, pri: 0, target: self
+No competitive use.
+
+Charge (充电)
+Electric
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Special Defense by 1 stage. If the user uses an Electric-type attack on the next turn, its power will be doubled.
+
+Charge Beam (充电光束)
+Electric
+Special
+pow: 50, acc: 90, pp: 10, pri: 0, target: normal
+Has a 70% chance to raise the user's Special Attack by 1 stage.
+
+Charm (撒娇)
+Fairy
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Lowers the target's Attack by 2 stages.
+
+Circle Throw (巴投)
+Fighting
+Physical
+pow: 60, acc: 90, pp: 10, pri: -6, target: normal
+If both the user and the target have not fainted, the target is forced to switch out and be replaced with a random unfainted ally. This effect fails if the target is under the effect of Ingrain, has the Suction Cups Ability, or this move hit a substitute.
+
+Clanging Scales (鳞片噪音)
+Dragon
+Special
+pow: 110, acc: 100, pp: 5, pri: 0, target: allAdjacentFoes
+Lowers the user's Defense by 1 stage.
+
+Clangorous Soul (魂舞烈音爆)
+Dragon
+Status
+pow: 0, acc: 100, pp: 5, pri: 0, target: self
+Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage in exchange for the user losing 33% of its maximum HP, rounded down. Fails if the user would faint or if its Attack, Defense, Special Attack, Special Defense, and Speed stat stages would not change.
+
+Clear Smog (清除之烟)
+Poison
+Special
+pow: 50, acc: true, pp: 15, pri: 0, target: normal
+Resets all of the target's stat stages to 0.
+
+Close Combat (近身战)
+Fighting
+Physical
+pow: 120, acc: 100, pp: 5, pri: 0, target: normal
+Lowers the user's Defense and Special Defense by 1 stage.
+
+Coaching (指导)
+Fighting
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: adjacentAlly
+Raises the target's Attack and Defense by 1 stage. Fails if there is no ally adjacent to the user.
+
+Coil (盘蜷)
+Poison
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Attack, Defense, and accuracy by 1 stage.
+
+Confide (密语)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+Lowers the target's Special Attack by 1 stage.
+
+Confuse Ray (奇异之光)
+Ghost
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Causes the target to become confused.
+
+Confusion (念力)
+Psychic
+Special
+pow: 50, acc: 100, pp: 25, pri: 0, target: normal
+Has a 10% chance to confuse the target.
+
+Conversion (纹理)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: self
+The user's type changes to match the original type of the move in its first move slot. Fails if the user cannot change its type, or if the type is one of the user's current types.
+
+Conversion 2 (纹理２)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: normal
+The user's type changes to match a type that resists or is immune to the type of the last move used by the target, but not either of its current types. The determined type of the move is used rather than the original type. Fails if the target has not made a move, if the user cannot change its type, or if this move would only be able to select one of the user's current types.
+
+Copycat (仿效)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+The user uses the last move used by any Pokemon, including itself. The base move of Max and G-Max Moves is considered for this purpose. Fails if no move has been used, or if the last move used was Assist, Baneful Bunker, Beak Blast, Behemoth Bash, Behemoth Blade, Belch, Bestow, Celebrate, Chatter, Circle Throw, Copycat, Counter, Covet, Destiny Bond, Detect, Dragon Tail, Dynamax Cannon, Endure, Feint, Focus Punch, Follow Me, Helping Hand, Hold Hands, King's Shield, Mat Block, Me First, Metronome, Mimic, Mirror Coat, Mirror Move, Nature Power, Protect, Rage Powder, Roar, Shell Trap, Sketch, Sleep Talk, Snatch, Spiky Shield, Spotlight, Struggle, Switcheroo, Thief, Transform, Trick, or Whirlwind.
+
+Core Enforcer (核心惩罚者)
+Dragon
+Special
+pow: 100, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+If the user moves after the target, the target's Ability is rendered ineffective as long as it remains active. If the target uses Baton Pass, the replacement will remain under this effect. If the target's Ability is As One, Battle Bond, Comatose, Disguise, Gulp Missile, Ice Face, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change, or Zen Mode, this effect does not happen, and receiving the effect through Baton Pass ends the effect immediately.
+
+Corrosive Gas (腐蚀气体)
+Poison
+Status
+pow: 0, acc: 100, pp: 40, pri: 0, target: allAdjacent
+The target loses its held item. This move cannot cause Pokemon with the Sticky Hold Ability to lose their held item or cause a Kyogre, a Groudon, a Giratina, an Arceus, a Genesect, a Silvally, a Zacian, or a Zamazenta to lose their Blue Orb, Red Orb, Griseous Orb, Plate, Drive, Memory, Rusted Sword, or Rusted Shield respectively. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+Cosmic Power (宇宙力量)
+Psychic
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Defense and Special Defense by 1 stage.
+
+Cotton Guard (棉花防守)
+Grass
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+Raises the user's Defense by 3 stages.
+
+Cotton Spore (棉孢子)
+Grass
+Status
+pow: 0, acc: 100, pp: 40, pri: 0, target: allAdjacentFoes
+Lowers the target's Speed by 2 stages.
+
+Counter (双倍奉还)
+Fighting
+Physical
+pow: 0, acc: 100, pp: 20, pri: -5, target: scripted
+Deals damage to the last opposing Pokemon to hit the user with a physical attack this turn equal to twice the HP lost by the user from that attack. If the user did not lose HP from the attack, this move deals 1 HP of damage instead. If that opposing Pokemon's position is no longer in use and there is another opposing Pokemon on the field, the damage is done to it instead. Only the last hit of a multi-hit attack is counted. Fails if the user was not hit by an opposing Pokemon's physical attack this turn.
+
+Court Change (换场)
+Normal
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: all
+Switches the Mist, Light Screen, Reflect, Spikes, Safeguard, Tailwind, Toxic Spikes, Stealth Rock, Water Pledge, Fire Pledge, Grass Pledge, Sticky Web, Aurora Veil, G-Max Steelsurge, G-Max Cannonade, G-Max Vine Lash, and G-Max Wildfire effects from the user's side to the opposing side and vice versa.
+
+Covet (渴望)
+Normal
+Physical
+pow: 60, acc: 100, pp: 25, pri: 0, target: normal
+If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+Crabhammer (蟹钳锤)
+Water
+Physical
+pow: 100, acc: 90, pp: 10, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Crafty Shield (戏法防守)
+Fairy
+Status
+pow: 0, acc: true, pp: 10, pri: 3, target: allySide
+The user and its party members are protected from non-damaging attacks made by other Pokemon, including allies, during this turn. Fails if the user moves last this turn or if this move is already in effect for the user's side.
+
+Cross Chop (十字劈)
+Fighting
+Physical
+pow: 100, acc: 80, pp: 5, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Cross Poison (十字毒刃)
+Poison
+Physical
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+Has a 10% chance to poison the target and a higher chance for a critical hit.
+
+Crunch (咬碎)
+Dark
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a 20% chance to lower the target's Defense by 1 stage.
+
+Crush Claw (撕裂爪)
+Normal
+Physical
+pow: 75, acc: 95, pp: 10, pri: 0, target: normal
+Has a 50% chance to lower the target's Defense by 1 stage.
+
+Crush Grip (捏碎)
+Normal
+Physical
+pow: 0, acc: 100, pp: 5, pri: 0, target: normal
+Power is equal to 120 * (target's current HP / target's maximum HP), rounded half down, but not less than 1.
+
+Curse (咒术)
+Ghost
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: randomNormal
+If the user is not a Ghost type, lowers the user's Speed by 1 stage and raises the user's Attack and Defense by 1 stage. If the user is a Ghost type, the user loses 1/2 of its maximum HP, rounded down and even if it would cause fainting, in exchange for the target losing 1/4 of its maximum HP, rounded down, at the end of each turn while it is active. If the target uses Baton Pass, the replacement will continue to be affected. Fails if there is no target or if the target is already affected.
+
+Cut (居合劈)
+Normal
+Physical
+pow: 50, acc: 95, pp: 30, pri: 0, target: normal
+No additional effect.
+
+Dark Pulse (恶之波动)
+Dark
+Special
+pow: 80, acc: 100, pp: 15, pri: 0, target: any
+Has a 20% chance to make the target flinch.
+
+Darkest Lariat (ＤＤ金勾臂)
+Dark
+Physical
+pow: 85, acc: 100, pp: 10, pri: 0, target: normal
+Ignores the target's stat stage changes, including evasiveness.
+
+Dazzling Gleam (魔法闪耀)
+Fairy
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Decorate (装饰)
+Fairy
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: normal
+Raises the target's Attack and Special Attack by 2 stages.
+
+Defend Order (防御指令)
+Bug
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+Raises the user's Defense and Special Defense by 1 stage.
+
+Defense Curl (变圆)
+Normal
+Status
+pow: 0, acc: true, pp: 40, pri: 0, target: self
+Raises the user's Defense by 1 stage. As long as the user remains active, the power of the user's Ice Ball and Rollout will be doubled (this effect is not stackable).
+
+Defog (清除浓雾)
+Flying
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: normal
+Lowers the target's evasiveness by 1 stage. If this move is successful and whether or not the target's evasiveness was affected, the effects of Reflect, Light Screen, Aurora Veil, Safeguard, Mist, Spikes, Toxic Spikes, Stealth Rock, and Sticky Web end for the target's side, and the effects of Spikes, Toxic Spikes, Stealth Rock, and Sticky Web end for the user's side. Ignores a target's substitute, although a substitute will still block the lowering of evasiveness. If there is a terrain active and this move is successful, the terrain will be cleared.
+
+Destiny Bond (同命)
+Ghost
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: self
+Until the user's next move, if an opposing Pokemon's attack knocks the user out, that Pokemon faints as well, unless the attack was Doom Desire or Future Sight. Fails if the user used this move successfully as its last move, disregarding moves used through the Dancer Ability.
+
+Detect (看穿)
+Fighting
+Status
+pow: 0, acc: true, pp: 5, pri: 4, target: self
+The user is protected from most attacks made by other Pokemon during this turn. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Diamond Storm (钻石风暴)
+Rock
+Physical
+pow: 100, acc: 95, pp: 5, pri: 0, target: allAdjacentFoes
+Has a 50% chance to raise the user's Defense by 2 stages.
+
+Dig (挖洞)
+Ground
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Earthquake and Magnitude but takes double damage from them, and is also unaffected by weather. If the user is holding a Power Herb, the move completes in one turn.
+
+Disable (定身法)
+Normal
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+For 4 turns, the target's last move used becomes disabled. Fails if one of the target's moves is already disabled, if the target has not made a move, if the target no longer knows the move, or if the move was a Max or G-Max Move.
+
+Disarming Voice (魅惑之声)
+Fairy
+Special
+pow: 40, acc: true, pp: 15, pri: 0, target: allAdjacentFoes
+This move does not check accuracy.
+
+Discharge (放电)
+Electric
+Special
+pow: 80, acc: 100, pp: 15, pri: 0, target: allAdjacent
+Has a 30% chance to paralyze the target.
+
+Dive (潜水)
+Water
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Surf and Whirlpool but takes double damage from them, and is also unaffected by weather. If the user is holding a Power Herb, the move completes in one turn.
+
+Doom Desire (破灭之愿)
+Steel
+Special
+pow: 140, acc: 100, pp: 5, pri: 0, target: normal
+Deals damage two turns after this move is used. At the end of that turn, the damage is calculated at that time and dealt to the Pokemon at the position the target had when the move was used. If the user is no longer active at the time, damage is calculated based on the user's natural Special Attack stat, types, and level, with no boosts from its held item or Ability. Fails if this move or Future Sight is already in effect for the target's position.
+
+Double Hit (二连击)
+Normal
+Physical
+pow: 35, acc: 90, pp: 10, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.
+
+Double Iron Bash (钢拳双击)
+Steel
+Physical
+pow: 60, acc: 100, pp: 5, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit. Has a 30% chance to make the target flinch.
+
+Double Kick (二连踢)
+Fighting
+Physical
+pow: 30, acc: 100, pp: 30, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.
+
+Double Team (影子分身)
+Normal
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: self
+Raises the user's evasiveness by 1 stage.
+
+Double-Edge (舍身冲撞)
+Normal
+Physical
+pow: 120, acc: 100, pp: 15, pri: 0, target: normal
+If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Draco Meteor (流星群)
+Dragon
+Special
+pow: 130, acc: 90, pp: 5, pri: 0, target: normal
+Lowers the user's Special Attack by 2 stages.
+
+Dragon Ascent (画龙点睛)
+Flying
+Physical
+pow: 120, acc: 100, pp: 5, pri: 0, target: any
+Lowers the user's Defense and Special Defense by 1 stage.
+
+Dragon Breath (龙息)
+Dragon
+Special
+pow: 60, acc: 100, pp: 20, pri: 0, target: normal
+Has a 30% chance to paralyze the target.
+
+Dragon Claw (龙爪)
+Dragon
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+No additional effect.
+
+Dragon Dance (龙之舞)
+Dragon
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Attack and Speed by 1 stage.
+
+Dragon Darts (龙箭)
+Dragon
+Physical
+pow: 50, acc: 100, pp: 10, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit. In Double Battles, this move attempts to hit the targeted Pokemon and its ally once each. If hitting one of these Pokemon would be prevented by immunity, protection, semi-invulnerability, an Ability, or accuracy, it attempts to hit the other Pokemon twice instead. If this move is redirected, it hits that target twice.
+
+Dragon Energy (巨龙威能)
+Dragon
+Special
+pow: 150, acc: 100, pp: 5, pri: 0, target: allAdjacentFoes
+Power is equal to (user's current HP * 150 / user's maximum HP), rounded down, but not less than 1.
+
+Dragon Hammer (龙锤)
+Dragon
+Physical
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+No additional effect.
+
+Dragon Pulse (龙之波动)
+Dragon
+Special
+pow: 85, acc: 100, pp: 10, pri: 0, target: any
+No additional effect.
+
+Dragon Rush (龙之俯冲)
+Dragon
+Physical
+pow: 100, acc: 75, pp: 10, pri: 0, target: normal
+Has a 20% chance to make the target flinch. Damage doubles and no accuracy check is done if the target has used Minimize while active.
+
+Dragon Tail (龙尾)
+Dragon
+Physical
+pow: 60, acc: 90, pp: 10, pri: -6, target: normal
+If both the user and the target have not fainted, the target is forced to switch out and be replaced with a random unfainted ally. This effect fails if the target used Ingrain previously, has the Suction Cups Ability, or this move hit a substitute.
+
+Drain Punch (吸取拳)
+Fighting
+Physical
+pow: 75, acc: 100, pp: 10, pri: 0, target: normal
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Draining Kiss (吸取之吻)
+Fairy
+Special
+pow: 50, acc: 100, pp: 10, pri: 0, target: normal
+The user recovers 3/4 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Dream Eater (食梦)
+Psychic
+Special
+pow: 100, acc: 100, pp: 15, pri: 0, target: normal
+The target is unaffected by this move unless it is asleep. The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Drill Peck (啄钻)
+Flying
+Physical
+pow: 80, acc: 100, pp: 20, pri: 0, target: any
+No additional effect.
+
+Drill Run (直冲钻)
+Ground
+Physical
+pow: 80, acc: 95, pp: 10, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Drum Beating (鼓击)
+Grass
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Dual Chop (二连劈)
+Dragon
+Physical
+pow: 40, acc: 90, pp: 15, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.
+
+Dual Wingbeat (双翼)
+Flying
+Physical
+pow: 40, acc: 90, pp: 10, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.
+
+Dynamax Cannon (极巨炮)
+Dragon
+Special
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+Damage doubles if the target is Dynamaxed.
+
+Dynamic Punch (爆裂拳)
+Fighting
+Physical
+pow: 100, acc: 50, pp: 5, pri: 0, target: normal
+Has a 100% chance to confuse the target.
+
+Earth Power (大地之力)
+Ground
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 10% chance to lower the target's Special Defense by 1 stage.
+
+Earthquake (地震)
+Ground
+Physical
+pow: 100, acc: 100, pp: 10, pri: 0, target: allAdjacent
+Damage doubles if the target is using Dig.
+
+Echoed Voice (回声)
+Normal
+Special
+pow: 40, acc: 100, pp: 15, pri: 0, target: normal
+For every consecutive turn that this move is used by at least one Pokemon, this move's power is multiplied by the number of turns to pass, but not more than 5.
+
+Eerie Impulse (怪异电波)
+Electric
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Lowers the target's Special Attack by 2 stages.
+
+Eerie Spell (诡异咒语)
+Psychic
+Special
+pow: 80, acc: 100, pp: 5, pri: 0, target: normal
+If this move is successful and the user has not fainted, the target loses 3 PP from its last move.
+
+Electric Terrain (电气场地)
+Electric
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, the terrain becomes Electric Terrain. During the effect, the power of Electric-type attacks made by grounded Pokemon is multiplied by 1.3 and grounded Pokemon cannot fall asleep; Pokemon already asleep do not wake up. Grounded Pokemon cannot become affected by Yawn or fall asleep from its effect. Camouflage transforms the user into an Electric type, Nature Power becomes Thunderbolt, and Secret Power has a 30% chance to cause paralysis. Fails if the current terrain is Electric Terrain.
+
+Electrify (输电)
+Electric
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+Causes the target's move to become Electric type this turn. Among effects that can change a move's type, this effect happens last. Fails if the target already moved this turn.
+
+Electro Ball (电球)
+Electric
+Special
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+The power of this move depends on (user's current Speed / target's current Speed), rounded down. Power is equal to 150 if the result is 4 or more, 120 if 3, 80 if 2, 60 if 1, 40 if less than 1. If the target's current Speed is 0, this move's power is 40.
+
+Electroweb (电网)
+Electric
+Special
+pow: 55, acc: 95, pp: 15, pri: 0, target: allAdjacentFoes
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Ember (火花)
+Fire
+Special
+pow: 40, acc: 100, pp: 25, pri: 0, target: normal
+Has a 10% chance to burn the target.
+
+Encore (再来一次)
+Normal
+Status
+pow: 0, acc: 100, pp: 5, pri: 0, target: normal
+For its next 3 turns, the target is forced to repeat its last move used. If the affected move runs out of PP, the effect ends. Fails if the target is already under this effect, if it has not made a move, if the move has 0 PP, if the target is Dynamaxed, or if the move is Assist, Copycat, Dynamax Cannon, Encore, Me First, Metronome, Mimic, Mirror Move, Nature Power, Sketch, Sleep Talk, Struggle, or Transform.
+
+Endeavor (蛮干)
+Normal
+Physical
+pow: 0, acc: 100, pp: 5, pri: 0, target: normal
+Deals damage to the target equal to (target's current HP - user's current HP). The target is unaffected if its current HP is less than or equal to the user's current HP.
+
+Endure (挺住)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 4, target: self
+The user will survive attacks made by other Pokemon during this turn with at least 1 HP. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Energy Ball (能量球)
+Grass
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 10% chance to lower the target's Special Defense by 1 stage.
+
+Entrainment (找伙伴)
+Normal
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Causes the target's Ability to become the same as the user's. Fails if the target's Ability is As One, Battle Bond, Comatose, Disguise, Gulp Missile, Ice Face, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change, Truant, Zen Mode, or the same Ability as the user, or if the user's Ability is As One, Battle Bond, Comatose, Disguise, Flower Gift, Forecast, Gulp Missile, Hunger Switch, Ice Face, Illusion, Imposter, Multitype, Neutralizing Gas, Power Construct, Power of Alchemy, Receiver, RKS System, Schooling, Shields Down, Stance Change, Trace, or Zen Mode.
+
+Eruption (喷火)
+Fire
+Special
+pow: 150, acc: 100, pp: 5, pri: 0, target: allAdjacentFoes
+Power is equal to (user's current HP * 150 / user's maximum HP), rounded down, but not less than 1.
+
+Eternabeam (无极光束)
+Dragon
+Special
+pow: 160, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Expanding Force (广域战力)
+Psychic
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+If the current terrain is Psychic Terrain and the user is grounded, this move hits all opposing Pokemon and has its power multiplied by 1.5.
+
+Explosion (大爆炸)
+Normal
+Physical
+pow: 250, acc: 100, pp: 5, pri: 0, target: allAdjacent
+The user faints after using this move, even if this move fails for having no target. This move is prevented from executing if any active Pokemon has the Damp Ability.
+
+Extrasensory (神通力)
+Psychic
+Special
+pow: 80, acc: 100, pp: 20, pri: 0, target: normal
+Has a 10% chance to make the target flinch.
+
+Extreme Speed (神速)
+Normal
+Physical
+pow: 80, acc: 100, pp: 5, pri: 2, target: normal
+No additional effect.
+
+Facade (硬撑)
+Normal
+Physical
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+Power doubles if the user is burned, paralyzed, or poisoned. The physical damage halving effect from the user's burn is ignored.
+
+Fairy Lock (妖精之锁)
+Fairy
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+Prevents all active Pokemon from switching next turn. A Pokemon can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. Fails if the effect is already active.
+
+Fairy Wind (妖精之风)
+Fairy
+Special
+pow: 40, acc: 100, pp: 30, pri: 0, target: normal
+No additional effect.
+
+Fake Out (击掌奇袭)
+Normal
+Physical
+pow: 40, acc: 100, pp: 10, pri: 3, target: normal
+Has a 100% chance to make the target flinch. Fails unless it is the user's first turn on the field.
+
+Fake Tears (假哭)
+Dark
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Lowers the target's Special Defense by 2 stages.
+
+False Surrender (假跪真撞)
+Dark
+Physical
+pow: 80, acc: true, pp: 10, pri: 0, target: normal
+This move does not check accuracy.
+
+False Swipe (点到为止)
+Normal
+Physical
+pow: 40, acc: 100, pp: 40, pri: 0, target: normal
+Leaves the target with at least 1 HP.
+
+Feather Dance (羽毛舞)
+Flying
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Lowers the target's Attack by 2 stages.
+
+Feint (佯攻)
+Normal
+Physical
+pow: 30, acc: 100, pp: 10, pri: 2, target: normal
+If this move is successful, it breaks through the target's Baneful Bunker, Detect, King's Shield, Protect, or Spiky Shield for this turn, allowing other Pokemon to attack the target normally. If the target's side is protected by Crafty Shield, Mat Block, Quick Guard, or Wide Guard, that protection is also broken for this turn and other Pokemon may attack the target's side normally.
+
+Fell Stinger (致命针刺)
+Bug
+Physical
+pow: 50, acc: 100, pp: 25, pri: 0, target: normal
+Raises the user's Attack by 3 stages if this move knocks out the target.
+
+Fiery Dance (火之舞)
+Fire
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Has a 50% chance to raise the user's Special Attack by 1 stage.
+
+Fiery Wrath (怒火中烧)
+Dark
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+Has a 20% chance to make the target flinch.
+
+Final Gambit (搏命)
+Fighting
+Special
+pow: 0, acc: 100, pp: 5, pri: 0, target: normal
+Deals damage to the target equal to the user's current HP. If this move is successful, the user faints.
+
+Fire Blast (大字爆炎)
+Fire
+Special
+pow: 110, acc: 85, pp: 5, pri: 0, target: normal
+Has a 10% chance to burn the target.
+
+Fire Fang (火焰牙)
+Fire
+Physical
+pow: 65, acc: 95, pp: 15, pri: 0, target: normal
+Has a 10% chance to burn the target and a 10% chance to make it flinch.
+
+Fire Lash (火焰鞭)
+Fire
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a 100% chance to lower the target's Defense by 1 stage.
+
+Fire Pledge (火之誓约)
+Fire
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+If one of the user's allies chose to use Grass Pledge or Water Pledge this turn and has not moved yet, it takes its turn immediately after the user and the user's move does nothing. If combined with Grass Pledge, the ally uses Fire Pledge with 150 power and a sea of fire appears on the target's side for 4 turns, which causes damage to non-Fire types equal to 1/8 of their maximum HP, rounded down, at the end of each turn during effect, including the last turn. If combined with Water Pledge, the ally uses Water Pledge with 150 power and a rainbow appears on the user's side for 4 turns, which doubles secondary effect chances and stacks with the Serene Grace Ability, except effects that cause flinching can only have their chance doubled once. When used as a combined move, this move gains STAB no matter what the user's type is. This move does not consume the user's Fire Gem.
+
+Fire Punch (火焰拳)
+Fire
+Physical
+pow: 75, acc: 100, pp: 15, pri: 0, target: normal
+Has a 10% chance to burn the target.
+
+Fire Spin (火焰旋涡)
+Fire
+Special
+pow: 35, acc: 85, pp: 15, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+First Impression (迎头一击)
+Bug
+Physical
+pow: 90, acc: 100, pp: 10, pri: 2, target: normal
+Fails unless it is the user's first turn on the field.
+
+Fishious Rend (鳃咬)
+Water
+Physical
+pow: 85, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the user moves before the target.
+
+Fissure (地裂)
+Ground
+Physical
+pow: 0, acc: 30, pp: 5, pri: 0, target: normal
+Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.
+
+Flail (抓狂)
+Normal
+Physical
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+The power of this move is 20 if X is 33 to 48, 40 if X is 17 to 32, 80 if X is 10 to 16, 100 if X is 5 to 9, 150 if X is 2 to 4, and 200 if X is 0 or 1, where X is equal to (user's current HP * 48 / user's maximum HP), rounded down.
+
+Flame Charge (蓄能焰袭)
+Fire
+Physical
+pow: 50, acc: 100, pp: 20, pri: 0, target: normal
+Has a 100% chance to raise the user's Speed by 1 stage.
+
+Flame Wheel (火焰轮)
+Fire
+Physical
+pow: 60, acc: 100, pp: 25, pri: 0, target: normal
+Has a 10% chance to burn the target.
+
+Flamethrower (喷射火焰)
+Fire
+Special
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+Has a 10% chance to burn the target.
+
+Flare Blitz (闪焰冲锋)
+Fire
+Physical
+pow: 120, acc: 100, pp: 15, pri: 0, target: normal
+Has a 10% chance to burn the target. If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Flash Cannon (加农光炮)
+Steel
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Has a 10% chance to lower the target's Special Defense by 1 stage.
+
+Flatter (吹捧)
+Dark
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Raises the target's Special Attack by 1 stage and confuses it.
+
+Fleur Cannon (花朵加农炮)
+Fairy
+Special
+pow: 130, acc: 90, pp: 5, pri: 0, target: normal
+Lowers the user's Special Attack by 2 stages.
+
+Fling (投掷)
+Dark
+Physical
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+The power of this move is based on the user's held item. The held item is lost and it activates for the target if applicable. If there is no target or the target avoids this move by protecting itself, the user's held item is still lost. The user can regain a thrown item with Recycle or the Harvest Ability. Fails if the user has no held item, if the held item cannot be thrown, if the user is under the effect of Embargo or Magic Room, or if the user has the Klutz Ability.
+
+Flip Turn (快速折返)
+Water
+Physical
+pow: 60, acc: 100, pp: 20, pri: 0, target: normal
+If this move is successful and the user has not fainted, the user switches out even if it is trapped and is replaced immediately by a selected party member. The user does not switch out if there are no unfainted party members, or if the target switched out using an Eject Button or through the effect of the Emergency Exit or Wimp Out Abilities.
+
+Floral Healing (花疗)
+Fairy
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The target restores 1/2 of its maximum HP, rounded half up. If the terrain is Grassy Terrain, the target instead restores 2/3 of its maximum HP, rounded half down.
+
+Flower Shield (鲜花防守)
+Fairy
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+Raises the Defense of all active Grass-type Pokemon by 1 stage. Fails if there are no active Grass-type Pokemon.
+
+Fly (飞翔)
+Flying
+Physical
+pow: 90, acc: 95, pp: 15, pri: 0, target: any
+This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Gust, Hurricane, Sky Uppercut, Smack Down, Thousand Arrows, Thunder, and Twister, and Gust and Twister have doubled power when used against it. If the user is holding a Power Herb, the move completes in one turn.
+
+Flying Press (飞身重压)
+Fighting
+Physical
+pow: 100, acc: 95, pp: 10, pri: 0, target: any
+This move combines Flying in its type effectiveness against the target. Damage doubles and no accuracy check is done if the target has used Minimize while active.
+
+Focus Blast (真气弹)
+Fighting
+Special
+pow: 120, acc: 70, pp: 5, pri: 0, target: normal
+Has a 10% chance to lower the target's Special Defense by 1 stage.
+
+Focus Energy (聚气)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: self
+Raises the user's chance for a critical hit by 2 stages. Fails if the user already has the effect. Baton Pass can be used to transfer this effect to an ally.
+
+Focus Punch (真气拳)
+Fighting
+Physical
+pow: 150, acc: 100, pp: 20, pri: -3, target: normal
+The user loses its focus and does nothing if it is hit by a damaging attack this turn before it can execute the move.
+
+Follow Me (看我嘛)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 2, target: self
+Until the end of the turn, all single-target attacks from the opposing side are redirected to the user. Such attacks are redirected to the user before they can be reflected by Magic Coat or the Magic Bounce Ability, or drawn in by the Lightning Rod or Storm Drain Abilities. Fails if it is not a Double Battle or Battle Royal. This effect is ignored while the user is under the effect of Sky Drop.
+
+Force Palm (发劲)
+Fighting
+Physical
+pow: 60, acc: 100, pp: 10, pri: 0, target: normal
+Has a 30% chance to paralyze the target.
+
+Forest's Curse
+Grass
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Causes the Grass type to be added to the target, effectively making it have two or three types. Fails if the target is already a Grass type. If Trick-or-Treat adds a type to the target, it replaces the type added by this move and vice versa.
+
+Foul Play (移花接木)
+Dark
+Physical
+pow: 95, acc: 100, pp: 15, pri: 0, target: normal
+Damage is calculated using the target's Attack stat, including stat stage changes. The user's Ability, item, and burn are used as normal.
+
+Freeze Shock (冰冻伏特)
+Ice
+Physical
+pow: 140, acc: 90, pp: 5, pri: 0, target: normal
+Has a 30% chance to paralyze the target. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.
+
+Freeze-Dry (冷冻干燥)
+Ice
+Special
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+Has a 10% chance to freeze the target. This move's type effectiveness against Water is changed to be super effective no matter what this move's type is.
+
+Freezing Glare (冰冷视线)
+Psychic
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 10% chance to freeze the target.
+
+Frenzy Plant (疯狂植物)
+Grass
+Special
+pow: 150, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Frost Breath (冰息)
+Ice
+Special
+pow: 60, acc: 90, pp: 10, pri: 0, target: normal
+This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities.
+
+Fury Attack (乱击)
+Normal
+Physical
+pow: 15, acc: 85, pp: 20, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Fury Cutter (连斩)
+Bug
+Physical
+pow: 40, acc: 95, pp: 20, pri: 0, target: normal
+Power doubles with each successful hit, up to a maximum of 160 power. The power is reset if this move misses or another move is used.
+
+Fury Swipes (乱抓)
+Normal
+Physical
+pow: 18, acc: 80, pp: 15, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Fusion Bolt (交错闪电)
+Electric
+Physical
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+Power doubles if the last move used by any Pokemon this turn was Fusion Flare.
+
+Fusion Flare (交错火焰)
+Fire
+Special
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+Power doubles if the last move used by any Pokemon this turn was Fusion Bolt.
+
+Future Sight (预知未来)
+Psychic
+Special
+pow: 120, acc: 100, pp: 10, pri: 0, target: normal
+Deals damage two turns after this move is used. At the end of that turn, the damage is calculated at that time and dealt to the Pokemon at the position the target had when the move was used. If the user is no longer active at the time, damage is calculated based on the user's natural Special Attack stat, types, and level, with no boosts from its held item or Ability. Fails if this move or Doom Desire is already in effect for the target's position.
+
+Gastro Acid (胃液)
+Poison
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Causes the target's Ability to be rendered ineffective as long as it remains active. If the target uses Baton Pass, the replacement will remain under this effect. If the target's Ability is As One, Battle Bond, Comatose, Disguise, Gulp Missile, Ice Face, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change, or Zen Mode, this move fails, and receiving the effect through Baton Pass ends the effect immediately.
+
+Gear Grind (齿轮飞盘)
+Steel
+Physical
+pow: 50, acc: 85, pp: 15, pri: 0, target: normal
+Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit.
+
+Gear Up (辅助齿轮)
+Steel
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: allySide
+Raises the Attack and Special Attack of Pokemon on the user's side with the Plus or Minus Abilities by 1 stage.
+
+Geomancy (大地掌控)
+Fairy
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+Raises the user's Special Attack, Special Defense, and Speed by 2 stages. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.
+
+Giga Drain (终极吸取)
+Grass
+Special
+pow: 75, acc: 100, pp: 10, pri: 0, target: normal
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Giga Impact (终极冲击)
+Normal
+Physical
+pow: 150, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Glacial Lance (雪矛)
+Ice
+Physical
+pow: 130, acc: 100, pp: 5, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Glaciate (冰封世界)
+Ice
+Special
+pow: 65, acc: 95, pp: 10, pri: 0, target: allAdjacentFoes
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Glare (大蛇瞪眼)
+Normal
+Status
+pow: 0, acc: 100, pp: 30, pri: 0, target: normal
+Paralyzes the target.
+
+Grass Knot (打草结)
+Grass
+Special
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+This move's power is 20 if the target weighs less than 10 kg, 40 if less than 25 kg, 60 if less than 50 kg, 80 if less than 100 kg, 100 if less than 200 kg, and 120 if greater than or equal to 200 kg.
+
+Grass Pledge (草之誓约)
+Grass
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+If one of the user's allies chose to use Fire Pledge or Water Pledge this turn and has not moved yet, it takes its turn immediately after the user and the user's move does nothing. If combined with Fire Pledge, the ally uses Fire Pledge with 150 power and a sea of fire appears on the target's side for 4 turns, which causes damage to non-Fire types equal to 1/8 of their maximum HP, rounded down, at the end of each turn during effect, including the last turn. If combined with Water Pledge, the ally uses Grass Pledge with 150 power and a swamp appears on the target's side for 4 turns, which quarters the Speed of each Pokemon on that side. When used as a combined move, this move gains STAB no matter what the user's type is. This move does not consume the user's Grass Gem.
+
+Grassy Glide (青草滑梯)
+Grass
+Physical
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+If the current terrain is Grassy Terrain and the user is grounded, this move has its priority increased by 1.
+
+Grassy Terrain (青草场地)
+Grass
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, the terrain becomes Grassy Terrain. During the effect, the power of Grass-type attacks used by grounded Pokemon is multiplied by 1.3, the power of Bulldoze, Earthquake, and Magnitude used against grounded Pokemon is multiplied by 0.5, and grounded Pokemon have 1/16 of their maximum HP, rounded down, restored at the end of each turn, including the last turn. Camouflage transforms the user into a Grass type, Nature Power becomes Energy Ball, and Secret Power has a 30% chance to cause sleep. Fails if the current terrain is Grassy Terrain.
+
+Grav Apple (万有引力)
+Grass
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Has a 100% chance to lower the target's Defense by 1 stage. Power is multiplied by 1.5 during Gravity's effect.
+
+Gravity (重力)
+Psychic
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: all
+For 5 turns, the evasiveness of all active Pokemon is multiplied by 0.6. At the time of use, Bounce, Fly, Magnet Rise, Sky Drop, and Telekinesis end immediately for all active Pokemon. During the effect, Bounce, Fly, Flying Press, High Jump Kick, Jump Kick, Magnet Rise, Sky Drop, Splash, and Telekinesis are prevented from being used by all active Pokemon. Ground-type attacks, Spikes, Toxic Spikes, Sticky Web, and the Arena Trap Ability can affect Flying types or Pokemon with the Levitate Ability. Fails if this move is already in effect.
+
+Growl (叫声)
+Normal
+Status
+pow: 0, acc: 100, pp: 40, pri: 0, target: allAdjacentFoes
+Lowers the target's Attack by 1 stage.
+
+Growth (生长)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Attack and Special Attack by 1 stage. If the weather is Sunny Day or Desolate Land, this move raises the user's Attack and Special Attack by 2 stages. If the user is holding Utility Umbrella, this move will only raise the user's Attack and Special Attack by 1 stage, even if the weather is Sunny Day or Desolate Land.
+
+Grudge (怨念)
+Ghost
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: self
+Until the user's next turn, if an opposing Pokemon's attack knocks the user out, that move loses all its remaining PP.
+
+Guard Split (防守平分)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user and the target have their Defense and Special Defense stats set to be equal to the average of the user and the target's Defense and Special Defense stats, respectively, rounded down. Stat stage changes are unaffected.
+
+Guard Swap (防守互换)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user swaps its Defense and Special Defense stat stage changes with the target.
+
+Guillotine (极落钳)
+Normal
+Physical
+pow: 0, acc: 30, pp: 5, pri: 0, target: normal
+Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.
+
+Gunk Shot (垃圾射击)
+Poison
+Physical
+pow: 120, acc: 80, pp: 5, pri: 0, target: normal
+Has a 30% chance to poison the target.
+
+Gust (起风)
+Flying
+Special
+pow: 40, acc: 100, pp: 35, pri: 0, target: any
+Power doubles if the target is using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop.
+
+Gyro Ball (陀螺球)
+Steel
+Physical
+pow: 0, acc: 100, pp: 5, pri: 0, target: normal
+Power is equal to (25 * target's current Speed / user's current Speed) + 1, rounded down, but not more than 150. If the user's current Speed is 0, this move's power is 1.
+
+Hail (冰雹)
+Ice
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, the weather becomes Hail. At the end of each turn except the last, all active Pokemon lose 1/16 of their maximum HP, rounded down, unless they are an Ice type or have the Ice Body, Magic Guard, Overcoat, or Snow Cloak Abilities. Lasts for 8 turns if the user is holding Icy Rock. Fails if the current weather is Hail.
+
+Hammer Arm (臂锤)
+Fighting
+Physical
+pow: 100, acc: 90, pp: 10, pri: 0, target: normal
+Lowers the user's Speed by 1 stage.
+
+Happy Hour (欢乐时光)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: allySide
+No competitive use.
+
+Harden (变硬)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: self
+Raises the user's Defense by 1 stage.
+
+Haze (黑雾)
+Ice
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: all
+Resets the stat stages of all active Pokemon to 0.
+
+Head Charge (爆炸头突击)
+Normal
+Physical
+pow: 120, acc: 100, pp: 15, pri: 0, target: normal
+If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Head Smash (双刃头锤)
+Rock
+Physical
+pow: 150, acc: 80, pp: 5, pri: 0, target: normal
+If the target lost HP, the user takes recoil damage equal to 1/2 the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Headbutt (头锤)
+Normal
+Physical
+pow: 70, acc: 100, pp: 15, pri: 0, target: normal
+Has a 30% chance to make the target flinch.
+
+Heal Bell (治愈铃声)
+Normal
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: allyTeam
+Every Pokemon in the user's party is cured of its non-volatile status condition. Active Pokemon with the Soundproof Ability are not cured, unless they are the user.
+
+Heal Pulse (治愈波动)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: any
+The target restores 1/2 of its maximum HP, rounded half up. If the user has the Mega Launcher Ability, the target instead restores 3/4 of its maximum HP, rounded half down.
+
+Healing Wish (治愈之愿)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user faints, and if the Pokemon brought out to replace it does not have full HP or has a non-volatile status condition, its HP is fully restored along with having any non-volatile status condition cured. The replacement is sent out at the end of the turn, and the healing happens before hazards take effect. This effect continues until a Pokemon that meets either of these conditions switches in at the user's position or gets swapped into the position with Ally Switch. Fails if the user is the last unfainted Pokemon in its party.
+
+Heat Crash (高温重压)
+Fire
+Physical
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+The power of this move depends on (user's weight / target's weight), rounded down. Power is equal to 120 if the result is 5 or more, 100 if 4, 80 if 3, 60 if 2, and 40 if 1 or less. Damage doubles and no accuracy check is done if the target has used Minimize while active.
+
+Heat Wave (热风)
+Fire
+Special
+pow: 95, acc: 90, pp: 10, pri: 0, target: allAdjacentFoes
+Has a 10% chance to burn the target.
+
+Heavy Slam (重磅冲撞)
+Steel
+Physical
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+The power of this move depends on (user's weight / target's weight), rounded down. Power is equal to 120 if the result is 5 or more, 100 if 4, 80 if 3, 60 if 2, and 40 if 1 or less. Damage doubles and no accuracy check is done if the target has used Minimize while active.
+
+Helping Hand (帮助)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 5, target: adjacentAlly
+The power of the target's attack this turn is multiplied by 1.5 (this effect is stackable). Fails if there is no ally adjacent to the user or if the ally already moved this turn, but does not fail if the ally is using a two-turn move.
+
+Hex (祸不单行)
+Ghost
+Special
+pow: 65, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the target has a non-volatile status condition.
+
+High Horsepower (十万马力)
+Ground
+Physical
+pow: 95, acc: 95, pp: 10, pri: 0, target: normal
+No additional effect.
+
+High Jump Kick (飞膝踢)
+Fighting
+Physical
+pow: 130, acc: 90, pp: 10, pri: 0, target: normal
+If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage.
+
+Hold Back (手下留情)
+Normal
+Physical
+pow: 40, acc: 100, pp: 40, pri: 0, target: normal
+Leaves the target with at least 1 HP.
+
+Hold Hands (牵手)
+Normal
+Status
+pow: 0, acc: true, pp: 40, pri: 0, target: adjacentAlly
+No competitive use. Fails if there is no ally adjacent to the user.
+
+Hone Claws (磨爪)
+Dark
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: self
+Raises the user's Attack and accuracy by 1 stage.
+
+Horn Attack (角撞)
+Normal
+Physical
+pow: 65, acc: 100, pp: 25, pri: 0, target: normal
+No additional effect.
+
+Horn Drill (角钻)
+Normal
+Physical
+pow: 0, acc: 30, pp: 5, pri: 0, target: normal
+Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.
+
+Horn Leech (木角)
+Grass
+Physical
+pow: 75, acc: 100, pp: 10, pri: 0, target: normal
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Howl (长嚎)
+Normal
+Status
+pow: 0, acc: true, pp: 40, pri: 0, target: allies
+Raises the Attack of the user and all allies 1 stage.
+
+Hurricane (暴风)
+Flying
+Special
+pow: 110, acc: 70, pp: 10, pri: 0, target: any
+Has a 30% chance to confuse the target. This move can hit a target using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop. If the weather is Primordial Sea or Rain Dance, this move does not check accuracy. If the weather is Desolate Land or Sunny Day, this move's accuracy is 50%. If this move is used against a Pokemon holding Utility Umbrella, this move's accuracy remains at 70%.
+
+Hydro Cannon (加农水炮)
+Water
+Special
+pow: 150, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Hydro Pump (水炮)
+Water
+Special
+pow: 110, acc: 80, pp: 5, pri: 0, target: normal
+No additional effect.
+
+Hyper Beam (破坏光线)
+Normal
+Special
+pow: 150, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Hyper Voice (巨声)
+Normal
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Hypnosis (催眠术)
+Psychic
+Status
+pow: 0, acc: 60, pp: 20, pri: 0, target: normal
+Causes the target to fall asleep.
+
+Ice Beam (冰冻光束)
+Ice
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 10% chance to freeze the target.
+
+Ice Burn (极寒冷焰)
+Ice
+Special
+pow: 140, acc: 90, pp: 5, pri: 0, target: normal
+Has a 30% chance to burn the target. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.
+
+Ice Fang (冰冻牙)
+Ice
+Physical
+pow: 65, acc: 95, pp: 15, pri: 0, target: normal
+Has a 10% chance to freeze the target and a 10% chance to make it flinch.
+
+Ice Punch (冰冻拳)
+Ice
+Physical
+pow: 75, acc: 100, pp: 15, pri: 0, target: normal
+Has a 10% chance to freeze the target.
+
+Ice Shard (冰砾)
+Ice
+Physical
+pow: 40, acc: 100, pp: 30, pri: 1, target: normal
+No additional effect.
+
+Icicle Crash (冰柱坠击)
+Ice
+Physical
+pow: 85, acc: 90, pp: 10, pri: 0, target: normal
+Has a 30% chance to make the target flinch.
+
+Icicle Spear (冰锥)
+Ice
+Physical
+pow: 25, acc: 100, pp: 30, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Icy Wind (冰冻之风)
+Ice
+Special
+pow: 55, acc: 95, pp: 15, pri: 0, target: allAdjacentFoes
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Imprison (封印)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user prevents all opposing Pokemon from using any moves that the user also knows as long as the user remains active.
+
+Incinerate (烧净)
+Fire
+Special
+pow: 60, acc: 100, pp: 15, pri: 0, target: allAdjacentFoes
+The target loses its held item if it is a Berry or a Gem. This move cannot cause Pokemon with the Sticky Hold Ability to lose their held item. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+Inferno (烈火深渊)
+Fire
+Special
+pow: 100, acc: 50, pp: 5, pri: 0, target: normal
+Has a 100% chance to burn the target.
+
+Infestation (纠缠不休)
+Bug
+Special
+pow: 20, acc: 100, pp: 20, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+Ingrain (扎根)
+Grass
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+The user has 1/16 of its maximum HP restored at the end of each turn, but it is prevented from switching out and other Pokemon cannot force the user to switch out. The user can still switch out if it uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the user leaves the field using Baton Pass, the replacement will remain trapped and still receive the healing effect. During the effect, the user can be hit normally by Ground-type attacks and be affected by Spikes, Toxic Spikes, and Sticky Web, even if the user is a Flying type or has the Levitate Ability.
+
+Instruct (号令)
+Psychic
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: normal
+The target immediately uses its last used move. Fails if the target has not made a move, if the move has 0 PP, if the target is Dynamaxed, if the target is preparing to use Beak Blast, Focus Punch, or Shell Trap, or if the move is Assist, Beak Blast, Belch, Bide, Celebrate, Chatter, Copycat, Dynamax Cannon, Focus Punch, Hold Hands, Ice Ball, Instruct, King's Shield, Me First, Metronome, Mimic, Mirror Move, Nature Power, Obstruct, Outrage, Petal Dance, Rollout, Shell Trap, Sketch, Sleep Talk, Struggle, Thrash, Transform, Uproar, any two-turn move, any recharge move, or any Max or G-Max Move.
+
+Iron Defense (铁壁)
+Steel
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: self
+Raises the user's Defense by 2 stages.
+
+Iron Head (铁头)
+Steel
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a 30% chance to make the target flinch.
+
+Iron Tail (铁尾)
+Steel
+Physical
+pow: 100, acc: 75, pp: 15, pri: 0, target: normal
+Has a 30% chance to lower the target's Defense by 1 stage.
+
+Jaw Lock (紧咬不放)
+Dark
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Prevents the user and the target from switching out. The user and the target can still switch out if either of them is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field.
+
+Jungle Healing (丛林治疗)
+Grass
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: allies
+Each Pokemon on the user's side restores 1/4 of its maximum HP, rounded half up, and has its status condition cured.
+
+Kinesis (折弯汤匙)
+Psychic
+Status
+pow: 0, acc: 80, pp: 15, pri: 0, target: normal
+Lowers the target's accuracy by 1 stage.
+
+King's Shield
+Steel
+Status
+pow: 0, acc: true, pp: 10, pri: 4, target: self
+The user is protected from most attacks made by other Pokemon during this turn, and Pokemon trying to make contact with the user have their Attack lowered by 1 stage. Non-damaging moves go through this protection. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Knock Off (拍落)
+Dark
+Physical
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+If the target is holding an item that can be removed from it, ignoring the Sticky Hold Ability, this move's power is multiplied by 1.5. If the user has not fainted, the target loses its held item. This move cannot cause Pokemon with the Sticky Hold Ability to lose their held item or cause a Kyogre, a Groudon, a Giratina, an Arceus, a Genesect, a Silvally, a Zacian, or a Zamazenta to lose their Blue Orb, Red Orb, Griseous Orb, Plate, Drive, Memory, Rusted Sword, or Rusted Shield respectively. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+Land's Wrath
+Ground
+Physical
+pow: 90, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Laser Focus (磨砺)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: self
+Until the end of the next turn, the user's attacks will be critical hits.
+
+Lash Out (泄愤)
+Dark
+Physical
+pow: 75, acc: 100, pp: 5, pri: 0, target: normal
+Power doubles if the user had a stat stage lowered this turn.
+
+Last Resort (珍藏)
+Normal
+Physical
+pow: 140, acc: 100, pp: 5, pri: 0, target: normal
+This move fails unless the user knows this move and at least one other move, and has used all the other moves it knows at least once each since it became active or Transformed.
+
+Lava Plume (喷烟)
+Fire
+Special
+pow: 80, acc: 100, pp: 15, pri: 0, target: allAdjacent
+Has a 30% chance to burn the target.
+
+Leaf Blade (叶刃)
+Grass
+Physical
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Leaf Storm (飞叶风暴)
+Grass
+Special
+pow: 130, acc: 90, pp: 5, pri: 0, target: normal
+Lowers the user's Special Attack by 2 stages.
+
+Leaf Tornado (青草搅拌器)
+Grass
+Special
+pow: 65, acc: 90, pp: 10, pri: 0, target: normal
+Has a 50% chance to lower the target's accuracy by 1 stage.
+
+Leafage (树叶)
+Grass
+Physical
+pow: 40, acc: 100, pp: 40, pri: 0, target: normal
+No additional effect.
+
+Leech Life (汲取)
+Bug
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Leech Seed (寄生种子)
+Grass
+Status
+pow: 0, acc: 90, pp: 10, pri: 0, target: normal
+The Pokemon at the user's position steals 1/8 of the target's maximum HP, rounded down, at the end of each turn. If Big Root is held by the recipient, the HP recovered is 1.3x normal, rounded half down. If the target uses Baton Pass, the replacement will continue being leeched. If the target switches out or uses Rapid Spin successfully, the effect ends. Grass-type Pokemon are immune to this move on use, but not its effect.
+
+Leer (瞪眼)
+Normal
+Status
+pow: 0, acc: 100, pp: 30, pri: 0, target: allAdjacentFoes
+Lowers the target's Defense by 1 stage.
+
+Lick (舌舔)
+Ghost
+Physical
+pow: 30, acc: 100, pp: 30, pri: 0, target: normal
+Has a 30% chance to paralyze the target.
+
+Life Dew (生命水滴)
+Water
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: allies
+Each Pokemon on the user's side restores 1/4 of its maximum HP, rounded half up.
+
+Light Screen (光墙)
+Psychic
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: allySide
+For 5 turns, the user and its party members take 0.5x damage from special attacks, or 0.66x damage if in a Double Battle. Damage is not reduced further with Aurora Veil. Critical hits ignore this effect. It is removed from the user's side if the user or an ally is successfully hit by Brick Break, Psychic Fangs, or Defog. Lasts for 8 turns if the user is holding Light Clay. Fails if the effect is already active on the user's side.
+
+Liquidation (水流裂破)
+Water
+Physical
+pow: 85, acc: 100, pp: 10, pri: 0, target: normal
+Has a 20% chance to lower the target's Defense by 1 stage.
+
+Lock-On (锁定)
+Normal
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: normal
+Until the end of the next turn, the target cannot avoid the user's moves, even if the target is in the middle of a two-turn move. The effect ends if either the user or the target leaves the field. Fails if this effect is active for the user.
+
+Lovely Kiss (恶魔之吻)
+Normal
+Status
+pow: 0, acc: 75, pp: 10, pri: 0, target: normal
+Causes the target to fall asleep.
+
+Low Kick (踢倒)
+Fighting
+Physical
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+This move's power is 20 if the target weighs less than 10 kg, 40 if less than 25 kg, 60 if less than 50 kg, 80 if less than 100 kg, 100 if less than 200 kg, and 120 if greater than or equal to 200 kg.
+
+Low Sweep (下盘踢)
+Fighting
+Physical
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Lunar Dance (新月舞)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user faints, and if the Pokemon brought out to replace it does not have full HP or PP, or has a non-volatile status condition, its HP and PP are fully restored along with having any non-volatile status condition cured. The replacement is sent out at the end of the turn, and the healing happens before hazards take effect. This effect continues until a Pokemon that meets any of these conditions switches in at the user's position or gets swapped into the position with Ally Switch. Fails if the user is the last unfainted Pokemon in its party.
+
+Lunge (猛扑)
+Bug
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a 100% chance to lower the target's Attack by 1 stage.
+
+Luster Purge (洁净光芒)
+Psychic
+Special
+pow: 70, acc: 100, pp: 5, pri: 0, target: normal
+Has a 50% chance to lower the target's Special Defense by 1 stage.
+
+Mach Punch (音速拳)
+Fighting
+Physical
+pow: 40, acc: 100, pp: 30, pri: 1, target: normal
+No additional effect.
+
+Magic Coat (魔法反射)
+Psychic
+Status
+pow: 0, acc: true, pp: 15, pri: 4, target: self
+Until the end of the turn, the user is unaffected by certain non-damaging moves directed at it and will instead use such moves against the original user. Moves reflected in this way are unable to be reflected again by this or the Magic Bounce Ability's effect. Spikes, Stealth Rock, Sticky Web, and Toxic Spikes can only be reflected once per side, by the leftmost Pokemon under this or the Magic Bounce Ability's effect. The Lightning Rod and Storm Drain Abilities redirect their respective moves before this move takes effect.
+
+Magic Powder (魔法粉)
+Psychic
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Causes the target to become a Psychic type. Fails if the target is an Arceus or a Silvally, or if the target is already purely Psychic type.
+
+Magic Room (魔法空间)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, the held items of all active Pokemon have no effect. An item's effect of causing forme changes is unaffected, but any other effects from such items are negated. During the effect, Fling and Natural Gift are prevented from being used by all active Pokemon. If this move is used during the effect, the effect ends.
+
+Magical Leaf (魔法叶)
+Grass
+Special
+pow: 60, acc: true, pp: 20, pri: 0, target: normal
+This move does not check accuracy.
+
+Magma Storm (熔岩风暴)
+Fire
+Special
+pow: 100, acc: 75, pp: 5, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+Magnet Rise (电磁飘浮)
+Electric
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+For 5 turns, the user is immune to Ground-type attacks and the effects of Spikes, Toxic Spikes, Sticky Web, and the Arena Trap Ability as long as it remains active. If the user uses Baton Pass, the replacement will gain the effect. Ingrain, Smack Down, Thousand Arrows, and Iron Ball override this move if the user is under any of their effects. Fails if the user is already under this effect or the effects of Ingrain, Smack Down, or Thousand Arrows.
+
+Magnetic Flux (磁场操控)
+Electric
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: allySide
+Raises the Defense and Special Defense of Pokemon on the user's side with the Plus or Minus Abilities by 1 stage.
+
+Mat Block (掀榻榻米)
+Fighting
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: allySide
+The user and its party members are protected from damaging attacks made by other Pokemon, including allies, during this turn. Fails unless it is the user's first turn on the field, if the user moves last this turn, or if this move is already in effect for the user's side.
+
+Max Airstream (极巨飞冲)
+Flying
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Speed of each Pokemon on the user's side is raised by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Darkness (极巨恶霸)
+Dark
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Special Defense of each Pokemon on the opposing side is lowered by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Flare (极巨火爆)
+Fire
+Physical
+pow: 100, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Sunny Day begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Flutterby (极巨虫蛊)
+Bug
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Special Attack of each Pokemon on the opposing side is lowered by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Geyser (极巨水流)
+Water
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Rain Dance begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Guard (极巨防壁)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 4, target: self
+The user is protected from nearly all attacks made by other Pokemon during this turn, including Max and G-Max Moves. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Max Hailstorm (极巨寒冰)
+Ice
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Hail begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Knuckle (极巨拳斗)
+Fighting
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Boosts the user and its allies' Attack by 1 stage. BP scales with the base move's BP. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Lightning (极巨闪电)
+Electric
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Electric Terrain begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Mindstorm (极巨超能)
+Psychic
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Psychic Terrain begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Ooze (极巨酸毒)
+Poison
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Special Attack of each Pokemon on the user's side is raised by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Overgrowth (极巨草原)
+Grass
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Grassy Terrain begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Phantasm (极巨幽魂)
+Ghost
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Defense of each Pokemon on the opposing side is lowered by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Quake (极巨大地)
+Ground
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Special Defense of each Pokemon on the user's side is raised by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Rockfall (极巨岩石)
+Rock
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Sandstorm begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Starfall (极巨妖精)
+Fairy
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the effect of Misty Terrain begins. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Steelspike (极巨钢铁)
+Steel
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Defense of each Pokemon on the user's side is raised by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Strike (极巨攻击)
+Normal
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Speed of each Pokemon on the opposing side is lowered by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Max Wyrmwind (极巨龙骑)
+Dragon
+Physical
+pow: 10, acc: true, pp: 10, pri: 0, target: adjacentFoe
+Power is equal to the base move's Max Move power. If this move is successful, the Attack of each Pokemon on the opposing side is lowered by 1 stage, even if they have a substitute. This effect does not happen if the user is not Dynamaxed. If this move is used as a base move, it deals damage with a power of 0.
+
+Mean Look (黑色目光)
+Normal
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: normal
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+
+Mega Drain (超级吸取)
+Grass
+Special
+pow: 40, acc: 100, pp: 15, pri: 0, target: normal
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Mega Kick (百万吨重踢)
+Normal
+Physical
+pow: 120, acc: 75, pp: 5, pri: 0, target: normal
+No additional effect.
+
+Mega Punch (百万吨重拳)
+Normal
+Physical
+pow: 80, acc: 85, pp: 20, pri: 0, target: normal
+No additional effect.
+
+Megahorn (超级角击)
+Bug
+Physical
+pow: 120, acc: 85, pp: 10, pri: 0, target: normal
+No additional effect.
+
+Memento (临别礼物)
+Dark
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Lowers the target's Attack and Special Attack by 2 stages. The user faints unless this move misses or there is no target. Fails entirely if this move hits a substitute, but does not fail if the target's stats cannot be changed.
+
+Metal Burst (金属爆炸)
+Steel
+Physical
+pow: 0, acc: 100, pp: 10, pri: 0, target: scripted
+Deals damage to the last opposing Pokemon to hit the user with a physical or special attack this turn equal to 1.5 times the HP lost by the user from that attack, rounded down. If the user did not lose HP from that attack, this move deals 1 HP of damage instead. If that opposing Pokemon's position is no longer in use and there is another opposing Pokemon on the field, the damage is done to it instead. Only the last hit of a multi-hit attack is counted. Fails if the user was not hit by an opposing Pokemon's physical or special attack this turn.
+
+Metal Claw (金属爪)
+Steel
+Physical
+pow: 50, acc: 95, pp: 35, pri: 0, target: normal
+Has a 10% chance to raise the user's Attack by 1 stage.
+
+Metal Sound (金属音)
+Steel
+Status
+pow: 0, acc: 85, pp: 40, pri: 0, target: normal
+Lowers the target's Special Defense by 2 stages.
+
+Meteor Assault (流星突击)
+Fighting
+Physical
+pow: 150, acc: 100, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Meteor Beam (流星光束)
+Rock
+Special
+pow: 120, acc: 90, pp: 10, pri: 0, target: normal
+This attack charges on the first turn and executes on the second. Raises the user's Special Attack by 1 stage on the first turn. If the user is holding a Power Herb, the move completes in one turn.
+
+Meteor Mash (彗星拳)
+Steel
+Physical
+pow: 90, acc: 90, pp: 10, pri: 0, target: normal
+Has a 20% chance to raise the user's Attack by 1 stage.
+
+Metronome (挥指)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+A random move is selected for use, other than After You, Apple Acid, Assist, Astral Barrage, Aura Wheel, Baneful Bunker, Beak Blast, Behemoth Bash, Behemoth Blade, Belch, Bestow, Body Press, Branch Poke, Breaking Swipe, Celebrate, Chatter, Clangorous Soul, Copycat, Counter, Covet, Crafty Shield, Decorate, Destiny Bond, Detect, Diamond Storm, Double Iron Bash, Dragon Ascent, Dragon Energy, Dragon Hammer, Drum Beating, Dynamax Cannon, Endure, Eternabeam, False Surrender, Feint, Fiery Wrath, Fleur Cannon, Focus Punch, Follow Me, Freeze Shock, Freezing Glare, Glacial Lance, Grav Apple, Helping Hand, Hold Hands, Hyperspace Fury, Hyperspace Hole, Ice Burn, Instruct, Jungle Healing, King's Shield, Life Dew, Light of Ruin, Mat Block, Me First, Meteor Assault, Metronome, Mimic, Mind Blown, Mirror Coat, Mirror Move, Moongeist Beam, Nature Power, Nature's Madness, Obstruct, Origin Pulse, Overdrive, Photon Geyser, Plasma Fists, Precipice Blades, Protect, Pyro Ball, Quash, Quick Guard, Rage Powder, Relic Song, Secret Sword, Shell Trap, Sketch, Sleep Talk, Snap Trap, Snarl, Snatch, Snore, Spectral Thief, Spiky Shield, Spirit Break, Spotlight, Steam Eruption, Steel Beam, Strange Steam, Struggle, Sunsteel Strike, Surging Strikes, Switcheroo, Techno Blast, Thief, Thousand Arrows, Thousand Waves, Thunder Cage, Thunderous Kick, Transform, Trick, V-create, Wicked Blow, or Wide Guard.
+
+Milk Drink (喝牛奶)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user restores 1/2 of its maximum HP, rounded half up.
+
+Mimic (模仿)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+While the user remains active, this move is replaced by the last move used by the target. The copied move has the maximum PP for that move. Fails if the target has not made a move, if the user has Transformed, if the user already knows the move, or if the move is Behemoth Bash, Behemoth Blade, Chatter, Dynamax Cannon, Mimic, Sketch, Struggle, Transform, or any Max or G-Max Move.
+
+Mind Blown (惊爆大头)
+Fire
+Special
+pow: 150, acc: 100, pp: 5, pri: 0, target: allAdjacent
+Whether or not this move is successful and even if it would cause fainting, the user loses 1/2 of its maximum HP, rounded up, unless the user has the Magic Guard Ability. This move is prevented from executing and the user does not lose HP if any active Pokemon has the Damp Ability, or if this move is Fire type and the user is affected by Powder or the weather is Primordial Sea.
+
+Mind Reader (心之眼)
+Normal
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: normal
+Until the end of the next turn, the target cannot avoid the user's moves, even if the target is in the middle of a two-turn move. The effect ends if either the user or the target leaves the field. Fails if this effect is active for the user.
+
+Minimize (变小)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+Raises the user's evasiveness by 2 stages. Whether or not the user's evasiveness was changed, Body Slam, Dragon Rush, Flying Press, Heat Crash, Heavy Slam, Malicious Moonsault, Steamroller, and Stomp will not check accuracy and have their damage doubled if used against the user while it is active.
+
+Mirror Coat (镜面反射)
+Psychic
+Special
+pow: 0, acc: 100, pp: 20, pri: -5, target: scripted
+Deals damage to the last opposing Pokemon to hit the user with a special attack this turn equal to twice the HP lost by the user from that attack. If the user did not lose HP from the attack, this move deals 1 HP of damage instead. If that opposing Pokemon's position is no longer in use and there is another opposing Pokemon on the field, the damage is done to it instead. Only the last hit of a multi-hit attack is counted. Fails if the user was not hit by an opposing Pokemon's special attack this turn.
+
+Mist (白雾)
+Ice
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: allySide
+For 5 turns, the user and its party members are protected from having their stat stages lowered by other Pokemon. Fails if the effect is already active on the user's side.
+
+Mist Ball (薄雾球)
+Psychic
+Special
+pow: 70, acc: 100, pp: 5, pri: 0, target: normal
+Has a 50% chance to lower the target's Special Attack by 1 stage.
+
+Misty Explosion (薄雾炸裂)
+Fairy
+Special
+pow: 100, acc: 100, pp: 5, pri: 0, target: allAdjacent
+If the current terrain is Misty Terrain and the user is grounded, this move's power is multiplied by 1.5. The user faints after using this move, even if this move fails for having no target. This move is prevented from executing if any active Pokemon has the Damp Ability.
+
+Misty Terrain (薄雾场地)
+Fairy
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, the terrain becomes Misty Terrain. During the effect, the power of Dragon-type attacks used against grounded Pokemon is multiplied by 0.5 and grounded Pokemon cannot be inflicted with a non-volatile status condition nor confusion. Grounded Pokemon can become affected by Yawn but cannot fall asleep from its effect. Camouflage transforms the user into a Fairy type, Nature Power becomes Moonblast, and Secret Power has a 30% chance to lower Special Attack by 1 stage. Fails if the current terrain is Misty Terrain.
+
+Moonblast (月亮之力)
+Fairy
+Special
+pow: 95, acc: 100, pp: 15, pri: 0, target: normal
+Has a 30% chance to lower the target's Special Attack by 1 stage.
+
+Moongeist Beam (暗影之光)
+Ghost
+Special
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+This move and its effects ignore the Abilities of other Pokemon.
+
+Moonlight (月光)
+Fairy
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: self
+The user restores 1/2 of its maximum HP if Delta Stream or no weather conditions are in effect or if the user is holding Utility Umbrella, 2/3 of its maximum HP if the weather is Desolate Land or Sunny Day, and 1/4 of its maximum HP if the weather is Hail, Primordial Sea, Rain Dance, or Sandstorm, all rounded half down.
+
+Morning Sun (晨光)
+Normal
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: self
+The user restores 1/2 of its maximum HP if Delta Stream or no weather conditions are in effect or if the user is holding Utility Umbrella, 2/3 of its maximum HP if the weather is Desolate Land or Sunny Day, and 1/4 of its maximum HP if the weather is Hail, Primordial Sea, Rain Dance, or Sandstorm, all rounded half down.
+
+Mud Shot (泥巴射击)
+Ground
+Special
+pow: 55, acc: 95, pp: 15, pri: 0, target: normal
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Mud-Slap (掷泥)
+Ground
+Special
+pow: 20, acc: 100, pp: 10, pri: 0, target: normal
+Has a 100% chance to lower the target's accuracy by 1 stage.
+
+Muddy Water (浊流)
+Water
+Special
+pow: 90, acc: 85, pp: 10, pri: 0, target: allAdjacentFoes
+Has a 30% chance to lower the target's accuracy by 1 stage.
+
+Multi-Attack (多属性攻击)
+Normal
+Physical
+pow: 120, acc: 100, pp: 10, pri: 0, target: normal
+This move's type depends on the user's held Memory.
+
+Mystical Fire (魔法火焰)
+Fire
+Special
+pow: 75, acc: 100, pp: 10, pri: 0, target: normal
+Has a 100% chance to lower the target's Special Attack by 1 stage.
+
+Nasty Plot (诡计)
+Dark
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Special Attack by 2 stages.
+
+Nature Power (自然之力)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+This move calls another move for use based on the battle terrain. Tri Attack on the regular Wi-Fi terrain, Thunderbolt during Electric Terrain, Moonblast during Misty Terrain, Energy Ball during Grassy Terrain, and Psychic during Psychic Terrain.
+
+Nature's Madness
+Fairy
+Special
+pow: 0, acc: 90, pp: 10, pri: 0, target: normal
+Deals damage to the target equal to half of its current HP, rounded down, but not less than 1 HP.
+
+Night Daze (暗黑爆破)
+Dark
+Special
+pow: 85, acc: 95, pp: 10, pri: 0, target: normal
+Has a 40% chance to lower the target's accuracy by 1 stage.
+
+Night Shade (黑夜魔影)
+Ghost
+Special
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Deals damage to the target equal to the user's level.
+
+Night Slash (暗袭要害)
+Dark
+Physical
+pow: 70, acc: 100, pp: 15, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+No Retreat (背水一战)
+Fighting
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: self
+Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage, but it becomes prevented from switching out. The user can still switch out if it uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the user leaves the field using Baton Pass, the replacement will remain trapped. Fails if the user has already been prevented from switching by this effect.
+
+Noble Roar (战吼)
+Normal
+Status
+pow: 0, acc: 100, pp: 30, pri: 0, target: normal
+Lowers the target's Attack and Special Attack by 1 stage.
+
+Nuzzle (蹭蹭脸颊)
+Electric
+Physical
+pow: 20, acc: 100, pp: 20, pri: 0, target: normal
+Has a 100% chance to paralyze the target.
+
+Oblivion Wing (归天之翼)
+Flying
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: any
+The user recovers 3/4 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Obstruct (拦堵)
+Dark
+Status
+pow: 0, acc: 100, pp: 10, pri: 4, target: self
+The user is protected from most attacks made by other Pokemon during this turn, and Pokemon trying to make contact with the user have their Defense lowered by 2 stages. Non-damaging moves go through this protection. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Octazooka (章鱼桶炮)
+Water
+Special
+pow: 65, acc: 85, pp: 10, pri: 0, target: normal
+Has a 50% chance to lower the target's accuracy by 1 stage.
+
+Octolock (蛸固)
+Fighting
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Prevents the target from switching out. At the end of each turn during effect, the target's Defense and Special Defense are lowered by 1 stage. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+
+Origin Pulse (根源波动)
+Water
+Special
+pow: 110, acc: 85, pp: 10, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Outrage (逆鳞)
+Dragon
+Physical
+pow: 120, acc: 100, pp: 10, pri: 0, target: randomNormal
+The user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, is asleep at the beginning of a turn, or the attack is not successful against the target on the first turn of the effect or the second turn of a three-turn effect, the effect ends without causing confusion. If this move is called by Sleep Talk and the user is asleep, the move is used for one turn and does not confuse the user.
+
+Overdrive (破音)
+Electric
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Overheat (过热)
+Fire
+Special
+pow: 130, acc: 90, pp: 5, pri: 0, target: normal
+Lowers the user's Special Attack by 2 stages.
+
+Pain Split (分担痛楚)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+The user and the target's HP become the average of their current HP, rounded down, but not more than the maximum HP of either one.
+
+Parabolic Charge (抛物面充电)
+Electric
+Special
+pow: 65, acc: 100, pp: 20, pri: 0, target: allAdjacent
+The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down.
+
+Parting Shot (抛下狠话)
+Dark
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Lowers the target's Attack and Special Attack by 1 stage. If this move is successful, the user switches out even if it is trapped and is replaced immediately by a selected party member. The user does not switch out if the target's Attack and Special Attack stat stages were both unchanged, or if there are no unfainted party members.
+
+Pay Day (聚宝功)
+Normal
+Physical
+pow: 40, acc: 100, pp: 20, pri: 0, target: normal
+No additional effect.
+
+Payback (以牙还牙)
+Dark
+Physical
+pow: 50, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the user moves after the target this turn, including actions taken through Instruct or the Dancer Ability. Switching in does not count as an action.
+
+Peck (啄)
+Flying
+Physical
+pow: 35, acc: 100, pp: 35, pri: 0, target: any
+No additional effect.
+
+Perish Song (终焉之歌)
+Normal
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: all
+Each active Pokemon receives a perish count of 4 if it doesn't already have a perish count. At the end of each turn including the turn used, the perish count of all active Pokemon lowers by 1 and Pokemon faint if the number reaches 0. The perish count is removed from Pokemon that switch out. If a Pokemon uses Baton Pass while it has a perish count, the replacement will gain the perish count and continue to count down.
+
+Petal Blizzard (落英缤纷)
+Grass
+Physical
+pow: 90, acc: 100, pp: 15, pri: 0, target: allAdjacent
+No additional effect.
+
+Petal Dance (花瓣舞)
+Grass
+Special
+pow: 120, acc: 100, pp: 10, pri: 0, target: randomNormal
+The user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, is asleep at the beginning of a turn, or the attack is not successful against the target on the first turn of the effect or the second turn of a three-turn effect, the effect ends without causing confusion. If this move is called by Sleep Talk and the user is asleep, the move is used for one turn and does not confuse the user.
+
+Phantom Force (潜灵奇袭)
+Ghost
+Physical
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+If this move is successful, it breaks through the target's Baneful Bunker, Detect, King's Shield, Protect, or Spiky Shield for this turn, allowing other Pokemon to attack the target normally. If the target's side is protected by Crafty Shield, Mat Block, Quick Guard, or Wide Guard, that protection is also broken for this turn and other Pokemon may attack the target's side normally. This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks. If the user is holding a Power Herb, the move completes in one turn.
+
+Photon Geyser (光子喷涌)
+Psychic
+Special
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+This move becomes a physical attack if the user's Attack is greater than its Special Attack, including stat stage changes. This move and its effects ignore the Abilities of other Pokemon.
+
+Pin Missile (飞弹针)
+Bug
+Physical
+pow: 25, acc: 95, pp: 20, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Plasma Fists (等离子闪电拳)
+Electric
+Physical
+pow: 100, acc: 100, pp: 15, pri: 0, target: normal
+If this move is successful, causes Normal-type moves to become Electric type this turn.
+
+Play Nice (和睦相处)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+Lowers the target's Attack by 1 stage.
+
+Play Rough (嬉闹)
+Fairy
+Physical
+pow: 90, acc: 90, pp: 10, pri: 0, target: normal
+Has a 10% chance to lower the target's Attack by 1 stage.
+
+Pluck (啄食)
+Flying
+Physical
+pow: 60, acc: 100, pp: 20, pri: 0, target: any
+If this move is successful and the user has not fainted, it steals the target's held Berry if it is holding one and eats it immediately, gaining its effects even if the user's item is being ignored. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+Poison Fang (剧毒牙)
+Poison
+Physical
+pow: 50, acc: 100, pp: 15, pri: 0, target: normal
+Has a 50% chance to badly poison the target.
+
+Poison Gas (毒瓦斯)
+Poison
+Status
+pow: 0, acc: 90, pp: 40, pri: 0, target: allAdjacentFoes
+Poisons the target.
+
+Poison Jab (毒击)
+Poison
+Physical
+pow: 80, acc: 100, pp: 20, pri: 0, target: normal
+Has a 30% chance to poison the target.
+
+Poison Powder (毒粉)
+Poison
+Status
+pow: 0, acc: 75, pp: 35, pri: 0, target: normal
+Poisons the target.
+
+Poison Sting (毒针)
+Poison
+Physical
+pow: 15, acc: 100, pp: 35, pri: 0, target: normal
+Has a 30% chance to poison the target.
+
+Poison Tail (毒尾)
+Poison
+Physical
+pow: 50, acc: 100, pp: 25, pri: 0, target: normal
+Has a 10% chance to poison the target and a higher chance for a critical hit.
+
+Pollen Puff (花粉团)
+Bug
+Special
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+If the target is an ally, this move restores 1/2 of its maximum HP, rounded down, instead of dealing damage.
+
+Poltergeist (灵骚)
+Ghost
+Physical
+pow: 110, acc: 90, pp: 5, pri: 0, target: normal
+Fails if the target has no held item.
+
+Pound (拍击)
+Normal
+Physical
+pow: 40, acc: 100, pp: 35, pri: 0, target: normal
+No additional effect.
+
+Powder Snow (细雪)
+Ice
+Special
+pow: 40, acc: 100, pp: 25, pri: 0, target: allAdjacentFoes
+Has a 10% chance to freeze the target.
+
+Power Gem (力量宝石)
+Rock
+Special
+pow: 80, acc: 100, pp: 20, pri: 0, target: normal
+No additional effect.
+
+Power Split (力量平分)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user and the target have their Attack and Special Attack stats set to be equal to the average of the user and the target's Attack and Special Attack stats, respectively, rounded down. Stat stage changes are unaffected.
+
+Power Swap (力量互换)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user swaps its Attack and Special Attack stat stage changes with the target.
+
+Power Trick (力量戏法)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user swaps its Attack and Defense stats, and stat stage changes remain on their respective stats. This move can be used again to swap the stats back. If the user uses Baton Pass, the replacement will have its Attack and Defense stats swapped if the effect is active. If the user has its stats recalculated by changing forme while its stats are swapped, this effect is ignored but is still active for the purposes of Baton Pass.
+
+Power Trip (嚣张)
+Dark
+Physical
+pow: 20, acc: 100, pp: 10, pri: 0, target: normal
+Power is equal to 20+(X*20), where X is the user's total stat stage changes that are greater than 0.
+
+Power Whip (强力鞭打)
+Grass
+Physical
+pow: 120, acc: 85, pp: 10, pri: 0, target: normal
+No additional effect.
+
+Power-Up Punch (增强拳)
+Fighting
+Physical
+pow: 40, acc: 100, pp: 20, pri: 0, target: normal
+Has a 100% chance to raise the user's Attack by 1 stage.
+
+Precipice Blades (断崖之剑)
+Ground
+Physical
+pow: 120, acc: 85, pp: 10, pri: 0, target: allAdjacentFoes
+No additional effect.
+
+Present (礼物)
+Normal
+Physical
+pow: 0, acc: 90, pp: 15, pri: 0, target: normal
+If this move is successful, it deals damage or heals the target. 40% chance for 40 power, 30% chance for 80 power, 10% chance for 120 power, and 20% chance to heal the target by 1/4 of its maximum HP, rounded down.
+
+Prismatic Laser (棱镜镭射)
+Psychic
+Special
+pow: 160, acc: 100, pp: 10, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Protect (守住)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 4, target: self
+The user is protected from most attacks made by other Pokemon during this turn. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Psybeam (幻象光线)
+Psychic
+Special
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+Has a 10% chance to confuse the target.
+
+Psych Up (自我暗示)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user copies all of the target's current stat stage changes.
+
+Psychic (精神强念)
+Psychic
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 10% chance to lower the target's Special Defense by 1 stage.
+
+Psychic Fangs (精神之牙)
+Psychic
+Physical
+pow: 85, acc: 100, pp: 10, pri: 0, target: normal
+If this attack does not miss, the effects of Reflect, Light Screen, and Aurora Veil end for the target's side of the field before damage is calculated.
+
+Psychic Terrain (精神场地)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, the terrain becomes Psychic Terrain. During the effect, the power of Psychic-type attacks made by grounded Pokemon is multiplied by 1.3 and grounded Pokemon cannot be hit by moves with priority greater than 0, unless the target is an ally. Camouflage transforms the user into a Psychic type, Nature Power becomes Psychic, and Secret Power has a 30% chance to lower the target's Speed by 1 stage. Fails if the current terrain is Psychic Terrain.
+
+Psycho Cut (精神利刃)
+Psychic
+Physical
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Psycho Shift (精神转移)
+Psychic
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+The user's non-volatile status condition is transferred to the target, and the user is then cured. Fails if the user has no non-volatile status condition or if the target already has one.
+
+Psyshock (精神冲击)
+Psychic
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Deals damage to the target based on its Defense instead of Special Defense.
+
+Psystrike (精神击破)
+Psychic
+Special
+pow: 100, acc: 100, pp: 10, pri: 0, target: normal
+Deals damage to the target based on its Defense instead of Special Defense.
+
+Purify (净化)
+Poison
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+The target is cured if it has a non-volatile status condition. If the target was cured, the user restores 1/2 of its maximum HP, rounded down.
+
+Pyro Ball (火焰球)
+Fire
+Physical
+pow: 120, acc: 90, pp: 5, pri: 0, target: normal
+Has a 10% chance to burn the target.
+
+Quash (延后)
+Dark
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Causes the target to take its turn after all other Pokemon this turn, no matter the priority of its selected move. Fails if the target already moved this turn.
+
+Quick Attack (电光一闪)
+Normal
+Physical
+pow: 40, acc: 100, pp: 30, pri: 1, target: normal
+No additional effect.
+
+Quick Guard (快速防守)
+Fighting
+Status
+pow: 0, acc: true, pp: 15, pri: 3, target: allySide
+The user and its party members are protected from attacks with original or altered priority greater than 0 made by other Pokemon, including allies, during this turn. This move modifies the same 1/X chance of being successful used by other protection moves, where X starts at 1 and triples each time this move is successfully used, but does not use the chance to check for failure. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn or if this move is already in effect for the user's side.
+
+Quiver Dance (蝶舞)
+Bug
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Special Attack, Special Defense, and Speed by 1 stage.
+
+Rage Powder (愤怒粉)
+Bug
+Status
+pow: 0, acc: true, pp: 20, pri: 2, target: self
+Until the end of the turn, all single-target attacks from the opposing side are redirected to the user. Such attacks are redirected to the user before they can be reflected by Magic Coat or the Magic Bounce Ability, or drawn in by the Lightning Rod or Storm Drain Abilities. Fails if it is not a Double Battle or Battle Royal. This effect is ignored while the user is under the effect of Sky Drop.
+
+Rain Dance (求雨)
+Water
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: all
+For 5 turns, the weather becomes Rain Dance. The damage of Water-type attacks is multiplied by 1.5 and the damage of Fire-type attacks is multiplied by 0.5 during the effect. Lasts for 8 turns if the user is holding Damp Rock. Fails if the current weather is Rain Dance.
+
+Rapid Spin (高速旋转)
+Normal
+Physical
+pow: 50, acc: 100, pp: 40, pri: 0, target: normal
+If this move is successful and the user has not fainted, the effects of Leech Seed and binding moves end for the user, and all hazards are removed from the user's side of the field. Has a 100% chance to raise the user's Speed by 1 stage.
+
+Razor Leaf (飞叶快刀)
+Grass
+Physical
+pow: 55, acc: 95, pp: 25, pri: 0, target: allAdjacentFoes
+Has a higher chance for a critical hit.
+
+Razor Shell (贝壳刃)
+Water
+Physical
+pow: 75, acc: 95, pp: 10, pri: 0, target: normal
+Has a 50% chance to lower the target's Defense by 1 stage.
+
+Recover (自我再生)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user restores 1/2 of its maximum HP, rounded half up.
+
+Recycle (回收利用)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user regains the item it last used. Fails if the user is holding an item, if the user has not held an item, if the item was a popped Air Balloon, if the item was picked up by a Pokemon with the Pickup Ability, or if the item was lost to Bug Bite, Corrosive Gas, Covet, Incinerate, Knock Off, Pluck, or Thief. Items thrown with Fling can be regained.
+
+Reflect (反射壁)
+Psychic
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: allySide
+For 5 turns, the user and its party members take 0.5x damage from physical attacks, or 0.66x damage if in a Double Battle. Damage is not reduced further with Aurora Veil. Critical hits ignore this effect. It is removed from the user's side if the user or an ally is successfully hit by Brick Break, Psychic Fangs, or Defog. Lasts for 8 turns if the user is holding Light Clay. Fails if the effect is already active on the user's side.
+
+Reflect Type (镜面属性)
+Normal
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: normal
+Causes the user's types to become the same as the current types of the target. If the target's current types include typeless and a non-added type, typeless is ignored. If the target's current types include typeless and an added type from Forest's Curse or Trick-or-Treat, typeless is copied as the Normal type instead. Fails if the user is an Arceus or a Silvally, or if the target's current type is typeless alone.
+
+Rest (睡觉)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user falls asleep for the next two turns and restores all of its HP, curing itself of any non-volatile status condition in the process. Fails if the user has full HP, is already asleep, or if another effect is preventing sleep.
+
+Retaliate (报仇)
+Normal
+Physical
+pow: 70, acc: 100, pp: 5, pri: 0, target: normal
+Power doubles if one of the user's party members fainted last turn.
+
+Revenge (报复)
+Fighting
+Physical
+pow: 60, acc: 100, pp: 10, pri: -4, target: normal
+Power doubles if the user was hit by the target this turn.
+
+Reversal (绝处逢生)
+Fighting
+Physical
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+The power of this move is 20 if X is 33 to 48, 40 if X is 17 to 32, 80 if X is 10 to 16, 100 if X is 5 to 9, 150 if X is 2 to 4, and 200 if X is 0 or 1, where X is equal to (user's current HP * 48 / user's maximum HP), rounded down.
+
+Rising Voltage (电力上升)
+Electric
+Special
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+If the current terrain is Electric Terrain and the target is grounded, this move's power is doubled.
+
+Roar (吼叫)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: -6, target: normal
+The target is forced to switch out and be replaced with a random unfainted ally. Fails if the target is the last unfainted Pokemon in its party, or if the target used Ingrain previously or has the Suction Cups Ability.
+
+Roar of Time (时光咆哮)
+Dragon
+Special
+pow: 150, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Rock Blast (岩石爆击)
+Rock
+Physical
+pow: 25, acc: 90, pp: 10, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Rock Polish (岩石打磨)
+Rock
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Speed by 2 stages.
+
+Rock Slide (岩崩)
+Rock
+Physical
+pow: 75, acc: 90, pp: 10, pri: 0, target: allAdjacentFoes
+Has a 30% chance to make the target flinch.
+
+Rock Smash (碎岩)
+Fighting
+Physical
+pow: 40, acc: 100, pp: 15, pri: 0, target: normal
+Has a 50% chance to lower the target's Defense by 1 stage.
+
+Rock Throw (落石)
+Rock
+Physical
+pow: 50, acc: 90, pp: 15, pri: 0, target: normal
+No additional effect.
+
+Rock Tomb (岩石封锁)
+Rock
+Physical
+pow: 60, acc: 95, pp: 15, pri: 0, target: normal
+Has a 100% chance to lower the target's Speed by 1 stage.
+
+Rock Wrecker (岩石炮)
+Rock
+Physical
+pow: 150, acc: 90, pp: 5, pri: 0, target: normal
+If this move is successful, the user must recharge on the following turn and cannot select a move.
+
+Role Play (扮演)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user's Ability changes to match the target's Ability. Fails if the user's Ability is As One, Battle Bond, Comatose, Disguise, Gulp Missile, Ice Face, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change, Zen Mode, or already matches the target, or if the target's Ability is As One, Battle Bond, Comatose, Disguise, Flower Gift, Forecast, Gulp Missile, Hunger Switch, Ice Face, Illusion, Imposter, Multitype, Neutralizing Gas, Power Construct, Power of Alchemy, Receiver, RKS System, Schooling, Shields Down, Stance Change, Trace, Wonder Guard, or Zen Mode.
+
+Rollout (滚动)
+Rock
+Physical
+pow: 30, acc: 90, pp: 20, pri: 0, target: normal
+If this move is successful, the user is locked into this move and cannot make another move until it misses, 5 turns have passed, or the attack cannot be used. Power doubles with each successful hit of this move and doubles again if Defense Curl was used previously by the user. If this move is called by Sleep Talk, the move is used for one turn.
+
+Roost (羽栖)
+Flying
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user restores 1/2 of its maximum HP, rounded half up. Until the end of the turn, Flying-type users lose their Flying type and pure Flying-type users become Normal type. Does nothing if the user's HP is full.
+
+Round (轮唱)
+Normal
+Special
+pow: 60, acc: 100, pp: 15, pri: 0, target: normal
+If there are other active Pokemon that chose this move for use this turn, those Pokemon take their turn immediately after the user, in Speed order, and this move's power is 120 for each other user.
+
+Sacred Fire (神圣之火)
+Fire
+Physical
+pow: 100, acc: 95, pp: 5, pri: 0, target: normal
+Has a 50% chance to burn the target.
+
+Sacred Sword (圣剑)
+Fighting
+Physical
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+Ignores the target's stat stage changes, including evasiveness.
+
+Safeguard (神秘守护)
+Normal
+Status
+pow: 0, acc: true, pp: 25, pri: 0, target: allySide
+For 5 turns, the user and its party members cannot have non-volatile status conditions or confusion inflicted on them by other Pokemon. Pokemon on the user's side cannot become affected by Yawn but can fall asleep from its effect. It is removed from the user's side if the user or an ally is successfully hit by Defog. Fails if the effect is already active on the user's side.
+
+Sand Attack (泼沙)
+Ground
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Lowers the target's accuracy by 1 stage.
+
+Sand Tomb (流沙深渊)
+Ground
+Physical
+pow: 35, acc: 85, pp: 15, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+Sandstorm (沙暴)
+Rock
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, the weather becomes Sandstorm. At the end of each turn except the last, all active Pokemon lose 1/16 of their maximum HP, rounded down, unless they are a Ground, Rock, or Steel type, or have the Magic Guard, Overcoat, Sand Force, Sand Rush, or Sand Veil Abilities. During the effect, the Special Defense of Rock-type Pokemon is multiplied by 1.5 when taking damage from a special attack. Lasts for 8 turns if the user is holding Smooth Rock. Fails if the current weather is Sandstorm.
+
+Scald (热水)
+Water
+Special
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a 30% chance to burn the target. The target thaws out if it is frozen.
+
+Scale Shot (鳞射)
+Dragon
+Physical
+pow: 25, acc: 90, pp: 20, pri: 0, target: normal
+Hits two to five times. Lowers the user's Defense by 1 stage and raises the user's Speed by 1 stage after the last hit. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Scary Face (可怕面孔)
+Normal
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Lowers the target's Speed by 2 stages.
+
+Scorching Sands (热沙大地)
+Ground
+Special
+pow: 70, acc: 100, pp: 10, pri: 0, target: normal
+Has a 30% chance to burn the target. The target thaws out if it is frozen.
+
+Scratch (抓)
+Normal
+Physical
+pow: 40, acc: 100, pp: 35, pri: 0, target: normal
+No additional effect.
+
+Screech (刺耳声)
+Normal
+Status
+pow: 0, acc: 85, pp: 40, pri: 0, target: normal
+Lowers the target's Defense by 2 stages.
+
+Searing Shot (火焰弹)
+Fire
+Special
+pow: 100, acc: 100, pp: 5, pri: 0, target: allAdjacent
+Has a 30% chance to burn the target.
+
+Secret Sword (神秘之剑)
+Fighting
+Special
+pow: 85, acc: 100, pp: 10, pri: 0, target: normal
+Deals damage to the target based on its Defense instead of Special Defense.
+
+Seed Bomb (种子炸弹)
+Grass
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+No additional effect.
+
+Seismic Toss (地球上投)
+Fighting
+Physical
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Deals damage to the target equal to the user's level.
+
+Self-Destruct (玉石俱碎)
+Normal
+Physical
+pow: 200, acc: 100, pp: 5, pri: 0, target: allAdjacent
+The user faints after using this move, even if this move fails for having no target. This move is prevented from executing if any active Pokemon has the Damp Ability.
+
+Shadow Ball (暗影球)
+Ghost
+Special
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a 20% chance to lower the target's Special Defense by 1 stage.
+
+Shadow Bone (暗影之骨)
+Ghost
+Physical
+pow: 85, acc: 100, pp: 10, pri: 0, target: normal
+Has a 20% chance to lower the target's Defense by 1 stage.
+
+Shadow Claw (暗影爪)
+Ghost
+Physical
+pow: 70, acc: 100, pp: 15, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Shadow Force (暗影潜袭)
+Ghost
+Physical
+pow: 120, acc: 100, pp: 5, pri: 0, target: normal
+If this move is successful, it breaks through the target's Baneful Bunker, Detect, King's Shield, Protect, or Spiky Shield for this turn, allowing other Pokemon to attack the target normally. If the target's side is protected by Crafty Shield, Mat Block, Quick Guard, or Wide Guard, that protection is also broken for this turn and other Pokemon may attack the target's side normally. This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks. If the user is holding a Power Herb, the move completes in one turn.
+
+Shadow Punch (暗影拳)
+Ghost
+Physical
+pow: 60, acc: true, pp: 20, pri: 0, target: normal
+This move does not check accuracy.
+
+Shadow Sneak (影子偷袭)
+Ghost
+Physical
+pow: 40, acc: 100, pp: 30, pri: 1, target: normal
+No additional effect.
+
+Sheer Cold (绝对零度)
+Ice
+Special
+pow: 0, acc: 30, pp: 5, pri: 0, target: normal
+Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + X)%, where X is 30 if the user is an Ice type and 20 otherwise, and fails if the target is at a higher level. Ice-type Pokemon and Pokemon with the Sturdy Ability are immune.
+
+Shell Side Arm (臂贝武器)
+Poison
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 20% chance to poison the target. This move becomes a physical attack that makes contact if the value of ((((2 * the user's level / 5 + 2) * 90 * X) / Y) / 50), where X is the user's Attack stat and Y is the target's Defense stat, is greater than the same value where X is the user's Special Attack stat and Y is the target's Special Defense stat. No stat modifiers other than stat stage changes are considered for this purpose. If the two values are equal, this move chooses a damage category at random.
+
+Shell Smash (破壳)
+Normal
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: self
+Lowers the user's Defense and Special Defense by 1 stage. Raises the user's Attack, Special Attack, and Speed by 2 stages.
+
+Shell Trap (陷阱甲壳)
+Fire
+Special
+pow: 150, acc: 100, pp: 5, pri: -3, target: allAdjacentFoes
+Fails unless the user is hit by a physical attack from an opponent this turn before it can execute the move. If the user was hit and has not fainted, it attacks immediately after being hit, and the effect ends. If the opponent's physical attack had a secondary effect removed by the Sheer Force Ability, it does not count for the purposes of this effect.
+
+Shift Gear (换档)
+Steel
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+Raises the user's Speed by 2 stages and its Attack by 1 stage.
+
+Shock Wave (电击波)
+Electric
+Special
+pow: 60, acc: true, pp: 20, pri: 0, target: normal
+This move does not check accuracy.
+
+Shore Up (集沙)
+Ground
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user restores 1/2 of its maximum HP, rounded half down. If the weather is Sandstorm, the user instead restores 2/3 of its maximum HP, rounded half down.
+
+Simple Beam (单纯光束)
+Normal
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Causes the target's Ability to become Simple. Fails if the target's Ability is As One, Battle Bond, Comatose, Disguise, Gulp Missile, Ice Face, Multitype, Power Construct, RKS System, Schooling, Shields Down, Simple, Stance Change, Truant, or Zen Mode.
+
+Sing (唱歌)
+Normal
+Status
+pow: 0, acc: 55, pp: 15, pri: 0, target: normal
+Causes the target to fall asleep.
+
+Skill Swap (特性互换)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user swaps its Ability with the target's Ability. Fails if either the user or the target's Ability is As One, Battle Bond, Comatose, Disguise, Gulp Missile, Hunger Switch, Ice Face, Illusion, Multitype, Neutralizing Gas, Power Construct, RKS System, Schooling, Shields Down, Stance Change, Wonder Guard, or Zen Mode.
+
+Skitter Smack (爬击)
+Bug
+Physical
+pow: 70, acc: 90, pp: 10, pri: 0, target: normal
+Has a 100% chance to lower the target's Special Attack by 1 stage.
+
+Skull Bash (火箭头锤)
+Normal
+Physical
+pow: 130, acc: 100, pp: 10, pri: 0, target: normal
+This attack charges on the first turn and executes on the second. Raises the user's Defense by 1 stage on the first turn. If the user is holding a Power Herb, the move completes in one turn.
+
+Sky Attack (神鸟猛击)
+Flying
+Physical
+pow: 140, acc: 90, pp: 5, pri: 0, target: any
+Has a 30% chance to make the target flinch and a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.
+
+Slack Off (偷懒)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user restores 1/2 of its maximum HP, rounded half up.
+
+Slam (摔打)
+Normal
+Physical
+pow: 80, acc: 75, pp: 20, pri: 0, target: normal
+No additional effect.
+
+Slash (劈开)
+Normal
+Physical
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Sleep Powder (催眠粉)
+Grass
+Status
+pow: 0, acc: 75, pp: 15, pri: 0, target: normal
+Causes the target to fall asleep.
+
+Sleep Talk (梦话)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+One of the user's known moves, besides this move, is selected for use at random. Fails if the user is not asleep. The selected move does not have PP deducted from it, and can currently have 0 PP. This move cannot select Assist, Beak Blast, Belch, Bide, Celebrate, Chatter, Copycat, Dynamax Cannon, Focus Punch, Hold Hands, Me First, Metronome, Mimic, Mirror Move, Nature Power, Shell Trap, Sketch, Sleep Talk, Struggle, Uproar, any two-turn move, or any Max Move.
+
+Sludge (污泥攻击)
+Poison
+Special
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+Has a 30% chance to poison the target.
+
+Sludge Bomb (污泥炸弹)
+Poison
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 30% chance to poison the target.
+
+Sludge Wave (污泥波)
+Poison
+Special
+pow: 95, acc: 100, pp: 10, pri: 0, target: allAdjacent
+Has a 10% chance to poison the target.
+
+Smack Down (击落)
+Rock
+Physical
+pow: 50, acc: 100, pp: 15, pri: 0, target: normal
+This move can hit a target using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop. If this move hits a target under the effect of Bounce, Fly, Magnet Rise, or Telekinesis, the effect ends. If the target is a Flying type that has not used Roost this turn or a Pokemon with the Levitate Ability, it loses its immunity to Ground-type attacks and the Arena Trap Ability as long as it remains active. During the effect, Magnet Rise fails for the target and Telekinesis fails against the target.
+
+Smart Strike (修长之角)
+Steel
+Physical
+pow: 70, acc: true, pp: 10, pri: 0, target: normal
+This move does not check accuracy.
+
+Smog (浊雾)
+Poison
+Special
+pow: 30, acc: 70, pp: 20, pri: 0, target: normal
+Has a 40% chance to poison the target.
+
+Smokescreen (烟幕)
+Normal
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Lowers the target's accuracy by 1 stage.
+
+Snap Trap (捕兽夹)
+Grass
+Physical
+pow: 35, acc: 100, pp: 15, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+Snarl (大声咆哮)
+Dark
+Special
+pow: 55, acc: 95, pp: 15, pri: 0, target: allAdjacentFoes
+Has a 100% chance to lower the target's Special Attack by 1 stage.
+
+Snipe Shot (狙击)
+Water
+Special
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a higher chance for a critical hit. This move cannot be redirected to a different target by any effect.
+
+Snore (打鼾)
+Normal
+Special
+pow: 50, acc: 100, pp: 15, pri: 0, target: normal
+Has a 30% chance to make the target flinch. Fails if the user is not asleep.
+
+Soak (浸水)
+Water
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Causes the target to become a Water type. Fails if the target is an Arceus or a Silvally, or if the target is already purely Water type.
+
+Soft-Boiled (生蛋)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user restores 1/2 of its maximum HP, rounded half up.
+
+Solar Beam (日光束)
+Grass
+Special
+pow: 120, acc: 100, pp: 10, pri: 0, target: normal
+This attack charges on the first turn and executes on the second. Power is halved if the weather is Hail, Primordial Sea, Rain Dance, or Sandstorm and the user is not holding Utility Umbrella. If the user is holding a Power Herb or the weather is Desolate Land or Sunny Day, the move completes in one turn. If the user is holding Utility Umbrella and the weather is Desolate Land or Sunny Day, the move still requires a turn to charge.
+
+Solar Blade (日光刃)
+Grass
+Physical
+pow: 125, acc: 100, pp: 10, pri: 0, target: normal
+This attack charges on the first turn and executes on the second. Power is halved if the weather is Primordial Sea, Rain Dance, Sandstorm, or Snow and the user is not holding Utility Umbrella. If the user is holding a Power Herb or the weather is Desolate Land or Sunny Day, the move completes in one turn. If the user is holding Utility Umbrella and the weather is Desolate Land or Sunny Day, the move still requires a turn to charge.
+
+Spacial Rend (亚空裂斩)
+Dragon
+Special
+pow: 100, acc: 95, pp: 5, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Spark (电光)
+Electric
+Physical
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+Has a 30% chance to paralyze the target.
+
+Sparkling Aria (泡影的咏叹调)
+Water
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: allAdjacent
+If the user has not fainted, the target is cured of its burn.
+
+Spectral Thief (暗影偷盗)
+Ghost
+Physical
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+The target's stat stages greater than 0 are stolen from it and applied to the user before dealing damage.
+
+Speed Swap (速度互换)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user swaps its Speed stat with the target. Stat stage changes are unaffected.
+
+Spikes (撒菱)
+Ground
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: foeSide
+Sets up a hazard on the opposing side of the field, damaging each opposing Pokemon that switches in, unless it is a Flying-type Pokemon or has the Levitate Ability. Can be used up to three times before failing. Opponents lose 1/8 of their maximum HP with one layer, 1/6 of their maximum HP with two layers, and 1/4 of their maximum HP with three layers, all rounded down. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin or Defog successfully, or is hit by Defog.
+
+Spiky Shield (尖刺防守)
+Grass
+Status
+pow: 0, acc: true, pp: 10, pri: 4, target: self
+The user is protected from most attacks made by other Pokemon during this turn, and Pokemon making contact with the user lose 1/8 of their maximum HP, rounded down. This move has a 1/X chance of being successful, where X starts at 1 and triples each time this move is successfully used. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn.
+
+Spirit Break (灵魂冲击)
+Fairy
+Physical
+pow: 75, acc: 100, pp: 15, pri: 0, target: normal
+Has a 100% chance to lower the target's Special Attack by 1 stage.
+
+Spirit Shackle (缝影)
+Ghost
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+
+Spit Up (喷出)
+Normal
+Special
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Power is equal to 100 times the user's Stockpile count. Fails if the user's Stockpile count is 0. Whether or not this move is successful, the user's Defense and Special Defense decrease by as many stages as Stockpile had increased them, and the user's Stockpile count resets to 0.
+
+Spite (怨恨)
+Ghost
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Causes the target's last move used to lose 4 PP. Fails if the target has not made a move, if the move has 0 PP, or if it no longer knows the move.
+
+Splash (跃起)
+Normal
+Status
+pow: 0, acc: true, pp: 40, pri: 0, target: self
+No competitive use.
+
+Spore (蘑菇孢子)
+Grass
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Causes the target to fall asleep.
+
+Stealth Rock (隐形岩)
+Rock
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: foeSide
+Sets up a hazard on the opposing side of the field, damaging each opposing Pokemon that switches in. Fails if the effect is already active on the opposing side. Foes lose 1/32, 1/16, 1/8, 1/4, or 1/2 of their maximum HP, rounded down, based on their weakness to the Rock type; 0.25x, 0.5x, neutral, 2x, or 4x, respectively. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin or Defog successfully, or is hit by Defog.
+
+Steam Eruption (蒸汽爆炸)
+Water
+Special
+pow: 110, acc: 95, pp: 5, pri: 0, target: normal
+Has a 30% chance to burn the target. The target thaws out if it is frozen.
+
+Steel Beam (铁蹄光线)
+Steel
+Special
+pow: 140, acc: 95, pp: 5, pri: 0, target: normal
+Whether or not this move is successful and even if it would cause fainting, the user loses 1/2 of its maximum HP, rounded up, unless the user has the Magic Guard Ability.
+
+Steel Roller (铁滚轮)
+Steel
+Physical
+pow: 130, acc: 100, pp: 5, pri: 0, target: normal
+Fails if there is no terrain active. Ends the effects of Electric Terrain, Grassy Terrain, Misty Terrain, and Psychic Terrain.
+
+Steel Wing (钢翼)
+Steel
+Physical
+pow: 70, acc: 90, pp: 25, pri: 0, target: normal
+Has a 10% chance to raise the user's Defense by 1 stage.
+
+Sticky Web (黏黏网)
+Bug
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: foeSide
+Sets up a hazard on the opposing side of the field, lowering the Speed by 1 stage of each opposing Pokemon that switches in, unless it is a Flying-type Pokemon or has the Levitate Ability. Fails if the effect is already active on the opposing side. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin or Defog successfully, or is hit by Defog.
+
+Stockpile (蓄力)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Defense and Special Defense by 1 stage. The user's Stockpile count increases by 1. Fails if the user's Stockpile count is 3. The user's Stockpile count is reset to 0 when it is no longer active.
+
+Stomp (踩踏)
+Normal
+Physical
+pow: 65, acc: 100, pp: 20, pri: 0, target: normal
+Has a 30% chance to make the target flinch. Damage doubles and no accuracy check is done if the target has used Minimize while active.
+
+Stomping Tantrum (跺脚)
+Ground
+Physical
+pow: 75, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the user's last move on the previous turn, including moves called by other moves or those used through Instruct, Magic Coat, Snatch, or the Dancer or Magic Bounce Abilities, failed to do any of its normal effects, not including damage from an unsuccessful High Jump Kick, Jump Kick, or Mind Blown, or if the user was prevented from moving by any effect other than recharging or Sky Drop. A move that was blocked by Baneful Bunker, Detect, King's Shield, Protect, Spiky Shield, Crafty Shield, Mat Block, Quick Guard, or Wide Guard will not double this move's power, nor will Bounce or Fly ending early due to the effect of Gravity, Smack Down, or Thousand Arrows.
+
+Stone Edge (尖石攻击)
+Rock
+Physical
+pow: 100, acc: 80, pp: 5, pri: 0, target: normal
+Has a higher chance for a critical hit.
+
+Stored Power (辅助力量)
+Psychic
+Special
+pow: 20, acc: 100, pp: 10, pri: 0, target: normal
+Power is equal to 20+(X*20), where X is the user's total stat stage changes that are greater than 0.
+
+Storm Throw (山岚摔)
+Fighting
+Physical
+pow: 60, acc: 100, pp: 10, pri: 0, target: normal
+This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities.
+
+Strange Steam (神奇蒸汽)
+Fairy
+Special
+pow: 90, acc: 95, pp: 10, pri: 0, target: normal
+Has a 20% chance to confuse the target.
+
+Strength (怪力)
+Normal
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+No additional effect.
+
+Strength Sap (吸取力量)
+Grass
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Lowers the target's Attack by 1 stage. The user restores its HP equal to the target's Attack stat calculated with its stat stage before this move was used. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down. Fails if the target's Attack stat stage is -6.
+
+String Shot (吐丝)
+Bug
+Status
+pow: 0, acc: 95, pp: 40, pri: 0, target: allAdjacentFoes
+Lowers the target's Speed by 2 stages.
+
+Struggle (挣扎)
+Normal
+Physical
+pow: 50, acc: true, pp: 1, pri: 0, target: randomNormal
+Deals typeless damage to a random opposing Pokemon. If this move was successful, the user loses 1/4 of its maximum HP, rounded half up, and the Rock Head Ability does not prevent this. This move is automatically used if none of the user's known moves can be selected.
+
+Struggle Bug (虫之抵抗)
+Bug
+Special
+pow: 50, acc: 100, pp: 20, pri: 0, target: allAdjacentFoes
+Has a 100% chance to lower the target's Special Attack by 1 stage.
+
+Stuff Cheeks (大快朵颐)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+This move cannot be selected unless the user is holding a Berry. The user eats its Berry and raises its Defense by 2 stages. This effect is not prevented by the Klutz or Unnerve Abilities, or the effects of Embargo or Magic Room. Fails if the user is not holding a Berry.
+
+Stun Spore (麻痹粉)
+Grass
+Status
+pow: 0, acc: 75, pp: 30, pri: 0, target: normal
+Paralyzes the target.
+
+Submission (深渊翻滚)
+Fighting
+Physical
+pow: 80, acc: 80, pp: 20, pri: 0, target: normal
+If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Substitute (替身)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user takes 1/4 of its maximum HP, rounded down, and puts it into a substitute to take its place in battle. The substitute is removed once enough damage is inflicted on it, or if the user switches out or faints. Baton Pass can be used to transfer the substitute to an ally, and the substitute will keep its remaining HP. Until the substitute is broken, it receives damage from all attacks made by other Pokemon and shields the user from status effects and stat stage changes caused by other Pokemon. Sound-based moves and Pokemon with the Infiltrator Ability ignore substitutes. The user still takes normal damage from weather and status effects while behind its substitute. If the substitute breaks during a multi-hit attack, the user will take damage from any remaining hits. If a substitute is created while the user is trapped by a binding move, the binding effect ends immediately. Fails if the user does not have enough HP remaining to create a substitute without fainting, or if it already has a substitute.
+
+Sucker Punch (突袭)
+Dark
+Physical
+pow: 70, acc: 100, pp: 5, pri: 1, target: normal
+Fails if the target did not select a physical attack, special attack, or Me First for use this turn, or if the target moves before the user.
+
+Sunny Day (大晴天)
+Fire
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: all
+For 5 turns, the weather becomes Sunny Day. The damage of Fire-type attacks is multiplied by 1.5 and the damage of Water-type attacks is multiplied by 0.5 during the effect. Lasts for 8 turns if the user is holding Heat Rock. Fails if the current weather is Sunny Day.
+
+Sunsteel Strike (流星闪冲)
+Steel
+Physical
+pow: 100, acc: 100, pp: 5, pri: 0, target: normal
+This move and its effects ignore the Abilities of other Pokemon.
+
+Super Fang (愤怒门牙)
+Normal
+Physical
+pow: 0, acc: 90, pp: 10, pri: 0, target: normal
+Deals damage to the target equal to half of its current HP, rounded down, but not less than 1 HP.
+
+Superpower (蛮力)
+Fighting
+Physical
+pow: 120, acc: 100, pp: 5, pri: 0, target: normal
+Lowers the user's Attack and Defense by 1 stage.
+
+Supersonic (超音波)
+Normal
+Status
+pow: 0, acc: 55, pp: 20, pri: 0, target: normal
+Causes the target to become confused.
+
+Surf (冲浪)
+Water
+Special
+pow: 90, acc: 100, pp: 15, pri: 0, target: allAdjacent
+Damage doubles if the target is using Dive.
+
+Surging Strikes (水流连打)
+Water
+Physical
+pow: 25, acc: 100, pp: 5, pri: 0, target: normal
+Hits three times. This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities.
+
+Swagger (虚张声势)
+Normal
+Status
+pow: 0, acc: 85, pp: 15, pri: 0, target: normal
+Raises the target's Attack by 2 stages and confuses it.
+
+Swallow (吞下)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+The user restores its HP based on its Stockpile count. Restores 1/4 of its maximum HP if it's 1, 1/2 of its maximum HP if it's 2, both rounded half down, and all of its HP if it's 3. Fails if the user's Stockpile count is 0. The user's Defense and Special Defense decrease by as many stages as Stockpile had increased them, and the user's Stockpile count resets to 0.
+
+Sweet Kiss (天使之吻)
+Fairy
+Status
+pow: 0, acc: 75, pp: 10, pri: 0, target: normal
+Causes the target to become confused.
+
+Sweet Scent (甜甜香气)
+Normal
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: allAdjacentFoes
+Lowers the target's evasiveness by 2 stages.
+
+Swift (高速星星)
+Normal
+Special
+pow: 60, acc: true, pp: 20, pri: 0, target: allAdjacentFoes
+This move does not check accuracy.
+
+Switcheroo (掉包)
+Dark
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+The user swaps its held item with the target's held item. Fails if either the user or the target is holding a Mail or Z-Crystal, if neither is holding an item, if the user is trying to give or take a Mega Stone to or from the species that can Mega Evolve with it, or if the user is trying to give or take a Blue Orb, a Red Orb, a Griseous Orb, a Plate, a Drive, or a Memory to or from a Kyogre, a Groudon, a Giratina, an Arceus, a Genesect, or a Silvally, respectively. The target is immune to this move if it has the Sticky Hold Ability.
+
+Swords Dance (剑舞)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: self
+Raises the user's Attack by 2 stages.
+
+Synthesis (光合作用)
+Grass
+Status
+pow: 0, acc: true, pp: 5, pri: 0, target: self
+The user restores 1/2 of its maximum HP if Delta Stream or no weather conditions are in effect or if the user is holding Utility Umbrella, 2/3 of its maximum HP if the weather is Desolate Land or Sunny Day, and 1/4 of its maximum HP if the weather is Hail, Primordial Sea, Rain Dance, or Sandstorm, all rounded half down.
+
+Tackle (撞击)
+Normal
+Physical
+pow: 40, acc: 100, pp: 35, pri: 0, target: normal
+No additional effect.
+
+Tail Slap (扫尾拍打)
+Normal
+Physical
+pow: 25, acc: 85, pp: 10, pri: 0, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times.
+
+Tail Whip (摇尾巴)
+Normal
+Status
+pow: 0, acc: 100, pp: 30, pri: 0, target: allAdjacentFoes
+Lowers the target's Defense by 1 stage.
+
+Tailwind (顺风)
+Flying
+Status
+pow: 0, acc: true, pp: 15, pri: 0, target: allySide
+For 4 turns, the user and its party members have their Speed doubled. Fails if this move is already in effect for the user's side.
+
+Take Down (猛撞)
+Normal
+Physical
+pow: 90, acc: 85, pp: 20, pri: 0, target: normal
+If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Tar Shot (沥青射击)
+Rock
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Lowers the target's Speed by 1 stage. Until the target switches out, the effectiveness of Fire-type moves is doubled against it.
+
+Taunt (挑衅)
+Dark
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Prevents the target from using non-damaging moves for its next three turns. Pokemon with the Oblivious Ability or protected by the Aroma Veil Ability are immune.
+
+Tearful Look (泪眼汪汪)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+Lowers the target's Attack and Special Attack by 1 stage.
+
+Teatime (茶会)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+All active Pokemon consume their held Berries. This effect is not prevented by substitutes, the Klutz or Unnerve Abilities, or the effects of Embargo or Magic Room. Fails if no active Pokemon is holding a Berry.
+
+Techno Blast (高科技光炮)
+Normal
+Special
+pow: 120, acc: 100, pp: 5, pri: 0, target: normal
+This move's type depends on the user's held Drive.
+
+Teeter Dance (摇晃舞)
+Normal
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: allAdjacent
+Causes the target to become confused.
+
+Teleport (瞬间移动)
+Psychic
+Status
+pow: 0, acc: true, pp: 20, pri: -6, target: self
+If this move is successful and the user has not fainted, the user switches out even if it is trapped and is replaced immediately by a selected party member. The user does not switch out if there are no unfainted party members.
+
+Terrain Pulse (大地波动)
+Normal
+Special
+pow: 50, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the user is grounded and a terrain is active, and this move's type changes to match. Electric type during Electric Terrain, Grass type during Grassy Terrain, Fairy type during Misty Terrain, and Psychic type during Psychic Terrain.
+
+Thief (小偷)
+Dark
+Physical
+pow: 60, acc: 100, pp: 25, pri: 0, target: normal
+If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.
+
+Thousand Arrows (千箭齐发)
+Ground
+Physical
+pow: 90, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+This move can hit airborne Pokemon, which includes Flying-type Pokemon, Pokemon with the Levitate Ability, Pokemon holding an Air Balloon, and Pokemon under the effect of Magnet Rise or Telekinesis. If the target is a Flying type and is not already grounded, this move deals neutral damage regardless of its other type(s). This move can hit a target using Bounce, Fly, or Sky Drop. If this move hits a target under the effect of Bounce, Fly, Magnet Rise, or Telekinesis, the effect ends. If the target is a Flying type that has not used Roost this turn or a Pokemon with the Levitate Ability, it loses its immunity to Ground-type attacks and the Arena Trap Ability as long as it remains active. During the effect, Magnet Rise fails for the target and Telekinesis fails against the target.
+
+Thousand Waves (千波激荡)
+Ground
+Physical
+pow: 90, acc: 100, pp: 10, pri: 0, target: allAdjacentFoes
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+
+Thrash (大闹一番)
+Normal
+Physical
+pow: 120, acc: 100, pp: 10, pri: 0, target: randomNormal
+The user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, is asleep at the beginning of a turn, or the attack is not successful against the target on the first turn of the effect or the second turn of a three-turn effect, the effect ends without causing confusion. If this move is called by Sleep Talk and the user is asleep, the move is used for one turn and does not confuse the user.
+
+Throat Chop (深渊突刺)
+Dark
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+For 2 turns, the target cannot use sound-based moves.
+
+Thunder (打雷)
+Electric
+Special
+pow: 110, acc: 70, pp: 10, pri: 0, target: normal
+Has a 30% chance to paralyze the target. This move can hit a target using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop. If the weather is Primordial Sea or Rain Dance, this move does not check accuracy. If the weather is Desolate Land or Sunny Day, this move's accuracy is 50%. If this move is used against a Pokemon holding Utility Umbrella, this move's accuracy remains at 70%.
+
+Thunder Cage (雷电囚笼)
+Electric
+Special
+pow: 80, acc: 90, pp: 15, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+Thunder Fang (雷电牙)
+Electric
+Physical
+pow: 65, acc: 95, pp: 15, pri: 0, target: normal
+Has a 10% chance to paralyze the target and a 10% chance to make it flinch.
+
+Thunder Punch (雷电拳)
+Electric
+Physical
+pow: 75, acc: 100, pp: 15, pri: 0, target: normal
+Has a 10% chance to paralyze the target.
+
+Thunder Shock (电击)
+Electric
+Special
+pow: 40, acc: 100, pp: 30, pri: 0, target: normal
+Has a 10% chance to paralyze the target.
+
+Thunder Wave (电磁波)
+Electric
+Status
+pow: 0, acc: 90, pp: 20, pri: 0, target: normal
+Paralyzes the target. This move does not ignore type immunity.
+
+Thunderbolt (十万伏特)
+Electric
+Special
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+Has a 10% chance to paralyze the target.
+
+Thunderous Kick (雷鸣蹴击)
+Fighting
+Physical
+pow: 90, acc: 100, pp: 10, pri: 0, target: normal
+Has a 100% chance to lower the target's Defense by 1 stage.
+
+Tickle (挠痒)
+Normal
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Lowers the target's Attack and Defense by 1 stage.
+
+Topsy-Turvy (颠倒)
+Dark
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: normal
+The target's positive stat stages become negative and vice versa. Fails if all of the target's stat stages are 0.
+
+Torment (无理取闹)
+Dark
+Status
+pow: 0, acc: 100, pp: 15, pri: 0, target: normal
+Prevents the target from selecting the same move for use two turns in a row. This effect ends when the target is no longer active.
+
+Toxic (剧毒)
+Poison
+Status
+pow: 0, acc: 90, pp: 10, pri: 0, target: normal
+Badly poisons the target. If a Poison-type Pokemon uses this move, the target cannot avoid the attack, even if the target is in the middle of a two-turn move.
+
+Toxic Spikes (毒菱)
+Poison
+Status
+pow: 0, acc: true, pp: 20, pri: 0, target: foeSide
+Sets up a hazard on the opposing side of the field, poisoning each opposing Pokemon that switches in, unless it is a Flying-type Pokemon or has the Levitate Ability. Can be used up to two times before failing. Opposing Pokemon become poisoned with one layer and badly poisoned with two layers. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin or Defog successfully, is hit by Defog, or a grounded Poison-type Pokemon switches in. Safeguard prevents the opposing party from being poisoned on switch-in, but a substitute does not.
+
+Transform (变身)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+The user transforms into the target. The target's current stats, stat stages, types, moves, Ability, weight, gender, and sprite are copied. The user's level and HP remain the same and each copied move receives only 5 PP, with a maximum of 5 PP each. The user can no longer change formes if it would have the ability to do so. This move fails if it hits a substitute, if either the user or the target is already transformed, or if either is behind an Illusion.
+
+Tri Attack (三重攻击)
+Normal
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Has a 20% chance to either burn, freeze, or paralyze the target.
+
+Trick (戏法)
+Psychic
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+The user swaps its held item with the target's held item. Fails if either the user or the target is holding a Mail or Z-Crystal, if neither is holding an item, if the user is trying to give or take a Mega Stone to or from the species that can Mega Evolve with it, or if the user is trying to give or take a Blue Orb, a Red Orb, a Griseous Orb, a Plate, a Drive, or a Memory to or from a Kyogre, a Groudon, a Giratina, an Arceus, a Genesect, or a Silvally, respectively. The target is immune to this move if it has the Sticky Hold Ability.
+
+Trick Room (戏法空间)
+Psychic
+Status
+pow: 0, acc: true, pp: 5, pri: -7, target: all
+For 5 turns, the Speed of every Pokemon is recalculated for the purposes of determining turn order. During the effect, each Pokemon's Speed is considered to be (10000 - its normal Speed), and if this value is greater than 8191, 8192 is subtracted from it. If this move is used during the effect, the effect ends.
+
+Trick-or-Treat (万圣夜)
+Ghost
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: normal
+Causes the Ghost type to be added to the target, effectively making it have two or three types. Fails if the target is already a Ghost type. If Forest's Curse adds a type to the target, it replaces the type added by this move and vice versa.
+
+Triple Axel (三旋击)
+Ice
+Physical
+pow: 20, acc: 90, pp: 10, pri: 0, target: normal
+Hits three times. Power increases to 40 for the second hit and 60 for the third. This move checks accuracy for each hit, and the attack ends if the target avoids a hit. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit three times.
+
+Triple Kick (三连踢)
+Fighting
+Physical
+pow: 10, acc: 90, pp: 10, pri: 0, target: normal
+Hits three times. Power increases to 20 for the second hit and 30 for the third. This move checks accuracy for each hit, and the attack ends if the target avoids a hit. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit three times.
+
+Trop Kick (热带踢)
+Grass
+Physical
+pow: 70, acc: 100, pp: 15, pri: 0, target: normal
+Has a 100% chance to lower the target's Attack by 1 stage.
+
+Twister (龙卷风)
+Dragon
+Special
+pow: 40, acc: 100, pp: 20, pri: 0, target: allAdjacentFoes
+Has a 20% chance to make the target flinch. Power doubles if the target is using Bounce, Fly, or Sky Drop, or is under the effect of Sky Drop.
+
+U-turn (急速折返)
+Bug
+Physical
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+If this move is successful and the user has not fainted, the user switches out even if it is trapped and is replaced immediately by a selected party member. The user does not switch out if there are no unfainted party members, or if the target switched out using an Eject Button or through the effect of the Emergency Exit or Wimp Out Abilities.
+
+Uproar (吵闹)
+Normal
+Special
+pow: 90, acc: 100, pp: 10, pri: 0, target: randomNormal
+The user spends three turns locked into this move. This move targets an opponent at random on each turn. On the first of the three turns, all sleeping active Pokemon wake up. During the three turns, no active Pokemon can fall asleep by any means, and Pokemon switched in during the effect do not wake up. If the user is prevented from moving or the attack is not successful against the target during one of the turns, the effect ends.
+
+V-create (Ｖ热焰)
+Fire
+Physical
+pow: 180, acc: 95, pp: 5, pri: 0, target: normal
+Lowers the user's Speed, Defense, and Special Defense by 1 stage.
+
+Vacuum Wave (真空波)
+Fighting
+Special
+pow: 40, acc: 100, pp: 30, pri: 1, target: normal
+No additional effect.
+
+Venom Drench (毒液陷阱)
+Poison
+Status
+pow: 0, acc: 100, pp: 20, pri: 0, target: allAdjacentFoes
+Lowers the target's Attack, Special Attack, and Speed by 1 stage if the target is poisoned. Fails if the target is not poisoned.
+
+Venoshock (毒液冲击)
+Poison
+Special
+pow: 65, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if the target is poisoned.
+
+Vine Whip (藤鞭)
+Grass
+Physical
+pow: 45, acc: 100, pp: 25, pri: 0, target: normal
+No additional effect.
+
+Vise Grip (夹住)
+Normal
+Physical
+pow: 55, acc: 100, pp: 30, pri: 0, target: normal
+No additional effect.
+
+Vital Throw (借力摔)
+Fighting
+Physical
+pow: 70, acc: true, pp: 10, pri: -1, target: normal
+This move does not check accuracy.
+
+Volt Switch (伏特替换)
+Electric
+Special
+pow: 70, acc: 100, pp: 20, pri: 0, target: normal
+If this move is successful and the user has not fainted, the user switches out even if it is trapped and is replaced immediately by a selected party member. The user does not switch out if there are no unfainted party members, or if the target switched out using an Eject Button or through the effect of the Emergency Exit or Wimp Out Abilities.
+
+Volt Tackle (伏特攻击)
+Electric
+Physical
+pow: 120, acc: 100, pp: 15, pri: 0, target: normal
+Has a 10% chance to paralyze the target. If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Water Gun (水枪)
+Water
+Special
+pow: 40, acc: 100, pp: 25, pri: 0, target: normal
+No additional effect.
+
+Water Pledge (水之誓约)
+Water
+Special
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+If one of the user's allies chose to use Fire Pledge or Grass Pledge this turn and has not moved yet, it takes its turn immediately after the user and the user's move does nothing. If combined with Fire Pledge, the ally uses Water Pledge with 150 power and a rainbow appears on the user's side for 4 turns, which doubles secondary effect chances and stacks with the Serene Grace Ability, except effects that cause flinching can only have their chance doubled once. If combined with Grass Pledge, the ally uses Grass Pledge with 150 power and a swamp appears on the target's side for 4 turns, which quarters the Speed of each Pokemon on that side. When used as a combined move, this move gains STAB no matter what the user's type is. This move does not consume the user's Water Gem, and cannot be redirected by the Storm Drain Ability.
+
+Water Pulse (水之波动)
+Water
+Special
+pow: 60, acc: 100, pp: 20, pri: 0, target: any
+Has a 20% chance to confuse the target.
+
+Water Shuriken (飞水手里剑)
+Water
+Special
+pow: 15, acc: 100, pp: 20, pri: 1, target: normal
+Hits two to five times. Has a 35% chance to hit two or three times and a 15% chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits. If the user has the Skill Link Ability, this move will always hit five times. If the user is an Ash-Greninja with the Battle Bond Ability, this move has a power of 20 and always hits three times.
+
+Water Spout (喷水)
+Water
+Special
+pow: 150, acc: 100, pp: 5, pri: 0, target: allAdjacentFoes
+Power is equal to (user's current HP * 150 / user's maximum HP), rounded down, but not less than 1.
+
+Waterfall (攀瀑)
+Water
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+Has a 20% chance to make the target flinch.
+
+Weather Ball (气象球)
+Normal
+Special
+pow: 50, acc: 100, pp: 10, pri: 0, target: normal
+Power doubles if a weather condition other than Delta Stream is active, and this move's type changes to match. Ice type during Hail, Water type during Primordial Sea or Rain Dance, Rock type during Sandstorm, and Fire type during Desolate Land or Sunny Day. If the user is holding Utility Umbrella and uses Weather Ball during Primordial Sea, Rain Dance, Desolate Land, or Sunny Day, this move remains Normal type and does not double in power.
+
+Whirlpool (潮旋)
+Water
+Special
+pow: 35, acc: 85, pp: 15, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+Whirlwind (吹飞)
+Normal
+Status
+pow: 0, acc: true, pp: 20, pri: -6, target: normal
+The target is forced to switch out and be replaced with a random unfainted ally. Fails if the target is the last unfainted Pokemon in its party, or if the target used Ingrain previously or has the Suction Cups Ability.
+
+Wicked Blow (暗冥强击)
+Dark
+Physical
+pow: 80, acc: 100, pp: 5, pri: 0, target: normal
+This move is always a critical hit unless the target is under the effect of Lucky Chant or has the Battle Armor or Shell Armor Abilities.
+
+Wide Guard (广域防守)
+Rock
+Status
+pow: 0, acc: true, pp: 10, pri: 3, target: allySide
+The user and its party members are protected from moves made by other Pokemon, including allies, during this turn that target all adjacent foes or all adjacent Pokemon. This move modifies the same 1/X chance of being successful used by other protection moves, where X starts at 1 and triples each time this move is successfully used, but does not use the chance to check for failure. X resets to 1 if this move fails, if the user's last move used is not Baneful Bunker, Detect, Endure, King's Shield, Max Guard, Obstruct, Protect, Quick Guard, Spiky Shield, or Wide Guard, or if it was one of those moves and the user's protection was broken. Fails if the user moves last this turn or if this move is already in effect for the user's side.
+
+Wild Charge (疯狂伏特)
+Electric
+Physical
+pow: 90, acc: 100, pp: 15, pri: 0, target: normal
+If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Will-O-Wisp (磷火)
+Fire
+Status
+pow: 0, acc: 85, pp: 15, pri: 0, target: normal
+Burns the target.
+
+Wing Attack (翅膀攻击)
+Flying
+Physical
+pow: 60, acc: 100, pp: 35, pri: 0, target: any
+No additional effect.
+
+Wish (祈愿)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: self
+At the end of the next turn, the Pokemon at the user's position has 1/2 of the user's maximum HP restored to it, rounded down. Fails if this move is already in effect for the user's position.
+
+Withdraw (缩入壳中)
+Water
+Status
+pow: 0, acc: true, pp: 40, pri: 0, target: self
+Raises the user's Defense by 1 stage.
+
+Wonder Room (奇妙空间)
+Psychic
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: all
+For 5 turns, all active Pokemon have their Defense and Special Defense stats swapped. Stat stage changes are unaffected. If this move is used during the effect, the effect ends.
+
+Wood Hammer (木槌)
+Grass
+Physical
+pow: 120, acc: 100, pp: 15, pri: 0, target: normal
+If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.
+
+Work Up (自我激励)
+Normal
+Status
+pow: 0, acc: true, pp: 30, pri: 0, target: self
+Raises the user's Attack and Special Attack by 1 stage.
+
+Worry Seed (烦恼种子)
+Grass
+Status
+pow: 0, acc: 100, pp: 10, pri: 0, target: normal
+Causes the target's Ability to become Insomnia. Fails if the target's Ability is As One, Battle Bond, Comatose, Disguise, Gulp Missile, Ice Face, Insomnia, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change, Truant, or Zen Mode.
+
+Wrap (紧束)
+Normal
+Physical
+pow: 15, acc: 90, pp: 20, pri: 0, target: normal
+Prevents the target from switching for four or five turns (seven turns if the user is holding Grip Claw). Causes damage to the target equal to 1/8 of its maximum HP (1/6 if the user is holding Binding Band), rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.
+
+X-Scissor (十字剪)
+Bug
+Physical
+pow: 80, acc: 100, pp: 15, pri: 0, target: normal
+No additional effect.
+
+Yawn (哈欠)
+Normal
+Status
+pow: 0, acc: true, pp: 10, pri: 0, target: normal
+Causes the target to fall asleep at the end of the next turn. Fails when used if the target cannot fall asleep or if it already has a non-volatile status condition. At the end of the next turn, if the target is still active, does not have a non-volatile status condition, and can fall asleep, it falls asleep. If the target becomes affected, this effect cannot be prevented by Safeguard or a substitute, or by falling asleep and waking up during the effect.
+
+Zap Cannon (电磁炮)
+Electric
+Special
+pow: 120, acc: 50, pp: 5, pri: 0, target: normal
+Has a 100% chance to paralyze the target.
+
+Zen Headbutt (意念头锤)
+Psychic
+Physical
+pow: 80, acc: 90, pp: 15, pri: 0, target: normal
+Has a 20% chance to make the target flinch.
+
+Zing Zap (麻麻刺刺)
+Electric
+Physical
+pow: 80, acc: 100, pp: 10, pri: 0, target: normal
+Has a 30% chance to make the target flinch.
