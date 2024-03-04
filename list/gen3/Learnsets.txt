@@ -18903,4 +18903,3 @@ Deoxys
     Water Pulse : TM
     Wrap : Level 1
     Zap Cannon : Level 40
-

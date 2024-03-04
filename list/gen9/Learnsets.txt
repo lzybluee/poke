@@ -46458,4 +46458,3 @@ Pecharunt
     Toxic : TM, Level 56
     Venoshock : TM
     Withdraw : Level 8
-

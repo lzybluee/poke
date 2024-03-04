@@ -38188,4 +38188,3 @@ Genesect (盖诺赛克特)
     X-Scissor (十字剪) : TM, Level 51
     Zap Cannon (电磁炮) : Level 66
     Zen Headbutt (意念头锤) : Tutor
-

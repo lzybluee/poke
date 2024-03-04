@@ -38188,4 +38188,3 @@ Genesect
     X-Scissor : TM, Level 51
     Zap Cannon : Level 66
     Zen Headbutt : Tutor
-

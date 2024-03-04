@@ -4183,4 +4183,3 @@ Mew (梦幻)
     Tri Attack (三重攻击) : TM
     Water Gun (水枪) : TM
     Whirlwind (吹飞) : TM
-

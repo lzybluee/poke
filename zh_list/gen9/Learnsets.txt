@@ -46458,4 +46458,3 @@ Pecharunt (桃歹郎)
     Toxic (剧毒) : TM, Level 56
     Venoshock (毒液冲击) : TM
     Withdraw (缩入壳中) : Level 8
-

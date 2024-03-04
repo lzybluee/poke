@@ -82,14 +82,12 @@ function log_list(list_folder, detail_folder, file, obj) {
         let name = get_name(list[i].name, file == 'Abilities' ? ABILITIES : ITEMS);
         let desc = file == 'Items' ? list[i].desc.replaceAll('’', "'").replaceAll('é', 'e') : list[i].desc;
 
-        text += name + '\n' + desc + '\n';
-        if (i < list.length - 1)
-            text += '\n';
+        text += name + '\n' + desc + '\n\n';
 
         csv += csv_text(name, desc);
     }
 
-    fs.writeFileSync(list_folder + file + '.txt', text);
+    fs.writeFileSync(list_folder + file + '.txt', text.substring(0, text.length - 1));
     fs.writeFileSync(list_folder + file + '.csv', csv);
 }
 
@@ -122,10 +120,7 @@ function log_moves(list_folder, detail_folder, file, obj) {
                 ', pp: ' + list[i].pp +
                 ', pri: ' + list[i].priority +
                 ', target: ' + list[i].target + '\n' +
-                list[i].desc + '\n';
-
-        if (i < list.length - 1)
-            text += '\n';
+                list[i].desc + '\n\n';
 
         if (typeof(list[i].accuracy) === 'boolean')
             dmg = list[i].basePower;
@@ -137,7 +132,7 @@ function log_moves(list_folder, detail_folder, file, obj) {
             list[i].target, list[i].desc);
     }
 
-    fs.writeFileSync(list_folder + file + '.txt', text);
+    fs.writeFileSync(list_folder + file + '.txt', text.substring(0, text.length - 1));
     fs.writeFileSync(list_folder + file + '.csv', csv);
 
     return move_names;
@@ -195,7 +190,7 @@ function log_species(list_folder, detail_folder, file, obj) {
             if (k < Object.keys(list[i].abilities).length)
                 text += ', ';
         }
-        text += '\n';
+        text += '\n\n';
 
         let abilities = [];
         abilities.push(list[i].abilities[0] ? get_name(list[i].abilities[0], ABILITIES) : '');
@@ -203,16 +198,13 @@ function log_species(list_folder, detail_folder, file, obj) {
         abilities.push(list[i].abilities['H'] ? get_name(list[i].abilities['H'], ABILITIES) : '');
         abilities.push(list[i].abilities['S'] ? get_name(list[i].abilities['S'], ABILITIES) : '');
 
-        if (i < list.length - 1)
-            text += '\n';
-
         csv += csv_text(list[i].num, species_name, types,
             list[i].baseStats['hp'], list[i].baseStats['atk'], list[i].baseStats['def'],
             list[i].baseStats['spa'], list[i].baseStats['spd'], list[i].baseStats['spe'],
             sum, abilities);
     }
 
-    fs.writeFileSync(list_folder + file + '.txt', text);
+    fs.writeFileSync(list_folder + file + '.txt', text.substring(0, text.length - 1));
     fs.writeFileSync(list_folder + file + '.csv', csv);
 
     return species_info;
@@ -267,7 +259,7 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
         }
     }
 
-    fs.writeFileSync(file + '.txt', text);
+    fs.writeFileSync(file + '.txt', text.substring(0, text.length - 1));
 }
 
 function log_evolve(name, evos_list, evos_processed) {
@@ -339,7 +331,7 @@ function log_evolves(file, species_info) {
         }
     }
 
-    fs.writeFileSync(file + '.txt', text);
+    fs.writeFileSync(file + '.txt', text.substring(0, text.length - 1));
 }
 
 function log_data(file, obj) {

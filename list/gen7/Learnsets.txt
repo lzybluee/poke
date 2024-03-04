@@ -50959,4 +50959,3 @@ Zeraora
     Volt Switch : TM, Level 15
     Wild Charge : TM, Level 36
     Work Up : TM
-

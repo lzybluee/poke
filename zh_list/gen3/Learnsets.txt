@@ -18903,4 +18903,3 @@ Deoxys (代欧奇希斯)
     Water Pulse (水之波动) : TM
     Wrap (紧束) : Level 1
     Zap Cannon (电磁炮) : Level 40
-

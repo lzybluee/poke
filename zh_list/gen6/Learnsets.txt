@@ -45296,4 +45296,3 @@ Volcanion (波尔凯尼恩)
     Water Pulse (水之波动) : Tutor, Level 21
     Weather Ball (气象球) : Level 40
     Will-O-Wisp (磷火) : TM
-

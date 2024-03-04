@@ -45296,4 +45296,3 @@ Volcanion
     Water Pulse : Tutor, Level 21
     Weather Ball : Level 40
     Will-O-Wisp : TM
-

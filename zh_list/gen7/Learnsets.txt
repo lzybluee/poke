@@ -50959,4 +50959,3 @@ Zeraora (捷拉奥拉)
     Volt Switch (伏特替换) : TM, Level 15
     Wild Charge (疯狂伏特) : TM, Level 36
     Work Up (自我激励) : TM
-
