@@ -212,7 +212,7 @@ function log_species(list_folder, detail_folder, file, obj) {
 
 function log_learnsets(file, dex, gen, species_info, move_names) {
     let text = '';
- 
+
     for (let i in species_info) {
         learnsets = dex.species.getLearnsetData(i).learnset;
         if (learnsets) {
@@ -293,7 +293,7 @@ function log_evolves(file, species_info) {
 
     let species_names = [];
     for(let i in species_info)
-        species_names.push(species_info[i].name)
+        species_names.push(species_info[i].name);
 
     for (let i in species_info) {
         let evos = species_info[i].evos.filter(
@@ -332,6 +332,57 @@ function log_evolves(file, species_info) {
     }
 
     fs.writeFileSync(file + '.txt', text.substring(0, text.length - 1));
+}
+
+function log_chart(file, chart) {
+    let text = '';
+    let available = [];
+    let type_chart = [];
+    let align = 0;
+
+    for (let i in chart) {
+        if (!chart[i].isNonstandard) {
+            type_name = i.charAt(0).toUpperCase() + i.slice(1);
+            if (type_name.length > align)
+                align = type_name.length;
+            available.push(type_name);
+            for (let j in chart[i].damageTaken) {
+                type_chart[j] ??= [];
+                type_chart[j][type_name] = chart[i].damageTaken[j];
+            }
+        }
+    }
+
+    available.sort();
+
+    text = '|'.padEnd(align + 1, ' ');
+    for (let i in available)
+        text += '|' + available[i].padEnd(align, ' ');
+    text += '|\n';
+
+    text += '|'.padEnd(align + 1, '-').repeat(available.length + 1) + '|\n';
+
+    for (let i in available) {
+        text += '|' + available[i].padEnd(align, ' ');
+        for (let j in available) {
+            let damage = '1';
+            switch (type_chart[available[i]][available[j]]) {
+                case 1:
+                    damage = '2';
+                    break;
+                case 2:
+                    damage = '½';
+                    break;
+                case 3:
+                    damage = '0';
+                    break;
+            }
+            text += '|' + damage.padEnd(align, ' ');
+        }
+        text += '|\n';
+    }
+
+    fs.writeFileSync(file + '.md', text);
 }
 
 function log_data(file, obj) {
@@ -382,6 +433,8 @@ function log_gen(gen) {
     log_learnsets(list_folder + 'Learnsets', dex, gen, species_info, move_names);
 
     log_evolves(list_folder + 'Evolves', species_info);
+
+    log_chart(list_folder + 'TypeChart', dex.data.TypeChart);
 
     for (let i in dex.data) {
         if (i != 'PokemonGoData') {
