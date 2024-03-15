@@ -6,6 +6,8 @@ const ABILITIES = 0;
 const ITEMS = 1;
 const MOVES = 2;
 const SPECIES = 3;
+const TYPES = 4;
+const NATURES = 5;
 
 function get_name(name, type) {
     name = name.replaceAll('’', "'").replaceAll('é', 'e');
@@ -23,6 +25,12 @@ function get_name(name, type) {
                 break;
             case SPECIES:
                 trans = trans_species[name];
+                break;
+            case TYPES:
+                trans = trans_types[name];
+                break;
+            case NATURES:
+                trans = trans_natures[name];
                 break;
         }
 
@@ -334,17 +342,15 @@ function log_evolves(file, species_info) {
     fs.writeFileSync(file + '.txt', text.substring(0, text.length - 1));
 }
 
-function log_chart(file, chart) {
+function log_type_chart(file, chart) {
     let text = '';
     let available = [];
     let type_chart = [];
-    let align = 0;
+    let align = ZH ? 16 : 8;
 
     for (let i in chart) {
         if (!chart[i].isNonstandard) {
             type_name = i.charAt(0).toUpperCase() + i.slice(1);
-            if (type_name.length > align)
-                align = type_name.length;
             available.push(type_name);
             for (let j in chart[i].damageTaken) {
                 type_chart[j] ??= [];
@@ -355,15 +361,19 @@ function log_chart(file, chart) {
 
     available.sort();
 
+    let get_type_name = (type) => {
+        return get_name(type, TYPES).padEnd(align - (ZH ? trans_types[type].length : 0), ' ');
+    }
+
     text = '|'.padEnd(align + 1, ' ');
     for (let i in available)
-        text += '|' + available[i].padEnd(align, ' ');
+        text += '|' + get_type_name(available[i]);
     text += '|\n';
 
     text += '|'.padEnd(align + 1, '-').repeat(available.length + 1) + '|\n';
 
     for (let i in available) {
-        text += '|' + available[i].padEnd(align, ' ');
+        text += '|' + get_type_name(available[i]);
         for (let j in available) {
             let damage = '1';
             switch (type_chart[available[i]][available[j]]) {
@@ -378,6 +388,39 @@ function log_chart(file, chart) {
                     break;
             }
             text += '|' + damage.padEnd(align, ' ');
+        }
+        text += '|\n';
+    }
+
+    fs.writeFileSync(file + '.md', text);
+}
+
+function log_natures(file, natures) {
+    let text = '';
+    let align = 15;
+    let stats = ['hp', 'atk', 'def', 'spa', 'spd', 'spe'];
+    let stats_name = ['HP', 'Attack', 'Defense', 'Special Attack', 'Special Defense', 'Speed'];
+
+    text += '|'.padEnd(align + 1, ' ');
+    for (let i in stats)
+        text += '|' + stats_name[i].padEnd(align, ' ');
+    text += '|\n';
+
+    text += '|'.padEnd(align + 1, '-').repeat(7) + '|\n';
+
+    let get_nature_name = (nature) => {
+        return get_name(nature, NATURES).padEnd(align - (ZH ? trans_natures[nature].length : 0), ' ');
+    }
+
+    for (let i in natures) {
+        text += '|' + get_nature_name(natures[i].name);
+        for (let j in stats) {
+            if (natures[i].plus == stats[j])
+                text += '|+'.padEnd(align + 1, ' ');
+            else if (natures[i].minus == stats[j])
+                text += '|-'.padEnd(align + 1, ' ');
+            else
+                text += '|'.padEnd(align + 1, ' ');
         }
         text += '|\n';
     }
@@ -434,7 +477,9 @@ function log_gen(gen) {
 
     log_evolves(list_folder + 'Evolves', species_info);
 
-    log_chart(list_folder + 'TypeChart', dex.data.TypeChart);
+    log_type_chart(list_folder + 'TypeChart', dex.data.TypeChart);
+
+    log_natures(list_folder + 'Natures', dex.data.Natures);
 
     for (let i in dex.data) {
         if (i != 'PokemonGoData') {
@@ -492,6 +537,8 @@ if (process.argv.length <= 2) {
     trans_abilities = get_trans(trans_folder + 'other/*/text_Abilities_*.txt', 'Abilities');
     trans_species = get_trans(trans_folder + 'other/*/text_Species_*.txt', 'Species');
     trans_moves = get_trans(trans_folder + 'other/*/text_Moves_*.txt', 'Moves');
+    trans_types = get_trans(trans_folder + 'other/*/text_Types_*.txt', 'Types');
+    trans_natures = get_trans(trans_folder + 'other/*/text_Natures_*.txt', 'Natures');
 
     for (let i = 1; i <= 9; i++)
         log_gen(i);
