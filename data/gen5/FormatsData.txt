@@ -1526,7 +1526,7 @@
   screamtail: { tier: 'NU', doublesTier: '(DUU)', natDexTier: 'RU' },
   fluttermane: { tier: 'Uber', doublesTier: 'DUber', natDexTier: 'Uber' },
   slitherwing: { tier: 'RU', doublesTier: '(DUU)', natDexTier: 'RU' },
-  roaringmoon: { tier: 'OU', doublesTier: 'DUU', natDexTier: 'Uber' },
+  roaringmoon: { tier: 'OU', doublesTier: 'DBL', natDexTier: 'Uber' },
   irontreads: { tier: 'OU', doublesTier: '(DUU)', natDexTier: 'OU' },
   ironmoth: { tier: 'UU', doublesTier: '(DUU)', natDexTier: 'UU' },
   ironhands: { tier: 'UUBL', doublesTier: 'DOU', natDexTier: 'UU' },
