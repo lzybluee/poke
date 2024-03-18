@@ -1544,7 +1544,7 @@
   tinkatuff: { tier: 'ZU', doublesTier: 'NFE', natDexTier: 'NFE' },
   tinkaton: { tier: 'UU', doublesTier: '(DUU)', natDexTier: 'RU' },
   charcadet: { tier: 'LC' },
-  armarouge: { tier: 'NU', doublesTier: 'DUU', natDexTier: 'RU' },
+  armarouge: { tier: 'NUBL', doublesTier: 'DUU', natDexTier: 'RU' },
   ceruledge: { tier: 'UUBL', doublesTier: '(DUU)', natDexTier: 'OU' },
   toedscool: { tier: 'LC' },
   toedscruel: { tier: 'PU', doublesTier: '(DUU)', natDexTier: 'RU' },

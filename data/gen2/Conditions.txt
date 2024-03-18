@@ -13,7 +13,8 @@
     onBeforeMove: [Function: onBeforeMove],
     onModifySpe: [Function: onModifySpe],
     effectType: 'Status',
-    onStart: [Function: onStart]
+    onStart: [Function: onStart],
+    onModifySpePriority: -101
   },
   slp: {
     name: 'slp',

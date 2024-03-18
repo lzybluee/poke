@@ -44,6 +44,7 @@
     name: 'par',
     effectType: 'Status',
     onStart: [Function: onStart],
+    onModifySpePriority: -101,
     onBeforeMovePriority: 1
   },
   psn: {

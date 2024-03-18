@@ -10,6 +10,7 @@
     name: 'par',
     effectType: 'Status',
     onStart: [Function: onStart],
+    onModifySpePriority: -101,
     onModifySpe: [Function: onModifySpe],
     onBeforeMovePriority: 1,
     onBeforeMove: [Function: onBeforeMove]
