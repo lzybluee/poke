@@ -37352,7 +37352,7 @@ Species {
   eggGroups: [ 'Monster', 'Dragon' ],
   otherFormes: [ 'Salazzle-Totem' ],
   formeOrder: [ 'Salazzle', 'Salazzle-Totem' ],
-  tier: 'PU',
+  tier: 'PUBL',
   doublesTier: '(DUU)',
   natDexTier: 'RU',
   id: 'salazzle',

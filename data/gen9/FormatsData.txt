@@ -965,7 +965,7 @@
   morelull: { isNonstandard: 'Past', tier: 'Illegal', natDexTier: 'LC' },
   shiinotic: { isNonstandard: 'Past', tier: 'Illegal', natDexTier: 'RU' },
   salandit: { tier: 'LC' },
-  salazzle: { tier: 'PU', doublesTier: '(DUU)', natDexTier: 'RU' },
+  salazzle: { tier: 'PUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   salazzletotem: { isNonstandard: 'Past', tier: 'Illegal' },
   stufful: { isNonstandard: 'Past', tier: 'Illegal', natDexTier: 'LC' },
   bewear: { isNonstandard: 'Past', tier: 'Illegal', natDexTier: 'RU' },
