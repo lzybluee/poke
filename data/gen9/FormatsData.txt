@@ -1146,7 +1146,7 @@
   urshifurapidstrike: { tier: 'Uber', doublesTier: 'DUber', natDexTier: 'OU' },
   urshifugmax: { isNonstandard: 'Past', tier: 'Illegal' },
   urshifurapidstrikegmax: { isNonstandard: 'Past', tier: 'Illegal' },
-  zarude: { tier: 'RU', doublesTier: '(DUU)', natDexTier: 'RU' },
+  zarude: { tier: 'RUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   regieleki: { tier: 'Uber', doublesTier: 'DUU', natDexTier: 'Uber' },
   regidrago: { tier: 'NUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   glastrier: { tier: 'PU', doublesTier: '(DUU)', natDexTier: 'RU' },
