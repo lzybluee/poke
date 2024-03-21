@@ -55,15 +55,15 @@ function log_detail(file, obj) {
 function csv_text() {
     let text = '';
 
-    for (let i in arguments) {
-        if (Array.isArray(arguments[i])) {
-            for (let j in arguments[i])
-                text += '"' + arguments[i][j].replaceAll('"', '""') + '",';
+    for (const arg of arguments) {
+        if (Array.isArray(arg)) {
+            for (const ele of arg)
+                text += '"' + ele.replaceAll('"', '""') + '",';
         } else {
-            if (typeof(arguments[i]) === 'number' || typeof(arguments[i]) === 'boolean')
-                text += arguments[i] + ',';
+            if (typeof(arg) === 'number' || typeof(arg) === 'boolean')
+                text += arg + ',';
             else
-                text += '"' + arguments[i].replaceAll('"', '""') + '",';
+                text += '"' + arg.replaceAll('"', '""') + '",';
         }
     }
 
@@ -73,9 +73,9 @@ function csv_text() {
 function log_list(list_folder, detail_folder, file, obj) {
     let list = [];
 
-    for (let i in obj) {
-        if (obj[i].isNonstandard === null)
-            list.push(obj[i]);
+    for (const ele of obj) {
+        if (ele.isNonstandard === null)
+            list.push(ele);
     }
 
     log_detail(detail_folder + file, list);
@@ -86,9 +86,9 @@ function log_list(list_folder, detail_folder, file, obj) {
 
     let text = '';
     let csv = '';
-    for (let i in list) {
-        let name = get_name(list[i].name, file == 'Abilities' ? ABILITIES : ITEMS);
-        let desc = file == 'Items' ? list[i].desc.replaceAll('’', "'").replaceAll('é', 'e') : list[i].desc;
+    for (const ele of list) {
+        let name = get_name(ele.name, file == 'Abilities' ? ABILITIES : ITEMS);
+        let desc = file == 'Items' ? ele.desc.replaceAll('’', "'").replaceAll('é', 'e') : ele.desc;
 
         text += name + '\n' + desc + '\n\n';
 
@@ -103,9 +103,9 @@ function log_moves(list_folder, detail_folder, file, obj) {
     var move_names = [];
     let list = [];
 
-    for (let i in obj) {
-        if (obj[i].isNonstandard === null && obj[i].desc)
-            list.push(obj[i]);
+    for (const ele of obj) {
+        if (ele.isNonstandard === null && ele.desc)
+            list.push(ele);
     }
 
     log_detail(detail_folder + file, list);
@@ -116,28 +116,28 @@ function log_moves(list_folder, detail_folder, file, obj) {
 
     let text = '';
     let csv = '';
-    for (let i in list) {
-        let name = get_name(list[i].name, MOVES);
-        move_names[list[i].id] = list[i].name;
+    for (const move of list) {
+        let name = get_name(move.name, MOVES);
+        move_names[move.id] = move.name;
 
         text += name + '\n' +
-                list[i].type + '\n' +
-                list[i].category + '\n' +
-                'pow: ' + list[i].basePower +
-                ', acc: ' + list[i].accuracy +
-                ', pp: ' + list[i].pp +
-                ', pri: ' + list[i].priority +
-                ', target: ' + list[i].target + '\n' +
-                list[i].desc + '\n\n';
+                move.type + '\n' +
+                move.category + '\n' +
+                'pow: ' + move.basePower +
+                ', acc: ' + move.accuracy +
+                ', pp: ' + move.pp +
+                ', pri: ' + move.priority +
+                ', target: ' + move.target + '\n' +
+                move.desc + '\n\n';
 
-        if (typeof(list[i].accuracy) === 'boolean')
-            dmg = list[i].basePower;
+        if (typeof(move.accuracy) === 'boolean')
+            dmg = move.basePower;
         else
-            dmg = list[i].basePower * list[i].accuracy / 100;
+            dmg = move.basePower * move.accuracy / 100;
 
-        csv += csv_text(name, list[i].type, list[i].category,
-            list[i].basePower, list[i].accuracy, dmg, list[i].pp, list[i].priority,
-            list[i].target, list[i].desc);
+        csv += csv_text(name, move.type, move.category,
+            move.basePower, move.accuracy, dmg, move.pp, move.priority,
+            move.target, move.desc);
     }
 
     fs.writeFileSync(list_folder + file + '.txt', text.substring(0, text.length - 1));
@@ -151,11 +151,11 @@ function log_species(list_folder, detail_folder, file, obj) {
     let list = [];
     let orders = [];
 
-    for (let i in obj) {
-        if (obj[i].isNonstandard === null) {
-            list.push(obj[i]);
-            if (obj[i].formeOrder)
-                orders[obj[i].num] = obj[i].formeOrder;
+    for (const ele of obj) {
+        if (ele.isNonstandard === null) {
+            list.push(ele);
+            if (ele.formeOrder)
+                orders[ele.num] = ele.formeOrder;
         }
     }
 
@@ -170,45 +170,45 @@ function log_species(list_folder, detail_folder, file, obj) {
 
     let text = '';
     let csv = '';
-    for (let i in list) {
-        let species_name = get_name(list[i].name, SPECIES);
-        species_info[list[i].id] = list[i];
+    for (const species of list) {
+        let species_name = get_name(species.name, SPECIES);
+        species_info[species.id] = species;
 
-        text += list[i].num + '\n' + species_name + '\n';
+        text += species.num + '\n' + species_name + '\n';
 
-        text += list[i].types.join(', ') + '\n';
+        text += species.types.join(', ') + '\n';
 
         let types = [];
-        for (let j in list[i].types)
-            types.push(list[i].types[j]);
+        for (const type of species.types)
+            types.push(type);
         while (types.length < 2)
             types.push('');
 
         let sum = 0;
-        for (let j in list[i].baseStats) {
-            text += j + ": " + list[i].baseStats[j] + ', ';
-            sum += list[i].baseStats[j];
+        for (let i in species.baseStats) {
+            text += i + ": " + species.baseStats[i] + ', ';
+            sum += species.baseStats[i];
         }
         text += 'sum: ' + sum + '\n';
 
         let k = 0;
-        for (let j in list[i].abilities) {
-            text += j + ": " + get_name(list[i].abilities[j], ABILITIES);
+        for (let i in species.abilities) {
+            text += i + ": " + get_name(species.abilities[i], ABILITIES);
             k++;
-            if (k < Object.keys(list[i].abilities).length)
+            if (k < Object.keys(species.abilities).length)
                 text += ', ';
         }
         text += '\n\n';
 
         let abilities = [];
-        abilities.push(list[i].abilities[0] ? get_name(list[i].abilities[0], ABILITIES) : '');
-        abilities.push(list[i].abilities[1] ? get_name(list[i].abilities[1], ABILITIES) : '');
-        abilities.push(list[i].abilities['H'] ? get_name(list[i].abilities['H'], ABILITIES) : '');
-        abilities.push(list[i].abilities['S'] ? get_name(list[i].abilities['S'], ABILITIES) : '');
+        abilities.push(species.abilities[0] ? get_name(species.abilities[0], ABILITIES) : '');
+        abilities.push(species.abilities[1] ? get_name(species.abilities[1], ABILITIES) : '');
+        abilities.push(species.abilities['H'] ? get_name(species.abilities['H'], ABILITIES) : '');
+        abilities.push(species.abilities['S'] ? get_name(species.abilities['S'], ABILITIES) : '');
 
-        csv += csv_text(list[i].num, species_name, types,
-            list[i].baseStats['hp'], list[i].baseStats['atk'], list[i].baseStats['def'],
-            list[i].baseStats['spa'], list[i].baseStats['spd'], list[i].baseStats['spe'],
+        csv += csv_text(species.num, species_name, types,
+            species.baseStats['hp'], species.baseStats['atk'], species.baseStats['def'],
+            species.baseStats['spa'], species.baseStats['spd'], species.baseStats['spe'],
             sum, abilities);
     }
 
@@ -226,13 +226,13 @@ function log_learnsets(file, dex, gen, species_info, move_names) {
         if (learnsets) {
             text += get_name(species_info[i].name, SPECIES) + '\n';
 
-            for(let j in learnsets) {
+            for (let j in learnsets) {
                 if (move_names[j]) {
                     let methods = [];
-                    for (let k in learnsets[j]) {
-                        let result = learnsets[j][k].match(/^\d+/);
+                    for (const move of learnsets[j]) {
+                        let result = move.match(/^\d+/);
                         if (result && result[0] == gen) {
-                            let method = learnsets[j][k].substring(result.index + 1);
+                            let method = move.substring(result.index + 1);
                             switch(method[0]) {
                                 case 'L':
                                     methods.push(method.replace('L', 'Level '));
@@ -276,15 +276,14 @@ function log_evolve(name, evos_list, evos_processed) {
 
     evos_processed.push(name);
 
-    for (let i in evos_list[name]) {
-        let evolve_name = evos_list[name][i];
-        if (evos_list[evolve_name] && evos_list[evolve_name].length > 0) {
-            evolves = log_evolve(evolve_name, evos_list, evos_processed);
-            for (let j in evolves)
-                evolve_list.push(' -> ' + get_name(evolve_name, SPECIES) + evolves[j]);
+    for (const evo_name of evos_list[name]) {
+        if (evos_list[evo_name] && evos_list[evo_name].length > 0) {
+            evolves = log_evolve(evo_name, evos_list, evos_processed);
+            for (const evo of evolves)
+                evolve_list.push(' -> ' + get_name(evo_name, SPECIES) + evo);
         } else {
-            evos_processed.push(evolve_name);
-            no_further_evolve.push(get_name(evos_list[name][i], SPECIES));
+            evos_processed.push(evo_name);
+            no_further_evolve.push(get_name(evo_name, SPECIES));
         }
     }
 
@@ -300,7 +299,7 @@ function log_evolves(file, species_info) {
     let evos_processed = [];
 
     let species_names = [];
-    for(let i in species_info)
+    for (let i in species_info)
         species_names.push(species_info[i].name);
 
     for (let i in species_info) {
@@ -329,8 +328,8 @@ function log_evolves(file, species_info) {
             evolves = log_evolve(species_name, evos_list, evos_processed);
 
             if(evolves.length > 0) {
-                for (let j in evolves)
-                    text += get_name(species_name, SPECIES) + evolves[j] + '\n';
+                for (const evolve of evolves)
+                    text += get_name(species_name, SPECIES) + evolve + '\n';
             } else {
                 text += get_name(species_name, SPECIES) + '\n';
             }
@@ -366,17 +365,17 @@ function log_type_chart(file, chart) {
     }
 
     text = '|'.padEnd(align + 1, ' ');
-    for (let i in available)
-        text += '|' + get_type_name(available[i]);
+    for (const type of available)
+        text += '|' + get_type_name(type);
     text += '|\n';
 
     text += '|'.padEnd(align + 1, '-').repeat(available.length + 1) + '|\n';
 
-    for (let i in available) {
-        text += '|' + get_type_name(available[i]);
-        for (let j in available) {
+    for (const atk_type of available) {
+        text += '|' + get_type_name(atk_type);
+        for (const def_type of available) {
             let damage = '1';
-            switch (type_chart[available[i]][available[j]]) {
+            switch (type_chart[atk_type][def_type]) {
                 case 1:
                     damage = '2';
                     break;
@@ -402,8 +401,8 @@ function log_natures(file, natures) {
     let stats_name = ['HP', 'Attack', 'Defense', 'Special Attack', 'Special Defense', 'Speed'];
 
     text += '|'.padEnd(align + 1, ' ');
-    for (let i in stats)
-        text += '|' + stats_name[i].padEnd(align, ' ');
+    for (const i of stats_name)
+        text += '|' + i.padEnd(align, ' ');
     text += '|\n';
 
     text += '|'.padEnd(align + 1, '-').repeat(7) + '|\n';
@@ -414,10 +413,10 @@ function log_natures(file, natures) {
 
     for (let i in natures) {
         text += '|' + get_nature_name(natures[i].name);
-        for (let j in stats) {
-            if (natures[i].plus == stats[j])
+        for (const stat of stats) {
+            if (natures[i].plus == stat)
                 text += '|+'.padEnd(align + 1, ' ');
-            else if (natures[i].minus == stats[j])
+            else if (natures[i].minus == stat)
                 text += '|-'.padEnd(align + 1, ' ');
             else
                 text += '|'.padEnd(align + 1, ' ');
