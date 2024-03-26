@@ -1444,7 +1444,7 @@
   taurospaldeablaze: { tier: 'PUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   taurospaldeaaqua: { tier: 'NU', doublesTier: '(DUU)', natDexTier: 'RU' },
   wooperpaldea: { tier: 'LC' },
-  farigiraf: { tier: 'ZU', doublesTier: 'DOU', natDexTier: 'RU' },
+  farigiraf: { tier: 'ZUBL', doublesTier: 'DOU', natDexTier: 'RU' },
   dudunsparce: { tier: 'PU', doublesTier: '(DUU)', natDexTier: 'RU' },
   ursalunabloodmoon: { tier: 'Uber', doublesTier: 'DOU', natDexTier: 'Uber' },
   dipplin: { tier: 'ZU', doublesTier: '(DUU)', natDexTier: 'RU' },

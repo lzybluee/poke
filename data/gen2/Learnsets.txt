@@ -105168,6 +105168,7 @@
       {
         generation: 9,
         level: 75,
+        shiny: 1,
         perfectIVs: 4,
         moves: [ 'shadowball', 'moonblast', 'powergem', 'icywind' ]
       }
