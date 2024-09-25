@@ -66,6 +66,13 @@
     name: 'Cute Charm',
     num: 56
   },
+  download: {
+    onStart: [Function: onStart],
+    rating: 3.5,
+    flags: {},
+    name: 'Download',
+    num: 88
+  },
   effectspore: {
     onDamagingHit: [Function: onDamagingHit],
     rating: 2,
@@ -155,7 +162,7 @@
   },
   intimidate: {
     onStart: [Function: onStart],
-    rating: 4,
+    rating: 3.5,
     flags: {},
     name: 'Intimidate',
     num: 22
@@ -375,7 +382,7 @@
   trace: {
     onUpdate: [Function: onUpdate],
     flags: { notrace: 1 },
-    rating: 2.5,
+    rating: 3,
     onStart: [Function: onStart],
     name: 'Trace',
     num: 36
@@ -714,6 +721,7 @@
   asoneglastrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -731,6 +739,7 @@
   asonespectrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -952,13 +961,6 @@
     flags: {},
     name: 'Desolate Land',
     num: 190
-  },
-  download: {
-    rating: 3.5,
-    onStart: [Function: onStart],
-    flags: {},
-    name: 'Download',
-    num: 88
   },
   dragonsmaw: {
     rating: 3.5,

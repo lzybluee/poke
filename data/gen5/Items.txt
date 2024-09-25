@@ -52,7 +52,7 @@
   },
   blukberry: {
     naturalGift: { basePower: 70, type: 'Fire' },
-    isNonstandard: 'Unobtainable',
+    isNonstandard: null,
     name: 'Bluk Berry',
     spritenum: 44,
     isBerry: true,
@@ -559,7 +559,7 @@
   },
   pinapberry: {
     naturalGift: { basePower: 70, type: 'Grass' },
-    isNonstandard: 'Unobtainable',
+    isNonstandard: null,
     name: 'Pinap Berry',
     spritenum: 337,
     isBerry: true,
@@ -2449,22 +2449,6 @@
     num: 316,
     gen: 4
   },
-  galaricacuff: {
-    isNonstandard: null,
-    name: 'Galarica Cuff',
-    spritenum: 739,
-    fling: { basePower: 30 },
-    num: 1582,
-    gen: 8
-  },
-  galaricawreath: {
-    isNonstandard: null,
-    name: 'Galarica Wreath',
-    spritenum: 740,
-    fling: { basePower: 30 },
-    num: 1592,
-    gen: 8
-  },
   ghostmemory: {
     isNonstandard: null,
     name: 'Ghost Memory',
@@ -4023,6 +4007,20 @@
     num: 497,
     gen: 2,
     isPokeball: true
+  },
+  galaricacuff: {
+    name: 'Galarica Cuff',
+    spritenum: 739,
+    fling: { basePower: 30 },
+    num: 1582,
+    gen: 8
+  },
+  galaricawreath: {
+    name: 'Galarica Wreath',
+    spritenum: 740,
+    fling: { basePower: 30 },
+    num: 1592,
+    gen: 8
   },
   goldbottlecap: {
     name: 'Gold Bottle Cap',

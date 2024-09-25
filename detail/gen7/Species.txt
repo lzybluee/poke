@@ -5512,6 +5512,7 @@ Species {
   color: 'Purple',
   evos: [ 'Nidorino' ],
   eggGroups: [ 'Monster', 'Field' ],
+  mother: 'nidoranf',
   tier: 'LC',
   id: 'nidoranm',
   fullname: 'pokemon: Nidoran-M',
@@ -24372,6 +24373,7 @@ Species {
   weightkg: 17.7,
   color: 'Gray',
   eggGroups: [ 'Bug', 'Human-Like' ],
+  mother: 'illumise',
   tier: 'ZU',
   doublesTier: '(DUU)',
   id: 'volbeat',
@@ -51303,6 +51305,7 @@ Species {
   color: 'Purple',
   prevo: 'Sliggoo',
   evoLevel: 50,
+  evoCondition: 'during rain',
   eggGroups: [ 'Dragon' ],
   otherFormes: [ 'Goodra-Hisui' ],
   formeOrder: [ 'Goodra', 'Goodra-Hisui' ],
@@ -58357,7 +58360,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 793,
   name: 'Nihilego',
   types: [ 'Rock', 'Poison' ],
@@ -58417,7 +58420,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 794,
   name: 'Buzzwole',
   types: [ 'Bug', 'Fighting' ],
@@ -58477,7 +58480,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 795,
   name: 'Pheromosa',
   types: [ 'Bug', 'Fighting' ],
@@ -58537,7 +58540,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 796,
   name: 'Xurkitree',
   types: [ 'Electric' ],
@@ -58597,7 +58600,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 797,
   name: 'Celesteela',
   types: [ 'Steel', 'Flying' ],
@@ -58657,7 +58660,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 798,
   name: 'Kartana',
   types: [ 'Grass', 'Steel' ],
@@ -58717,7 +58720,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 799,
   name: 'Guzzlord',
   types: [ 'Dark', 'Dragon' ],
@@ -59142,7 +59145,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 803,
   name: 'Poipole',
   types: [ 'Poison' ],
@@ -59202,7 +59205,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 804,
   name: 'Naganadel',
   types: [ 'Poison', 'Dragon' ],
@@ -59262,7 +59265,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 805,
   name: 'Stakataka',
   types: [ 'Rock', 'Steel' ],
@@ -59322,7 +59325,7 @@ Species {
 },
 Species {
   exists: true,
-  tags: [ 'Sub-Legendary' ],
+  tags: [ 'Ultra Beast' ],
   num: 806,
   name: 'Blacephalon',
   types: [ 'Fire', 'Ghost' ],

@@ -336,22 +336,6 @@
     num: 316,
     gen: 4
   },
-  galaricacuff: {
-    isNonstandard: null,
-    name: 'Galarica Cuff',
-    spritenum: 739,
-    fling: { basePower: 30 },
-    num: 1582,
-    gen: 8
-  },
-  galaricawreath: {
-    isNonstandard: null,
-    name: 'Galarica Wreath',
-    spritenum: 740,
-    fling: { basePower: 30 },
-    num: 1592,
-    gen: 8
-  },
   ghostmemory: {
     isNonstandard: null,
     name: 'Ghost Memory',
@@ -712,14 +696,6 @@
     num: 647,
     gen: 6
   },
-  safariball: {
-    isNonstandard: null,
-    name: 'Safari Ball',
-    spritenum: 425,
-    num: 5,
-    gen: 1,
-    isPokeball: true
-  },
   seaincense: {
     isNonstandard: null,
     name: 'Sea Incense',
@@ -776,14 +752,6 @@
     forcedForme: 'Arceus-Ghost',
     num: 310,
     gen: 4
-  },
-  sportball: {
-    isNonstandard: null,
-    name: 'Sport Ball',
-    spritenum: 465,
-    num: 499,
-    gen: 2,
-    isPokeball: true
   },
   starsweet: {
     isNonstandard: null,
@@ -2716,6 +2684,20 @@
     gen: 2,
     isPokeball: true
   },
+  galaricacuff: {
+    name: 'Galarica Cuff',
+    spritenum: 739,
+    fling: { basePower: 30 },
+    num: 1582,
+    gen: 8
+  },
+  galaricawreath: {
+    name: 'Galarica Wreath',
+    spritenum: 740,
+    fling: { basePower: 30 },
+    num: 1592,
+    gen: 8
+  },
   galladite: {
     name: 'Galladite',
     spritenum: 616,
@@ -4250,6 +4232,13 @@
     gen: 6,
     isNonstandard: 'Past'
   },
+  safariball: {
+    name: 'Safari Ball',
+    spritenum: 425,
+    num: 5,
+    gen: 1,
+    isPokeball: true
+  },
   safetygoggles: {
     name: 'Safety Goggles',
     spritenum: 604,
@@ -4496,6 +4485,13 @@
     num: 179,
     gen: 3,
     isNonstandard: 'Past'
+  },
+  sportball: {
+    name: 'Sport Ball',
+    spritenum: 465,
+    num: 499,
+    gen: 2,
+    isPokeball: true
   },
   starfberry: {
     name: 'Starf Berry',

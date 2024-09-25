@@ -1339,16 +1339,14 @@
     spritenum: 739,
     fling: { basePower: 30 },
     num: 1582,
-    gen: 8,
-    isNonstandard: 'Unobtainable'
+    gen: 8
   },
   galaricawreath: {
     name: 'Galarica Wreath',
     spritenum: 740,
     fling: { basePower: 30 },
     num: 1592,
-    gen: 8,
-    isNonstandard: 'Unobtainable'
+    gen: 8
   },
   galladite: {
     name: 'Galladite',
@@ -3230,8 +3228,7 @@
     spritenum: 425,
     num: 5,
     gen: 1,
-    isPokeball: true,
-    isNonstandard: 'Unobtainable'
+    isPokeball: true
   },
   safetygoggles: {
     name: 'Safety Goggles',
@@ -3539,8 +3536,7 @@
     spritenum: 465,
     num: 499,
     gen: 2,
-    isPokeball: true,
-    isNonstandard: 'Unobtainable'
+    isPokeball: true
   },
   starfberry: {
     name: 'Starf Berry',

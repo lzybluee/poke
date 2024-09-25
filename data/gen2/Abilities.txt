@@ -54,7 +54,7 @@
   },
   intimidate: {
     onStart: [Function: onStart],
-    rating: 4,
+    rating: 3.5,
     flags: {},
     name: 'Intimidate',
     num: 22
@@ -127,9 +127,9 @@
   },
   trace: {
     onUpdate: [Function: onUpdate],
-    flags: {},
-    rating: 2.5,
     onStart: [Function: onStart],
+    flags: {},
+    rating: 3,
     name: 'Trace',
     num: 36
   },
@@ -212,6 +212,13 @@
     flags: {},
     name: 'Compound Eyes',
     num: 14
+  },
+  download: {
+    onStart: [Function: onStart],
+    rating: 3.5,
+    flags: {},
+    name: 'Download',
+    num: 88
   },
   flowergift: {
     onAllyModifyAtk: [Function: onAllyModifyAtk],
@@ -751,6 +758,7 @@
   asoneglastrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -768,6 +776,7 @@
   asonespectrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -989,13 +998,6 @@
     flags: {},
     name: 'Desolate Land',
     num: 190
-  },
-  download: {
-    rating: 3.5,
-    onStart: [Function: onStart],
-    flags: {},
-    name: 'Download',
-    num: 88
   },
   dragonsmaw: {
     rating: 3.5,

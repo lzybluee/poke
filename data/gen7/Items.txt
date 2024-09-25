@@ -190,7 +190,7 @@
     gen: 6
   },
   blukberry: {
-    isNonstandard: 'Unobtainable',
+    isNonstandard: null,
     name: 'Bluk Berry',
     spritenum: 44,
     isBerry: true,
@@ -1149,7 +1149,7 @@
     gen: 7
   },
   pinapberry: {
-    isNonstandard: 'Unobtainable',
+    isNonstandard: null,
     name: 'Pinap Berry',
     spritenum: 337,
     isBerry: true,
@@ -1928,22 +1928,6 @@
     onFractionalPriority: -0.1,
     num: 316,
     gen: 4
-  },
-  galaricacuff: {
-    isNonstandard: null,
-    name: 'Galarica Cuff',
-    spritenum: 739,
-    fling: { basePower: 30 },
-    num: 1582,
-    gen: 8
-  },
-  galaricawreath: {
-    isNonstandard: null,
-    name: 'Galarica Wreath',
-    spritenum: 740,
-    fling: { basePower: 30 },
-    num: 1592,
-    gen: 8
   },
   ghostmemory: {
     isNonstandard: null,
@@ -3644,6 +3628,20 @@
     num: 497,
     gen: 2,
     isPokeball: true
+  },
+  galaricacuff: {
+    name: 'Galarica Cuff',
+    spritenum: 739,
+    fling: { basePower: 30 },
+    num: 1582,
+    gen: 8
+  },
+  galaricawreath: {
+    name: 'Galarica Wreath',
+    spritenum: 740,
+    fling: { basePower: 30 },
+    num: 1592,
+    gen: 8
   },
   ganlonberry: {
     name: 'Ganlon Berry',

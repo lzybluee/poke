@@ -96,6 +96,7 @@
   },
   asoneglastrier: {
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -113,6 +114,7 @@
   },
   asonespectrier: {
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -2014,6 +2016,7 @@
       onResidualOrder: 28,
       onResidualSubOrder: 2,
       onStart: [Function: onStart],
+      onResidual: [Function: onResidual],
       onModifyAtkPriority: 5,
       onModifyAtk: [Function: onModifyAtk],
       onModifySpe: [Function: onModifySpe],

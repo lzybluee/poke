@@ -503,6 +503,7 @@
       failinstruct: 1
     },
     onHit: [Function: onHit],
+    callsMove: true,
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -1150,9 +1151,9 @@
       noassist: 1,
       failcopycat: 1,
       failmimic: 1,
-      failinstruct: 1
+      failinstruct: 1,
+      nosketch: 1
     },
-    noSketch: true,
     secondary: { chance: 30, status: 'brn' },
     target: 'normal',
     type: 'Fire'
@@ -1889,7 +1890,6 @@
       failmimic: 1,
       failinstruct: 1
     },
-    noSketch: true,
     secondary: { chance: 100, volatileStatus: 'confusion' },
     target: 'any',
     type: 'Flying',
@@ -2132,9 +2132,9 @@
       noassist: 1,
       failcopycat: 1,
       failmimic: 1,
-      failinstruct: 1
+      failinstruct: 1,
+      nosketch: 1
     },
-    noSketch: true,
     secondary: { chance: 30, status: 'par' },
     target: 'normal',
     type: 'Fighting'
@@ -2299,6 +2299,7 @@
       failinstruct: 1
     },
     onHit: [Function: onHit],
+    callsMove: true,
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -2668,10 +2669,15 @@
     name: 'Dark Void',
     pp: 10,
     priority: 0,
-    flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
+    flags: {
+      protect: 1,
+      reflectable: 1,
+      mirror: 1,
+      metronome: 1,
+      nosketch: 1
+    },
     status: 'slp',
     onTry: [Function: onTry],
-    noSketch: true,
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Dark',
@@ -7171,11 +7177,10 @@
     name: 'Hyperspace Fury',
     pp: 5,
     priority: 0,
-    flags: { mirror: 1, bypasssub: 1 },
+    flags: { mirror: 1, bypasssub: 1, nosketch: 1 },
     breaksProtect: true,
     onTry: [Function: onTry],
     self: { boosts: { def: -1 } },
-    noSketch: true,
     secondary: null,
     target: 'normal',
     type: 'Dark',
@@ -8336,9 +8341,9 @@
       noassist: 1,
       failcopycat: 1,
       failmimic: 1,
-      failinstruct: 1
+      failinstruct: 1,
+      nosketch: 1
     },
-    noSketch: true,
     secondary: { chance: 30, volatileStatus: 'confusion' },
     target: 'normal',
     type: 'Fairy'
@@ -8959,6 +8964,7 @@
       onBasePowerPriority: 12,
       onBasePower: [Function: onBasePower]
     },
+    callsMove: true,
     secondary: null,
     target: 'adjacentFoe',
     type: 'Normal',
@@ -9172,6 +9178,7 @@
       failinstruct: 1
     },
     onHit: [Function: onHit],
+    callsMove: true,
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -9363,6 +9370,7 @@
       failinstruct: 1
     },
     onTryHit: [Function: onTryHit],
+    callsMove: true,
     secondary: null,
     target: 'normal',
     type: 'Flying',
@@ -9735,6 +9743,7 @@
       failinstruct: 1
     },
     onTryHit: [Function: onTryHit],
+    callsMove: true,
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -9914,9 +9923,9 @@
       noassist: 1,
       failcopycat: 1,
       failmimic: 1,
-      failinstruct: 1
+      failinstruct: 1,
+      nosketch: 1
     },
-    noSketch: true,
     secondary: { chance: 30, status: 'psn' },
     target: 'normal',
     type: 'Poison'
@@ -10165,21 +10174,6 @@
     type: 'Normal',
     zMove: { boost: { def: 1 } },
     contestType: 'Clever'
-  },
-  paleowave: {
-    num: 0,
-    accuracy: 100,
-    basePower: 85,
-    category: 'Special',
-    isNonstandard: 'CAP',
-    name: 'Paleo Wave',
-    pp: 15,
-    priority: 0,
-    flags: { protect: 1, mirror: 1 },
-    secondary: { chance: 20, boosts: { atk: -1 } },
-    target: 'normal',
-    type: 'Rock',
-    contestType: 'Beautiful'
   },
   paraboliccharge: {
     num: 570,
@@ -11629,12 +11623,11 @@
     pp: 1,
     noPPBoosts: true,
     priority: 0,
-    flags: { heal: 1 },
+    flags: { heal: 1, nosketch: 1 },
     onTryHit: [Function: onTryHit],
     slotCondition: 'revivalblessing',
     selfSwitch: true,
     condition: { duration: 1 },
-    noSketch: true,
     secondary: null,
     target: 'self',
     type: 'Normal'
@@ -12441,21 +12434,6 @@
     type: 'Ghost',
     contestType: 'Clever'
   },
-  shadowstrike: {
-    num: 0,
-    accuracy: 95,
-    basePower: 80,
-    category: 'Physical',
-    isNonstandard: 'CAP',
-    name: 'Shadow Strike',
-    pp: 10,
-    priority: 0,
-    flags: { contact: 1, protect: 1, mirror: 1 },
-    secondary: { chance: 50, boosts: { def: -1 } },
-    target: 'normal',
-    type: 'Ghost',
-    contestType: 'Clever'
-  },
   sharpen: {
     num: 159,
     accuracy: true,
@@ -12797,10 +12775,10 @@
       noassist: 1,
       failcopycat: 1,
       failmimic: 1,
-      failinstruct: 1
+      failinstruct: 1,
+      nosketch: 1
     },
     onHit: [Function: onHit],
-    noSketch: true,
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -13024,6 +13002,7 @@
     sleepUsable: true,
     onTry: [Function: onTry],
     onHit: [Function: onHit],
+    callsMove: true,
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -14067,9 +14046,9 @@
       noassist: 1,
       failcopycat: 1,
       failmimic: 1,
-      failinstruct: 1
+      failinstruct: 1,
+      nosketch: 1
     },
-    noSketch: true,
     onModifyMove: [Function: onModifyMove],
     struggleRecoil: true,
     secondary: null,
@@ -14504,6 +14483,7 @@
       noCopy: true,
       duration: 4,
       onStart: [Function: onStart],
+      onUpdate: [Function: onUpdate],
       onResidualOrder: 14,
       onResidual: [Function: onResidual],
       onEnd: [Function: onEnd]
@@ -14871,11 +14851,11 @@
       mirror: 1,
       noassist: 1,
       failcopycat: 1,
-      failmimic: 1
+      failmimic: 1,
+      nosketch: 1
     },
     onModifyType: [Function: onModifyType],
     onModifyMove: [Function: onModifyMove],
-    noSketch: true,
     secondary: null,
     target: 'normal',
     type: 'Normal'
@@ -16039,9 +16019,9 @@
       noassist: 1,
       failcopycat: 1,
       failmimic: 1,
-      failinstruct: 1
+      failinstruct: 1,
+      nosketch: 1
     },
-    noSketch: true,
     secondary: { chance: 10, status: 'slp' },
     target: 'normal',
     type: 'Dark'
@@ -16375,5 +16355,35 @@
     target: 'normal',
     type: 'Electric',
     contestType: 'Cool'
+  },
+  paleowave: {
+    num: 0,
+    accuracy: 100,
+    basePower: 85,
+    category: 'Special',
+    isNonstandard: 'CAP',
+    name: 'Paleo Wave',
+    pp: 15,
+    priority: 0,
+    flags: { protect: 1, mirror: 1 },
+    secondary: { chance: 20, boosts: { atk: -1 } },
+    target: 'normal',
+    type: 'Rock',
+    contestType: 'Beautiful'
+  },
+  shadowstrike: {
+    num: 0,
+    accuracy: 95,
+    basePower: 80,
+    category: 'Physical',
+    isNonstandard: 'CAP',
+    name: 'Shadow Strike',
+    pp: 10,
+    priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1 },
+    secondary: { chance: 50, boosts: { def: -1 } },
+    target: 'normal',
+    type: 'Ghost',
+    contestType: 'Clever'
   }
 }

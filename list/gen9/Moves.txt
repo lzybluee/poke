@@ -206,7 +206,7 @@ Aurora Veil
 Ice
 Status
 pow: 0, acc: true, pp: 20, pri: 0, target: allySide
-For 5 turns, the user and its party members take 0.5x damage from physical and special attacks, or 0.66x damage if in a Double Battle; does not reduce damage further with Reflect or Light Screen. Critical hits ignore this protection. It is removed from the user's side if the user or an ally is successfully hit by Brick Break, Psychic Fangs, or Defog. Brick Break and Psychic Fangs remove the effect before damage is calculated. Lasts for 8 turns if the user is holding Light Clay. Fails unless the weather is Hail.
+For 5 turns, the user and its party members take 0.5x damage from physical and special attacks, or 0.66x damage if in a Double Battle; does not reduce damage further with Reflect or Light Screen. Critical hits ignore this protection. It is removed from the user's side if the user or an ally is successfully hit by Brick Break, Psychic Fangs, or Defog. Brick Break and Psychic Fangs remove the effect before damage is calculated. Lasts for 8 turns if the user is holding Light Clay. Fails unless the weather is Snow.
 
 Avalanche
 Ice
@@ -3116,7 +3116,7 @@ Sketch
 Normal
 Status
 pow: 0, acc: true, pp: 1, pri: 0, target: normal
-This move is permanently replaced by the last move used by the target. The copied move has the maximum PP for that move. Fails if the target has not made a move, if the user has Transformed, or if the move is Chatter, Sketch, Struggle, or any move the user knows.
+This move is permanently replaced by the last move used by the target. The copied move has the maximum PP for that move. Fails if the target has not made a move, if the user has Transformed, or if the move is Blazing Torque, Combat Torque, Dark Void, Hyperspace Fury, Magical Torque, Noxious Torque, Revival Blessing, Sketch, Struggle, Tera Starstorm, Wicked Torque, or any move the user knows.
 
 Skill Swap
 Psychic
@@ -3680,7 +3680,7 @@ Tera Starstorm
 Normal
 Special
 pow: 120, acc: 100, pp: 5, pri: 0, target: normal
-If the user is a Terapagos in Stellar Form, this move's type becomes Stellar and hits all opposing Pokemon.
+If the user is a Terapagos in Stellar Form, this move's type becomes Stellar, hits all opposing Pokemon, and becomes a physical attack if the user's Attack is greater than its Special Attack, including stat stage changes.
 
 Terrain Pulse
 Normal

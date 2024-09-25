@@ -181,13 +181,6 @@
     name: 'Inner Focus',
     num: 39
   },
-  intimidate: {
-    rating: 4,
-    onStart: [Function: onStart],
-    flags: {},
-    name: 'Intimidate',
-    num: 22
-  },
   moody: {
     onResidual: [Function: onResidual],
     rating: 5,
@@ -332,6 +325,7 @@
   asoneglastrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -349,6 +343,7 @@
   asonespectrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -1075,6 +1070,13 @@
     flags: { breakable: 1 },
     name: 'Insomnia',
     num: 15
+  },
+  intimidate: {
+    rating: 3.5,
+    onStart: [Function: onStart],
+    flags: {},
+    name: 'Intimidate',
+    num: 22
   },
   intrepidsword: {
     onStart: [Function: onStart],
@@ -2080,7 +2082,7 @@
     num: 137
   },
   trace: {
-    rating: 2.5,
+    rating: 3,
     onStart: [Function: onStart],
     onUpdate: [Function: onUpdate],
     flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },

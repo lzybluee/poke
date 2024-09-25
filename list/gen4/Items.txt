@@ -34,6 +34,9 @@ Holder's Dark-type attacks have 1.2x power.
 Black Sludge
 Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.
 
+Bluk Berry
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
 Bright Powder
 The accuracy of attacks against the holder is 0.9x.
 
@@ -390,6 +393,9 @@ Holder is cured if it is confused. Single use.
 
 Petaya Berry
 Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.
+
+Pinap Berry
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
 
 Poison Barb
 Holder's Poison-type attacks have 1.2x power.

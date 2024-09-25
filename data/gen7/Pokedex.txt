@@ -867,6 +867,7 @@
     color: 'Purple',
     prevo: 'Sliggoo-Hisui',
     evoLevel: 50,
+    evoCondition: 'during rain',
     eggGroups: [ 'Dragon' ]
   },
   decidueyehisui: {
@@ -963,7 +964,7 @@
     weightkg: 89,
     color: 'Brown',
     prevo: 'Scyther',
-    evoType: 'other',
+    evoType: 'useItem',
     evoCondition: 'Black Augurite',
     eggGroups: [ 'Bug' ]
   },
@@ -1032,6 +1033,21 @@
     eggGroups: [ 'Undiscovered' ],
     otherFormes: [ 'Enamorus-Therian' ],
     formeOrder: [ 'Enamorus', 'Enamorus-Therian' ]
+  },
+  kitsunoh: {
+    baseStats: { hp: 80, atk: 103, def: 85, spa: 55, spd: 80, spe: 110 },
+    abilities: { '0': 'Frisk', '1': 'Limber', H: 'Iron Fist' },
+    num: -14,
+    name: 'Kitsunoh',
+    types: [ 'Ghost', 'Steel' ],
+    heightm: 1.1,
+    weightkg: 51,
+    color: 'Gray',
+    prevo: 'Nohface',
+    evoType: 'trade',
+    evoItem: 'Metal Coat',
+    eggGroups: [ 'Field' ],
+    gen: 4
   },
   bulbasaur: {
     num: 1,
@@ -1877,7 +1893,8 @@
     weightkg: 9,
     color: 'Purple',
     evos: [ 'Nidorino' ],
-    eggGroups: [ 'Monster', 'Field' ]
+    eggGroups: [ 'Monster', 'Field' ],
+    mother: 'nidoranf'
   },
   nidorino: {
     num: 33,
@@ -6663,7 +6680,8 @@
     heightm: 0.7,
     weightkg: 17.7,
     color: 'Gray',
-    eggGroups: [ 'Bug', 'Human-Like' ]
+    eggGroups: [ 'Bug', 'Human-Like' ],
+    mother: 'illumise'
   },
   illumise: {
     num: 314,
@@ -13086,6 +13104,7 @@
     color: 'Purple',
     prevo: 'Sliggoo',
     evoLevel: 50,
+    evoCondition: 'during rain',
     eggGroups: [ 'Dragon' ],
     otherFormes: [ 'Goodra-Hisui' ],
     formeOrder: [ 'Goodra', 'Goodra-Hisui' ]
@@ -14811,7 +14830,7 @@
     heightm: 1.2,
     weightkg: 55.5,
     color: 'White',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   buzzwole: {
@@ -14824,7 +14843,7 @@
     heightm: 2.4,
     weightkg: 333.6,
     color: 'Red',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   pheromosa: {
@@ -14837,7 +14856,7 @@
     heightm: 1.8,
     weightkg: 25,
     color: 'White',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   xurkitree: {
@@ -14850,7 +14869,7 @@
     heightm: 3.8,
     weightkg: 100,
     color: 'Black',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   celesteela: {
@@ -14863,7 +14882,7 @@
     heightm: 9.2,
     weightkg: 999.9,
     color: 'Green',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   kartana: {
@@ -14876,7 +14895,7 @@
     heightm: 0.3,
     weightkg: 0.1,
     color: 'White',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   guzzlord: {
@@ -14889,7 +14908,7 @@
     heightm: 5.5,
     weightkg: 888,
     color: 'Black',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   necrozma: {
@@ -15010,7 +15029,7 @@
     heightm: 0.6,
     weightkg: 1.8,
     color: 'Purple',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     evos: [ 'Naganadel' ],
     eggGroups: [ 'Undiscovered' ]
   },
@@ -15024,7 +15043,7 @@
     heightm: 3.6,
     weightkg: 150,
     color: 'Purple',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     prevo: 'Poipole',
     evoType: 'levelMove',
     evoMove: 'Dragon Pulse',
@@ -15040,7 +15059,7 @@
     heightm: 5.5,
     weightkg: 820,
     color: 'Gray',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   blacephalon: {
@@ -15053,7 +15072,7 @@
     heightm: 1.8,
     weightkg: 13,
     color: 'White',
-    tags: [ 'Sub-Legendary' ],
+    tags: [ 'Ultra Beast' ],
     eggGroups: [ 'Undiscovered' ]
   },
   zeraora: {
@@ -16362,7 +16381,8 @@
     color: 'Purple',
     eggGroups: [ 'Fairy' ],
     otherFormes: [ 'Indeedee-F' ],
-    formeOrder: [ 'Indeedee', 'Indeedee-F' ]
+    formeOrder: [ 'Indeedee', 'Indeedee-F' ],
+    mother: 'indeedeef'
   },
   indeedeef: {
     num: 876,
@@ -18468,6 +18488,7 @@
     heightm: 1.8,
     weightkg: 92,
     color: 'Black',
+    tags: [ 'Sub-Legendary' ],
     eggGroups: [ 'Undiscovered' ]
   },
   munkidori: {
@@ -18480,6 +18501,7 @@
     heightm: 1,
     weightkg: 12.2,
     color: 'Black',
+    tags: [ 'Sub-Legendary' ],
     eggGroups: [ 'Undiscovered' ]
   },
   fezandipiti: {
@@ -18492,6 +18514,7 @@
     heightm: 1.4,
     weightkg: 30.1,
     color: 'Black',
+    tags: [ 'Sub-Legendary' ],
     eggGroups: [ 'Undiscovered' ]
   },
   ogerpon: {
@@ -18505,6 +18528,7 @@
     heightm: 1.2,
     weightkg: 39.8,
     color: 'Green',
+    tags: [ 'Sub-Legendary' ],
     eggGroups: [ 'Undiscovered' ],
     otherFormes: [
       'Ogerpon-Wellspring',
@@ -18747,7 +18771,6 @@
     heightm: 0.3,
     weightkg: 16,
     color: 'Blue',
-    tags: [ 'Restricted Legendary' ],
     eggGroups: [ 'Undiscovered' ],
     battleOnly: 'Terapagos',
     forceTeraType: 'Stellar'
@@ -18763,7 +18786,6 @@
     heightm: 1.7,
     weightkg: 77,
     color: 'Blue',
-    tags: [ 'Restricted Legendary' ],
     eggGroups: [ 'Undiscovered' ],
     battleOnly: 'Terapagos',
     forceTeraType: 'Stellar'
@@ -18956,21 +18978,6 @@
     prevo: 'Privatyke',
     evoLevel: 37,
     eggGroups: [ 'Water 1', 'Water 3' ],
-    gen: 4
-  },
-  kitsunoh: {
-    num: -14,
-    name: 'Kitsunoh',
-    types: [ 'Ghost', 'Steel' ],
-    baseStats: { hp: 80, atk: 103, def: 85, spa: 55, spd: 80, spe: 110 },
-    abilities: { '0': 'Frisk', '1': 'Limber', H: 'Iron Fist' },
-    heightm: 1.1,
-    weightkg: 51,
-    color: 'Gray',
-    prevo: 'Nohface',
-    evoType: 'trade',
-    evoItem: 'Metal Coat',
-    eggGroups: [ 'Field' ],
     gen: 4
   },
   cyclohm: {
@@ -19784,6 +19791,18 @@
     weightkg: 999.9,
     color: 'Blue',
     eggGroups: [ 'Amorphous', 'Water 3' ],
+    gen: 9
+  },
+  chuggalong: {
+    num: -75,
+    name: 'Chuggalong',
+    types: [ 'Dragon', 'Poison' ],
+    baseStats: { hp: 45, atk: 43, def: 117, spa: 120, spd: 110, spe: 108 },
+    abilities: { '0': 'Armor Tail', '1': 'White Smoke', H: 'Slow Start' },
+    heightm: 6.2,
+    weightkg: 201.6,
+    color: 'Black',
+    eggGroups: [ 'Dragon', 'Mineral' ],
     gen: 9
   },
   pokestarsmeargle: {

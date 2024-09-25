@@ -113,7 +113,7 @@ Ice Body
 If Hail is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn. This Pokemon takes no damage from Hail.
 
 Illuminate
-Prevents other Pokemon from lowering this Pokemon's accuracy stat stage. This Pokemon ignores a target's evasiveness stat stage.
+No competitive use.
 
 Immunity
 This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it.

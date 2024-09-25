@@ -48,7 +48,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 70 },
   zMove: { basePower: 100 }
@@ -105,7 +104,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -158,7 +156,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 120 }
@@ -226,7 +223,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   maxMove: { basePower: 100 },
   zMove: { basePower: 100 }
 },
@@ -283,7 +279,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
 },
@@ -337,7 +332,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 110 },
   zMove: { basePower: 120 }
@@ -393,7 +387,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 140 },
   zMove: { basePower: 190 }
@@ -448,7 +441,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -503,7 +495,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 120 }
@@ -561,7 +552,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
 },
@@ -615,7 +605,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -672,7 +661,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -731,7 +719,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 100 }
 },
@@ -785,7 +772,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -851,7 +837,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 180 }
@@ -913,8 +898,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -966,7 +950,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 140 }
@@ -1022,7 +1005,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 180 }
@@ -1077,7 +1059,6 @@ DataMove {
   ignoreAbility: false,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -1087,13 +1068,18 @@ DataMove {
   name: 'Explosion',
   basePower: 170,
   target: 'normal',
-  noSketch: true,
+  flags: {
+    protect: 1,
+    mirror: 1,
+    metronome: 1,
+    noparentalbond: 1,
+    nosketch: 1
+  },
   num: 153,
   accuracy: 100,
   category: 'Physical',
   pp: 5,
   priority: 0,
-  flags: { protect: 1, mirror: 1, metronome: 1, noparentalbond: 1 },
   selfdestruct: 'always',
   secondary: null,
   type: 'Normal',
@@ -1188,7 +1174,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 140 },
   zMove: { basePower: 190 }
@@ -1246,7 +1231,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
 },
@@ -1311,7 +1295,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 140 }
@@ -1371,8 +1354,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -1425,7 +1407,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -1481,7 +1462,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -1534,7 +1514,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -1592,7 +1571,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -1647,7 +1625,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 160 }
@@ -1704,7 +1681,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 85 },
   zMove: { basePower: 140 }
@@ -1759,7 +1735,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 100 },
   zMove: { basePower: 100 }
@@ -1822,8 +1797,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -1876,8 +1850,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -1885,7 +1858,6 @@ DataMove {
   flags: { protect: 1, bypasssub: 1, metronome: 1 },
   onHit: [Function: onHit],
   accuracy: 100,
-  noSketch: true,
   num: 102,
   basePower: 0,
   category: 'Status',
@@ -1938,8 +1910,7 @@ DataMove {
   exists: true,
   name: 'Mirror Move',
   onHit: [Function: onHit],
-  flags: { metronome: 1, failencore: 1 },
-  noSketch: true,
+  flags: { metronome: 1, failencore: 1, nosketch: 1 },
   onTryHit: [Function: onTryHit],
   target: 'self',
   isNonstandard: null,
@@ -1949,6 +1920,7 @@ DataMove {
   category: 'Status',
   pp: 20,
   priority: 0,
+  callsMove: true,
   secondary: null,
   type: 'Flying',
   zMove: { boost: { atk: 2 } },
@@ -2040,8 +2012,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -2093,7 +2064,6 @@ DataMove {
   ignoreAbility: false,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -2158,7 +2128,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 140 }
@@ -2213,7 +2182,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 70 },
   zMove: { basePower: 100 }
@@ -2268,7 +2236,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -2324,7 +2291,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -2385,7 +2351,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -2440,7 +2405,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 110 },
   zMove: { basePower: 100 }
@@ -2504,7 +2468,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -2562,7 +2525,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -2616,8 +2578,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -2672,7 +2633,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -2728,7 +2688,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -2781,7 +2740,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 140 }
@@ -2836,7 +2794,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 100 },
   zMove: { basePower: 100 }
@@ -2893,7 +2850,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -2947,7 +2903,6 @@ DataMove {
   ignoreAbility: false,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 100 }
 },
@@ -2956,13 +2911,18 @@ DataMove {
   name: 'Self-Destruct',
   basePower: 130,
   target: 'normal',
-  noSketch: true,
+  flags: {
+    protect: 1,
+    mirror: 1,
+    metronome: 1,
+    noparentalbond: 1,
+    nosketch: 1
+  },
   num: 120,
   accuracy: 100,
   category: 'Physical',
   pp: 5,
   priority: 0,
-  flags: { protect: 1, mirror: 1, metronome: 1, noparentalbond: 1 },
   selfdestruct: 'always',
   secondary: null,
   type: 'Normal',
@@ -3067,7 +3027,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 180 }
@@ -3132,7 +3091,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 140 },
   zMove: { basePower: 200 }
@@ -3187,7 +3145,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 140 }
@@ -3242,7 +3199,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 85 },
   zMove: { basePower: 120 }
@@ -3307,7 +3263,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 140 },
   zMove: { basePower: 190 }
@@ -3362,7 +3317,6 @@ DataMove {
   ignoreAbility: false,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -3420,7 +3374,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -3429,7 +3382,14 @@ DataMove {
   pp: 10,
   recoil: [ 1, 2 ],
   onModifyMove: [Function: onModifyMove],
-  flags: { contact: 1, protect: 1, noassist: 1, failencore: 1, failmimic: 1 },
+  flags: {
+    contact: 1,
+    protect: 1,
+    noassist: 1,
+    failencore: 1,
+    failmimic: 1,
+    nosketch: 1
+  },
   accuracy: 100,
   struggleRecoil: false,
   num: 165,
@@ -3437,7 +3397,6 @@ DataMove {
   category: 'Physical',
   noPPBoosts: true,
   priority: 0,
-  noSketch: true,
   secondary: null,
   target: 'randomNormal',
   type: 'Normal',
@@ -3536,8 +3495,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -3590,7 +3548,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -3648,7 +3605,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -3704,7 +3660,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 140 },
   zMove: { basePower: 190 }
@@ -3760,7 +3715,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -3818,7 +3772,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -3871,7 +3824,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -3929,7 +3881,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
 },
@@ -3986,15 +3937,13 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 75 }
 },
 DataMove {
   exists: true,
   name: 'Metronome',
-  flags: { failencore: 1 },
-  noSketch: true,
+  flags: { failencore: 1, nosketch: 1 },
   num: 118,
   accuracy: true,
   basePower: 0,
@@ -4002,6 +3951,7 @@ DataMove {
   pp: 10,
   priority: 0,
   onHit: [Function: onHit],
+  callsMove: true,
   secondary: null,
   target: 'self',
   type: 'Normal',
@@ -4095,7 +4045,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -4150,7 +4099,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -4212,14 +4160,12 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
   exists: true,
   name: 'Transform',
-  noSketch: true,
-  flags: { bypasssub: 1, metronome: 1, failencore: 1 },
+  flags: { bypasssub: 1, metronome: 1, failencore: 1, nosketch: 1 },
   num: 144,
   accuracy: true,
   basePower: 0,
@@ -4321,7 +4267,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -4378,7 +4323,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -4432,7 +4376,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -4487,7 +4430,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 }
 },
@@ -4541,7 +4483,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -4596,7 +4537,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -4651,7 +4591,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -4708,7 +4647,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 180 }
@@ -4769,8 +4707,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -4823,7 +4760,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -4878,7 +4814,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -4935,7 +4870,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -4990,7 +4924,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5043,7 +4976,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -5100,7 +5032,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5153,7 +5084,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 140 },
   zMove: { basePower: 190 }
@@ -5208,7 +5138,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -5264,7 +5193,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -5319,7 +5247,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -5377,7 +5304,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5432,7 +5358,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5486,7 +5411,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5541,7 +5465,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5594,7 +5517,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 70 },
   zMove: { basePower: 100 }
@@ -5651,7 +5573,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5706,7 +5627,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5761,7 +5681,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5815,7 +5734,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 160 }
@@ -5871,8 +5789,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -5926,7 +5843,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -5979,7 +5895,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -6035,7 +5950,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -6089,7 +6003,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -6144,7 +6057,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 120 }
@@ -6201,7 +6113,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 100 }
 },
@@ -6256,7 +6167,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -6311,7 +6221,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 180 }
@@ -6366,7 +6275,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -6423,7 +6331,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -6476,7 +6383,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 80 },
   zMove: { basePower: 120 }
@@ -6533,7 +6439,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -6588,7 +6493,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 120 }
 },
@@ -6644,7 +6548,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -6699,7 +6602,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 100 }
 },
@@ -6755,7 +6657,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 100 }
 },
@@ -6809,7 +6710,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 100 },
   zMove: { basePower: 100 }
@@ -6866,7 +6766,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -6920,7 +6819,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -6975,7 +6873,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -7028,7 +6925,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -7084,8 +6980,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -7137,7 +7032,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 100 },
   zMove: { basePower: 100 }
@@ -7195,8 +7089,7 @@ DataMove {
   ignoreAbility: false,
   damage: undefined,
   spreadHit: false,
-  forceSTAB: false,
-  noSketch: false
+  forceSTAB: false
 },
 DataMove {
   exists: true,
@@ -7250,7 +7143,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 100 }
 },
@@ -7306,7 +7198,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -7359,7 +7250,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -7414,7 +7304,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 180 }
@@ -7469,7 +7358,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -7524,7 +7412,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 140 }
@@ -7582,7 +7469,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -7636,7 +7522,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -7693,7 +7578,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   zMove: { basePower: 100 }
 },
@@ -7750,7 +7634,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -7805,7 +7688,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -7858,7 +7740,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 140 }
@@ -7913,7 +7794,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 120 }
@@ -7971,7 +7851,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -8025,7 +7904,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 150 },
   zMove: { basePower: 200 }
@@ -8080,7 +7958,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 140 }
@@ -8137,7 +8014,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -8190,7 +8066,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 140 },
   zMove: { basePower: 190 }
@@ -8245,7 +8120,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -8300,7 +8174,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -8355,7 +8228,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -8410,7 +8282,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 120 }
@@ -8465,7 +8336,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -8520,7 +8390,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -8575,7 +8444,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -8632,7 +8500,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -8688,7 +8555,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -8741,7 +8607,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 120 },
   zMove: { basePower: 120 }
@@ -8796,7 +8661,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 160 }
@@ -8851,7 +8715,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 110 },
   zMove: { basePower: 120 }
@@ -8908,7 +8771,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 },
 DataMove {
@@ -8962,7 +8824,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 175 }
@@ -9017,7 +8878,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 130 },
   zMove: { basePower: 140 }
@@ -9072,7 +8932,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -9127,7 +8986,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 110 },
   zMove: { basePower: 100 }
@@ -9182,7 +9040,6 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined,
   maxMove: { basePower: 90 },
   zMove: { basePower: 100 }
@@ -9239,6 +9096,5 @@ DataMove {
   damage: undefined,
   spreadHit: false,
   forceSTAB: false,
-  noSketch: false,
   volatileStatus: undefined
 }

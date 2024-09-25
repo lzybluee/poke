@@ -23330,19 +23330,19 @@ Rotom
     Will-O-Wisp : TM
 
 Rotom-Heat
-    Overheat : Level 1
+    Overheat : Special
 
 Rotom-Wash
-    Hydro Pump : Level 1
+    Hydro Pump : Special
 
 Rotom-Frost
-    Blizzard : Level 1
+    Blizzard : Special
 
 Rotom-Fan
-    Air Slash : Level 1
+    Air Slash : Special
 
 Rotom-Mow
-    Leaf Storm : Level 1
+    Leaf Storm : Special
 
 Uxie
     Acrobatics : TM
@@ -30133,7 +30133,6 @@ Greninja-Bond
     Blizzard : TM
     Brick Break : TM
     Chilling Water : TM
-    Counter : Egg
     Dark Pulse : TM
     Dig : TM
     Double Team : Level 56
@@ -30166,7 +30165,6 @@ Greninja-Bond
     Quick Attack : Level 1
     Rain Dance : TM
     Rest : TM
-    Retaliate : Egg
     Rock Slide : TM
     Rock Tomb : TM
     Role Play : Level 1
@@ -30176,7 +30174,7 @@ Greninja-Bond
     Smack Down : TM
     Smokescreen : Level 19
     Snowscape : TM
-    Spikes : TM, Level 28, Egg
+    Spikes : TM, Level 28
     Substitute : TM, Level 42
     Surf : TM
     Swift : TM
@@ -30186,7 +30184,7 @@ Greninja-Bond
     Taunt : TM
     Tera Blast : TM
     Thief : TM
-    Toxic Spikes : TM, Egg
+    Toxic Spikes : TM
     Trailblaze : TM
     Upper Hand : TM
     U-turn : TM
@@ -30889,7 +30887,7 @@ Meowstic
     Alluring Voice : TM
     Baton Pass : TM
     Calm Mind : TM
-    Charge Beam : TM, Level 15
+    Charge Beam : TM
     Charm : TM, Level 15
     Confusion : Level 9
     Covet : Level 18
@@ -30899,11 +30897,9 @@ Meowstic
     Endure : TM
     Energy Ball : TM
     Expanding Force : TM
-    Extrasensory : Level 44
     Facade : TM
     Fake Out : Level 1
     Fake Tears : TM
-    Future Sight : TM, Level 59
     Giga Impact : TM
     Gravity : TM
     Helping Hand : TM, Level 12
@@ -30911,7 +30907,6 @@ Meowstic
     Imprison : TM, Level 44
     Leer : Level 1
     Light Screen : TM, Level 34
-    Magical Leaf : TM, Level 1
     Mean Look : Level 1
     Misty Terrain : TM, Level 59
     Nasty Plot : TM
@@ -30929,10 +30924,10 @@ Meowstic
     Rest : TM
     Role Play : Level 29
     Scratch : Level 1
-    Shadow Ball : TM, Level 49
+    Shadow Ball : TM
     Skill Swap : TM
     Sleep Talk : TM
-    Stored Power : TM, Level 12
+    Stored Power : TM
     Substitute : TM
     Sucker Punch : Level 24
     Sunny Day : TM
@@ -39539,29 +39534,23 @@ Ursaluna
 
 Ursaluna-Bloodmoon
     Avalanche : TM
-    Belly Drum : Egg
     Blood Moon : Level 70
     Body Press : TM
     Body Slam : TM
     Brick Break : TM
     Bulldoze : TM
     Calm Mind : TM
-    Close Combat : Egg
-    Counter : Egg
-    Cross Chop : Egg
-    Crunch : TM, Egg
+    Crunch : TM
     Dig : TM
-    Double-Edge : TM, Egg
+    Double-Edge : TM
     Earth Power : TM, Level 48
     Earthquake : TM
     Endure : TM
     Facade : TM
-    Fake Tears : Egg
     Fire Punch : TM
     Fling : TM
     Focus Blast : TM
     Focus Punch : TM
-    Fury Cutter : Egg
     Fury Swipes : Level 8
     Giga Impact : TM
     Gunk Shot : TM
@@ -39578,11 +39567,10 @@ Ursaluna-Bloodmoon
     Leer : Level 1
     Lick : Level 1
     Low Kick : TM
-    Metal Claw : TM, Egg
+    Metal Claw : TM
     Moonblast : Level 56
     Moonlight : Level 1
     Mud Shot : TM
-    Night Slash : Egg
     Payback : Level 13
     Play Nice : Level 25
     Protect : TM
@@ -39594,7 +39582,6 @@ Ursaluna-Bloodmoon
     Scary Face : TM, Level 35
     Scratch : Level 1
     Seed Bomb : TM
-    Seismic Toss : Egg
     Shadow Claw : TM
     Slash : Level 22
     Sleep Talk : TM
@@ -39615,7 +39602,6 @@ Ursaluna-Bloodmoon
     Trailblaze : TM
     Uproar : TM
     Vacuum Wave : TM
-    Yawn : Egg
 
 Basculegion
     Agility : TM

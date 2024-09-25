@@ -81,6 +81,7 @@
   asoneglastrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -98,6 +99,7 @@
   asonespectrier: {
     rating: 3.5,
     onPreStart: [Function: onPreStart],
+    onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
     onSourceAfterFaint: [Function: onSourceAfterFaint],
@@ -1710,6 +1712,7 @@
       onResidualOrder: 28,
       onResidualSubOrder: 2,
       onStart: [Function: onStart],
+      onResidual: [Function: onResidual],
       onModifyAtkPriority: 5,
       onModifyAtk: [Function: onModifyAtk],
       onModifySpe: [Function: onModifySpe],
@@ -2059,7 +2062,7 @@
     num: 137
   },
   trace: {
-    rating: 2.5,
+    rating: 3,
     onStart: [Function: onStart],
     onUpdate: [Function: onUpdate],
     flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
