@@ -9119,7 +9119,6 @@
     gameType: 'doubles',
     team: 'random',
     searchShow: false,
-    challengeShow: false,
     ruleset: [
       'Obtainable',
       'HP Percentage Mod',
@@ -9135,6 +9134,7 @@
       'Cancel Mod',
       'Illusion Level Mod'
     ],
+    challengeShow: true,
     tournamentShow: true,
     bestOfDefault: false,
     teraPreviewDefault: false,

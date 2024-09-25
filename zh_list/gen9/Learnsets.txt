@@ -23330,19 +23330,19 @@ Rotom (洛托姆)
     Will-O-Wisp (磷火) : TM
 
 Rotom-Heat
-    Overheat (过热) : Level 1
+    Overheat (过热) : Special
 
 Rotom-Wash
-    Hydro Pump (水炮) : Level 1
+    Hydro Pump (水炮) : Special
 
 Rotom-Frost
-    Blizzard (暴风雪) : Level 1
+    Blizzard (暴风雪) : Special
 
 Rotom-Fan
-    Air Slash (空气之刃) : Level 1
+    Air Slash (空气之刃) : Special
 
 Rotom-Mow
-    Leaf Storm (飞叶风暴) : Level 1
+    Leaf Storm (飞叶风暴) : Special
 
 Uxie (由克希)
     Acrobatics (杂技) : TM
@@ -30133,7 +30133,6 @@ Greninja-Bond
     Blizzard (暴风雪) : TM
     Brick Break (劈瓦) : TM
     Chilling Water (泼冷水) : TM
-    Counter (双倍奉还) : Egg
     Dark Pulse (恶之波动) : TM
     Dig (挖洞) : TM
     Double Team (影子分身) : Level 56
@@ -30166,7 +30165,6 @@ Greninja-Bond
     Quick Attack (电光一闪) : Level 1
     Rain Dance (求雨) : TM
     Rest (睡觉) : TM
-    Retaliate (报仇) : Egg
     Rock Slide (岩崩) : TM
     Rock Tomb (岩石封锁) : TM
     Role Play (扮演) : Level 1
@@ -30176,7 +30174,7 @@ Greninja-Bond
     Smack Down (击落) : TM
     Smokescreen (烟幕) : Level 19
     Snowscape (雪景) : TM
-    Spikes (撒菱) : TM, Level 28, Egg
+    Spikes (撒菱) : TM, Level 28
     Substitute (替身) : TM, Level 42
     Surf (冲浪) : TM
     Swift (高速星星) : TM
@@ -30186,7 +30184,7 @@ Greninja-Bond
     Taunt (挑衅) : TM
     Tera Blast (太晶爆发) : TM
     Thief (小偷) : TM
-    Toxic Spikes (毒菱) : TM, Egg
+    Toxic Spikes (毒菱) : TM
     Trailblaze (起草) : TM
     Upper Hand (快手还击) : TM
     U-turn (急速折返) : TM
@@ -30889,7 +30887,7 @@ Meowstic (超能妙喵)
     Alluring Voice (魅诱之声) : TM
     Baton Pass (接棒) : TM
     Calm Mind (冥想) : TM
-    Charge Beam (充电光束) : TM, Level 15
+    Charge Beam (充电光束) : TM
     Charm (撒娇) : TM, Level 15
     Confusion (念力) : Level 9
     Covet (渴望) : Level 18
@@ -30899,11 +30897,9 @@ Meowstic (超能妙喵)
     Endure (挺住) : TM
     Energy Ball (能量球) : TM
     Expanding Force (广域战力) : TM
-    Extrasensory (神通力) : Level 44
     Facade (硬撑) : TM
     Fake Out (击掌奇袭) : Level 1
     Fake Tears (假哭) : TM
-    Future Sight (预知未来) : TM, Level 59
     Giga Impact (终极冲击) : TM
     Gravity (重力) : TM
     Helping Hand (帮助) : TM, Level 12
@@ -30911,7 +30907,6 @@ Meowstic (超能妙喵)
     Imprison (封印) : TM, Level 44
     Leer (瞪眼) : Level 1
     Light Screen (光墙) : TM, Level 34
-    Magical Leaf (魔法叶) : TM, Level 1
     Mean Look (黑色目光) : Level 1
     Misty Terrain (薄雾场地) : TM, Level 59
     Nasty Plot (诡计) : TM
@@ -30929,10 +30924,10 @@ Meowstic (超能妙喵)
     Rest (睡觉) : TM
     Role Play (扮演) : Level 29
     Scratch (抓) : Level 1
-    Shadow Ball (暗影球) : TM, Level 49
+    Shadow Ball (暗影球) : TM
     Skill Swap (特性互换) : TM
     Sleep Talk (梦话) : TM
-    Stored Power (辅助力量) : TM, Level 12
+    Stored Power (辅助力量) : TM
     Substitute (替身) : TM
     Sucker Punch (突袭) : Level 24
     Sunny Day (大晴天) : TM
@@ -39539,29 +39534,23 @@ Ursaluna (月月熊)
 
 Ursaluna-Bloodmoon
     Avalanche (雪崩) : TM
-    Belly Drum (腹鼓) : Egg
     Blood Moon (血月) : Level 70
     Body Press (扑击) : TM
     Body Slam (泰山压顶) : TM
     Brick Break (劈瓦) : TM
     Bulldoze (重踏) : TM
     Calm Mind (冥想) : TM
-    Close Combat (近身战) : Egg
-    Counter (双倍奉还) : Egg
-    Cross Chop (十字劈) : Egg
-    Crunch (咬碎) : TM, Egg
+    Crunch (咬碎) : TM
     Dig (挖洞) : TM
-    Double-Edge (舍身冲撞) : TM, Egg
+    Double-Edge (舍身冲撞) : TM
     Earth Power (大地之力) : TM, Level 48
     Earthquake (地震) : TM
     Endure (挺住) : TM
     Facade (硬撑) : TM
-    Fake Tears (假哭) : Egg
     Fire Punch (火焰拳) : TM
     Fling (投掷) : TM
     Focus Blast (真气弹) : TM
     Focus Punch (真气拳) : TM
-    Fury Cutter (连斩) : Egg
     Fury Swipes (乱抓) : Level 8
     Giga Impact (终极冲击) : TM
     Gunk Shot (垃圾射击) : TM
@@ -39578,11 +39567,10 @@ Ursaluna-Bloodmoon
     Leer (瞪眼) : Level 1
     Lick (舌舔) : Level 1
     Low Kick (踢倒) : TM
-    Metal Claw (金属爪) : TM, Egg
+    Metal Claw (金属爪) : TM
     Moonblast (月亮之力) : Level 56
     Moonlight (月光) : Level 1
     Mud Shot (泥巴射击) : TM
-    Night Slash (暗袭要害) : Egg
     Payback (以牙还牙) : Level 13
     Play Nice (和睦相处) : Level 25
     Protect (守住) : TM
@@ -39594,7 +39582,6 @@ Ursaluna-Bloodmoon
     Scary Face (可怕面孔) : TM, Level 35
     Scratch (抓) : Level 1
     Seed Bomb (种子炸弹) : TM
-    Seismic Toss (地球上投) : Egg
     Shadow Claw (暗影爪) : TM
     Slash (劈开) : Level 22
     Sleep Talk (梦话) : TM
@@ -39615,7 +39602,6 @@ Ursaluna-Bloodmoon
     Trailblaze (起草) : TM
     Uproar (吵闹) : TM
     Vacuum Wave (真空波) : TM
-    Yawn (哈欠) : Egg
 
 Basculegion (幽尾玄鱼)
     Agility (高速移动) : TM

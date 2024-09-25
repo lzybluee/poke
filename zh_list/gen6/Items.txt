@@ -88,6 +88,9 @@ If held by a Blaziken, this item allows it to Mega Evolve in battle.
 Blue Orb (靛蓝色宝珠)
 If held by a Kyogre, this item triggers its Primal Reversion in battle.
 
+Bluk Berry (墨莓果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
 Bright Powder (光粉)
 The accuracy of attacks against the holder is 0.9x.
 
@@ -534,6 +537,9 @@ Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.
 
 Pidgeotite (大比鸟进化石)
 If held by a Pidgeot, this item allows it to Mega Evolve in battle.
+
+Pinap Berry (凰梨果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
 
 Pinsirite (凯罗斯进化石)
 If held by a Pinsir, this item allows it to Mega Evolve in battle.

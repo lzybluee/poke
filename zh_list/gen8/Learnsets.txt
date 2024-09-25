@@ -20152,19 +20152,19 @@ Rotom (洛托姆)
     Will-O-Wisp (磷火) : TM
 
 Rotom-Heat
-    Overheat (过热) : Level 1
+    Overheat (过热) : Special
 
 Rotom-Wash
-    Hydro Pump (水炮) : Level 1
+    Hydro Pump (水炮) : Special
 
 Rotom-Frost
-    Blizzard (暴风雪) : Level 1
+    Blizzard (暴风雪) : Special
 
 Rotom-Fan
-    Air Slash (空气之刃) : Level 1
+    Air Slash (空气之刃) : Special
 
 Rotom-Mow
-    Leaf Storm (飞叶风暴) : Level 1
+    Leaf Storm (飞叶风暴) : Special
 
 Uxie (由克希)
     Acrobatics (杂技) : TM

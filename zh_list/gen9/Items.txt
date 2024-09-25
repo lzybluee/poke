@@ -223,6 +223,12 @@ If holder's HP is full, will survive an attack that would KO it with 1 HP. Singl
 Friend Ball (友友球)
 A Poke Ball that makes caught Pokemon more friendly.
 
+Galarica Cuff (伽勒豆蔻手环)
+Evolves Galarian Slowpoke into Galarian Slowbro when used.
+
+Galarica Wreath (伽勒豆蔻花圈)
+Evolves Galarian Slowpoke into Galarian Slowking when used.
+
 Ganlon Berry (龙睛果)
 Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.
 
@@ -574,6 +580,9 @@ If held by a Zamazenta, this item changes its forme to Crowned Shield.
 Rusted Sword (腐朽的剑)
 If held by a Zacian, this item changes its forme to Crowned Sword.
 
+Safari Ball (狩猎球)
+A special Poke Ball that is used only in the Safari Zone and Great Marsh.
+
 Safety Goggles (防尘护目镜)
 Holder is immune to powder moves and damage from Sandstorm or Hail.
 
@@ -630,6 +639,9 @@ Holder's Water-type attacks have 1.2x power. Judgment is Water type.
 
 Spooky Plate (妖怪石板)
 Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.
+
+Sport Ball (竞赛球)
+A special Poke Ball for the Bug-Catching Contest.
 
 Star Sweet (星星糖饰)
 Evolves Milcery into Alcremie when held and spun around.

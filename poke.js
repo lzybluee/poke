@@ -493,7 +493,7 @@ function get_trans(file, output) {
     let text = '';
 
     let en_list = fs.readFileSync(file.replaceAll('*', 'en')).toString().split('\r\n');
-    let zh_list = fs.readFileSync(file.replaceAll('*', 'zh')).toString().split('\r\n');
+    let zh_list = fs.readFileSync(file.replace('/*/', '/zh/').replace('*', 'zh-Hans')).toString().split('\r\n');
 
     for (let i = 0; i < en_list.length; i++) {
         if (en_list[i] != zh_list[i] && !trans[en_list[i]] && !en_list[i].startsWith('?')) {

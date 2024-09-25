@@ -46,6 +46,9 @@ Holder's Dark-type attacks have 1.2x power.
 Black Sludge (黑色污泥)
 Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.
 
+Bluk Berry (墨莓果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
+
 Bright Powder (光粉)
 The accuracy of attacks against the holder is 0.9x.
 
@@ -444,6 +447,9 @@ Holder is cured if it is confused. Single use.
 
 Petaya Berry (龙火果)
 Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.
+
+Pinap Berry (凰梨果)
+Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.
 
 Plume Fossil (羽毛化石)
 Can be revived into Archen.

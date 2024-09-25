@@ -65,7 +65,7 @@ Hyper Cutter (怪力钳)
 Prevents other Pokemon from lowering this Pokemon's Attack stat stage.
 
 Illuminate (发光)
-Prevents other Pokemon from lowering this Pokemon's accuracy stat stage. This Pokemon ignores a target's evasiveness stat stage.
+No competitive use.
 
 Immunity (免疫)
 This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it.
