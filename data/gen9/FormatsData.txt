@@ -171,7 +171,7 @@
   kingler: { isNonstandard: 'Past', tier: 'Illegal', natDexTier: 'RU' },
   kinglergmax: { isNonstandard: 'Past', tier: 'Illegal' },
   voltorb: { tier: 'LC' },
-  voltorbhisui: { tier: 'LC' },
+  voltorbhisui: { tier: 'NFE', doublesTier: 'LC', natDexTier: 'LC' },
   electrode: { tier: 'ZU', doublesTier: '(DUU)', natDexTier: 'RU' },
   electrodehisui: { tier: 'ZUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   exeggcute: { tier: 'LC' },
@@ -818,7 +818,7 @@
   zekrom: { tier: 'Uber', doublesTier: 'DUber', natDexTier: 'Uber' },
   landorus: { tier: 'Uber', doublesTier: 'DOU', natDexTier: 'Uber' },
   landorustherian: { tier: 'OU', doublesTier: 'DOU', natDexTier: 'OU' },
-  kyurem: { tier: 'OU', doublesTier: 'DOU', natDexTier: 'OU' },
+  kyurem: { tier: 'Uber', doublesTier: 'DOU', natDexTier: 'OU' },
   kyuremblack: { tier: 'Uber', doublesTier: 'DUber', natDexTier: 'Uber' },
   kyuremwhite: { tier: 'Uber', doublesTier: 'DUber', natDexTier: 'Uber' },
   keldeo: { tier: 'UU', doublesTier: '(DUU)', natDexTier: 'UU' },
@@ -1362,7 +1362,6 @@
   pokestarmt2: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestartransport: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestargiant: { isNonstandard: 'Custom', tier: 'Illegal' },
-  pokestargiant2: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestarhumanoid: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestarmonster: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestarf00: { isNonstandard: 'Custom', tier: 'Illegal' },
@@ -1371,6 +1370,5 @@
   pokestarblackdoor: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestarwhitedoor: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestarblackbelt: { isNonstandard: 'Custom', tier: 'Illegal' },
-  pokestargiantpropo2: { isNonstandard: 'Custom', tier: 'Illegal' },
   pokestarufopropu2: { isNonstandard: 'Custom', tier: 'Illegal' }
 }
