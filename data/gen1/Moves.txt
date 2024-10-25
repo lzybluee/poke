@@ -7742,6 +7742,7 @@
     onTryHit: [Function: onTryHit],
     condition: {
       duration: 1,
+      noCopy: true,
       onStart: [Function: onStart],
       onFoeRedirectTargetPriority: 2,
       onFoeRedirectTarget: [Function: onFoeRedirectTarget]
