@@ -800,6 +800,7 @@
   guarddog: {
     onDragOutPriority: 1,
     onDragOut: [Function: onDragOut],
+    onTryBoostPriority: 2,
     onTryBoost: [Function: onTryBoost],
     flags: { breakable: 1 },
     name: 'Guard Dog',

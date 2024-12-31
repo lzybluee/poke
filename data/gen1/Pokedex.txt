@@ -1,9 +1,9 @@
 {
   missingno: {
-    baseStats: { hp: 33, atk: 136, def: 0, spa: 6, spd: 6, spe: 29 },
     num: 0,
     name: 'MissingNo.',
     types: [ 'Bird', 'Normal' ],
+    baseStats: { hp: 33, atk: 136, def: 0, spa: 6, spd: 6, spe: 29 },
     abilities: { '0': '' },
     heightm: 3,
     weightkg: 1590.8,
@@ -12,27 +12,26 @@
     gender: 'N'
   },
   bulbasaur: {
-    baseStats: { hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45 },
-    maleOnlyHidden: true,
     num: 1,
     name: 'Bulbasaur',
     types: [ 'Grass', 'Poison' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45 },
     abilities: { '0': 'Overgrow', H: 'Chlorophyll' },
     heightm: 0.7,
     weightkg: 6.9,
     color: 'Green',
     evos: [ 'Ivysaur' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   ivysaur: {
-    baseStats: { hp: 60, atk: 62, def: 63, spa: 80, spd: 80, spe: 60 },
-    maleOnlyHidden: true,
     num: 2,
     name: 'Ivysaur',
     types: [ 'Grass', 'Poison' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 60, atk: 62, def: 63, spa: 80, spd: 80, spe: 60 },
     abilities: { '0': 'Overgrow', H: 'Chlorophyll' },
     heightm: 1,
     weightkg: 13,
@@ -41,15 +40,15 @@
     evoLevel: 16,
     evos: [ 'Venusaur' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   venusaur: {
-    baseStats: { hp: 80, atk: 82, def: 83, spa: 100, spd: 100, spe: 80 },
-    maleOnlyHidden: true,
     num: 3,
     name: 'Venusaur',
     types: [ 'Grass', 'Poison' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 80, atk: 82, def: 83, spa: 100, spd: 100, spe: 80 },
     abilities: { '0': 'Overgrow', H: 'Chlorophyll' },
     heightm: 2,
     weightkg: 100,
@@ -60,30 +59,30 @@
     otherFormes: [ 'Venusaur-Mega' ],
     formeOrder: [ 'Venusaur', 'Venusaur-Mega' ],
     canGigantamax: 'G-Max Vine Lash',
+    maleOnlyHidden: true,
     gender: 'N'
   },
   charmander: {
-    baseStats: { hp: 39, atk: 52, def: 43, spa: 50, spd: 50, spe: 65 },
-    maleOnlyHidden: true,
     num: 4,
     name: 'Charmander',
     types: [ 'Fire' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 39, atk: 52, def: 43, spa: 50, spd: 50, spe: 65 },
     abilities: { '0': 'Blaze', H: 'Solar Power' },
     heightm: 0.6,
     weightkg: 8.5,
     color: 'Red',
     evos: [ 'Charmeleon' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   charmeleon: {
-    baseStats: { hp: 58, atk: 64, def: 58, spa: 65, spd: 65, spe: 80 },
-    maleOnlyHidden: true,
     num: 5,
     name: 'Charmeleon',
     types: [ 'Fire' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 58, atk: 64, def: 58, spa: 65, spd: 65, spe: 80 },
     abilities: { '0': 'Blaze', H: 'Solar Power' },
     heightm: 1.1,
     weightkg: 19,
@@ -92,15 +91,15 @@
     evoLevel: 16,
     evos: [ 'Charizard' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   charizard: {
-    baseStats: { hp: 78, atk: 84, def: 78, spa: 85, spd: 85, spe: 100 },
-    maleOnlyHidden: true,
     num: 6,
     name: 'Charizard',
     types: [ 'Fire', 'Flying' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 78, atk: 84, def: 78, spa: 85, spd: 85, spe: 100 },
     abilities: { '0': 'Blaze', H: 'Solar Power' },
     heightm: 1.7,
     weightkg: 90.5,
@@ -111,30 +110,30 @@
     otherFormes: [ 'Charizard-Mega-X', 'Charizard-Mega-Y' ],
     formeOrder: [ 'Charizard', 'Charizard-Mega-X', 'Charizard-Mega-Y' ],
     canGigantamax: 'G-Max Wildfire',
+    maleOnlyHidden: true,
     gender: 'N'
   },
   squirtle: {
-    baseStats: { hp: 44, atk: 48, def: 65, spa: 50, spd: 50, spe: 43 },
-    maleOnlyHidden: true,
     num: 7,
     name: 'Squirtle',
     types: [ 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 44, atk: 48, def: 65, spa: 50, spd: 50, spe: 43 },
     abilities: { '0': 'Torrent', H: 'Rain Dish' },
     heightm: 0.5,
     weightkg: 9,
     color: 'Blue',
     evos: [ 'Wartortle' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   wartortle: {
-    baseStats: { hp: 59, atk: 63, def: 80, spa: 65, spd: 65, spe: 58 },
-    maleOnlyHidden: true,
     num: 8,
     name: 'Wartortle',
     types: [ 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 59, atk: 63, def: 80, spa: 65, spd: 65, spe: 58 },
     abilities: { '0': 'Torrent', H: 'Rain Dish' },
     heightm: 1,
     weightkg: 22.5,
@@ -143,15 +142,15 @@
     evoLevel: 16,
     evos: [ 'Blastoise' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   blastoise: {
-    baseStats: { hp: 79, atk: 83, def: 100, spa: 85, spd: 85, spe: 78 },
-    maleOnlyHidden: true,
     num: 9,
     name: 'Blastoise',
     types: [ 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 79, atk: 83, def: 100, spa: 85, spd: 85, spe: 78 },
     abilities: { '0': 'Torrent', H: 'Rain Dish' },
     heightm: 1.6,
     weightkg: 85.5,
@@ -162,13 +161,14 @@
     otherFormes: [ 'Blastoise-Mega' ],
     formeOrder: [ 'Blastoise', 'Blastoise-Mega' ],
     canGigantamax: 'G-Max Cannonade',
+    maleOnlyHidden: true,
     gender: 'N'
   },
   caterpie: {
-    baseStats: { hp: 45, atk: 30, def: 35, spa: 20, spd: 20, spe: 45 },
     num: 10,
     name: 'Caterpie',
     types: [ 'Bug' ],
+    baseStats: { hp: 45, atk: 30, def: 35, spa: 20, spd: 20, spe: 45 },
     abilities: { '0': 'Shield Dust', H: 'Run Away' },
     heightm: 0.3,
     weightkg: 2.9,
@@ -178,10 +178,10 @@
     gender: 'N'
   },
   metapod: {
-    baseStats: { hp: 50, atk: 20, def: 55, spa: 25, spd: 25, spe: 30 },
     num: 11,
     name: 'Metapod',
     types: [ 'Bug' ],
+    baseStats: { hp: 50, atk: 20, def: 55, spa: 25, spd: 25, spe: 30 },
     abilities: { '0': 'Shed Skin' },
     heightm: 0.7,
     weightkg: 9.9,
@@ -193,10 +193,10 @@
     gender: 'N'
   },
   butterfree: {
-    baseStats: { hp: 60, atk: 45, def: 50, spa: 80, spd: 80, spe: 70 },
     num: 12,
     name: 'Butterfree',
     types: [ 'Bug', 'Flying' ],
+    baseStats: { hp: 60, atk: 45, def: 50, spa: 80, spd: 80, spe: 70 },
     abilities: { '0': 'Compound Eyes', H: 'Tinted Lens' },
     heightm: 1.1,
     weightkg: 32,
@@ -208,10 +208,10 @@
     gender: 'N'
   },
   weedle: {
-    baseStats: { hp: 40, atk: 35, def: 30, spa: 20, spd: 20, spe: 50 },
     num: 13,
     name: 'Weedle',
     types: [ 'Bug', 'Poison' ],
+    baseStats: { hp: 40, atk: 35, def: 30, spa: 20, spd: 20, spe: 50 },
     abilities: { '0': 'Shield Dust', H: 'Run Away' },
     heightm: 0.3,
     weightkg: 3.2,
@@ -221,10 +221,10 @@
     gender: 'N'
   },
   kakuna: {
-    baseStats: { hp: 45, atk: 25, def: 50, spa: 25, spd: 25, spe: 35 },
     num: 14,
     name: 'Kakuna',
     types: [ 'Bug', 'Poison' ],
+    baseStats: { hp: 45, atk: 25, def: 50, spa: 25, spd: 25, spe: 35 },
     abilities: { '0': 'Shed Skin' },
     heightm: 0.6,
     weightkg: 10,
@@ -236,10 +236,10 @@
     gender: 'N'
   },
   beedrill: {
-    baseStats: { hp: 65, atk: 80, def: 40, spa: 45, spd: 45, spe: 75 },
     num: 15,
     name: 'Beedrill',
     types: [ 'Bug', 'Poison' ],
+    baseStats: { hp: 65, atk: 80, def: 40, spa: 45, spd: 45, spe: 75 },
     abilities: { '0': 'Swarm', H: 'Sniper' },
     heightm: 1,
     weightkg: 29.5,
@@ -252,10 +252,10 @@
     gender: 'N'
   },
   pidgey: {
-    baseStats: { hp: 40, atk: 45, def: 40, spa: 35, spd: 35, spe: 56 },
     num: 16,
     name: 'Pidgey',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 40, atk: 45, def: 40, spa: 35, spd: 35, spe: 56 },
     abilities: { '0': 'Keen Eye', '1': 'Tangled Feet', H: 'Big Pecks' },
     heightm: 0.3,
     weightkg: 1.8,
@@ -265,10 +265,10 @@
     gender: 'N'
   },
   pidgeotto: {
-    baseStats: { hp: 63, atk: 60, def: 55, spa: 50, spd: 50, spe: 71 },
     num: 17,
     name: 'Pidgeotto',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 63, atk: 60, def: 55, spa: 50, spd: 50, spe: 71 },
     abilities: { '0': 'Keen Eye', '1': 'Tangled Feet', H: 'Big Pecks' },
     heightm: 1.1,
     weightkg: 30,
@@ -280,10 +280,10 @@
     gender: 'N'
   },
   pidgeot: {
-    baseStats: { hp: 83, atk: 80, def: 75, spa: 70, spd: 70, spe: 91 },
     num: 18,
     name: 'Pidgeot',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 83, atk: 80, def: 75, spa: 70, spd: 70, spe: 91 },
     abilities: { '0': 'Keen Eye', '1': 'Tangled Feet', H: 'Big Pecks' },
     heightm: 1.5,
     weightkg: 39.5,
@@ -296,10 +296,10 @@
     gender: 'N'
   },
   rattata: {
-    baseStats: { hp: 30, atk: 56, def: 35, spa: 25, spd: 25, spe: 72 },
     num: 19,
     name: 'Rattata',
     types: [ 'Normal' ],
+    baseStats: { hp: 30, atk: 56, def: 35, spa: 25, spd: 25, spe: 72 },
     abilities: { '0': 'Run Away', '1': 'Guts', H: 'Hustle' },
     heightm: 0.3,
     weightkg: 3.5,
@@ -311,10 +311,10 @@
     gender: 'N'
   },
   raticate: {
-    baseStats: { hp: 55, atk: 81, def: 60, spa: 50, spd: 50, spe: 97 },
     num: 20,
     name: 'Raticate',
     types: [ 'Normal' ],
+    baseStats: { hp: 55, atk: 81, def: 60, spa: 50, spd: 50, spe: 97 },
     abilities: { '0': 'Run Away', '1': 'Guts', H: 'Hustle' },
     heightm: 0.7,
     weightkg: 18.5,
@@ -327,10 +327,10 @@
     gender: 'N'
   },
   spearow: {
-    baseStats: { hp: 40, atk: 60, def: 30, spa: 31, spd: 31, spe: 70 },
     num: 21,
     name: 'Spearow',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 40, atk: 60, def: 30, spa: 31, spd: 31, spe: 70 },
     abilities: { '0': 'Keen Eye', H: 'Sniper' },
     heightm: 0.3,
     weightkg: 2,
@@ -340,10 +340,10 @@
     gender: 'N'
   },
   fearow: {
-    baseStats: { hp: 65, atk: 90, def: 65, spa: 61, spd: 61, spe: 100 },
     num: 22,
     name: 'Fearow',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 65, atk: 90, def: 65, spa: 61, spd: 61, spe: 100 },
     abilities: { '0': 'Keen Eye', H: 'Sniper' },
     heightm: 1.2,
     weightkg: 38,
@@ -354,10 +354,10 @@
     gender: 'N'
   },
   ekans: {
-    baseStats: { hp: 35, atk: 60, def: 44, spa: 40, spd: 40, spe: 55 },
     num: 23,
     name: 'Ekans',
     types: [ 'Poison' ],
+    baseStats: { hp: 35, atk: 60, def: 44, spa: 40, spd: 40, spe: 55 },
     abilities: { '0': 'Intimidate', '1': 'Shed Skin', H: 'Unnerve' },
     heightm: 2,
     weightkg: 6.9,
@@ -367,10 +367,10 @@
     gender: 'N'
   },
   arbok: {
-    baseStats: { hp: 60, atk: 85, def: 69, spa: 65, spd: 65, spe: 80 },
     num: 24,
     name: 'Arbok',
     types: [ 'Poison' ],
+    baseStats: { hp: 60, atk: 85, def: 69, spa: 65, spd: 65, spe: 80 },
     abilities: { '0': 'Intimidate', '1': 'Shed Skin', H: 'Unnerve' },
     heightm: 3.5,
     weightkg: 65,
@@ -381,19 +381,10 @@
     gender: 'N'
   },
   pikachu: {
-    baseStats: { hp: 35, atk: 55, def: 30, spa: 50, spd: 50, spe: 90 },
-    formeOrder: [
-      'Pikachu',
-      'Pikachu-Rock-Star',
-      'Pikachu-Belle',
-      'Pikachu-Pop-Star',
-      'Pikachu-PhD',
-      'Pikachu-Libre',
-      'Pikachu-Cosplay'
-    ],
     num: 25,
     name: 'Pikachu',
     types: [ 'Electric' ],
+    baseStats: { hp: 35, atk: 55, def: 30, spa: 50, spd: 50, spe: 90 },
     abilities: { '0': 'Static', H: 'Lightning Rod' },
     heightm: 0.4,
     weightkg: 6,
@@ -412,14 +403,23 @@
       'Pikachu-Partner',  'Pikachu-Starter',
       'Pikachu-World'
     ],
+    formeOrder: [
+      'Pikachu',
+      'Pikachu-Rock-Star',
+      'Pikachu-Belle',
+      'Pikachu-Pop-Star',
+      'Pikachu-PhD',
+      'Pikachu-Libre',
+      'Pikachu-Cosplay'
+    ],
     canGigantamax: 'G-Max Volt Crash',
     gender: 'N'
   },
   raichu: {
-    baseStats: { hp: 60, atk: 90, def: 55, spa: 90, spd: 90, spe: 100 },
     num: 26,
     name: 'Raichu',
     types: [ 'Electric' ],
+    baseStats: { hp: 60, atk: 90, def: 55, spa: 90, spd: 90, spe: 100 },
     abilities: { '0': 'Static', H: 'Lightning Rod' },
     heightm: 0.8,
     weightkg: 30,
@@ -433,10 +433,10 @@
     gender: 'N'
   },
   sandshrew: {
-    baseStats: { hp: 50, atk: 75, def: 85, spa: 30, spd: 30, spe: 40 },
     num: 27,
     name: 'Sandshrew',
     types: [ 'Ground' ],
+    baseStats: { hp: 50, atk: 75, def: 85, spa: 30, spd: 30, spe: 40 },
     abilities: { '0': 'Sand Veil', H: 'Sand Rush' },
     heightm: 0.6,
     weightkg: 12,
@@ -448,10 +448,10 @@
     gender: 'N'
   },
   sandslash: {
-    baseStats: { hp: 75, atk: 100, def: 110, spa: 55, spd: 55, spe: 65 },
     num: 28,
     name: 'Sandslash',
     types: [ 'Ground' ],
+    baseStats: { hp: 75, atk: 100, def: 110, spa: 55, spd: 55, spe: 65 },
     abilities: { '0': 'Sand Veil', H: 'Sand Rush' },
     heightm: 1,
     weightkg: 29.5,
@@ -464,11 +464,11 @@
     gender: 'N'
   },
   nidoranf: {
-    baseStats: { hp: 55, atk: 47, def: 52, spa: 40, spd: 40, spe: 41 },
     num: 29,
     name: 'Nidoran-F',
     types: [ 'Poison' ],
     gender: 'N',
+    baseStats: { hp: 55, atk: 47, def: 52, spa: 40, spd: 40, spe: 41 },
     abilities: { '0': 'Poison Point', '1': 'Rivalry', H: 'Hustle' },
     heightm: 0.4,
     weightkg: 7,
@@ -477,11 +477,11 @@
     eggGroups: null
   },
   nidorina: {
-    baseStats: { hp: 70, atk: 62, def: 67, spa: 55, spd: 55, spe: 56 },
     num: 30,
     name: 'Nidorina',
     types: [ 'Poison' ],
     gender: 'N',
+    baseStats: { hp: 70, atk: 62, def: 67, spa: 55, spd: 55, spe: 56 },
     abilities: { '0': 'Poison Point', '1': 'Rivalry', H: 'Hustle' },
     heightm: 0.8,
     weightkg: 20,
@@ -492,11 +492,11 @@
     eggGroups: null
   },
   nidoqueen: {
-    baseStats: { hp: 90, atk: 82, def: 87, spa: 75, spd: 75, spe: 76 },
     num: 31,
     name: 'Nidoqueen',
     types: [ 'Poison', 'Ground' ],
     gender: 'N',
+    baseStats: { hp: 90, atk: 82, def: 87, spa: 75, spd: 75, spe: 76 },
     abilities: { '0': 'Poison Point', '1': 'Rivalry', H: 'Sheer Force' },
     heightm: 1.3,
     weightkg: 60,
@@ -507,11 +507,11 @@
     eggGroups: null
   },
   nidoranm: {
-    baseStats: { hp: 46, atk: 57, def: 40, spa: 40, spd: 40, spe: 50 },
     num: 32,
     name: 'Nidoran-M',
     types: [ 'Poison' ],
     gender: 'N',
+    baseStats: { hp: 46, atk: 57, def: 40, spa: 40, spd: 40, spe: 50 },
     abilities: { '0': 'Poison Point', '1': 'Rivalry', H: 'Hustle' },
     heightm: 0.5,
     weightkg: 9,
@@ -521,11 +521,11 @@
     mother: 'nidoranf'
   },
   nidorino: {
-    baseStats: { hp: 61, atk: 72, def: 57, spa: 55, spd: 55, spe: 65 },
     num: 33,
     name: 'Nidorino',
     types: [ 'Poison' ],
     gender: 'N',
+    baseStats: { hp: 61, atk: 72, def: 57, spa: 55, spd: 55, spe: 65 },
     abilities: { '0': 'Poison Point', '1': 'Rivalry', H: 'Hustle' },
     heightm: 0.9,
     weightkg: 19.5,
@@ -536,11 +536,11 @@
     eggGroups: null
   },
   nidoking: {
-    baseStats: { hp: 81, atk: 92, def: 77, spa: 75, spd: 75, spe: 85 },
     num: 34,
     name: 'Nidoking',
     types: [ 'Poison', 'Ground' ],
     gender: 'N',
+    baseStats: { hp: 81, atk: 92, def: 77, spa: 75, spd: 75, spe: 85 },
     abilities: { '0': 'Poison Point', '1': 'Rivalry', H: 'Sheer Force' },
     heightm: 1.4,
     weightkg: 62,
@@ -551,11 +551,11 @@
     eggGroups: null
   },
   clefairy: {
-    baseStats: { hp: 70, atk: 45, def: 48, spa: 60, spd: 60, spe: 35 },
-    types: [ 'Normal' ],
     num: 35,
     name: 'Clefairy',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 70, atk: 45, def: 48, spa: 60, spd: 60, spe: 35 },
     abilities: { '0': 'Cute Charm', '1': 'Magic Guard', H: 'Friend Guard' },
     heightm: 0.6,
     weightkg: 7.5,
@@ -567,11 +567,11 @@
     gender: 'N'
   },
   clefable: {
-    baseStats: { hp: 95, atk: 70, def: 73, spa: 85, spd: 85, spe: 60 },
-    types: [ 'Normal' ],
     num: 36,
     name: 'Clefable',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 95, atk: 70, def: 73, spa: 85, spd: 85, spe: 60 },
     abilities: { '0': 'Cute Charm', '1': 'Magic Guard', H: 'Unaware' },
     heightm: 1.3,
     weightkg: 40,
@@ -583,11 +583,11 @@
     gender: 'N'
   },
   vulpix: {
-    baseStats: { hp: 38, atk: 41, def: 40, spa: 65, spd: 65, spe: 65 },
     num: 37,
     name: 'Vulpix',
     types: [ 'Fire' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 38, atk: 41, def: 40, spa: 65, spd: 65, spe: 65 },
     abilities: { '0': 'Flash Fire', H: 'Drought' },
     heightm: 0.6,
     weightkg: 9.9,
@@ -599,11 +599,11 @@
     gender: 'N'
   },
   ninetales: {
-    baseStats: { hp: 73, atk: 76, def: 75, spa: 100, spd: 100, spe: 100 },
     num: 38,
     name: 'Ninetales',
     types: [ 'Fire' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 73, atk: 76, def: 75, spa: 100, spd: 100, spe: 100 },
     abilities: { '0': 'Flash Fire', H: 'Drought' },
     heightm: 1.1,
     weightkg: 19.9,
@@ -617,12 +617,12 @@
     gender: 'N'
   },
   jigglypuff: {
-    baseStats: { hp: 115, atk: 45, def: 20, spa: 25, spd: 25, spe: 20 },
-    types: [ 'Normal' ],
-    abilities: { '0': 'Cute Charm', H: 'Friend Guard' },
     num: 39,
     name: 'Jigglypuff',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 115, atk: 45, def: 20, spa: 25, spd: 25, spe: 20 },
+    abilities: { '0': 'Cute Charm', H: 'Friend Guard' },
     heightm: 0.5,
     weightkg: 5.5,
     color: 'Pink',
@@ -633,12 +633,12 @@
     gender: 'N'
   },
   wigglytuff: {
-    baseStats: { hp: 140, atk: 70, def: 45, spa: 50, spd: 50, spe: 45 },
-    types: [ 'Normal' ],
-    abilities: { '0': 'Cute Charm', H: 'Frisk' },
     num: 40,
     name: 'Wigglytuff',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 140, atk: 70, def: 45, spa: 50, spd: 50, spe: 45 },
+    abilities: { '0': 'Cute Charm', H: 'Frisk' },
     heightm: 1,
     weightkg: 12,
     color: 'Pink',
@@ -649,10 +649,10 @@
     gender: 'N'
   },
   zubat: {
-    baseStats: { hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 55 },
     num: 41,
     name: 'Zubat',
     types: [ 'Poison', 'Flying' ],
+    baseStats: { hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 55 },
     abilities: { '0': 'Inner Focus', H: 'Infiltrator' },
     heightm: 0.8,
     weightkg: 7.5,
@@ -662,10 +662,10 @@
     gender: 'N'
   },
   golbat: {
-    baseStats: { hp: 75, atk: 80, def: 70, spa: 75, spd: 75, spe: 90 },
     num: 42,
     name: 'Golbat',
     types: [ 'Poison', 'Flying' ],
+    baseStats: { hp: 75, atk: 80, def: 70, spa: 75, spd: 75, spe: 90 },
     abilities: { '0': 'Inner Focus', H: 'Infiltrator' },
     heightm: 1.6,
     weightkg: 55,
@@ -677,10 +677,10 @@
     gender: 'N'
   },
   oddish: {
-    baseStats: { hp: 45, atk: 50, def: 55, spa: 75, spd: 75, spe: 30 },
     num: 43,
     name: 'Oddish',
     types: [ 'Grass', 'Poison' ],
+    baseStats: { hp: 45, atk: 50, def: 55, spa: 75, spd: 75, spe: 30 },
     abilities: { '0': 'Chlorophyll', H: 'Run Away' },
     heightm: 0.5,
     weightkg: 5.4,
@@ -690,10 +690,10 @@
     gender: 'N'
   },
   gloom: {
-    baseStats: { hp: 60, atk: 65, def: 70, spa: 85, spd: 85, spe: 40 },
     num: 44,
     name: 'Gloom',
     types: [ 'Grass', 'Poison' ],
+    baseStats: { hp: 60, atk: 65, def: 70, spa: 85, spd: 85, spe: 40 },
     abilities: { '0': 'Chlorophyll', H: 'Stench' },
     heightm: 0.8,
     weightkg: 8.6,
@@ -705,10 +705,10 @@
     gender: 'N'
   },
   vileplume: {
-    baseStats: { hp: 75, atk: 80, def: 85, spa: 100, spd: 100, spe: 50 },
     num: 45,
     name: 'Vileplume',
     types: [ 'Grass', 'Poison' ],
+    baseStats: { hp: 75, atk: 80, def: 85, spa: 100, spd: 100, spe: 50 },
     abilities: { '0': 'Chlorophyll', H: 'Effect Spore' },
     heightm: 1.2,
     weightkg: 18.6,
@@ -720,10 +720,10 @@
     gender: 'N'
   },
   paras: {
-    baseStats: { hp: 35, atk: 70, def: 55, spa: 55, spd: 55, spe: 25 },
     num: 46,
     name: 'Paras',
     types: [ 'Bug', 'Grass' ],
+    baseStats: { hp: 35, atk: 70, def: 55, spa: 55, spd: 55, spe: 25 },
     abilities: { '0': 'Effect Spore', '1': 'Dry Skin', H: 'Damp' },
     heightm: 0.3,
     weightkg: 5.4,
@@ -733,10 +733,10 @@
     gender: 'N'
   },
   parasect: {
-    baseStats: { hp: 60, atk: 95, def: 80, spa: 80, spd: 80, spe: 30 },
     num: 47,
     name: 'Parasect',
     types: [ 'Bug', 'Grass' ],
+    baseStats: { hp: 60, atk: 95, def: 80, spa: 80, spd: 80, spe: 30 },
     abilities: { '0': 'Effect Spore', '1': 'Dry Skin', H: 'Damp' },
     heightm: 1,
     weightkg: 29.5,
@@ -747,10 +747,10 @@
     gender: 'N'
   },
   venonat: {
-    baseStats: { hp: 60, atk: 55, def: 50, spa: 40, spd: 40, spe: 45 },
     num: 48,
     name: 'Venonat',
     types: [ 'Bug', 'Poison' ],
+    baseStats: { hp: 60, atk: 55, def: 50, spa: 40, spd: 40, spe: 45 },
     abilities: { '0': 'Compound Eyes', '1': 'Tinted Lens', H: 'Run Away' },
     heightm: 1,
     weightkg: 30,
@@ -760,10 +760,10 @@
     gender: 'N'
   },
   venomoth: {
-    baseStats: { hp: 70, atk: 65, def: 60, spa: 90, spd: 90, spe: 90 },
     num: 49,
     name: 'Venomoth',
     types: [ 'Bug', 'Poison' ],
+    baseStats: { hp: 70, atk: 65, def: 60, spa: 90, spd: 90, spe: 90 },
     abilities: { '0': 'Shield Dust', '1': 'Tinted Lens', H: 'Wonder Skin' },
     heightm: 1.5,
     weightkg: 12.5,
@@ -774,10 +774,10 @@
     gender: 'N'
   },
   diglett: {
-    baseStats: { hp: 10, atk: 55, def: 25, spa: 45, spd: 45, spe: 95 },
     num: 50,
     name: 'Diglett',
     types: [ 'Ground' ],
+    baseStats: { hp: 10, atk: 55, def: 25, spa: 45, spd: 45, spe: 95 },
     abilities: { '0': 'Sand Veil', '1': 'Arena Trap', H: 'Sand Force' },
     heightm: 0.2,
     weightkg: 0.8,
@@ -789,10 +789,10 @@
     gender: 'N'
   },
   dugtrio: {
-    baseStats: { hp: 35, atk: 80, def: 50, spa: 70, spd: 70, spe: 120 },
     num: 51,
     name: 'Dugtrio',
     types: [ 'Ground' ],
+    baseStats: { hp: 35, atk: 80, def: 50, spa: 70, spd: 70, spe: 120 },
     abilities: { '0': 'Sand Veil', '1': 'Arena Trap', H: 'Sand Force' },
     heightm: 0.7,
     weightkg: 33.3,
@@ -805,10 +805,10 @@
     gender: 'N'
   },
   meowth: {
-    baseStats: { hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90 },
     num: 52,
     name: 'Meowth',
     types: [ 'Normal' ],
+    baseStats: { hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90 },
     abilities: { '0': 'Pickup', '1': 'Technician', H: 'Unnerve' },
     heightm: 0.4,
     weightkg: 4.2,
@@ -821,10 +821,10 @@
     gender: 'N'
   },
   persian: {
-    baseStats: { hp: 65, atk: 70, def: 60, spa: 65, spd: 65, spe: 115 },
     num: 53,
     name: 'Persian',
     types: [ 'Normal' ],
+    baseStats: { hp: 65, atk: 70, def: 60, spa: 65, spd: 65, spe: 115 },
     abilities: { '0': 'Limber', '1': 'Technician', H: 'Unnerve' },
     heightm: 1,
     weightkg: 32,
@@ -837,10 +837,10 @@
     gender: 'N'
   },
   psyduck: {
-    baseStats: { hp: 50, atk: 52, def: 48, spa: 50, spd: 50, spe: 55 },
     num: 54,
     name: 'Psyduck',
     types: [ 'Water' ],
+    baseStats: { hp: 50, atk: 52, def: 48, spa: 50, spd: 50, spe: 55 },
     abilities: { '0': 'Damp', '1': 'Cloud Nine', H: 'Swift Swim' },
     heightm: 0.8,
     weightkg: 19.6,
@@ -850,10 +850,10 @@
     gender: 'N'
   },
   golduck: {
-    baseStats: { hp: 80, atk: 82, def: 78, spa: 80, spd: 80, spe: 85 },
     num: 55,
     name: 'Golduck',
     types: [ 'Water' ],
+    baseStats: { hp: 80, atk: 82, def: 78, spa: 80, spd: 80, spe: 85 },
     abilities: { '0': 'Damp', '1': 'Cloud Nine', H: 'Swift Swim' },
     heightm: 1.7,
     weightkg: 76.6,
@@ -864,10 +864,10 @@
     gender: 'N'
   },
   mankey: {
-    baseStats: { hp: 40, atk: 80, def: 35, spa: 35, spd: 35, spe: 70 },
     num: 56,
     name: 'Mankey',
     types: [ 'Fighting' ],
+    baseStats: { hp: 40, atk: 80, def: 35, spa: 35, spd: 35, spe: 70 },
     abilities: { '0': 'Vital Spirit', '1': 'Anger Point', H: 'Defiant' },
     heightm: 0.5,
     weightkg: 28,
@@ -877,10 +877,10 @@
     gender: 'N'
   },
   primeape: {
-    baseStats: { hp: 65, atk: 105, def: 60, spa: 60, spd: 60, spe: 95 },
     num: 57,
     name: 'Primeape',
     types: [ 'Fighting' ],
+    baseStats: { hp: 65, atk: 105, def: 60, spa: 60, spd: 60, spe: 95 },
     abilities: { '0': 'Vital Spirit', '1': 'Anger Point', H: 'Defiant' },
     heightm: 1,
     weightkg: 32,
@@ -892,11 +892,11 @@
     gender: 'N'
   },
   growlithe: {
-    baseStats: { hp: 55, atk: 70, def: 45, spa: 50, spd: 50, spe: 60 },
     num: 58,
     name: 'Growlithe',
     types: [ 'Fire' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 55, atk: 70, def: 45, spa: 50, spd: 50, spe: 60 },
     abilities: { '0': 'Intimidate', '1': 'Flash Fire', H: 'Justified' },
     heightm: 0.7,
     weightkg: 19,
@@ -908,11 +908,11 @@
     gender: 'N'
   },
   arcanine: {
-    baseStats: { hp: 90, atk: 110, def: 80, spa: 80, spd: 80, spe: 95 },
     num: 59,
     name: 'Arcanine',
     types: [ 'Fire' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 90, atk: 110, def: 80, spa: 80, spd: 80, spe: 95 },
     abilities: { '0': 'Intimidate', '1': 'Flash Fire', H: 'Justified' },
     heightm: 1.9,
     weightkg: 155,
@@ -926,10 +926,10 @@
     gender: 'N'
   },
   poliwag: {
-    baseStats: { hp: 40, atk: 50, def: 40, spa: 40, spd: 40, spe: 90 },
     num: 60,
     name: 'Poliwag',
     types: [ 'Water' ],
+    baseStats: { hp: 40, atk: 50, def: 40, spa: 40, spd: 40, spe: 90 },
     abilities: { '0': 'Water Absorb', '1': 'Damp', H: 'Swift Swim' },
     heightm: 0.6,
     weightkg: 12.4,
@@ -939,10 +939,10 @@
     gender: 'N'
   },
   poliwhirl: {
-    baseStats: { hp: 65, atk: 65, def: 65, spa: 50, spd: 50, spe: 90 },
     num: 61,
     name: 'Poliwhirl',
     types: [ 'Water' ],
+    baseStats: { hp: 65, atk: 65, def: 65, spa: 50, spd: 50, spe: 90 },
     abilities: { '0': 'Water Absorb', '1': 'Damp', H: 'Swift Swim' },
     heightm: 1,
     weightkg: 20,
@@ -954,10 +954,10 @@
     gender: 'N'
   },
   poliwrath: {
-    baseStats: { hp: 90, atk: 85, def: 95, spa: 70, spd: 70, spe: 70 },
     num: 62,
     name: 'Poliwrath',
     types: [ 'Water', 'Fighting' ],
+    baseStats: { hp: 90, atk: 85, def: 95, spa: 70, spd: 70, spe: 70 },
     abilities: { '0': 'Water Absorb', '1': 'Damp', H: 'Swift Swim' },
     heightm: 1.3,
     weightkg: 54,
@@ -969,11 +969,11 @@
     gender: 'N'
   },
   abra: {
-    baseStats: { hp: 25, atk: 20, def: 15, spa: 105, spd: 105, spe: 90 },
     num: 63,
     name: 'Abra',
     types: [ 'Psychic' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 25, atk: 20, def: 15, spa: 105, spd: 105, spe: 90 },
     abilities: { '0': 'Synchronize', '1': 'Inner Focus', H: 'Magic Guard' },
     heightm: 0.9,
     weightkg: 19.5,
@@ -983,11 +983,11 @@
     gender: 'N'
   },
   kadabra: {
-    baseStats: { hp: 40, atk: 35, def: 30, spa: 120, spd: 120, spe: 105 },
     num: 64,
     name: 'Kadabra',
     types: [ 'Psychic' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 40, atk: 35, def: 30, spa: 120, spd: 120, spe: 105 },
     abilities: { '0': 'Synchronize', '1': 'Inner Focus', H: 'Magic Guard' },
     heightm: 1.3,
     weightkg: 56.5,
@@ -999,11 +999,11 @@
     gender: 'N'
   },
   alakazam: {
-    baseStats: { hp: 55, atk: 50, def: 45, spa: 135, spd: 135, spe: 120 },
     num: 65,
     name: 'Alakazam',
     types: [ 'Psychic' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 55, atk: 50, def: 45, spa: 135, spd: 135, spe: 120 },
     abilities: { '0': 'Synchronize', '1': 'Inner Focus', H: 'Magic Guard' },
     heightm: 1.5,
     weightkg: 48,
@@ -1016,11 +1016,11 @@
     gender: 'N'
   },
   machop: {
-    baseStats: { hp: 70, atk: 80, def: 50, spa: 35, spd: 35, spe: 35 },
     num: 66,
     name: 'Machop',
     types: [ 'Fighting' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 70, atk: 80, def: 50, spa: 35, spd: 35, spe: 35 },
     abilities: { '0': 'Guts', '1': 'No Guard', H: 'Steadfast' },
     heightm: 0.8,
     weightkg: 19.5,
@@ -1030,11 +1030,11 @@
     gender: 'N'
   },
   machoke: {
-    baseStats: { hp: 80, atk: 100, def: 70, spa: 50, spd: 50, spe: 45 },
     num: 67,
     name: 'Machoke',
     types: [ 'Fighting' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 80, atk: 100, def: 70, spa: 50, spd: 50, spe: 45 },
     abilities: { '0': 'Guts', '1': 'No Guard', H: 'Steadfast' },
     heightm: 1.5,
     weightkg: 70.5,
@@ -1046,11 +1046,11 @@
     gender: 'N'
   },
   machamp: {
-    baseStats: { hp: 90, atk: 130, def: 80, spa: 65, spd: 65, spe: 55 },
     num: 68,
     name: 'Machamp',
     types: [ 'Fighting' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 90, atk: 130, def: 80, spa: 65, spd: 65, spe: 55 },
     abilities: { '0': 'Guts', '1': 'No Guard', H: 'Steadfast' },
     heightm: 1.6,
     weightkg: 130,
@@ -1062,10 +1062,10 @@
     gender: 'N'
   },
   bellsprout: {
-    baseStats: { hp: 50, atk: 75, def: 35, spa: 70, spd: 70, spe: 40 },
     num: 69,
     name: 'Bellsprout',
     types: [ 'Grass', 'Poison' ],
+    baseStats: { hp: 50, atk: 75, def: 35, spa: 70, spd: 70, spe: 40 },
     abilities: { '0': 'Chlorophyll', H: 'Gluttony' },
     heightm: 0.7,
     weightkg: 4,
@@ -1075,10 +1075,10 @@
     gender: 'N'
   },
   weepinbell: {
-    baseStats: { hp: 65, atk: 90, def: 50, spa: 85, spd: 85, spe: 55 },
     num: 70,
     name: 'Weepinbell',
     types: [ 'Grass', 'Poison' ],
+    baseStats: { hp: 65, atk: 90, def: 50, spa: 85, spd: 85, spe: 55 },
     abilities: { '0': 'Chlorophyll', H: 'Gluttony' },
     heightm: 1,
     weightkg: 6.4,
@@ -1090,10 +1090,10 @@
     gender: 'N'
   },
   victreebel: {
-    baseStats: { hp: 80, atk: 105, def: 65, spa: 100, spd: 100, spe: 70 },
     num: 71,
     name: 'Victreebel',
     types: [ 'Grass', 'Poison' ],
+    baseStats: { hp: 80, atk: 105, def: 65, spa: 100, spd: 100, spe: 70 },
     abilities: { '0': 'Chlorophyll', H: 'Gluttony' },
     heightm: 1.7,
     weightkg: 15.5,
@@ -1105,10 +1105,10 @@
     gender: 'N'
   },
   tentacool: {
-    baseStats: { hp: 40, atk: 40, def: 35, spa: 100, spd: 100, spe: 70 },
     num: 72,
     name: 'Tentacool',
     types: [ 'Water', 'Poison' ],
+    baseStats: { hp: 40, atk: 40, def: 35, spa: 100, spd: 100, spe: 70 },
     abilities: { '0': 'Clear Body', '1': 'Liquid Ooze', H: 'Rain Dish' },
     heightm: 0.9,
     weightkg: 45.5,
@@ -1118,10 +1118,10 @@
     gender: 'N'
   },
   tentacruel: {
-    baseStats: { hp: 80, atk: 70, def: 65, spa: 120, spd: 120, spe: 100 },
     num: 73,
     name: 'Tentacruel',
     types: [ 'Water', 'Poison' ],
+    baseStats: { hp: 80, atk: 70, def: 65, spa: 120, spd: 120, spe: 100 },
     abilities: { '0': 'Clear Body', '1': 'Liquid Ooze', H: 'Rain Dish' },
     heightm: 1.6,
     weightkg: 55,
@@ -1132,10 +1132,10 @@
     gender: 'N'
   },
   geodude: {
-    baseStats: { hp: 40, atk: 80, def: 100, spa: 30, spd: 30, spe: 20 },
     num: 74,
     name: 'Geodude',
     types: [ 'Rock', 'Ground' ],
+    baseStats: { hp: 40, atk: 80, def: 100, spa: 30, spd: 30, spe: 20 },
     abilities: { '0': 'Rock Head', '1': 'Sturdy', H: 'Sand Veil' },
     heightm: 0.4,
     weightkg: 20,
@@ -1147,10 +1147,10 @@
     gender: 'N'
   },
   graveler: {
-    baseStats: { hp: 55, atk: 95, def: 115, spa: 45, spd: 45, spe: 35 },
     num: 75,
     name: 'Graveler',
     types: [ 'Rock', 'Ground' ],
+    baseStats: { hp: 55, atk: 95, def: 115, spa: 45, spd: 45, spe: 35 },
     abilities: { '0': 'Rock Head', '1': 'Sturdy', H: 'Sand Veil' },
     heightm: 1,
     weightkg: 105,
@@ -1164,10 +1164,10 @@
     gender: 'N'
   },
   golem: {
-    baseStats: { hp: 80, atk: 110, def: 130, spa: 55, spd: 55, spe: 45 },
     num: 76,
     name: 'Golem',
     types: [ 'Rock', 'Ground' ],
+    baseStats: { hp: 80, atk: 110, def: 130, spa: 55, spd: 55, spe: 45 },
     abilities: { '0': 'Rock Head', '1': 'Sturdy', H: 'Sand Veil' },
     heightm: 1.4,
     weightkg: 300,
@@ -1180,10 +1180,10 @@
     gender: 'N'
   },
   ponyta: {
-    baseStats: { hp: 50, atk: 85, def: 55, spa: 65, spd: 65, spe: 90 },
     num: 77,
     name: 'Ponyta',
     types: [ 'Fire' ],
+    baseStats: { hp: 50, atk: 85, def: 55, spa: 65, spd: 65, spe: 90 },
     abilities: { '0': 'Run Away', '1': 'Flash Fire', H: 'Flame Body' },
     heightm: 1,
     weightkg: 30,
@@ -1195,10 +1195,10 @@
     gender: 'N'
   },
   rapidash: {
-    baseStats: { hp: 65, atk: 100, def: 70, spa: 80, spd: 80, spe: 105 },
     num: 78,
     name: 'Rapidash',
     types: [ 'Fire' ],
+    baseStats: { hp: 65, atk: 100, def: 70, spa: 80, spd: 80, spe: 105 },
     abilities: { '0': 'Run Away', '1': 'Flash Fire', H: 'Flame Body' },
     heightm: 1.7,
     weightkg: 95,
@@ -1211,10 +1211,10 @@
     gender: 'N'
   },
   slowpoke: {
-    baseStats: { hp: 90, atk: 65, def: 65, spa: 40, spd: 40, spe: 15 },
     num: 79,
     name: 'Slowpoke',
     types: [ 'Water', 'Psychic' ],
+    baseStats: { hp: 90, atk: 65, def: 65, spa: 40, spd: 40, spe: 15 },
     abilities: { '0': 'Oblivious', '1': 'Own Tempo', H: 'Regenerator' },
     heightm: 1.2,
     weightkg: 36,
@@ -1226,10 +1226,10 @@
     gender: 'N'
   },
   slowbro: {
-    baseStats: { hp: 95, atk: 75, def: 110, spa: 80, spd: 80, spe: 30 },
     num: 80,
     name: 'Slowbro',
     types: [ 'Water', 'Psychic' ],
+    baseStats: { hp: 95, atk: 75, def: 110, spa: 80, spd: 80, spe: 30 },
     abilities: { '0': 'Oblivious', '1': 'Own Tempo', H: 'Regenerator' },
     heightm: 1.6,
     weightkg: 78.5,
@@ -1242,11 +1242,11 @@
     gender: 'N'
   },
   magnemite: {
-    types: [ 'Electric' ],
-    baseStats: { hp: 25, atk: 35, def: 70, spa: 95, spd: 95, spe: 45 },
     num: 81,
     name: 'Magnemite',
+    types: [ 'Electric' ],
     gender: 'N',
+    baseStats: { hp: 25, atk: 35, def: 70, spa: 95, spd: 95, spe: 45 },
     abilities: { '0': 'Magnet Pull', '1': 'Sturdy', H: 'Analytic' },
     heightm: 0.3,
     weightkg: 6,
@@ -1255,11 +1255,11 @@
     eggGroups: null
   },
   magneton: {
-    types: [ 'Electric' ],
-    baseStats: { hp: 50, atk: 60, def: 95, spa: 120, spd: 120, spe: 70 },
     num: 82,
     name: 'Magneton',
+    types: [ 'Electric' ],
     gender: 'N',
+    baseStats: { hp: 50, atk: 60, def: 95, spa: 120, spd: 120, spe: 70 },
     abilities: { '0': 'Magnet Pull', '1': 'Sturdy', H: 'Analytic' },
     heightm: 1,
     weightkg: 60,
@@ -1270,10 +1270,10 @@
     eggGroups: null
   },
   farfetchd: {
-    baseStats: { hp: 52, atk: 65, def: 55, spa: 58, spd: 58, spe: 60 },
     num: 83,
     name: 'Farfetch’d',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 52, atk: 65, def: 55, spa: 58, spd: 58, spe: 60 },
     abilities: { '0': 'Keen Eye', '1': 'Inner Focus', H: 'Defiant' },
     heightm: 0.8,
     weightkg: 15,
@@ -1284,10 +1284,10 @@
     gender: 'N'
   },
   doduo: {
-    baseStats: { hp: 35, atk: 85, def: 45, spa: 35, spd: 35, spe: 75 },
     num: 84,
     name: 'Doduo',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 35, atk: 85, def: 45, spa: 35, spd: 35, spe: 75 },
     abilities: { '0': 'Run Away', '1': 'Early Bird', H: 'Tangled Feet' },
     heightm: 1.4,
     weightkg: 39.2,
@@ -1297,10 +1297,10 @@
     gender: 'N'
   },
   dodrio: {
-    baseStats: { hp: 60, atk: 110, def: 70, spa: 60, spd: 60, spe: 100 },
     num: 85,
     name: 'Dodrio',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 60, atk: 110, def: 70, spa: 60, spd: 60, spe: 100 },
     abilities: { '0': 'Run Away', '1': 'Early Bird', H: 'Tangled Feet' },
     heightm: 1.8,
     weightkg: 85.2,
@@ -1311,10 +1311,10 @@
     gender: 'N'
   },
   seel: {
-    baseStats: { hp: 65, atk: 45, def: 55, spa: 70, spd: 70, spe: 45 },
     num: 86,
     name: 'Seel',
     types: [ 'Water' ],
+    baseStats: { hp: 65, atk: 45, def: 55, spa: 70, spd: 70, spe: 45 },
     abilities: { '0': 'Thick Fat', '1': 'Hydration', H: 'Ice Body' },
     heightm: 1.1,
     weightkg: 90,
@@ -1324,10 +1324,10 @@
     gender: 'N'
   },
   dewgong: {
-    baseStats: { hp: 90, atk: 70, def: 80, spa: 95, spd: 95, spe: 70 },
     num: 87,
     name: 'Dewgong',
     types: [ 'Water', 'Ice' ],
+    baseStats: { hp: 90, atk: 70, def: 80, spa: 95, spd: 95, spe: 70 },
     abilities: { '0': 'Thick Fat', '1': 'Hydration', H: 'Ice Body' },
     heightm: 1.7,
     weightkg: 120,
@@ -1338,10 +1338,10 @@
     gender: 'N'
   },
   grimer: {
-    baseStats: { hp: 80, atk: 80, def: 50, spa: 40, spd: 40, spe: 25 },
     num: 88,
     name: 'Grimer',
     types: [ 'Poison' ],
+    baseStats: { hp: 80, atk: 80, def: 50, spa: 40, spd: 40, spe: 25 },
     abilities: { '0': 'Stench', '1': 'Sticky Hold', H: 'Poison Touch' },
     heightm: 0.9,
     weightkg: 30,
@@ -1353,10 +1353,10 @@
     gender: 'N'
   },
   muk: {
-    baseStats: { hp: 105, atk: 105, def: 75, spa: 65, spd: 65, spe: 50 },
     num: 89,
     name: 'Muk',
     types: [ 'Poison' ],
+    baseStats: { hp: 105, atk: 105, def: 75, spa: 65, spd: 65, spe: 50 },
     abilities: { '0': 'Stench', '1': 'Sticky Hold', H: 'Poison Touch' },
     heightm: 1.2,
     weightkg: 30,
@@ -1369,10 +1369,10 @@
     gender: 'N'
   },
   shellder: {
-    baseStats: { hp: 30, atk: 65, def: 100, spa: 45, spd: 45, spe: 40 },
     num: 90,
     name: 'Shellder',
     types: [ 'Water' ],
+    baseStats: { hp: 30, atk: 65, def: 100, spa: 45, spd: 45, spe: 40 },
     abilities: { '0': 'Shell Armor', '1': 'Skill Link', H: 'Overcoat' },
     heightm: 0.3,
     weightkg: 4,
@@ -1382,10 +1382,10 @@
     gender: 'N'
   },
   cloyster: {
-    baseStats: { hp: 50, atk: 95, def: 180, spa: 85, spd: 85, spe: 70 },
     num: 91,
     name: 'Cloyster',
     types: [ 'Water', 'Ice' ],
+    baseStats: { hp: 50, atk: 95, def: 180, spa: 85, spd: 85, spe: 70 },
     abilities: { '0': 'Shell Armor', '1': 'Skill Link', H: 'Overcoat' },
     heightm: 1.5,
     weightkg: 132.5,
@@ -1397,10 +1397,10 @@
     gender: 'N'
   },
   gastly: {
-    baseStats: { hp: 30, atk: 35, def: 30, spa: 100, spd: 100, spe: 80 },
     num: 92,
     name: 'Gastly',
     types: [ 'Ghost', 'Poison' ],
+    baseStats: { hp: 30, atk: 35, def: 30, spa: 100, spd: 100, spe: 80 },
     abilities: { '0': 'Levitate' },
     heightm: 1.3,
     weightkg: 0.1,
@@ -1410,10 +1410,10 @@
     gender: 'N'
   },
   haunter: {
-    baseStats: { hp: 45, atk: 50, def: 45, spa: 115, spd: 115, spe: 95 },
     num: 93,
     name: 'Haunter',
     types: [ 'Ghost', 'Poison' ],
+    baseStats: { hp: 45, atk: 50, def: 45, spa: 115, spd: 115, spe: 95 },
     abilities: { '0': 'Levitate' },
     heightm: 1.6,
     weightkg: 0.1,
@@ -1425,11 +1425,11 @@
     gender: 'N'
   },
   gengar: {
-    baseStats: { hp: 60, atk: 65, def: 60, spa: 130, spd: 130, spe: 110 },
-    abilities: { '0': 'Levitate' },
     num: 94,
     name: 'Gengar',
     types: [ 'Ghost', 'Poison' ],
+    baseStats: { hp: 60, atk: 65, def: 60, spa: 130, spd: 130, spe: 110 },
+    abilities: { '0': 'Levitate' },
     heightm: 1.5,
     weightkg: 40.5,
     color: 'Purple',
@@ -1442,10 +1442,10 @@
     gender: 'N'
   },
   onix: {
-    baseStats: { hp: 35, atk: 45, def: 160, spa: 30, spd: 30, spe: 70 },
     num: 95,
     name: 'Onix',
     types: [ 'Rock', 'Ground' ],
+    baseStats: { hp: 35, atk: 45, def: 160, spa: 30, spd: 30, spe: 70 },
     abilities: { '0': 'Rock Head', '1': 'Sturdy', H: 'Weak Armor' },
     heightm: 8.8,
     weightkg: 210,
@@ -1455,10 +1455,10 @@
     gender: 'N'
   },
   drowzee: {
-    baseStats: { hp: 60, atk: 48, def: 45, spa: 90, spd: 90, spe: 42 },
     num: 96,
     name: 'Drowzee',
     types: [ 'Psychic' ],
+    baseStats: { hp: 60, atk: 48, def: 45, spa: 90, spd: 90, spe: 42 },
     abilities: { '0': 'Insomnia', '1': 'Forewarn', H: 'Inner Focus' },
     heightm: 1,
     weightkg: 32.4,
@@ -1468,10 +1468,10 @@
     gender: 'N'
   },
   hypno: {
-    baseStats: { hp: 85, atk: 73, def: 70, spa: 115, spd: 115, spe: 67 },
     num: 97,
     name: 'Hypno',
     types: [ 'Psychic' ],
+    baseStats: { hp: 85, atk: 73, def: 70, spa: 115, spd: 115, spe: 67 },
     abilities: { '0': 'Insomnia', '1': 'Forewarn', H: 'Inner Focus' },
     heightm: 1.6,
     weightkg: 75.6,
@@ -1482,10 +1482,10 @@
     gender: 'N'
   },
   krabby: {
-    baseStats: { hp: 30, atk: 105, def: 90, spa: 25, spd: 25, spe: 50 },
     num: 98,
     name: 'Krabby',
     types: [ 'Water' ],
+    baseStats: { hp: 30, atk: 105, def: 90, spa: 25, spd: 25, spe: 50 },
     abilities: { '0': 'Hyper Cutter', '1': 'Shell Armor', H: 'Sheer Force' },
     heightm: 0.4,
     weightkg: 6.5,
@@ -1495,10 +1495,10 @@
     gender: 'N'
   },
   kingler: {
-    baseStats: { hp: 55, atk: 130, def: 115, spa: 50, spd: 50, spe: 75 },
     num: 99,
     name: 'Kingler',
     types: [ 'Water' ],
+    baseStats: { hp: 55, atk: 130, def: 115, spa: 50, spd: 50, spe: 75 },
     abilities: { '0': 'Hyper Cutter', '1': 'Shell Armor', H: 'Sheer Force' },
     heightm: 1.3,
     weightkg: 60,
@@ -1510,11 +1510,11 @@
     gender: 'N'
   },
   voltorb: {
-    baseStats: { hp: 40, atk: 30, def: 50, spa: 55, spd: 55, spe: 100 },
     num: 100,
     name: 'Voltorb',
     types: [ 'Electric' ],
     gender: 'N',
+    baseStats: { hp: 40, atk: 30, def: 50, spa: 55, spd: 55, spe: 100 },
     abilities: { '0': 'Soundproof', '1': 'Static', H: 'Aftermath' },
     heightm: 0.5,
     weightkg: 10.4,
@@ -1525,11 +1525,11 @@
     formeOrder: [ 'Voltorb', 'Voltorb-Hisui' ]
   },
   electrode: {
-    baseStats: { hp: 60, atk: 50, def: 70, spa: 80, spd: 80, spe: 140 },
     num: 101,
     name: 'Electrode',
     types: [ 'Electric' ],
     gender: 'N',
+    baseStats: { hp: 60, atk: 50, def: 70, spa: 80, spd: 80, spe: 140 },
     abilities: { '0': 'Soundproof', '1': 'Static', H: 'Aftermath' },
     heightm: 1.2,
     weightkg: 66.6,
@@ -1541,10 +1541,10 @@
     formeOrder: [ 'Electrode', 'Electrode-Hisui' ]
   },
   exeggcute: {
-    baseStats: { hp: 60, atk: 40, def: 80, spa: 60, spd: 60, spe: 40 },
     num: 102,
     name: 'Exeggcute',
     types: [ 'Grass', 'Psychic' ],
+    baseStats: { hp: 60, atk: 40, def: 80, spa: 60, spd: 60, spe: 40 },
     abilities: { '0': 'Chlorophyll', H: 'Harvest' },
     heightm: 0.4,
     weightkg: 2.5,
@@ -1554,10 +1554,10 @@
     gender: 'N'
   },
   exeggutor: {
-    baseStats: { hp: 95, atk: 95, def: 85, spa: 125, spd: 125, spe: 55 },
     num: 103,
     name: 'Exeggutor',
     types: [ 'Grass', 'Psychic' ],
+    baseStats: { hp: 95, atk: 95, def: 85, spa: 125, spd: 125, spe: 55 },
     abilities: { '0': 'Chlorophyll', H: 'Harvest' },
     heightm: 2,
     weightkg: 120,
@@ -1571,10 +1571,10 @@
     gender: 'N'
   },
   cubone: {
-    baseStats: { hp: 50, atk: 50, def: 95, spa: 40, spd: 40, spe: 35 },
     num: 104,
     name: 'Cubone',
     types: [ 'Ground' ],
+    baseStats: { hp: 50, atk: 50, def: 95, spa: 40, spd: 40, spe: 35 },
     abilities: { '0': 'Rock Head', '1': 'Lightning Rod', H: 'Battle Armor' },
     heightm: 0.4,
     weightkg: 6.5,
@@ -1584,10 +1584,10 @@
     gender: 'N'
   },
   marowak: {
-    baseStats: { hp: 60, atk: 80, def: 110, spa: 50, spd: 50, spe: 45 },
     num: 105,
     name: 'Marowak',
     types: [ 'Ground' ],
+    baseStats: { hp: 60, atk: 80, def: 110, spa: 50, spd: 50, spe: 45 },
     abilities: { '0': 'Rock Head', '1': 'Lightning Rod', H: 'Battle Armor' },
     heightm: 1,
     weightkg: 45,
@@ -1600,12 +1600,11 @@
     gender: 'N'
   },
   hitmonlee: {
-    baseStats: { hp: 50, atk: 120, def: 53, spa: 35, spd: 35, spe: 87 },
-    maleOnlyHidden: true,
     num: 106,
     name: 'Hitmonlee',
     types: [ 'Fighting' ],
     gender: 'N',
+    baseStats: { hp: 50, atk: 120, def: 53, spa: 35, spd: 35, spe: 87 },
     abilities: { '0': 'Limber', '1': 'Reckless', H: 'Unburden' },
     heightm: 1.5,
     weightkg: 49.8,
@@ -1613,15 +1612,15 @@
     prevo: 'Tyrogue',
     evoLevel: 20,
     evoCondition: 'with an Atk stat > its Def stat',
-    eggGroups: null
+    eggGroups: null,
+    maleOnlyHidden: true
   },
   hitmonchan: {
-    baseStats: { hp: 50, atk: 105, def: 79, spa: 35, spd: 35, spe: 76 },
-    maleOnlyHidden: true,
     num: 107,
     name: 'Hitmonchan',
     types: [ 'Fighting' ],
     gender: 'N',
+    baseStats: { hp: 50, atk: 105, def: 79, spa: 35, spd: 35, spe: 76 },
     abilities: { '0': 'Keen Eye', '1': 'Iron Fist', H: 'Inner Focus' },
     heightm: 1.4,
     weightkg: 50.2,
@@ -1629,13 +1628,14 @@
     prevo: 'Tyrogue',
     evoLevel: 20,
     evoCondition: 'with an Atk stat < its Def stat',
-    eggGroups: null
+    eggGroups: null,
+    maleOnlyHidden: true
   },
   lickitung: {
-    baseStats: { hp: 90, atk: 55, def: 75, spa: 60, spd: 60, spe: 30 },
     num: 108,
     name: 'Lickitung',
     types: [ 'Normal' ],
+    baseStats: { hp: 90, atk: 55, def: 75, spa: 60, spd: 60, spe: 30 },
     abilities: { '0': 'Own Tempo', '1': 'Oblivious', H: 'Cloud Nine' },
     heightm: 1.2,
     weightkg: 65.5,
@@ -1645,11 +1645,11 @@
     gender: 'N'
   },
   koffing: {
-    baseStats: { hp: 40, atk: 65, def: 95, spa: 60, spd: 60, spe: 35 },
-    abilities: { '0': 'Levitate' },
     num: 109,
     name: 'Koffing',
     types: [ 'Poison' ],
+    baseStats: { hp: 40, atk: 65, def: 95, spa: 60, spd: 60, spe: 35 },
+    abilities: { '0': 'Levitate' },
     heightm: 0.6,
     weightkg: 1,
     color: 'Purple',
@@ -1658,11 +1658,11 @@
     gender: 'N'
   },
   weezing: {
-    baseStats: { hp: 65, atk: 90, def: 120, spa: 85, spd: 85, spe: 60 },
-    abilities: { '0': 'Levitate' },
     num: 110,
     name: 'Weezing',
     types: [ 'Poison' ],
+    baseStats: { hp: 65, atk: 90, def: 120, spa: 85, spd: 85, spe: 60 },
+    abilities: { '0': 'Levitate' },
     heightm: 1.2,
     weightkg: 9.5,
     color: 'Purple',
@@ -1674,10 +1674,10 @@
     gender: 'N'
   },
   rhyhorn: {
-    baseStats: { hp: 80, atk: 85, def: 95, spa: 30, spd: 30, spe: 25 },
     num: 111,
     name: 'Rhyhorn',
     types: [ 'Ground', 'Rock' ],
+    baseStats: { hp: 80, atk: 85, def: 95, spa: 30, spd: 30, spe: 25 },
     abilities: { '0': 'Lightning Rod', '1': 'Rock Head', H: 'Reckless' },
     heightm: 1,
     weightkg: 115,
@@ -1687,10 +1687,10 @@
     gender: 'N'
   },
   rhydon: {
-    baseStats: { hp: 105, atk: 130, def: 120, spa: 45, spd: 45, spe: 40 },
     num: 112,
     name: 'Rhydon',
     types: [ 'Ground', 'Rock' ],
+    baseStats: { hp: 105, atk: 130, def: 120, spa: 45, spd: 45, spe: 40 },
     abilities: { '0': 'Lightning Rod', '1': 'Rock Head', H: 'Reckless' },
     heightm: 1.9,
     weightkg: 120,
@@ -1702,11 +1702,11 @@
     gender: 'N'
   },
   chansey: {
-    baseStats: { hp: 250, atk: 5, def: 5, spa: 105, spd: 105, spe: 50 },
     num: 113,
     name: 'Chansey',
     types: [ 'Normal' ],
     gender: 'N',
+    baseStats: { hp: 250, atk: 5, def: 5, spa: 105, spd: 105, spe: 50 },
     abilities: { '0': 'Natural Cure', '1': 'Serene Grace', H: 'Healer' },
     heightm: 1.1,
     weightkg: 34.6,
@@ -1720,10 +1720,10 @@
     canHatch: true
   },
   tangela: {
-    baseStats: { hp: 65, atk: 55, def: 115, spa: 100, spd: 100, spe: 60 },
     num: 114,
     name: 'Tangela',
     types: [ 'Grass' ],
+    baseStats: { hp: 65, atk: 55, def: 115, spa: 100, spd: 100, spe: 60 },
     abilities: { '0': 'Chlorophyll', '1': 'Leaf Guard', H: 'Regenerator' },
     heightm: 1,
     weightkg: 35,
@@ -1733,11 +1733,11 @@
     gender: 'N'
   },
   kangaskhan: {
-    baseStats: { hp: 105, atk: 95, def: 80, spa: 40, spd: 40, spe: 90 },
     num: 115,
     name: 'Kangaskhan',
     types: [ 'Normal' ],
     gender: 'N',
+    baseStats: { hp: 105, atk: 95, def: 80, spa: 40, spd: 40, spe: 90 },
     abilities: { '0': 'Early Bird', '1': 'Scrappy', H: 'Inner Focus' },
     heightm: 2.2,
     weightkg: 80,
@@ -1747,10 +1747,10 @@
     formeOrder: [ 'Kangaskhan', 'Kangaskhan-Mega' ]
   },
   horsea: {
-    baseStats: { hp: 30, atk: 40, def: 70, spa: 70, spd: 70, spe: 60 },
     num: 116,
     name: 'Horsea',
     types: [ 'Water' ],
+    baseStats: { hp: 30, atk: 40, def: 70, spa: 70, spd: 70, spe: 60 },
     abilities: { '0': 'Swift Swim', '1': 'Sniper', H: 'Damp' },
     heightm: 0.4,
     weightkg: 8,
@@ -1760,10 +1760,10 @@
     gender: 'N'
   },
   seadra: {
-    baseStats: { hp: 55, atk: 65, def: 95, spa: 95, spd: 95, spe: 85 },
     num: 117,
     name: 'Seadra',
     types: [ 'Water' ],
+    baseStats: { hp: 55, atk: 65, def: 95, spa: 95, spd: 95, spe: 85 },
     abilities: { '0': 'Poison Point', '1': 'Sniper', H: 'Damp' },
     heightm: 1.2,
     weightkg: 25,
@@ -1775,10 +1775,10 @@
     gender: 'N'
   },
   goldeen: {
-    baseStats: { hp: 45, atk: 67, def: 60, spa: 50, spd: 50, spe: 63 },
     num: 118,
     name: 'Goldeen',
     types: [ 'Water' ],
+    baseStats: { hp: 45, atk: 67, def: 60, spa: 50, spd: 50, spe: 63 },
     abilities: { '0': 'Swift Swim', '1': 'Water Veil', H: 'Lightning Rod' },
     heightm: 0.6,
     weightkg: 15,
@@ -1788,10 +1788,10 @@
     gender: 'N'
   },
   seaking: {
-    baseStats: { hp: 80, atk: 92, def: 65, spa: 80, spd: 80, spe: 68 },
     num: 119,
     name: 'Seaking',
     types: [ 'Water' ],
+    baseStats: { hp: 80, atk: 92, def: 65, spa: 80, spd: 80, spe: 68 },
     abilities: { '0': 'Swift Swim', '1': 'Water Veil', H: 'Lightning Rod' },
     heightm: 1.3,
     weightkg: 39,
@@ -1802,11 +1802,11 @@
     gender: 'N'
   },
   staryu: {
-    baseStats: { hp: 30, atk: 45, def: 55, spa: 70, spd: 70, spe: 85 },
     num: 120,
     name: 'Staryu',
     types: [ 'Water' ],
     gender: 'N',
+    baseStats: { hp: 30, atk: 45, def: 55, spa: 70, spd: 70, spe: 85 },
     abilities: { '0': 'Illuminate', '1': 'Natural Cure', H: 'Analytic' },
     heightm: 0.8,
     weightkg: 34.5,
@@ -1815,11 +1815,11 @@
     eggGroups: null
   },
   starmie: {
-    baseStats: { hp: 60, atk: 75, def: 85, spa: 100, spd: 100, spe: 115 },
     num: 121,
     name: 'Starmie',
     types: [ 'Water', 'Psychic' ],
     gender: 'N',
+    baseStats: { hp: 60, atk: 75, def: 85, spa: 100, spd: 100, spe: 115 },
     abilities: { '0': 'Illuminate', '1': 'Natural Cure', H: 'Analytic' },
     heightm: 1.1,
     weightkg: 80,
@@ -1830,10 +1830,10 @@
     eggGroups: null
   },
   mrmime: {
-    baseStats: { hp: 40, atk: 45, def: 65, spa: 100, spd: 100, spe: 90 },
-    types: [ 'Psychic' ],
     num: 122,
     name: 'Mr. Mime',
+    types: [ 'Psychic' ],
+    baseStats: { hp: 40, atk: 45, def: 65, spa: 100, spd: 100, spe: 90 },
     abilities: { '0': 'Soundproof', '1': 'Filter', H: 'Technician' },
     heightm: 1.3,
     weightkg: 54.5,
@@ -1848,10 +1848,10 @@
     gender: 'N'
   },
   scyther: {
-    baseStats: { hp: 70, atk: 110, def: 80, spa: 55, spd: 55, spe: 105 },
     num: 123,
     name: 'Scyther',
     types: [ 'Bug', 'Flying' ],
+    baseStats: { hp: 70, atk: 110, def: 80, spa: 55, spd: 55, spe: 105 },
     abilities: { '0': 'Swarm', '1': 'Technician', H: 'Steadfast' },
     heightm: 1.5,
     weightkg: 56,
@@ -1861,11 +1861,11 @@
     gender: 'N'
   },
   jynx: {
-    baseStats: { hp: 65, atk: 50, def: 35, spa: 95, spd: 95, spe: 95 },
     num: 124,
     name: 'Jynx',
     types: [ 'Ice', 'Psychic' ],
     gender: 'N',
+    baseStats: { hp: 65, atk: 50, def: 35, spa: 95, spd: 95, spe: 95 },
     abilities: { '0': 'Oblivious', '1': 'Forewarn', H: 'Dry Skin' },
     heightm: 1.4,
     weightkg: 40.6,
@@ -1875,11 +1875,11 @@
     eggGroups: null
   },
   electabuzz: {
-    baseStats: { hp: 65, atk: 83, def: 57, spa: 85, spd: 85, spe: 105 },
     num: 125,
     name: 'Electabuzz',
     types: [ 'Electric' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 65, atk: 83, def: 57, spa: 85, spd: 85, spe: 105 },
     abilities: { '0': 'Static', H: 'Vital Spirit' },
     heightm: 1.1,
     weightkg: 30,
@@ -1891,11 +1891,11 @@
     gender: 'N'
   },
   magmar: {
-    baseStats: { hp: 65, atk: 95, def: 57, spa: 85, spd: 85, spe: 93 },
     num: 126,
     name: 'Magmar',
     types: [ 'Fire' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 65, atk: 95, def: 57, spa: 85, spd: 85, spe: 93 },
     abilities: { '0': 'Flame Body', H: 'Vital Spirit' },
     heightm: 1.3,
     weightkg: 44.5,
@@ -1907,10 +1907,10 @@
     gender: 'N'
   },
   pinsir: {
-    baseStats: { hp: 65, atk: 125, def: 100, spa: 55, spd: 55, spe: 85 },
     num: 127,
     name: 'Pinsir',
     types: [ 'Bug' ],
+    baseStats: { hp: 65, atk: 125, def: 100, spa: 55, spd: 55, spe: 85 },
     abilities: { '0': 'Hyper Cutter', '1': 'Mold Breaker', H: 'Moxie' },
     heightm: 1.5,
     weightkg: 55,
@@ -1921,11 +1921,11 @@
     gender: 'N'
   },
   tauros: {
-    baseStats: { hp: 75, atk: 100, def: 95, spa: 70, spd: 70, spe: 110 },
     num: 128,
     name: 'Tauros',
     types: [ 'Normal' ],
     gender: 'N',
+    baseStats: { hp: 75, atk: 100, def: 95, spa: 70, spd: 70, spe: 110 },
     abilities: { '0': 'Intimidate', '1': 'Anger Point', H: 'Sheer Force' },
     heightm: 1.4,
     weightkg: 88.4,
@@ -1944,10 +1944,10 @@
     eggGroups: null
   },
   magikarp: {
-    baseStats: { hp: 20, atk: 10, def: 55, spa: 20, spd: 20, spe: 80 },
     num: 129,
     name: 'Magikarp',
     types: [ 'Water' ],
+    baseStats: { hp: 20, atk: 10, def: 55, spa: 20, spd: 20, spe: 80 },
     abilities: { '0': 'Swift Swim', H: 'Rattled' },
     heightm: 0.9,
     weightkg: 10,
@@ -1957,10 +1957,10 @@
     gender: 'N'
   },
   gyarados: {
-    baseStats: { hp: 95, atk: 125, def: 79, spa: 100, spd: 100, spe: 81 },
     num: 130,
     name: 'Gyarados',
     types: [ 'Water', 'Flying' ],
+    baseStats: { hp: 95, atk: 125, def: 79, spa: 100, spd: 100, spe: 81 },
     abilities: { '0': 'Intimidate', H: 'Moxie' },
     heightm: 6.5,
     weightkg: 235,
@@ -1973,10 +1973,10 @@
     gender: 'N'
   },
   lapras: {
-    baseStats: { hp: 130, atk: 85, def: 80, spa: 95, spd: 95, spe: 60 },
     num: 131,
     name: 'Lapras',
     types: [ 'Water', 'Ice' ],
+    baseStats: { hp: 130, atk: 85, def: 80, spa: 95, spd: 95, spe: 60 },
     abilities: { '0': 'Water Absorb', '1': 'Shell Armor', H: 'Hydration' },
     heightm: 2.5,
     weightkg: 220,
@@ -1986,11 +1986,11 @@
     gender: 'N'
   },
   ditto: {
-    baseStats: { hp: 48, atk: 48, def: 48, spa: 48, spd: 48, spe: 48 },
     num: 132,
     name: 'Ditto',
     types: [ 'Normal' ],
     gender: 'N',
+    baseStats: { hp: 48, atk: 48, def: 48, spa: 48, spd: 48, spe: 48 },
     abilities: { '0': 'Limber', H: 'Imposter' },
     heightm: 0.3,
     weightkg: 4,
@@ -1998,11 +1998,11 @@
     eggGroups: null
   },
   eevee: {
-    baseStats: { hp: 55, atk: 55, def: 50, spa: 65, spd: 65, spe: 55 },
     num: 133,
     name: 'Eevee',
     types: [ 'Normal' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 55, atk: 55, def: 50, spa: 65, spd: 65, spe: 55 },
     abilities: { '0': 'Run Away', '1': 'Adaptability', H: 'Anticipation' },
     heightm: 0.3,
     weightkg: 6.5,
@@ -2020,11 +2020,11 @@
     gender: 'N'
   },
   vaporeon: {
-    baseStats: { hp: 130, atk: 65, def: 60, spa: 110, spd: 110, spe: 65 },
     num: 134,
     name: 'Vaporeon',
     types: [ 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 130, atk: 65, def: 60, spa: 110, spd: 110, spe: 65 },
     abilities: { '0': 'Water Absorb', H: 'Hydration' },
     heightm: 1,
     weightkg: 29,
@@ -2036,11 +2036,11 @@
     gender: 'N'
   },
   jolteon: {
-    baseStats: { hp: 65, atk: 65, def: 60, spa: 110, spd: 110, spe: 130 },
     num: 135,
     name: 'Jolteon',
     types: [ 'Electric' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 65, atk: 65, def: 60, spa: 110, spd: 110, spe: 130 },
     abilities: { '0': 'Volt Absorb', H: 'Quick Feet' },
     heightm: 0.8,
     weightkg: 24.5,
@@ -2052,11 +2052,11 @@
     gender: 'N'
   },
   flareon: {
-    baseStats: { hp: 65, atk: 130, def: 60, spa: 110, spd: 110, spe: 65 },
     num: 136,
     name: 'Flareon',
     types: [ 'Fire' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 65, atk: 130, def: 60, spa: 110, spd: 110, spe: 65 },
     abilities: { '0': 'Flash Fire', H: 'Guts' },
     heightm: 0.9,
     weightkg: 25,
@@ -2068,11 +2068,11 @@
     gender: 'N'
   },
   porygon: {
-    baseStats: { hp: 65, atk: 60, def: 70, spa: 75, spd: 75, spe: 40 },
     num: 137,
     name: 'Porygon',
     types: [ 'Normal' ],
     gender: 'N',
+    baseStats: { hp: 65, atk: 60, def: 70, spa: 75, spd: 75, spe: 40 },
     abilities: { '0': 'Trace', '1': 'Download', H: 'Analytic' },
     heightm: 0.8,
     weightkg: 36.5,
@@ -2081,11 +2081,11 @@
     eggGroups: null
   },
   omanyte: {
-    baseStats: { hp: 35, atk: 40, def: 100, spa: 90, spd: 90, spe: 35 },
     num: 138,
     name: 'Omanyte',
     types: [ 'Rock', 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 35, atk: 40, def: 100, spa: 90, spd: 90, spe: 35 },
     abilities: { '0': 'Swift Swim', '1': 'Shell Armor', H: 'Weak Armor' },
     heightm: 0.4,
     weightkg: 7.5,
@@ -2095,11 +2095,11 @@
     gender: 'N'
   },
   omastar: {
-    baseStats: { hp: 70, atk: 60, def: 125, spa: 115, spd: 115, spe: 55 },
     num: 139,
     name: 'Omastar',
     types: [ 'Rock', 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 70, atk: 60, def: 125, spa: 115, spd: 115, spe: 55 },
     abilities: { '0': 'Swift Swim', '1': 'Shell Armor', H: 'Weak Armor' },
     heightm: 1,
     weightkg: 35,
@@ -2110,11 +2110,11 @@
     gender: 'N'
   },
   kabuto: {
-    baseStats: { hp: 30, atk: 80, def: 90, spa: 45, spd: 45, spe: 55 },
     num: 140,
     name: 'Kabuto',
     types: [ 'Rock', 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 30, atk: 80, def: 90, spa: 45, spd: 45, spe: 55 },
     abilities: { '0': 'Swift Swim', '1': 'Battle Armor', H: 'Weak Armor' },
     heightm: 0.5,
     weightkg: 11.5,
@@ -2124,11 +2124,11 @@
     gender: 'N'
   },
   kabutops: {
-    baseStats: { hp: 60, atk: 115, def: 105, spa: 70, spd: 70, spe: 80 },
     num: 141,
     name: 'Kabutops',
     types: [ 'Rock', 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 60, atk: 115, def: 105, spa: 70, spd: 70, spe: 80 },
     abilities: { '0': 'Swift Swim', '1': 'Battle Armor', H: 'Weak Armor' },
     heightm: 1.3,
     weightkg: 40.5,
@@ -2139,11 +2139,11 @@
     gender: 'N'
   },
   aerodactyl: {
-    baseStats: { hp: 80, atk: 105, def: 65, spa: 60, spd: 60, spe: 130 },
     num: 142,
     name: 'Aerodactyl',
     types: [ 'Rock', 'Flying' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 80, atk: 105, def: 65, spa: 60, spd: 60, spe: 130 },
     abilities: { '0': 'Rock Head', '1': 'Pressure', H: 'Unnerve' },
     heightm: 1.8,
     weightkg: 59,
@@ -2154,11 +2154,11 @@
     gender: 'N'
   },
   snorlax: {
-    baseStats: { hp: 160, atk: 110, def: 65, spa: 65, spd: 65, spe: 30 },
     num: 143,
     name: 'Snorlax',
     types: [ 'Normal' ],
     genderRatio: { M: 0.875, F: 0.125 },
+    baseStats: { hp: 160, atk: 110, def: 65, spa: 65, spd: 65, spe: 30 },
     abilities: { '0': 'Immunity', '1': 'Thick Fat', H: 'Gluttony' },
     heightm: 2.1,
     weightkg: 460,
@@ -2171,12 +2171,11 @@
     gender: 'N'
   },
   articuno: {
-    baseStats: { hp: 90, atk: 85, def: 100, spa: 125, spd: 125, spe: 85 },
-    unreleasedHidden: true,
     num: 144,
     name: 'Articuno',
     types: [ 'Ice', 'Flying' ],
     gender: 'N',
+    baseStats: { hp: 90, atk: 85, def: 100, spa: 125, spd: 125, spe: 85 },
     abilities: { '0': 'Pressure', H: 'Snow Cloak' },
     heightm: 1.7,
     weightkg: 55.4,
@@ -2184,31 +2183,31 @@
     tags: [ 'Sub-Legendary' ],
     eggGroups: null,
     otherFormes: [ 'Articuno-Galar' ],
-    formeOrder: [ 'Articuno', 'Articuno-Galar' ]
+    formeOrder: [ 'Articuno', 'Articuno-Galar' ],
+    unreleasedHidden: true
   },
   zapdos: {
-    baseStats: { hp: 90, atk: 90, def: 85, spa: 125, spd: 125, spe: 100 },
-    abilities: { '0': 'Pressure', H: 'Lightning Rod' },
-    unreleasedHidden: true,
     num: 145,
     name: 'Zapdos',
     types: [ 'Electric', 'Flying' ],
     gender: 'N',
+    baseStats: { hp: 90, atk: 90, def: 85, spa: 125, spd: 125, spe: 100 },
+    abilities: { '0': 'Pressure', H: 'Lightning Rod' },
     heightm: 1.6,
     weightkg: 52.6,
     color: 'Yellow',
     tags: [ 'Sub-Legendary' ],
     eggGroups: null,
     otherFormes: [ 'Zapdos-Galar' ],
-    formeOrder: [ 'Zapdos', 'Zapdos-Galar' ]
+    formeOrder: [ 'Zapdos', 'Zapdos-Galar' ],
+    unreleasedHidden: true
   },
   moltres: {
-    baseStats: { hp: 90, atk: 100, def: 90, spa: 125, spd: 125, spe: 90 },
-    unreleasedHidden: true,
     num: 146,
     name: 'Moltres',
     types: [ 'Fire', 'Flying' ],
     gender: 'N',
+    baseStats: { hp: 90, atk: 100, def: 90, spa: 125, spd: 125, spe: 90 },
     abilities: { '0': 'Pressure', H: 'Flame Body' },
     heightm: 2,
     weightkg: 60,
@@ -2216,13 +2215,14 @@
     tags: [ 'Sub-Legendary' ],
     eggGroups: null,
     otherFormes: [ 'Moltres-Galar' ],
-    formeOrder: [ 'Moltres', 'Moltres-Galar' ]
+    formeOrder: [ 'Moltres', 'Moltres-Galar' ],
+    unreleasedHidden: true
   },
   dratini: {
-    baseStats: { hp: 41, atk: 64, def: 45, spa: 50, spd: 50, spe: 50 },
     num: 147,
     name: 'Dratini',
     types: [ 'Dragon' ],
+    baseStats: { hp: 41, atk: 64, def: 45, spa: 50, spd: 50, spe: 50 },
     abilities: { '0': 'Shed Skin', H: 'Marvel Scale' },
     heightm: 1.8,
     weightkg: 3.3,
@@ -2232,10 +2232,10 @@
     gender: 'N'
   },
   dragonair: {
-    baseStats: { hp: 61, atk: 84, def: 65, spa: 70, spd: 70, spe: 70 },
     num: 148,
     name: 'Dragonair',
     types: [ 'Dragon' ],
+    baseStats: { hp: 61, atk: 84, def: 65, spa: 70, spd: 70, spe: 70 },
     abilities: { '0': 'Shed Skin', H: 'Marvel Scale' },
     heightm: 4,
     weightkg: 16.5,
@@ -2247,10 +2247,10 @@
     gender: 'N'
   },
   dragonite: {
-    baseStats: { hp: 91, atk: 134, def: 95, spa: 100, spd: 100, spe: 80 },
     num: 149,
     name: 'Dragonite',
     types: [ 'Dragon', 'Flying' ],
+    baseStats: { hp: 91, atk: 134, def: 95, spa: 100, spd: 100, spe: 80 },
     abilities: { '0': 'Inner Focus', H: 'Multiscale' },
     heightm: 2.2,
     weightkg: 210,
@@ -2261,11 +2261,11 @@
     gender: 'N'
   },
   mewtwo: {
-    baseStats: { hp: 106, atk: 110, def: 90, spa: 154, spd: 154, spe: 130 },
     num: 150,
     name: 'Mewtwo',
     types: [ 'Psychic' ],
     gender: 'N',
+    baseStats: { hp: 106, atk: 110, def: 90, spa: 154, spd: 154, spe: 130 },
     abilities: { '0': 'Pressure', H: 'Unnerve' },
     heightm: 2,
     weightkg: 122,
@@ -2276,11 +2276,11 @@
     formeOrder: [ 'Mewtwo', 'Mewtwo-Mega-X', 'Mewtwo-Mega-Y' ]
   },
   mew: {
-    baseStats: { hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100 },
     num: 151,
     name: 'Mew',
     types: [ 'Psychic' ],
     gender: 'N',
+    baseStats: { hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100 },
     abilities: { '0': 'Synchronize' },
     heightm: 0.4,
     weightkg: 4,
@@ -2289,6 +2289,17 @@
     eggGroups: null
   },
   unown: {
+    num: 201,
+    name: 'Unown',
+    baseForme: 'A',
+    types: [ 'Psychic' ],
+    gender: 'N',
+    baseStats: { hp: 48, atk: 72, def: 48, spa: 72, spd: 48, spe: 48 },
+    abilities: { '0': 'Levitate' },
+    heightm: 0.5,
+    weightkg: 5,
+    color: 'Black',
+    eggGroups: null,
     cosmeticFormes: [
       'Unown-B', 'Unown-C', 'Unown-D',
       'Unown-E', 'Unown-F', 'Unown-G',
@@ -2310,41 +2321,30 @@
       'Unown-S', 'Unown-T', 'Unown-U',
       'Unown-V', 'Unown-W', 'Unown-X',
       'Unown-Y', 'Unown-Z'
-    ],
-    num: 201,
-    name: 'Unown',
-    baseForme: 'A',
-    types: [ 'Psychic' ],
-    gender: 'N',
-    baseStats: { hp: 48, atk: 72, def: 48, spa: 72, spd: 48, spe: 48 },
-    abilities: { '0': 'Levitate' },
-    heightm: 0.5,
-    weightkg: 5,
-    color: 'Black',
-    eggGroups: null
+    ]
   },
   milotic: {
-    evoType: 'levelExtra',
-    evoCondition: 'with high Beauty',
-    abilities: { '0': 'Marvel Scale', H: 'Cute Charm' },
     num: 350,
     name: 'Milotic',
     types: [ 'Water' ],
     baseStats: { hp: 95, atk: 60, def: 79, spa: 100, spd: 125, spe: 81 },
+    abilities: { '0': 'Marvel Scale', H: 'Cute Charm' },
     heightm: 6.2,
     weightkg: 162,
     color: 'Pink',
     prevo: 'Feebas',
+    evoType: 'levelExtra',
     evoItem: 'Prism Scale',
     eggGroups: null,
+    evoCondition: 'with high Beauty',
     gender: 'N'
   },
   rotomheat: {
-    types: [ 'Electric', 'Ghost' ],
     num: 479,
     name: 'Rotom-Heat',
     baseSpecies: 'Rotom',
     forme: 'Heat',
+    types: [ 'Electric', 'Ghost' ],
     gender: 'N',
     baseStats: { hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86 },
     abilities: { '0': 'Levitate' },
@@ -2355,11 +2355,11 @@
     changesFrom: 'Rotom'
   },
   rotomwash: {
-    types: [ 'Electric', 'Ghost' ],
     num: 479,
     name: 'Rotom-Wash',
     baseSpecies: 'Rotom',
     forme: 'Wash',
+    types: [ 'Electric', 'Ghost' ],
     gender: 'N',
     baseStats: { hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86 },
     abilities: { '0': 'Levitate' },
@@ -2370,11 +2370,11 @@
     changesFrom: 'Rotom'
   },
   rotomfrost: {
-    types: [ 'Electric', 'Ghost' ],
     num: 479,
     name: 'Rotom-Frost',
     baseSpecies: 'Rotom',
     forme: 'Frost',
+    types: [ 'Electric', 'Ghost' ],
     gender: 'N',
     baseStats: { hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86 },
     abilities: { '0': 'Levitate' },
@@ -2385,11 +2385,11 @@
     changesFrom: 'Rotom'
   },
   rotomfan: {
-    types: [ 'Electric', 'Ghost' ],
     num: 479,
     name: 'Rotom-Fan',
     baseSpecies: 'Rotom',
     forme: 'Fan',
+    types: [ 'Electric', 'Ghost' ],
     gender: 'N',
     baseStats: { hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86 },
     abilities: { '0': 'Levitate' },
@@ -2400,11 +2400,11 @@
     changesFrom: 'Rotom'
   },
   rotommow: {
-    types: [ 'Electric', 'Ghost' ],
     num: 479,
     name: 'Rotom-Mow',
     baseSpecies: 'Rotom',
     forme: 'Mow',
+    types: [ 'Electric', 'Ghost' ],
     gender: 'N',
     baseStats: { hp: 50, atk: 65, def: 107, spa: 105, spd: 107, spe: 86 },
     abilities: { '0': 'Levitate' },
@@ -2415,7 +2415,6 @@
     changesFrom: 'Rotom'
   },
   chikorita: {
-    unreleasedHidden: true,
     num: 152,
     name: 'Chikorita',
     types: [ 'Grass' ],
@@ -2427,10 +2426,10 @@
     color: 'Green',
     evos: [ 'Bayleef' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   bayleef: {
-    unreleasedHidden: true,
     num: 153,
     name: 'Bayleef',
     types: [ 'Grass' ],
@@ -2444,10 +2443,10 @@
     evoLevel: 16,
     evos: [ 'Meganium' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   meganium: {
-    unreleasedHidden: true,
     num: 154,
     name: 'Meganium',
     types: [ 'Grass' ],
@@ -2460,10 +2459,10 @@
     prevo: 'Bayleef',
     evoLevel: 32,
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   cyndaquil: {
-    unreleasedHidden: true,
     num: 155,
     name: 'Cyndaquil',
     types: [ 'Fire' ],
@@ -2475,10 +2474,10 @@
     color: 'Yellow',
     evos: [ 'Quilava' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   quilava: {
-    unreleasedHidden: true,
     num: 156,
     name: 'Quilava',
     types: [ 'Fire' ],
@@ -2492,10 +2491,10 @@
     evoLevel: 14,
     evos: [ 'Typhlosion', 'Typhlosion-Hisui' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   typhlosion: {
-    unreleasedHidden: true,
     num: 157,
     name: 'Typhlosion',
     types: [ 'Fire' ],
@@ -2510,10 +2509,10 @@
     eggGroups: null,
     otherFormes: [ 'Typhlosion-Hisui' ],
     formeOrder: [ 'Typhlosion', 'Typhlosion-Hisui' ],
+    unreleasedHidden: true,
     gender: 'N'
   },
   totodile: {
-    unreleasedHidden: true,
     num: 158,
     name: 'Totodile',
     types: [ 'Water' ],
@@ -2525,10 +2524,10 @@
     color: 'Blue',
     evos: [ 'Croconaw' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   croconaw: {
-    unreleasedHidden: true,
     num: 159,
     name: 'Croconaw',
     types: [ 'Water' ],
@@ -2542,10 +2541,10 @@
     evoLevel: 18,
     evos: [ 'Feraligatr' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   feraligatr: {
-    unreleasedHidden: true,
     num: 160,
     name: 'Feraligatr',
     types: [ 'Water' ],
@@ -2558,15 +2557,16 @@
     prevo: 'Croconaw',
     evoLevel: 30,
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   igglybuff: {
-    types: [ 'Normal' ],
-    abilities: { '0': 'Cute Charm', H: 'Friend Guard' },
     num: 174,
     name: 'Igglybuff',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
     baseStats: { hp: 90, atk: 30, def: 15, spa: 40, spd: 20, spe: 15 },
+    abilities: { '0': 'Cute Charm', H: 'Friend Guard' },
     heightm: 0.3,
     weightkg: 1,
     color: 'Pink',
@@ -2576,9 +2576,9 @@
     gender: 'N'
   },
   togepi: {
-    types: [ 'Normal' ],
     num: 175,
     name: 'Togepi',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 35, atk: 20, def: 65, spa: 40, spd: 65, spe: 20 },
     abilities: { '0': 'Hustle', '1': 'Serene Grace', H: 'Super Luck' },
@@ -2591,9 +2591,9 @@
     gender: 'N'
   },
   togetic: {
-    types: [ 'Normal', 'Flying' ],
     num: 176,
     name: 'Togetic',
+    types: [ 'Normal', 'Flying' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 55, atk: 40, def: 85, spa: 80, spd: 105, spe: 40 },
     abilities: { '0': 'Hustle', '1': 'Serene Grace', H: 'Super Luck' },
@@ -2607,9 +2607,9 @@
     gender: 'N'
   },
   cleffa: {
-    types: [ 'Normal' ],
     num: 173,
     name: 'Cleffa',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
     baseStats: { hp: 50, atk: 25, def: 28, spa: 45, spd: 55, spe: 15 },
     abilities: { '0': 'Cute Charm', '1': 'Magic Guard', H: 'Friend Guard' },
@@ -2622,10 +2622,10 @@
     gender: 'N'
   },
   ampharos: {
-    baseStats: { hp: 90, atk: 75, def: 75, spa: 115, spd: 90, spe: 55 },
     num: 181,
     name: 'Ampharos',
     types: [ 'Electric' ],
+    baseStats: { hp: 90, atk: 75, def: 75, spa: 115, spd: 90, spe: 55 },
     abilities: { '0': 'Static', H: 'Plus' },
     heightm: 1.4,
     weightkg: 61.5,
@@ -2638,10 +2638,10 @@
     gender: 'N'
   },
   bellossom: {
-    baseStats: { hp: 75, atk: 80, def: 85, spa: 90, spd: 100, spe: 50 },
     num: 182,
     name: 'Bellossom',
     types: [ 'Grass' ],
+    baseStats: { hp: 75, atk: 80, def: 85, spa: 90, spd: 100, spe: 50 },
     abilities: { '0': 'Chlorophyll', H: 'Healer' },
     heightm: 0.4,
     weightkg: 5.8,
@@ -2653,9 +2653,9 @@
     gender: 'N'
   },
   marill: {
-    types: [ 'Water' ],
     num: 183,
     name: 'Marill',
+    types: [ 'Water' ],
     baseStats: { hp: 70, atk: 20, def: 50, spa: 20, spd: 50, spe: 40 },
     abilities: { '0': 'Thick Fat', '1': 'Huge Power', H: 'Sap Sipper' },
     heightm: 0.4,
@@ -2669,10 +2669,10 @@
     gender: 'N'
   },
   azumarill: {
-    types: [ 'Water' ],
-    baseStats: { hp: 100, atk: 50, def: 80, spa: 50, spd: 80, spe: 50 },
     num: 184,
     name: 'Azumarill',
+    types: [ 'Water' ],
+    baseStats: { hp: 100, atk: 50, def: 80, spa: 50, spd: 80, spe: 50 },
     abilities: { '0': 'Thick Fat', '1': 'Huge Power', H: 'Sap Sipper' },
     heightm: 0.8,
     weightkg: 28.5,
@@ -2683,10 +2683,10 @@
     gender: 'N'
   },
   jumpluff: {
-    baseStats: { hp: 75, atk: 55, def: 70, spa: 55, spd: 85, spe: 110 },
     num: 189,
     name: 'Jumpluff',
     types: [ 'Grass', 'Flying' ],
+    baseStats: { hp: 75, atk: 55, def: 70, spa: 55, spd: 85, spe: 110 },
     abilities: { '0': 'Chlorophyll', '1': 'Leaf Guard', H: 'Infiltrator' },
     heightm: 0.8,
     weightkg: 3,
@@ -2697,9 +2697,9 @@
     gender: 'N'
   },
   snubbull: {
-    types: [ 'Normal' ],
     num: 209,
     name: 'Snubbull',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
     baseStats: { hp: 60, atk: 80, def: 50, spa: 40, spd: 40, spe: 30 },
     abilities: { '0': 'Intimidate', '1': 'Run Away', H: 'Rattled' },
@@ -2711,9 +2711,9 @@
     gender: 'N'
   },
   granbull: {
-    types: [ 'Normal' ],
     num: 210,
     name: 'Granbull',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
     baseStats: { hp: 90, atk: 120, def: 75, spa: 60, spd: 60, spe: 45 },
     abilities: { '0': 'Intimidate', '1': 'Quick Feet', H: 'Rattled' },
@@ -2726,7 +2726,6 @@
     gender: 'N'
   },
   tyrogue: {
-    maleOnlyHidden: true,
     num: 236,
     name: 'Tyrogue',
     types: [ 'Fighting' ],
@@ -2738,10 +2737,10 @@
     color: 'Purple',
     evos: [ 'Hitmonlee', 'Hitmonchan', 'Hitmontop' ],
     eggGroups: null,
-    canHatch: true
+    canHatch: true,
+    maleOnlyHidden: true
   },
   hitmontop: {
-    maleOnlyHidden: true,
     num: 237,
     name: 'Hitmontop',
     types: [ 'Fighting' ],
@@ -2754,10 +2753,10 @@
     prevo: 'Tyrogue',
     evoLevel: 20,
     evoCondition: 'with an Atk stat equal to its Def stat',
-    eggGroups: null
+    eggGroups: null,
+    maleOnlyHidden: true
   },
   treecko: {
-    maleOnlyHidden: true,
     num: 252,
     name: 'Treecko',
     types: [ 'Grass' ],
@@ -2769,10 +2768,10 @@
     color: 'Green',
     evos: [ 'Grovyle' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   grovyle: {
-    maleOnlyHidden: true,
     num: 253,
     name: 'Grovyle',
     types: [ 'Grass' ],
@@ -2786,10 +2785,10 @@
     evoLevel: 16,
     evos: [ 'Sceptile' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   sceptile: {
-    maleOnlyHidden: true,
     num: 254,
     name: 'Sceptile',
     types: [ 'Grass' ],
@@ -2804,10 +2803,10 @@
     eggGroups: null,
     otherFormes: [ 'Sceptile-Mega' ],
     formeOrder: [ 'Sceptile', 'Sceptile-Mega' ],
+    maleOnlyHidden: true,
     gender: 'N'
   },
   torchic: {
-    maleOnlyHidden: true,
     num: 255,
     name: 'Torchic',
     types: [ 'Fire' ],
@@ -2819,10 +2818,10 @@
     color: 'Red',
     evos: [ 'Combusken' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   combusken: {
-    maleOnlyHidden: true,
     num: 256,
     name: 'Combusken',
     types: [ 'Fire', 'Fighting' ],
@@ -2836,10 +2835,10 @@
     evoLevel: 16,
     evos: [ 'Blaziken' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   blaziken: {
-    maleOnlyHidden: true,
     num: 257,
     name: 'Blaziken',
     types: [ 'Fire', 'Fighting' ],
@@ -2854,10 +2853,10 @@
     eggGroups: null,
     otherFormes: [ 'Blaziken-Mega' ],
     formeOrder: [ 'Blaziken', 'Blaziken-Mega' ],
+    maleOnlyHidden: true,
     gender: 'N'
   },
   mudkip: {
-    maleOnlyHidden: true,
     num: 258,
     name: 'Mudkip',
     types: [ 'Water' ],
@@ -2869,10 +2868,10 @@
     color: 'Blue',
     evos: [ 'Marshtomp' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   marshtomp: {
-    maleOnlyHidden: true,
     num: 259,
     name: 'Marshtomp',
     types: [ 'Water', 'Ground' ],
@@ -2886,10 +2885,10 @@
     evoLevel: 16,
     evos: [ 'Swampert' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   swampert: {
-    maleOnlyHidden: true,
     num: 260,
     name: 'Swampert',
     types: [ 'Water', 'Ground' ],
@@ -2904,13 +2903,14 @@
     eggGroups: null,
     otherFormes: [ 'Swampert-Mega' ],
     formeOrder: [ 'Swampert', 'Swampert-Mega' ],
+    maleOnlyHidden: true,
     gender: 'N'
   },
   beautifly: {
-    baseStats: { hp: 60, atk: 70, def: 50, spa: 90, spd: 50, spe: 65 },
     num: 267,
     name: 'Beautifly',
     types: [ 'Bug', 'Flying' ],
+    baseStats: { hp: 60, atk: 70, def: 50, spa: 90, spd: 50, spe: 65 },
     abilities: { '0': 'Swarm', H: 'Rivalry' },
     heightm: 1,
     weightkg: 28.4,
@@ -2921,23 +2921,22 @@
     gender: 'N'
   },
   ralts: {
-    types: [ 'Psychic' ],
-    eggGroups: null,
     num: 280,
     name: 'Ralts',
+    types: [ 'Psychic' ],
     baseStats: { hp: 28, atk: 25, def: 25, spa: 45, spd: 35, spe: 40 },
     abilities: { '0': 'Synchronize', '1': 'Trace', H: 'Telepathy' },
     heightm: 0.4,
     weightkg: 6.6,
     color: 'White',
     evos: [ 'Kirlia' ],
+    eggGroups: null,
     gender: 'N'
   },
   kirlia: {
-    types: [ 'Psychic' ],
-    eggGroups: null,
     num: 281,
     name: 'Kirlia',
+    types: [ 'Psychic' ],
     baseStats: { hp: 38, atk: 35, def: 35, spa: 65, spd: 55, spe: 50 },
     abilities: { '0': 'Synchronize', '1': 'Trace', H: 'Telepathy' },
     heightm: 0.8,
@@ -2946,13 +2945,13 @@
     prevo: 'Ralts',
     evoLevel: 20,
     evos: [ 'Gardevoir', 'Gallade' ],
+    eggGroups: null,
     gender: 'N'
   },
   gardevoir: {
-    types: [ 'Psychic' ],
-    eggGroups: null,
     num: 282,
     name: 'Gardevoir',
+    types: [ 'Psychic' ],
     baseStats: { hp: 68, atk: 65, def: 65, spa: 125, spd: 115, spe: 80 },
     abilities: { '0': 'Synchronize', '1': 'Trace', H: 'Telepathy' },
     heightm: 1.6,
@@ -2960,15 +2959,16 @@
     color: 'White',
     prevo: 'Kirlia',
     evoLevel: 30,
+    eggGroups: null,
     otherFormes: [ 'Gardevoir-Mega' ],
     formeOrder: [ 'Gardevoir', 'Gardevoir-Mega' ],
     gender: 'N'
   },
   exploud: {
-    baseStats: { hp: 104, atk: 91, def: 63, spa: 91, spd: 63, spe: 68 },
     num: 295,
     name: 'Exploud',
     types: [ 'Normal' ],
+    baseStats: { hp: 104, atk: 91, def: 63, spa: 91, spd: 63, spe: 68 },
     abilities: { '0': 'Soundproof', H: 'Scrappy' },
     heightm: 1.5,
     weightkg: 84,
@@ -2979,9 +2979,9 @@
     gender: 'N'
   },
   azurill: {
-    types: [ 'Normal' ],
     num: 298,
     name: 'Azurill',
+    types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
     baseStats: { hp: 50, atk: 20, def: 40, spa: 20, spd: 40, spe: 20 },
     abilities: { '0': 'Thick Fat', '1': 'Huge Power', H: 'Sap Sipper' },
@@ -2994,9 +2994,9 @@
     gender: 'N'
   },
   mawile: {
-    types: [ 'Steel' ],
     num: 303,
     name: 'Mawile',
+    types: [ 'Steel' ],
     baseStats: { hp: 50, atk: 85, def: 85, spa: 55, spd: 55, spe: 50 },
     abilities: { '0': 'Hyper Cutter', '1': 'Intimidate', H: 'Sheer Force' },
     heightm: 0.6,
@@ -3008,11 +3008,11 @@
     gender: 'N'
   },
   plusle: {
-    abilities: { '0': 'Plus' },
     num: 311,
     name: 'Plusle',
     types: [ 'Electric' ],
     baseStats: { hp: 60, atk: 50, def: 40, spa: 85, spd: 75, spe: 95 },
+    abilities: { '0': 'Plus' },
     heightm: 0.4,
     weightkg: 4.2,
     color: 'Yellow',
@@ -3020,11 +3020,11 @@
     gender: 'N'
   },
   minun: {
-    abilities: { '0': 'Minus' },
     num: 312,
     name: 'Minun',
     types: [ 'Electric' ],
     baseStats: { hp: 60, atk: 40, def: 50, spa: 75, spd: 85, spe: 95 },
+    abilities: { '0': 'Minus' },
     heightm: 0.4,
     weightkg: 4.2,
     color: 'Yellow',
@@ -3032,11 +3032,11 @@
     gender: 'N'
   },
   kecleon: {
-    abilities: { '0': 'Color Change' },
     num: 352,
     name: 'Kecleon',
     types: [ 'Normal' ],
     baseStats: { hp: 60, atk: 90, def: 70, spa: 60, spd: 120, spe: 40 },
+    abilities: { '0': 'Color Change' },
     heightm: 1,
     weightkg: 22,
     color: 'Green',
@@ -3044,11 +3044,11 @@
     gender: 'N'
   },
   feebas: {
-    abilities: { '0': 'Swift Swim', H: 'Adaptability' },
     num: 349,
     name: 'Feebas',
     types: [ 'Water' ],
     baseStats: { hp: 20, atk: 15, def: 20, spa: 10, spd: 55, spe: 80 },
+    abilities: { '0': 'Swift Swim', H: 'Adaptability' },
     heightm: 0.6,
     weightkg: 7.4,
     color: 'Brown',
@@ -3057,11 +3057,11 @@
     gender: 'N'
   },
   duskull: {
-    abilities: { '0': 'Levitate' },
     num: 355,
     name: 'Duskull',
     types: [ 'Ghost' ],
     baseStats: { hp: 20, atk: 40, def: 90, spa: 30, spd: 90, spe: 25 },
+    abilities: { '0': 'Levitate' },
     heightm: 0.8,
     weightkg: 15,
     color: 'Black',
@@ -3070,11 +3070,11 @@
     gender: 'N'
   },
   dusclops: {
-    abilities: { '0': 'Pressure' },
     num: 356,
     name: 'Dusclops',
     types: [ 'Ghost' ],
     baseStats: { hp: 40, atk: 70, def: 130, spa: 60, spd: 130, spe: 25 },
+    abilities: { '0': 'Pressure' },
     heightm: 1.6,
     weightkg: 30.6,
     color: 'Black',
@@ -3085,7 +3085,6 @@
     gender: 'N'
   },
   regirock: {
-    unreleasedHidden: true,
     num: 377,
     name: 'Regirock',
     types: [ 'Rock' ],
@@ -3096,10 +3095,10 @@
     weightkg: 230,
     color: 'Brown',
     tags: [ 'Sub-Legendary' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   regice: {
-    unreleasedHidden: true,
     num: 378,
     name: 'Regice',
     types: [ 'Ice' ],
@@ -3110,10 +3109,10 @@
     weightkg: 175,
     color: 'Blue',
     tags: [ 'Sub-Legendary' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   registeel: {
-    unreleasedHidden: true,
     num: 379,
     name: 'Registeel',
     types: [ 'Steel' ],
@@ -3124,10 +3123,10 @@
     weightkg: 205,
     color: 'Gray',
     tags: [ 'Sub-Legendary' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   turtwig: {
-    maleOnlyHidden: true,
     num: 387,
     name: 'Turtwig',
     types: [ 'Grass' ],
@@ -3139,10 +3138,10 @@
     color: 'Green',
     evos: [ 'Grotle' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   grotle: {
-    maleOnlyHidden: true,
     num: 388,
     name: 'Grotle',
     types: [ 'Grass' ],
@@ -3156,10 +3155,10 @@
     evoLevel: 18,
     evos: [ 'Torterra' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   torterra: {
-    maleOnlyHidden: true,
     num: 389,
     name: 'Torterra',
     types: [ 'Grass', 'Ground' ],
@@ -3172,10 +3171,10 @@
     prevo: 'Grotle',
     evoLevel: 32,
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   chimchar: {
-    maleOnlyHidden: true,
     num: 390,
     name: 'Chimchar',
     types: [ 'Fire' ],
@@ -3187,10 +3186,10 @@
     color: 'Brown',
     evos: [ 'Monferno' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   monferno: {
-    maleOnlyHidden: true,
     num: 391,
     name: 'Monferno',
     types: [ 'Fire', 'Fighting' ],
@@ -3204,10 +3203,10 @@
     evoLevel: 14,
     evos: [ 'Infernape' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   infernape: {
-    maleOnlyHidden: true,
     num: 392,
     name: 'Infernape',
     types: [ 'Fire', 'Fighting' ],
@@ -3220,31 +3219,31 @@
     prevo: 'Monferno',
     evoLevel: 36,
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   piplup: {
-    maleOnlyHidden: true,
-    abilities: { '0': 'Torrent', H: 'Defiant' },
     num: 393,
     name: 'Piplup',
     types: [ 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 53, atk: 51, def: 53, spa: 61, spd: 56, spe: 40 },
+    abilities: { '0': 'Torrent', H: 'Defiant' },
     heightm: 0.4,
     weightkg: 5.2,
     color: 'Blue',
     evos: [ 'Prinplup' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   prinplup: {
-    maleOnlyHidden: true,
-    abilities: { '0': 'Torrent', H: 'Defiant' },
     num: 394,
     name: 'Prinplup',
     types: [ 'Water' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 64, atk: 66, def: 68, spa: 81, spd: 76, spe: 50 },
+    abilities: { '0': 'Torrent', H: 'Defiant' },
     heightm: 0.8,
     weightkg: 23,
     color: 'Blue',
@@ -3252,30 +3251,31 @@
     evoLevel: 16,
     evos: [ 'Empoleon' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   empoleon: {
-    maleOnlyHidden: true,
-    abilities: { '0': 'Torrent', H: 'Defiant' },
     num: 395,
     name: 'Empoleon',
     types: [ 'Water', 'Steel' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 84, atk: 86, def: 88, spa: 111, spd: 101, spe: 60 },
+    abilities: { '0': 'Torrent', H: 'Defiant' },
     heightm: 1.7,
     weightkg: 84.5,
     color: 'Blue',
     prevo: 'Prinplup',
     evoLevel: 36,
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   starly: {
-    abilities: { '0': 'Keen Eye' },
     num: 396,
     name: 'Starly',
     types: [ 'Normal', 'Flying' ],
     baseStats: { hp: 40, atk: 55, def: 30, spa: 30, spd: 30, spe: 60 },
+    abilities: { '0': 'Keen Eye' },
     heightm: 0.3,
     weightkg: 2,
     color: 'Brown',
@@ -3284,10 +3284,10 @@
     gender: 'N'
   },
   staraptor: {
-    baseStats: { hp: 85, atk: 120, def: 70, spa: 50, spd: 50, spe: 100 },
     num: 398,
     name: 'Staraptor',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 85, atk: 120, def: 70, spa: 50, spd: 50, spe: 100 },
     abilities: { '0': 'Intimidate', H: 'Reckless' },
     heightm: 1.2,
     weightkg: 24.9,
@@ -3298,10 +3298,10 @@
     gender: 'N'
   },
   roserade: {
-    baseStats: { hp: 60, atk: 70, def: 55, spa: 125, spd: 105, spe: 90 },
     num: 407,
     name: 'Roserade',
     types: [ 'Grass', 'Poison' ],
+    baseStats: { hp: 60, atk: 70, def: 55, spa: 125, spd: 105, spe: 90 },
     abilities: { '0': 'Natural Cure', '1': 'Poison Point', H: 'Technician' },
     heightm: 0.9,
     weightkg: 14.5,
@@ -3313,9 +3313,9 @@
     gender: 'N'
   },
   mimejr: {
-    types: [ 'Psychic' ],
     num: 439,
     name: 'Mime Jr.',
+    types: [ 'Psychic' ],
     baseStats: { hp: 20, atk: 25, def: 45, spa: 70, spd: 90, spe: 60 },
     abilities: { '0': 'Soundproof', '1': 'Filter', H: 'Technician' },
     heightm: 0.6,
@@ -3327,9 +3327,9 @@
     gender: 'N'
   },
   togekiss: {
-    types: [ 'Normal', 'Flying' ],
     num: 468,
     name: 'Togekiss',
+    types: [ 'Normal', 'Flying' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 85, atk: 50, def: 95, spa: 120, spd: 115, spe: 80 },
     abilities: { '0': 'Hustle', '1': 'Serene Grace', H: 'Super Luck' },
@@ -3343,11 +3343,11 @@
     gender: 'N'
   },
   dusknoir: {
-    abilities: { '0': 'Pressure' },
     num: 477,
     name: 'Dusknoir',
     types: [ 'Ghost' ],
     baseStats: { hp: 45, atk: 100, def: 135, spa: 65, spd: 135, spe: 45 },
+    abilities: { '0': 'Pressure' },
     heightm: 2.2,
     weightkg: 106.6,
     color: 'Black',
@@ -3358,7 +3358,6 @@
     gender: 'N'
   },
   snivy: {
-    unreleasedHidden: true,
     num: 495,
     name: 'Snivy',
     types: [ 'Grass' ],
@@ -3370,10 +3369,10 @@
     color: 'Green',
     evos: [ 'Servine' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   servine: {
-    unreleasedHidden: true,
     num: 496,
     name: 'Servine',
     types: [ 'Grass' ],
@@ -3387,10 +3386,10 @@
     evoLevel: 17,
     evos: [ 'Serperior' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   serperior: {
-    unreleasedHidden: true,
     num: 497,
     name: 'Serperior',
     types: [ 'Grass' ],
@@ -3403,10 +3402,10 @@
     prevo: 'Servine',
     evoLevel: 36,
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   tepig: {
-    unreleasedHidden: true,
     num: 498,
     name: 'Tepig',
     types: [ 'Fire' ],
@@ -3418,10 +3417,10 @@
     color: 'Red',
     evos: [ 'Pignite' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   pignite: {
-    unreleasedHidden: true,
     num: 499,
     name: 'Pignite',
     types: [ 'Fire', 'Fighting' ],
@@ -3435,10 +3434,10 @@
     evoLevel: 17,
     evos: [ 'Emboar' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   emboar: {
-    unreleasedHidden: true,
     num: 500,
     name: 'Emboar',
     types: [ 'Fire', 'Fighting' ],
@@ -3451,10 +3450,10 @@
     prevo: 'Pignite',
     evoLevel: 36,
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   oshawott: {
-    unreleasedHidden: true,
     num: 501,
     name: 'Oshawott',
     types: [ 'Water' ],
@@ -3466,10 +3465,10 @@
     color: 'Blue',
     evos: [ 'Dewott' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   dewott: {
-    unreleasedHidden: true,
     num: 502,
     name: 'Dewott',
     types: [ 'Water' ],
@@ -3483,10 +3482,10 @@
     evoLevel: 17,
     evos: [ 'Samurott', 'Samurott-Hisui' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   samurott: {
-    unreleasedHidden: true,
     num: 503,
     name: 'Samurott',
     types: [ 'Water' ],
@@ -3501,13 +3500,14 @@
     eggGroups: null,
     otherFormes: [ 'Samurott-Hisui' ],
     formeOrder: [ 'Samurott', 'Samurott-Hisui' ],
+    unreleasedHidden: true,
     gender: 'N'
   },
   stoutland: {
-    baseStats: { hp: 85, atk: 100, def: 90, spa: 45, spd: 90, spe: 80 },
     num: 508,
     name: 'Stoutland',
     types: [ 'Normal' ],
+    baseStats: { hp: 85, atk: 100, def: 90, spa: 45, spd: 90, spe: 80 },
     abilities: { '0': 'Intimidate', '1': 'Sand Rush', H: 'Scrappy' },
     heightm: 1.2,
     weightkg: 61,
@@ -3518,7 +3518,6 @@
     gender: 'N'
   },
   pansage: {
-    maleOnlyHidden: true,
     num: 511,
     name: 'Pansage',
     types: [ 'Grass' ],
@@ -3530,10 +3529,10 @@
     color: 'Green',
     evos: [ 'Simisage' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   simisage: {
-    maleOnlyHidden: true,
     num: 512,
     name: 'Simisage',
     types: [ 'Grass' ],
@@ -3547,10 +3546,10 @@
     evoType: 'useItem',
     evoItem: 'Leaf Stone',
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   pansear: {
-    maleOnlyHidden: true,
     num: 513,
     name: 'Pansear',
     types: [ 'Fire' ],
@@ -3562,10 +3561,10 @@
     color: 'Red',
     evos: [ 'Simisear' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   simisear: {
-    maleOnlyHidden: true,
     num: 514,
     name: 'Simisear',
     types: [ 'Fire' ],
@@ -3579,10 +3578,10 @@
     evoType: 'useItem',
     evoItem: 'Fire Stone',
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   panpour: {
-    maleOnlyHidden: true,
     num: 515,
     name: 'Panpour',
     types: [ 'Water' ],
@@ -3594,10 +3593,10 @@
     color: 'Blue',
     evos: [ 'Simipour' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   simipour: {
-    maleOnlyHidden: true,
     num: 516,
     name: 'Simipour',
     types: [ 'Water' ],
@@ -3611,13 +3610,14 @@
     evoType: 'useItem',
     evoItem: 'Water Stone',
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   unfezant: {
-    baseStats: { hp: 80, atk: 105, def: 80, spa: 65, spd: 55, spe: 93 },
     num: 521,
     name: 'Unfezant',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 80, atk: 105, def: 80, spa: 65, spd: 55, spe: 93 },
     abilities: { '0': 'Big Pecks', '1': 'Super Luck', H: 'Rivalry' },
     heightm: 1.2,
     weightkg: 29,
@@ -3628,11 +3628,11 @@
     gender: 'N'
   },
   gigalith: {
-    baseStats: { hp: 85, atk: 135, def: 130, spa: 60, spd: 70, spe: 25 },
-    abilities: { '0': 'Sturdy', H: 'Sand Force' },
     num: 526,
     name: 'Gigalith',
     types: [ 'Rock' ],
+    baseStats: { hp: 85, atk: 135, def: 130, spa: 60, spd: 70, spe: 25 },
+    abilities: { '0': 'Sturdy', H: 'Sand Force' },
     heightm: 1.7,
     weightkg: 260,
     color: 'Blue',
@@ -3642,10 +3642,10 @@
     gender: 'N'
   },
   seismitoad: {
-    baseStats: { hp: 105, atk: 85, def: 75, spa: 85, spd: 75, spe: 74 },
     num: 537,
     name: 'Seismitoad',
     types: [ 'Water', 'Ground' ],
+    baseStats: { hp: 105, atk: 85, def: 75, spa: 85, spd: 75, spe: 74 },
     abilities: { '0': 'Swift Swim', '1': 'Poison Touch', H: 'Water Absorb' },
     heightm: 1.5,
     weightkg: 62,
@@ -3656,10 +3656,10 @@
     gender: 'N'
   },
   leavanny: {
-    baseStats: { hp: 75, atk: 103, def: 80, spa: 70, spd: 70, spe: 92 },
     num: 542,
     name: 'Leavanny',
     types: [ 'Bug', 'Grass' ],
+    baseStats: { hp: 75, atk: 103, def: 80, spa: 70, spd: 70, spe: 92 },
     abilities: { '0': 'Swarm', '1': 'Chlorophyll', H: 'Overcoat' },
     heightm: 1.2,
     weightkg: 20.5,
@@ -3670,11 +3670,11 @@
     gender: 'N'
   },
   venipede: {
-    abilities: { '0': 'Poison Point', '1': 'Swarm', H: 'Quick Feet' },
     num: 543,
     name: 'Venipede',
     types: [ 'Bug', 'Poison' ],
     baseStats: { hp: 30, atk: 45, def: 59, spa: 30, spd: 39, spe: 57 },
+    abilities: { '0': 'Poison Point', '1': 'Swarm', H: 'Quick Feet' },
     heightm: 0.4,
     weightkg: 5.3,
     color: 'Red',
@@ -3683,11 +3683,11 @@
     gender: 'N'
   },
   whirlipede: {
-    abilities: { '0': 'Poison Point', '1': 'Swarm', H: 'Quick Feet' },
     num: 544,
     name: 'Whirlipede',
     types: [ 'Bug', 'Poison' ],
     baseStats: { hp: 40, atk: 55, def: 99, spa: 40, spd: 79, spe: 47 },
+    abilities: { '0': 'Poison Point', '1': 'Swarm', H: 'Quick Feet' },
     heightm: 1.2,
     weightkg: 58.5,
     color: 'Gray',
@@ -3698,11 +3698,11 @@
     gender: 'N'
   },
   scolipede: {
-    baseStats: { hp: 60, atk: 90, def: 89, spa: 55, spd: 69, spe: 112 },
-    abilities: { '0': 'Poison Point', '1': 'Swarm', H: 'Quick Feet' },
     num: 545,
     name: 'Scolipede',
     types: [ 'Bug', 'Poison' ],
+    baseStats: { hp: 60, atk: 90, def: 89, spa: 55, spd: 69, spe: 112 },
+    abilities: { '0': 'Poison Point', '1': 'Swarm', H: 'Quick Feet' },
     heightm: 2.5,
     weightkg: 200.5,
     color: 'Red',
@@ -3712,9 +3712,9 @@
     gender: 'N'
   },
   cottonee: {
-    types: [ 'Grass' ],
     num: 546,
     name: 'Cottonee',
+    types: [ 'Grass' ],
     baseStats: { hp: 40, atk: 27, def: 60, spa: 37, spd: 50, spe: 66 },
     abilities: { '0': 'Prankster', '1': 'Infiltrator', H: 'Chlorophyll' },
     heightm: 0.3,
@@ -3725,9 +3725,9 @@
     gender: 'N'
   },
   whimsicott: {
-    types: [ 'Grass' ],
     num: 547,
     name: 'Whimsicott',
+    types: [ 'Grass' ],
     baseStats: { hp: 60, atk: 67, def: 85, spa: 77, spd: 75, spe: 116 },
     abilities: { '0': 'Prankster', '1': 'Infiltrator', H: 'Chlorophyll' },
     heightm: 0.7,
@@ -3740,18 +3740,18 @@
     gender: 'N'
   },
   basculinbluestriped: {
-    abilities: {
-      '0': 'Rock Head',
-      '1': 'Adaptability',
-      H: 'Mold Breaker',
-      S: 'Reckless'
-    },
     num: 550,
     name: 'Basculin-Blue-Striped',
     baseSpecies: 'Basculin',
     forme: 'Blue-Striped',
     types: [ 'Water' ],
     baseStats: { hp: 70, atk: 92, def: 65, spa: 80, spd: 55, spe: 98 },
+    abilities: {
+      '0': 'Rock Head',
+      '1': 'Adaptability',
+      H: 'Mold Breaker',
+      S: 'Reckless'
+    },
     heightm: 1,
     weightkg: 18,
     color: 'Green',
@@ -3759,10 +3759,10 @@
     gender: 'N'
   },
   krookodile: {
-    baseStats: { hp: 95, atk: 117, def: 70, spa: 65, spd: 70, spe: 92 },
     num: 553,
     name: 'Krookodile',
     types: [ 'Ground', 'Dark' ],
+    baseStats: { hp: 95, atk: 117, def: 70, spa: 65, spd: 70, spe: 92 },
     abilities: { '0': 'Intimidate', '1': 'Moxie', H: 'Anger Point' },
     heightm: 1.5,
     weightkg: 96.3,
@@ -3773,7 +3773,6 @@
     gender: 'N'
   },
   gothita: {
-    unreleasedHidden: true,
     num: 574,
     name: 'Gothita',
     types: [ 'Psychic' ],
@@ -3785,16 +3784,16 @@
     color: 'Purple',
     evos: [ 'Gothorita' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   gothorita: {
-    abilities: { '0': 'Frisk', H: 'Shadow Tag' },
-    maleOnlyHidden: true,
     num: 575,
     name: 'Gothorita',
     types: [ 'Psychic' ],
     genderRatio: { M: 0.25, F: 0.75 },
     baseStats: { hp: 60, atk: 45, def: 70, spa: 75, spd: 85, spe: 55 },
+    abilities: { '0': 'Frisk', H: 'Shadow Tag' },
     heightm: 0.7,
     weightkg: 18,
     color: 'Purple',
@@ -3802,30 +3801,31 @@
     evoLevel: 32,
     evos: [ 'Gothitelle' ],
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   gothitelle: {
-    abilities: { '0': 'Frisk', H: 'Shadow Tag' },
-    maleOnlyHidden: true,
     num: 576,
     name: 'Gothitelle',
     types: [ 'Psychic' ],
     genderRatio: { M: 0.25, F: 0.75 },
     baseStats: { hp: 70, atk: 55, def: 95, spa: 95, spd: 110, spe: 65 },
+    abilities: { '0': 'Frisk', H: 'Shadow Tag' },
     heightm: 1.5,
     weightkg: 44,
     color: 'Purple',
     prevo: 'Gothorita',
     evoLevel: 41,
     eggGroups: null,
+    maleOnlyHidden: true,
     gender: 'N'
   },
   ferrothorn: {
-    abilities: { '0': 'Iron Barbs' },
     num: 598,
     name: 'Ferrothorn',
     types: [ 'Grass', 'Steel' ],
     baseStats: { hp: 74, atk: 94, def: 131, spa: 54, spd: 116, spe: 20 },
+    abilities: { '0': 'Iron Barbs' },
     heightm: 1,
     weightkg: 110,
     color: 'Gray',
@@ -3835,7 +3835,6 @@
     gender: 'N'
   },
   klink: {
-    unreleasedHidden: true,
     num: 599,
     name: 'Klink',
     types: [ 'Steel' ],
@@ -3846,29 +3845,29 @@
     weightkg: 21,
     color: 'Gray',
     evos: [ 'Klang' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   litwick: {
-    abilities: { '0': 'Flash Fire', '1': 'Flame Body', H: 'Shadow Tag' },
-    unreleasedHidden: true,
     num: 607,
     name: 'Litwick',
     types: [ 'Ghost', 'Fire' ],
     baseStats: { hp: 50, atk: 30, def: 55, spa: 65, spd: 55, spe: 20 },
+    abilities: { '0': 'Flash Fire', '1': 'Flame Body', H: 'Shadow Tag' },
     heightm: 0.3,
     weightkg: 3.1,
     color: 'White',
     evos: [ 'Lampent' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   lampent: {
-    abilities: { '0': 'Flash Fire', '1': 'Flame Body', H: 'Shadow Tag' },
-    unreleasedHidden: true,
     num: 608,
     name: 'Lampent',
     types: [ 'Ghost', 'Fire' ],
     baseStats: { hp: 60, atk: 40, def: 60, spa: 95, spd: 60, spe: 55 },
+    abilities: { '0': 'Flash Fire', '1': 'Flame Body', H: 'Shadow Tag' },
     heightm: 0.6,
     weightkg: 13,
     color: 'Black',
@@ -3876,15 +3875,15 @@
     evoLevel: 41,
     evos: [ 'Chandelure' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   chandelure: {
-    abilities: { '0': 'Flash Fire', '1': 'Flame Body', H: 'Shadow Tag' },
-    unreleasedHidden: true,
     num: 609,
     name: 'Chandelure',
     types: [ 'Ghost', 'Fire' ],
     baseStats: { hp: 60, atk: 55, def: 90, spa: 145, spd: 90, spe: 80 },
+    abilities: { '0': 'Flash Fire', '1': 'Flame Body', H: 'Shadow Tag' },
     heightm: 1,
     weightkg: 34.3,
     color: 'Black',
@@ -3892,10 +3891,10 @@
     evoType: 'useItem',
     evoItem: 'Dusk Stone',
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   rufflet: {
-    unreleasedHidden: true,
     num: 627,
     name: 'Rufflet',
     types: [ 'Normal', 'Flying' ],
@@ -3906,10 +3905,10 @@
     weightkg: 10.5,
     color: 'White',
     evos: [ 'Braviary', 'Braviary-Hisui' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   larvesta: {
-    unreleasedHidden: true,
     num: 636,
     name: 'Larvesta',
     types: [ 'Bug', 'Fire' ],
@@ -3920,10 +3919,10 @@
     color: 'White',
     evos: [ 'Volcarona' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   volcarona: {
-    unreleasedHidden: true,
     num: 637,
     name: 'Volcarona',
     types: [ 'Bug', 'Fire' ],
@@ -3935,10 +3934,10 @@
     prevo: 'Larvesta',
     evoLevel: 59,
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   charizardmegax: {
-    color: 'Red',
     num: 6,
     name: 'Charizard-Mega-X',
     baseSpecies: 'Charizard',
@@ -3949,18 +3948,19 @@
     abilities: { '0': 'Tough Claws' },
     heightm: 1.7,
     weightkg: 110.5,
+    color: 'Red',
     eggGroups: null,
     requiredItem: 'Charizardite X',
     gender: 'N'
   },
   alakazammega: {
-    baseStats: { hp: 55, atk: 50, def: 65, spa: 175, spd: 95, spe: 150 },
     num: 65,
     name: 'Alakazam-Mega',
     baseSpecies: 'Alakazam',
     forme: 'Mega',
     types: [ 'Psychic' ],
     genderRatio: { M: 0.75, F: 0.25 },
+    baseStats: { hp: 55, atk: 50, def: 65, spa: 175, spd: 95, spe: 150 },
     abilities: { '0': 'Trace' },
     heightm: 1.2,
     weightkg: 48,
@@ -3970,10 +3970,10 @@
     gender: 'N'
   },
   noctowl: {
-    baseStats: { hp: 100, atk: 50, def: 50, spa: 76, spd: 96, spe: 70 },
     num: 164,
     name: 'Noctowl',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 100, atk: 50, def: 50, spa: 76, spd: 96, spe: 70 },
     abilities: { '0': 'Insomnia', '1': 'Keen Eye', H: 'Tinted Lens' },
     heightm: 1.6,
     weightkg: 40.8,
@@ -3984,10 +3984,10 @@
     gender: 'N'
   },
   ariados: {
-    baseStats: { hp: 70, atk: 90, def: 70, spa: 60, spd: 60, spe: 40 },
     num: 168,
     name: 'Ariados',
     types: [ 'Bug', 'Poison' ],
+    baseStats: { hp: 70, atk: 90, def: 70, spa: 60, spd: 60, spe: 40 },
     abilities: { '0': 'Swarm', '1': 'Insomnia', H: 'Sniper' },
     heightm: 1.1,
     weightkg: 33.5,
@@ -3998,10 +3998,10 @@
     gender: 'N'
   },
   qwilfish: {
-    baseStats: { hp: 65, atk: 95, def: 75, spa: 55, spd: 55, spe: 85 },
     num: 211,
     name: 'Qwilfish',
     types: [ 'Water', 'Poison' ],
+    baseStats: { hp: 65, atk: 95, def: 75, spa: 55, spd: 55, spe: 85 },
     abilities: { '0': 'Poison Point', '1': 'Swift Swim', H: 'Intimidate' },
     heightm: 0.5,
     weightkg: 3.9,
@@ -4012,10 +4012,10 @@
     gender: 'N'
   },
   magcargo: {
-    baseStats: { hp: 50, atk: 50, def: 120, spa: 80, spd: 80, spe: 30 },
     num: 219,
     name: 'Magcargo',
     types: [ 'Fire', 'Rock' ],
+    baseStats: { hp: 50, atk: 50, def: 120, spa: 80, spd: 80, spe: 30 },
     abilities: { '0': 'Magma Armor', '1': 'Flame Body', H: 'Weak Armor' },
     heightm: 0.8,
     weightkg: 55,
@@ -4026,11 +4026,11 @@
     gender: 'N'
   },
   corsola: {
-    baseStats: { hp: 55, atk: 55, def: 85, spa: 65, spd: 85, spe: 35 },
     num: 222,
     name: 'Corsola',
     types: [ 'Water', 'Rock' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 55, atk: 55, def: 85, spa: 65, spd: 85, spe: 35 },
     abilities: { '0': 'Hustle', '1': 'Natural Cure', H: 'Regenerator' },
     heightm: 0.6,
     weightkg: 5,
@@ -4041,10 +4041,10 @@
     gender: 'N'
   },
   mantine: {
-    baseStats: { hp: 65, atk: 40, def: 70, spa: 80, spd: 140, spe: 70 },
     num: 226,
     name: 'Mantine',
     types: [ 'Water', 'Flying' ],
+    baseStats: { hp: 65, atk: 40, def: 70, spa: 80, spd: 140, spe: 70 },
     abilities: { '0': 'Swift Swim', '1': 'Water Absorb', H: 'Water Veil' },
     heightm: 2.1,
     weightkg: 220,
@@ -4057,52 +4057,52 @@
     gender: 'N'
   },
   raikou: {
-    abilities: { '0': 'Pressure', H: 'Volt Absorb' },
-    unreleasedHidden: true,
     num: 243,
     name: 'Raikou',
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 90, atk: 85, def: 75, spa: 115, spd: 100, spe: 115 },
+    abilities: { '0': 'Pressure', H: 'Volt Absorb' },
     heightm: 1.9,
     weightkg: 178,
     color: 'Yellow',
     tags: [ 'Sub-Legendary' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   entei: {
-    abilities: { '0': 'Pressure', H: 'Flash Fire' },
-    unreleasedHidden: true,
     num: 244,
     name: 'Entei',
     types: [ 'Fire' ],
     gender: 'N',
     baseStats: { hp: 115, atk: 115, def: 85, spa: 90, spd: 75, spe: 100 },
+    abilities: { '0': 'Pressure', H: 'Flash Fire' },
     heightm: 2.1,
     weightkg: 198,
     color: 'Brown',
     tags: [ 'Sub-Legendary' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   suicune: {
-    abilities: { '0': 'Pressure', H: 'Water Absorb' },
-    unreleasedHidden: true,
     num: 245,
     name: 'Suicune',
     types: [ 'Water' ],
     gender: 'N',
     baseStats: { hp: 100, atk: 75, def: 115, spa: 90, spd: 115, spe: 85 },
+    abilities: { '0': 'Pressure', H: 'Water Absorb' },
     heightm: 2,
     weightkg: 187,
     color: 'Blue',
     tags: [ 'Sub-Legendary' ],
-    eggGroups: null
+    eggGroups: null,
+    unreleasedHidden: true
   },
   swellow: {
-    baseStats: { hp: 60, atk: 85, def: 60, spa: 50, spd: 50, spe: 125 },
     num: 277,
     name: 'Swellow',
     types: [ 'Normal', 'Flying' ],
+    baseStats: { hp: 60, atk: 85, def: 60, spa: 50, spd: 50, spe: 125 },
     abilities: { '0': 'Guts', H: 'Scrappy' },
     heightm: 0.7,
     weightkg: 19.8,
@@ -4113,11 +4113,11 @@
     gender: 'N'
   },
   wingull: {
-    abilities: { '0': 'Keen Eye', H: 'Rain Dish' },
     num: 278,
     name: 'Wingull',
     types: [ 'Water', 'Flying' ],
     baseStats: { hp: 40, atk: 30, def: 30, spa: 55, spd: 30, spe: 85 },
+    abilities: { '0': 'Keen Eye', H: 'Rain Dish' },
     heightm: 0.6,
     weightkg: 9.5,
     color: 'White',
@@ -4126,11 +4126,11 @@
     gender: 'N'
   },
   pelipper: {
-    baseStats: { hp: 60, atk: 50, def: 100, spa: 85, spd: 70, spe: 65 },
-    abilities: { '0': 'Keen Eye', H: 'Rain Dish' },
     num: 279,
     name: 'Pelipper',
     types: [ 'Water', 'Flying' ],
+    baseStats: { hp: 60, atk: 50, def: 100, spa: 85, spd: 70, spe: 65 },
+    abilities: { '0': 'Keen Eye', H: 'Rain Dish' },
     heightm: 1.2,
     weightkg: 28,
     color: 'Yellow',
@@ -4140,10 +4140,10 @@
     gender: 'N'
   },
   masquerain: {
-    baseStats: { hp: 70, atk: 60, def: 62, spa: 80, spd: 82, spe: 60 },
     num: 284,
     name: 'Masquerain',
     types: [ 'Bug', 'Flying' ],
+    baseStats: { hp: 70, atk: 60, def: 62, spa: 80, spd: 82, spe: 60 },
     abilities: { '0': 'Intimidate', H: 'Unnerve' },
     heightm: 0.8,
     weightkg: 3.6,
@@ -4154,11 +4154,11 @@
     gender: 'N'
   },
   delcatty: {
-    baseStats: { hp: 70, atk: 65, def: 65, spa: 55, spd: 55, spe: 70 },
     num: 301,
     name: 'Delcatty',
     types: [ 'Normal' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 70, atk: 65, def: 65, spa: 55, spd: 55, spe: 70 },
     abilities: { '0': 'Cute Charm', '1': 'Normalize', H: 'Wonder Skin' },
     heightm: 1.1,
     weightkg: 32.6,
@@ -4170,12 +4170,12 @@
     gender: 'N'
   },
   volbeat: {
-    baseStats: { hp: 65, atk: 73, def: 55, spa: 47, spd: 75, spe: 85 },
-    abilities: { '0': 'Illuminate', '1': 'Swarm', H: 'Prankster' },
     num: 313,
     name: 'Volbeat',
     types: [ 'Bug' ],
     gender: 'N',
+    baseStats: { hp: 65, atk: 73, def: 55, spa: 47, spd: 75, spe: 85 },
+    abilities: { '0': 'Illuminate', '1': 'Swarm', H: 'Prankster' },
     heightm: 0.7,
     weightkg: 17.7,
     color: 'Gray',
@@ -4183,11 +4183,11 @@
     mother: 'illumise'
   },
   illumise: {
-    baseStats: { hp: 65, atk: 47, def: 55, spa: 73, spd: 75, spe: 85 },
     num: 314,
     name: 'Illumise',
     types: [ 'Bug' ],
     gender: 'N',
+    baseStats: { hp: 65, atk: 47, def: 55, spa: 73, spd: 75, spe: 85 },
     abilities: { '0': 'Oblivious', '1': 'Tinted Lens', H: 'Prankster' },
     heightm: 0.6,
     weightkg: 17.7,
@@ -4195,11 +4195,11 @@
     eggGroups: null
   },
   torkoal: {
-    abilities: { '0': 'White Smoke', H: 'Shell Armor' },
     num: 324,
     name: 'Torkoal',
     types: [ 'Fire' ],
     baseStats: { hp: 70, atk: 85, def: 140, spa: 85, spd: 70, spe: 20 },
+    abilities: { '0': 'White Smoke', H: 'Shell Armor' },
     heightm: 0.5,
     weightkg: 80.4,
     color: 'Brown',
@@ -4207,11 +4207,11 @@
     gender: 'N'
   },
   lunatone: {
-    baseStats: { hp: 70, atk: 55, def: 65, spa: 95, spd: 85, spe: 70 },
     num: 337,
     name: 'Lunatone',
     types: [ 'Rock', 'Psychic' ],
     gender: 'N',
+    baseStats: { hp: 70, atk: 55, def: 65, spa: 95, spd: 85, spe: 70 },
     abilities: { '0': 'Levitate' },
     heightm: 1,
     weightkg: 168,
@@ -4219,11 +4219,11 @@
     eggGroups: null
   },
   solrock: {
-    baseStats: { hp: 70, atk: 95, def: 85, spa: 55, spd: 65, spe: 70 },
     num: 338,
     name: 'Solrock',
     types: [ 'Rock', 'Psychic' ],
     gender: 'N',
+    baseStats: { hp: 70, atk: 95, def: 85, spa: 55, spd: 65, spe: 70 },
     abilities: { '0': 'Levitate' },
     heightm: 1.2,
     weightkg: 154,
@@ -4231,7 +4231,6 @@
     eggGroups: null
   },
   castform: {
-    color: 'White',
     num: 351,
     name: 'Castform',
     types: [ 'Normal' ],
@@ -4239,6 +4238,7 @@
     abilities: { '0': 'Forecast' },
     heightm: 0.3,
     weightkg: 0.8,
+    color: 'White',
     eggGroups: null,
     otherFormes: [ 'Castform-Sunny', 'Castform-Rainy', 'Castform-Snowy' ],
     formeOrder: [
@@ -4250,7 +4250,6 @@
     gender: 'N'
   },
   castformsunny: {
-    color: 'White',
     num: 351,
     name: 'Castform-Sunny',
     baseSpecies: 'Castform',
@@ -4260,13 +4259,13 @@
     abilities: { '0': 'Forecast' },
     heightm: 0.3,
     weightkg: 0.8,
+    color: 'White',
     eggGroups: null,
     requiredAbility: 'Forecast',
     battleOnly: 'Castform',
     gender: 'N'
   },
   castformrainy: {
-    color: 'White',
     num: 351,
     name: 'Castform-Rainy',
     baseSpecies: 'Castform',
@@ -4276,16 +4275,17 @@
     abilities: { '0': 'Forecast' },
     heightm: 0.3,
     weightkg: 0.8,
+    color: 'White',
     eggGroups: null,
     requiredAbility: 'Forecast',
     battleOnly: 'Castform',
     gender: 'N'
   },
   chimecho: {
-    baseStats: { hp: 65, atk: 50, def: 70, spa: 95, spd: 80, spe: 65 },
     num: 358,
     name: 'Chimecho',
     types: [ 'Psychic' ],
+    baseStats: { hp: 65, atk: 50, def: 70, spa: 95, spd: 80, spe: 65 },
     abilities: { '0': 'Levitate' },
     heightm: 0.6,
     weightkg: 1,
@@ -4298,7 +4298,6 @@
     gender: 'N'
   },
   latiasmega: {
-    color: 'Red',
     num: 380,
     name: 'Latias-Mega',
     baseSpecies: 'Latias',
@@ -4309,11 +4308,11 @@
     abilities: { '0': 'Levitate' },
     heightm: 1.8,
     weightkg: 52,
+    color: 'Red',
     eggGroups: null,
     requiredItem: 'Latiasite'
   },
   latiosmega: {
-    color: 'Blue',
     num: 381,
     name: 'Latios-Mega',
     baseSpecies: 'Latios',
@@ -4324,11 +4323,11 @@
     abilities: { '0': 'Levitate' },
     heightm: 2.3,
     weightkg: 70,
+    color: 'Blue',
     eggGroups: null,
     requiredItem: 'Latiosite'
   },
   burmy: {
-    color: 'Gray',
     num: 412,
     name: 'Burmy',
     baseForme: 'Plant',
@@ -4337,6 +4336,7 @@
     abilities: { '0': 'Shed Skin', H: 'Overcoat' },
     heightm: 0.2,
     weightkg: 3.4,
+    color: 'Gray',
     evos: [ 'Wormadam', 'Wormadam-Sandy', 'Wormadam-Trash', 'Mothim' ],
     eggGroups: null,
     cosmeticFormes: [ 'Burmy-Sandy', 'Burmy-Trash' ],
@@ -4344,7 +4344,6 @@
     gender: 'N'
   },
   wormadam: {
-    color: 'Gray',
     num: 413,
     name: 'Wormadam',
     baseForme: 'Plant',
@@ -4354,6 +4353,7 @@
     abilities: { '0': 'Anticipation', H: 'Overcoat' },
     heightm: 0.5,
     weightkg: 6.5,
+    color: 'Gray',
     prevo: 'Burmy',
     evoLevel: 20,
     eggGroups: null,
@@ -4361,7 +4361,6 @@
     formeOrder: [ 'Wormadam', 'Wormadam-Sandy', 'Wormadam-Trash' ]
   },
   wormadamsandy: {
-    color: 'Gray',
     num: 413,
     name: 'Wormadam-Sandy',
     baseSpecies: 'Wormadam',
@@ -4372,12 +4371,12 @@
     abilities: { '0': 'Anticipation', H: 'Overcoat' },
     heightm: 0.5,
     weightkg: 6.5,
+    color: 'Gray',
     prevo: 'Burmy',
     evoLevel: 20,
     eggGroups: null
   },
   wormadamtrash: {
-    color: 'Gray',
     num: 413,
     name: 'Wormadam-Trash',
     baseSpecies: 'Wormadam',
@@ -4388,12 +4387,12 @@
     abilities: { '0': 'Anticipation', H: 'Overcoat' },
     heightm: 0.5,
     weightkg: 6.5,
+    color: 'Gray',
     prevo: 'Burmy',
     evoLevel: 20,
     eggGroups: null
   },
   cherrim: {
-    color: 'Pink',
     num: 421,
     name: 'Cherrim',
     baseForme: 'Overcast',
@@ -4402,6 +4401,7 @@
     abilities: { '0': 'Flower Gift' },
     heightm: 0.5,
     weightkg: 9.3,
+    color: 'Pink',
     prevo: 'Cherubi',
     evoLevel: 25,
     eggGroups: null,
@@ -4410,7 +4410,6 @@
     gender: 'N'
   },
   arceus: {
-    color: 'Gray',
     num: 493,
     name: 'Arceus',
     baseForme: 'Normal',
@@ -4420,6 +4419,7 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     tags: [ 'Mythical' ],
     eggGroups: null,
     otherFormes: [
@@ -4446,8 +4446,6 @@
     ]
   },
   arceusbug: {
-    color: 'Gray',
-    requiredItems: [ 'Insect Plate' ],
     num: 493,
     name: 'Arceus-Bug',
     baseSpecies: 'Arceus',
@@ -4458,12 +4456,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Insect Plate' ],
     changesFrom: 'Arceus'
   },
   arceusdark: {
-    color: 'Gray',
-    requiredItems: [ 'Dread Plate' ],
     num: 493,
     name: 'Arceus-Dark',
     baseSpecies: 'Arceus',
@@ -4474,12 +4472,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Dread Plate' ],
     changesFrom: 'Arceus'
   },
   arceusdragon: {
-    color: 'Gray',
-    requiredItems: [ 'Draco Plate' ],
     num: 493,
     name: 'Arceus-Dragon',
     baseSpecies: 'Arceus',
@@ -4490,12 +4488,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Draco Plate' ],
     changesFrom: 'Arceus'
   },
   arceuselectric: {
-    color: 'Gray',
-    requiredItems: [ 'Zap Plate' ],
     num: 493,
     name: 'Arceus-Electric',
     baseSpecies: 'Arceus',
@@ -4506,12 +4504,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Zap Plate' ],
     changesFrom: 'Arceus'
   },
   arceusfairy: {
-    color: 'Gray',
-    requiredItems: [ 'Pixie Plate' ],
     num: 493,
     name: 'Arceus-Fairy',
     baseSpecies: 'Arceus',
@@ -4522,13 +4520,13 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Pixie Plate' ],
     changesFrom: 'Arceus',
     gen: 6
   },
   arceusfighting: {
-    color: 'Gray',
-    requiredItems: [ 'Fist Plate' ],
     num: 493,
     name: 'Arceus-Fighting',
     baseSpecies: 'Arceus',
@@ -4539,12 +4537,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Fist Plate' ],
     changesFrom: 'Arceus'
   },
   arceusfire: {
-    color: 'Gray',
-    requiredItems: [ 'Flame Plate' ],
     num: 493,
     name: 'Arceus-Fire',
     baseSpecies: 'Arceus',
@@ -4555,12 +4553,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Flame Plate' ],
     changesFrom: 'Arceus'
   },
   arceusflying: {
-    color: 'Gray',
-    requiredItems: [ 'Sky Plate' ],
     num: 493,
     name: 'Arceus-Flying',
     baseSpecies: 'Arceus',
@@ -4571,12 +4569,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Sky Plate' ],
     changesFrom: 'Arceus'
   },
   arceusghost: {
-    color: 'Gray',
-    requiredItems: [ 'Spooky Plate' ],
     num: 493,
     name: 'Arceus-Ghost',
     baseSpecies: 'Arceus',
@@ -4587,12 +4585,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Spooky Plate' ],
     changesFrom: 'Arceus'
   },
   arceusgrass: {
-    color: 'Gray',
-    requiredItems: [ 'Meadow Plate' ],
     num: 493,
     name: 'Arceus-Grass',
     baseSpecies: 'Arceus',
@@ -4603,12 +4601,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Meadow Plate' ],
     changesFrom: 'Arceus'
   },
   arceusground: {
-    color: 'Gray',
-    requiredItems: [ 'Earth Plate' ],
     num: 493,
     name: 'Arceus-Ground',
     baseSpecies: 'Arceus',
@@ -4619,12 +4617,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Earth Plate' ],
     changesFrom: 'Arceus'
   },
   arceusice: {
-    color: 'Gray',
-    requiredItems: [ 'Icicle Plate' ],
     num: 493,
     name: 'Arceus-Ice',
     baseSpecies: 'Arceus',
@@ -4635,12 +4633,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Icicle Plate' ],
     changesFrom: 'Arceus'
   },
   arceuspoison: {
-    color: 'Gray',
-    requiredItems: [ 'Toxic Plate' ],
     num: 493,
     name: 'Arceus-Poison',
     baseSpecies: 'Arceus',
@@ -4651,12 +4649,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Toxic Plate' ],
     changesFrom: 'Arceus'
   },
   arceuspsychic: {
-    color: 'Gray',
-    requiredItems: [ 'Mind Plate' ],
     num: 493,
     name: 'Arceus-Psychic',
     baseSpecies: 'Arceus',
@@ -4667,12 +4665,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Mind Plate' ],
     changesFrom: 'Arceus'
   },
   arceusrock: {
-    color: 'Gray',
-    requiredItems: [ 'Stone Plate' ],
     num: 493,
     name: 'Arceus-Rock',
     baseSpecies: 'Arceus',
@@ -4683,12 +4681,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Stone Plate' ],
     changesFrom: 'Arceus'
   },
   arceussteel: {
-    color: 'Gray',
-    requiredItems: [ 'Iron Plate' ],
     num: 493,
     name: 'Arceus-Steel',
     baseSpecies: 'Arceus',
@@ -4699,12 +4697,12 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Iron Plate' ],
     changesFrom: 'Arceus'
   },
   arceuswater: {
-    color: 'Gray',
-    requiredItems: [ 'Splash Plate' ],
     num: 493,
     name: 'Arceus-Water',
     baseSpecies: 'Arceus',
@@ -4715,15 +4713,17 @@
     abilities: { '0': 'Multitype' },
     heightm: 3.2,
     weightkg: 320,
+    color: 'Gray',
     eggGroups: null,
+    requiredItems: [ 'Splash Plate' ],
     changesFrom: 'Arceus'
   },
   roggenrola: {
-    abilities: { '0': 'Sturdy', H: 'Sand Force' },
     num: 524,
     name: 'Roggenrola',
     types: [ 'Rock' ],
     baseStats: { hp: 55, atk: 75, def: 85, spa: 25, spd: 25, spe: 15 },
+    abilities: { '0': 'Sturdy', H: 'Sand Force' },
     heightm: 0.4,
     weightkg: 18,
     color: 'Blue',
@@ -4732,11 +4732,11 @@
     gender: 'N'
   },
   boldore: {
-    abilities: { '0': 'Sturdy', H: 'Sand Force' },
     num: 525,
     name: 'Boldore',
     types: [ 'Rock' ],
     baseStats: { hp: 70, atk: 105, def: 105, spa: 50, spd: 40, spe: 20 },
+    abilities: { '0': 'Sturdy', H: 'Sand Force' },
     heightm: 0.9,
     weightkg: 102,
     color: 'Blue',
@@ -4747,10 +4747,10 @@
     gender: 'N'
   },
   woobat: {
-    baseStats: { hp: 55, atk: 45, def: 43, spa: 55, spd: 43, spe: 72 },
     num: 527,
     name: 'Woobat',
     types: [ 'Psychic', 'Flying' ],
+    baseStats: { hp: 55, atk: 45, def: 43, spa: 55, spd: 43, spe: 72 },
     abilities: { '0': 'Unaware', '1': 'Klutz', H: 'Simple' },
     heightm: 0.4,
     weightkg: 2.1,
@@ -4760,7 +4760,6 @@
     gender: 'N'
   },
   audinomega: {
-    color: 'Pink',
     num: 531,
     name: 'Audino-Mega',
     baseSpecies: 'Audino',
@@ -4770,12 +4769,12 @@
     abilities: { '0': 'Healer' },
     heightm: 1.5,
     weightkg: 32,
+    color: 'Pink',
     eggGroups: null,
     requiredItem: 'Audinite',
     gender: 'N'
   },
   darmanitanzen: {
-    color: 'Red',
     num: 555,
     name: 'Darmanitan-Zen',
     baseSpecies: 'Darmanitan',
@@ -4785,16 +4784,17 @@
     abilities: { '0': 'Zen Mode' },
     heightm: 1.3,
     weightkg: 92.9,
+    color: 'Red',
     eggGroups: null,
     requiredAbility: 'Zen Mode',
     battleOnly: 'Darmanitan',
     gender: 'N'
   },
   crustle: {
-    baseStats: { hp: 70, atk: 95, def: 125, spa: 65, spd: 75, spe: 45 },
     num: 558,
     name: 'Crustle',
     types: [ 'Bug', 'Rock' ],
+    baseStats: { hp: 70, atk: 95, def: 125, spa: 65, spd: 75, spe: 45 },
     abilities: { '0': 'Sturdy', '1': 'Shell Armor', H: 'Weak Armor' },
     heightm: 1.4,
     weightkg: 200,
@@ -4805,11 +4805,11 @@
     gender: 'N'
   },
   vanillite: {
-    abilities: { '0': 'Ice Body', H: 'Weak Armor' },
     num: 582,
     name: 'Vanillite',
     types: [ 'Ice' ],
     baseStats: { hp: 36, atk: 50, def: 50, spa: 65, spd: 60, spe: 44 },
+    abilities: { '0': 'Ice Body', H: 'Weak Armor' },
     heightm: 0.4,
     weightkg: 5.7,
     color: 'White',
@@ -4818,11 +4818,11 @@
     gender: 'N'
   },
   vanillish: {
-    abilities: { '0': 'Ice Body', H: 'Weak Armor' },
     num: 583,
     name: 'Vanillish',
     types: [ 'Ice' ],
     baseStats: { hp: 51, atk: 65, def: 65, spa: 80, spd: 75, spe: 59 },
+    abilities: { '0': 'Ice Body', H: 'Weak Armor' },
     heightm: 1.1,
     weightkg: 41,
     color: 'White',
@@ -4833,11 +4833,11 @@
     gender: 'N'
   },
   vanilluxe: {
-    abilities: { '0': 'Ice Body', H: 'Weak Armor' },
     num: 584,
     name: 'Vanilluxe',
     types: [ 'Ice' ],
     baseStats: { hp: 71, atk: 95, def: 85, spa: 110, spd: 95, spe: 79 },
+    abilities: { '0': 'Ice Body', H: 'Weak Armor' },
     heightm: 1.3,
     weightkg: 57.5,
     color: 'White',
@@ -4847,7 +4847,6 @@
     gender: 'N'
   },
   deerling: {
-    color: 'Yellow',
     num: 585,
     name: 'Deerling',
     baseForme: 'Spring',
@@ -4856,6 +4855,7 @@
     abilities: { '0': 'Chlorophyll', '1': 'Sap Sipper', H: 'Serene Grace' },
     heightm: 0.6,
     weightkg: 19.5,
+    color: 'Yellow',
     evos: [ 'Sawsbuck' ],
     eggGroups: null,
     cosmeticFormes: [ 'Deerling-Summer', 'Deerling-Autumn', 'Deerling-Winter' ],
@@ -4868,11 +4868,11 @@
     gender: 'N'
   },
   cubchoo: {
-    abilities: { '0': 'Snow Cloak', H: 'Rattled' },
     num: 613,
     name: 'Cubchoo',
     types: [ 'Ice' ],
     baseStats: { hp: 55, atk: 70, def: 40, spa: 60, spd: 40, spe: 40 },
+    abilities: { '0': 'Snow Cloak', H: 'Rattled' },
     heightm: 0.5,
     weightkg: 8.5,
     color: 'White',
@@ -4881,11 +4881,11 @@
     gender: 'N'
   },
   beartic: {
-    baseStats: { hp: 95, atk: 110, def: 80, spa: 70, spd: 80, spe: 50 },
-    abilities: { '0': 'Snow Cloak', H: 'Swift Swim' },
     num: 614,
     name: 'Beartic',
     types: [ 'Ice' ],
+    baseStats: { hp: 95, atk: 110, def: 80, spa: 70, spd: 80, spe: 50 },
+    abilities: { '0': 'Snow Cloak', H: 'Swift Swim' },
     heightm: 2.6,
     weightkg: 260,
     color: 'White',
@@ -4895,11 +4895,11 @@
     gender: 'N'
   },
   cryogonal: {
-    baseStats: { hp: 70, atk: 50, def: 30, spa: 95, spd: 135, spe: 105 },
     num: 615,
     name: 'Cryogonal',
     types: [ 'Ice' ],
     gender: 'N',
+    baseStats: { hp: 70, atk: 50, def: 30, spa: 95, spd: 135, spe: 105 },
     abilities: { '0': 'Levitate' },
     heightm: 1.1,
     weightkg: 148,
@@ -4907,12 +4907,12 @@
     eggGroups: null
   },
   greninja: {
-    abilities: { '0': 'Torrent', H: 'Protean' },
     num: 658,
     name: 'Greninja',
     types: [ 'Water', 'Dark' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 72, atk: 95, def: 67, spa: 103, spd: 71, spe: 122 },
+    abilities: { '0': 'Torrent', H: 'Protean' },
     heightm: 1.5,
     weightkg: 40,
     color: 'Blue',
@@ -4924,7 +4924,6 @@
     gender: 'N'
   },
   vivillon: {
-    color: 'Black',
     num: 666,
     name: 'Vivillon',
     baseForme: 'Meadow',
@@ -4933,6 +4932,7 @@
     abilities: { '0': 'Shield Dust', '1': 'Compound Eyes', H: 'Friend Guard' },
     heightm: 1.2,
     weightkg: 17,
+    color: 'Black',
     prevo: 'Spewpa',
     evoLevel: 12,
     eggGroups: null,
@@ -4971,7 +4971,6 @@
     gender: 'N'
   },
   meowstic: {
-    color: 'White',
     num: 678,
     name: 'Meowstic',
     baseForme: 'M',
@@ -4981,6 +4980,7 @@
     abilities: { '0': 'Keen Eye', '1': 'Infiltrator', H: 'Prankster' },
     heightm: 0.6,
     weightkg: 8.5,
+    color: 'White',
     prevo: 'Espurr',
     evoLevel: 25,
     eggGroups: null,
@@ -4988,13 +4988,13 @@
     formeOrder: [ 'Meowstic', 'Meowstic-F' ]
   },
   zygarde: {
-    abilities: { '0': 'Aura Break' },
     num: 718,
     name: 'Zygarde',
     baseForme: '50%',
     types: [ 'Dragon', 'Ground' ],
     gender: 'N',
     baseStats: { hp: 108, atk: 100, def: 121, spa: 81, spd: 95, spe: 95 },
+    abilities: { '0': 'Aura Break' },
     heightm: 5,
     weightkg: 305,
     color: 'Green',
@@ -5010,11 +5010,11 @@
     ]
   },
   necturna: {
-    baseStats: { hp: 64, atk: 120, def: 100, spa: 85, spd: 120, spe: 81 },
     num: -23,
     name: 'Necturna',
     types: [ 'Grass', 'Ghost' ],
     gender: 'N',
+    baseStats: { hp: 64, atk: 120, def: 100, spa: 85, spd: 120, spe: 81 },
     abilities: { '0': 'Forewarn', H: 'Telepathy' },
     heightm: 1.65,
     weightkg: 49.6,
@@ -5025,11 +5025,11 @@
     gen: 5
   },
   malaconda: {
-    abilities: { '0': 'Harvest', '1': 'Infiltrator' },
     num: -29,
     name: 'Malaconda',
     types: [ 'Dark', 'Grass' ],
     baseStats: { hp: 115, atk: 100, def: 60, spa: 40, spd: 130, spe: 55 },
+    abilities: { '0': 'Harvest', '1': 'Infiltrator' },
     heightm: 5.5,
     weightkg: 108.8,
     color: 'Brown',
@@ -5040,11 +5040,11 @@
     gender: 'N'
   },
   naviathan: {
-    abilities: { '0': 'Water Veil', '1': 'Heatproof', H: 'Light Metal' },
     num: -38,
     name: 'Naviathan',
     types: [ 'Water', 'Steel' ],
     baseStats: { hp: 103, atk: 110, def: 90, spa: 95, spd: 65, spe: 97 },
+    abilities: { '0': 'Water Veil', '1': 'Heatproof', H: 'Light Metal' },
     heightm: 3,
     weightkg: 510,
     color: 'Gray',
@@ -5055,13 +5055,13 @@
     gender: 'N'
   },
   crucibellemega: {
-    baseStats: { hp: 106, atk: 135, def: 75, spa: 85, spd: 125, spe: 114 },
     num: -39,
     name: 'Crucibelle-Mega',
     baseSpecies: 'Crucibelle',
     forme: 'Mega',
     types: [ 'Rock', 'Poison' ],
     genderRatio: { M: 0.25, F: 0.75 },
+    baseStats: { hp: 106, atk: 135, def: 75, spa: 85, spd: 125, spe: 114 },
     abilities: { '0': 'Magic Guard' },
     heightm: 1.4,
     weightkg: 22.5,
@@ -5072,11 +5072,11 @@
     gender: 'N'
   },
   syclant: {
-    abilities: { '0': 'Compound Eyes', '1': 'Mountaineer' },
     num: -2,
     name: 'Syclant',
     types: [ 'Ice', 'Bug' ],
     baseStats: { hp: 70, atk: 116, def: 70, spa: 114, spd: 64, spe: 121 },
+    abilities: { '0': 'Compound Eyes', '1': 'Mountaineer' },
     heightm: 1.7,
     weightkg: 52,
     color: 'Blue',
@@ -5087,11 +5087,11 @@
     gender: 'N'
   },
   revenankh: {
-    abilities: { '0': 'Air Lock', H: 'Shed Skin' },
     num: -3,
     name: 'Revenankh',
     types: [ 'Ghost', 'Fighting' ],
     baseStats: { hp: 90, atk: 105, def: 90, spa: 65, spd: 110, spe: 65 },
+    abilities: { '0': 'Air Lock', H: 'Shed Skin' },
     heightm: 1.8,
     weightkg: 44,
     color: 'White',
@@ -5100,11 +5100,11 @@
     gender: 'N'
   },
   pyroak: {
-    abilities: { '0': 'Rock Head', '1': 'Battle Armor' },
-    baseStats: { hp: 120, atk: 70, def: 105, spa: 95, spd: 90, spe: 60 },
     num: -6,
     name: 'Pyroak',
     types: [ 'Fire', 'Grass' ],
+    baseStats: { hp: 120, atk: 70, def: 105, spa: 95, spd: 90, spe: 60 },
+    abilities: { '0': 'Rock Head', '1': 'Battle Armor' },
     heightm: 2.1,
     weightkg: 168,
     color: 'Brown',
@@ -5115,11 +5115,11 @@
     gender: 'N'
   },
   fidgit: {
-    abilities: { '0': 'Persistent', '1': 'Vital Spirit' },
     num: -8,
     name: 'Fidgit',
     types: [ 'Poison', 'Ground' ],
     baseStats: { hp: 95, atk: 76, def: 109, spa: 90, spd: 80, spe: 105 },
+    abilities: { '0': 'Persistent', '1': 'Vital Spirit' },
     heightm: 0.9,
     weightkg: 53,
     color: 'Purple',
@@ -5130,12 +5130,12 @@
     gender: 'N'
   },
   stratagem: {
-    abilities: { '0': 'Levitate', '1': 'Technician' },
     num: -11,
     name: 'Stratagem',
     types: [ 'Rock' ],
     gender: 'N',
     baseStats: { hp: 90, atk: 60, def: 65, spa: 120, spd: 70, spe: 130 },
+    abilities: { '0': 'Levitate', '1': 'Technician' },
     heightm: 0.9,
     weightkg: 45,
     color: 'Gray',
@@ -5145,11 +5145,11 @@
     gen: 4
   },
   arghonaut: {
-    abilities: { '0': 'Unaware' },
     num: -13,
     name: 'Arghonaut',
     types: [ 'Water', 'Fighting' ],
     baseStats: { hp: 105, atk: 110, def: 95, spa: 70, spd: 100, spe: 75 },
+    abilities: { '0': 'Unaware' },
     heightm: 1.7,
     weightkg: 151,
     color: 'Green',
@@ -5160,11 +5160,11 @@
     gender: 'N'
   },
   kitsunoh: {
-    abilities: { '0': 'Frisk', '1': 'Limber' },
-    baseStats: { hp: 80, atk: 103, def: 85, spa: 55, spd: 80, spe: 110 },
     num: -14,
     name: 'Kitsunoh',
     types: [ 'Ghost', 'Steel' ],
+    baseStats: { hp: 80, atk: 103, def: 85, spa: 55, spd: 80, spe: 110 },
+    abilities: { '0': 'Frisk', '1': 'Limber' },
     heightm: 1.1,
     weightkg: 51,
     color: 'Gray',
@@ -5176,11 +5176,11 @@
     gender: 'N'
   },
   cyclohm: {
-    abilities: { '0': 'Shield Dust', '1': 'Static' },
     num: -15,
     name: 'Cyclohm',
     types: [ 'Electric', 'Dragon' ],
     baseStats: { hp: 108, atk: 60, def: 118, spa: 112, spd: 70, spe: 80 },
+    abilities: { '0': 'Shield Dust', '1': 'Static' },
     heightm: 1.6,
     weightkg: 59,
     color: 'Yellow',
@@ -5191,11 +5191,11 @@
     gender: 'N'
   },
   colossoil: {
-    abilities: { '0': 'Rebound', '1': 'Guts' },
     num: -16,
     name: 'Colossoil',
     types: [ 'Ground', 'Dark' ],
     baseStats: { hp: 133, atk: 122, def: 72, spa: 71, spd: 72, spe: 95 },
+    abilities: { '0': 'Rebound', '1': 'Guts' },
     heightm: 2.6,
     weightkg: 683.6,
     color: 'Brown',
@@ -5206,11 +5206,11 @@
     gender: 'N'
   },
   krilowatt: {
-    abilities: { '0': 'Trace', '1': 'Magic Guard' },
     num: -17,
     name: 'Krilowatt',
     types: [ 'Electric', 'Water' ],
     baseStats: { hp: 151, atk: 84, def: 73, spa: 83, spd: 74, spe: 105 },
+    abilities: { '0': 'Trace', '1': 'Magic Guard' },
     heightm: 0.7,
     weightkg: 10.6,
     color: 'Red',
@@ -5221,11 +5221,11 @@
     gender: 'N'
   },
   voodoom: {
-    abilities: { '0': 'Volt Absorb', '1': 'Lightning Rod' },
-    baseStats: { hp: 90, atk: 85, def: 80, spa: 105, spd: 80, spe: 110 },
     num: -19,
     name: 'Voodoom',
     types: [ 'Fighting', 'Dark' ],
+    baseStats: { hp: 90, atk: 85, def: 80, spa: 105, spd: 80, spe: 110 },
+    abilities: { '0': 'Volt Absorb', '1': 'Lightning Rod' },
     heightm: 2,
     weightkg: 75.5,
     color: 'Brown',
@@ -5236,7 +5236,6 @@
     gender: 'N'
   },
   pikachuoriginal: {
-    abilities: { '0': 'Static' },
     num: 25,
     name: 'Pikachu-Original',
     baseSpecies: 'Pikachu',
@@ -5244,6 +5243,7 @@
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
+    abilities: { '0': 'Static' },
     heightm: 0.4,
     weightkg: 6,
     color: 'Yellow',
@@ -5251,7 +5251,6 @@
     gen: 7
   },
   pikachuhoenn: {
-    abilities: { '0': 'Static' },
     num: 25,
     name: 'Pikachu-Hoenn',
     baseSpecies: 'Pikachu',
@@ -5259,6 +5258,7 @@
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
+    abilities: { '0': 'Static' },
     heightm: 0.4,
     weightkg: 6,
     color: 'Yellow',
@@ -5266,7 +5266,6 @@
     gen: 7
   },
   pikachusinnoh: {
-    abilities: { '0': 'Static' },
     num: 25,
     name: 'Pikachu-Sinnoh',
     baseSpecies: 'Pikachu',
@@ -5274,6 +5273,7 @@
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
+    abilities: { '0': 'Static' },
     heightm: 0.4,
     weightkg: 6,
     color: 'Yellow',
@@ -5281,7 +5281,6 @@
     gen: 7
   },
   pikachuunova: {
-    abilities: { '0': 'Static' },
     num: 25,
     name: 'Pikachu-Unova',
     baseSpecies: 'Pikachu',
@@ -5289,6 +5288,7 @@
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
+    abilities: { '0': 'Static' },
     heightm: 0.4,
     weightkg: 6,
     color: 'Yellow',
@@ -5296,7 +5296,6 @@
     gen: 7
   },
   pikachukalos: {
-    abilities: { '0': 'Static' },
     num: 25,
     name: 'Pikachu-Kalos',
     baseSpecies: 'Pikachu',
@@ -5304,6 +5303,7 @@
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
+    abilities: { '0': 'Static' },
     heightm: 0.4,
     weightkg: 6,
     color: 'Yellow',
@@ -5311,7 +5311,6 @@
     gen: 7
   },
   pikachualola: {
-    abilities: { '0': 'Static' },
     num: 25,
     name: 'Pikachu-Alola',
     baseSpecies: 'Pikachu',
@@ -5319,6 +5318,7 @@
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
+    abilities: { '0': 'Static' },
     heightm: 0.4,
     weightkg: 6,
     color: 'Yellow',
@@ -5326,7 +5326,6 @@
     gen: 7
   },
   pikachupartner: {
-    abilities: { '0': 'Static' },
     num: 25,
     name: 'Pikachu-Partner',
     baseSpecies: 'Pikachu',
@@ -5334,6 +5333,7 @@
     types: [ 'Electric' ],
     gender: 'N',
     baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
+    abilities: { '0': 'Static' },
     heightm: 0.4,
     weightkg: 6,
     color: 'Yellow',
@@ -5341,7 +5341,6 @@
     gen: 7
   },
   trapinch: {
-    eggGroups: null,
     num: 328,
     name: 'Trapinch',
     types: [ 'Ground' ],
@@ -5351,10 +5350,10 @@
     weightkg: 15,
     color: 'Brown',
     evos: [ 'Vibrava' ],
+    eggGroups: null,
     gender: 'N'
   },
   vibrava: {
-    eggGroups: null,
     num: 329,
     name: 'Vibrava',
     types: [ 'Ground', 'Dragon' ],
@@ -5366,10 +5365,10 @@
     prevo: 'Trapinch',
     evoLevel: 35,
     evos: [ 'Flygon' ],
+    eggGroups: null,
     gender: 'N'
   },
   flygon: {
-    eggGroups: null,
     num: 330,
     name: 'Flygon',
     types: [ 'Ground', 'Dragon' ],
@@ -5380,11 +5379,10 @@
     color: 'Green',
     prevo: 'Vibrava',
     evoLevel: 45,
+    eggGroups: null,
     gender: 'N'
   },
   magnezone: {
-    evoType: 'levelExtra',
-    evoCondition: 'in a special magnetic field',
     num: 462,
     name: 'Magnezone',
     types: [ 'Electric', 'Steel' ],
@@ -5395,12 +5393,12 @@
     weightkg: 180,
     color: 'Gray',
     prevo: 'Magneton',
+    evoType: 'levelExtra',
     evoItem: 'Thunder Stone',
-    eggGroups: null
+    eggGroups: null,
+    evoCondition: 'in a special magnetic field'
   },
   leafeon: {
-    evoType: 'levelExtra',
-    evoCondition: 'near a Moss Rock',
     num: 470,
     name: 'Leafeon',
     types: [ 'Grass' ],
@@ -5411,13 +5409,13 @@
     weightkg: 25.5,
     color: 'Green',
     prevo: 'Eevee',
+    evoType: 'levelExtra',
     evoItem: 'Leaf Stone',
     eggGroups: null,
+    evoCondition: 'near a Moss Rock',
     gender: 'N'
   },
   glaceon: {
-    evoType: 'levelExtra',
-    evoCondition: 'near an Ice Rock',
     num: 471,
     name: 'Glaceon',
     types: [ 'Ice' ],
@@ -5428,47 +5426,49 @@
     weightkg: 25.9,
     color: 'Blue',
     prevo: 'Eevee',
+    evoType: 'levelExtra',
     evoItem: 'Ice Stone',
     eggGroups: null,
+    evoCondition: 'near an Ice Rock',
     gender: 'N'
   },
   gallade: {
-    eggGroups: null,
-    abilities: { '0': 'Steadfast', H: 'Justified' },
     num: 475,
     name: 'Gallade',
     types: [ 'Psychic', 'Fighting' ],
     gender: 'N',
     baseStats: { hp: 68, atk: 125, def: 65, spa: 65, spd: 115, spe: 80 },
+    abilities: { '0': 'Steadfast', H: 'Justified' },
     heightm: 1.6,
     weightkg: 52,
     color: 'White',
     prevo: 'Kirlia',
     evoType: 'useItem',
     evoItem: 'Dawn Stone',
+    eggGroups: null,
     otherFormes: [ 'Gallade-Mega' ],
     formeOrder: [ 'Gallade', 'Gallade-Mega' ]
   },
   heatran: {
-    abilities: { '0': 'Flash Fire', H: 'Flame Body' },
-    unreleasedHidden: true,
     num: 485,
     name: 'Heatran',
     types: [ 'Fire', 'Steel' ],
     baseStats: { hp: 91, atk: 90, def: 106, spa: 130, spd: 106, spe: 77 },
+    abilities: { '0': 'Flash Fire', H: 'Flame Body' },
     heightm: 1.7,
     weightkg: 430,
     color: 'Brown',
     tags: [ 'Sub-Legendary' ],
     eggGroups: null,
+    unreleasedHidden: true,
     gender: 'N'
   },
   aegislash: {
-    baseStats: { hp: 60, atk: 50, def: 150, spa: 50, spd: 150, spe: 60 },
     num: 681,
     name: 'Aegislash',
     baseForme: 'Shield',
     types: [ 'Steel', 'Ghost' ],
+    baseStats: { hp: 60, atk: 50, def: 150, spa: 50, spd: 150, spe: 60 },
     abilities: { '0': 'Stance Change' },
     heightm: 1.7,
     weightkg: 53,
@@ -5482,12 +5482,12 @@
     gender: 'N'
   },
   aegislashblade: {
-    baseStats: { hp: 60, atk: 150, def: 50, spa: 150, spd: 50, spe: 60 },
     num: 681,
     name: 'Aegislash-Blade',
     baseSpecies: 'Aegislash',
     forme: 'Blade',
     types: [ 'Steel', 'Ghost' ],
+    baseStats: { hp: 60, atk: 150, def: 50, spa: 150, spd: 50, spe: 60 },
     abilities: { '0': 'Stance Change' },
     heightm: 1.7,
     weightkg: 53,
@@ -5498,13 +5498,13 @@
     gender: 'N'
   },
   pumpkaboosmall: {
-    abilities: { '0': 'Pickup', '1': 'Frisk' },
     num: 710,
     name: 'Pumpkaboo-Small',
     baseSpecies: 'Pumpkaboo',
     forme: 'Small',
     types: [ 'Ghost', 'Grass' ],
     baseStats: { hp: 44, atk: 66, def: 70, spa: 44, spd: 55, spe: 56 },
+    abilities: { '0': 'Pickup', '1': 'Frisk' },
     heightm: 0.3,
     weightkg: 3.5,
     color: 'Brown',
@@ -5513,13 +5513,13 @@
     gender: 'N'
   },
   pumpkaboolarge: {
-    abilities: { '0': 'Pickup', '1': 'Frisk' },
     num: 710,
     name: 'Pumpkaboo-Large',
     baseSpecies: 'Pumpkaboo',
     forme: 'Large',
     types: [ 'Ghost', 'Grass' ],
     baseStats: { hp: 54, atk: 66, def: 70, spa: 44, spd: 55, spe: 46 },
+    abilities: { '0': 'Pickup', '1': 'Frisk' },
     heightm: 0.5,
     weightkg: 7.5,
     color: 'Brown',
@@ -5528,13 +5528,13 @@
     gender: 'N'
   },
   gourgeistsmall: {
-    abilities: { '0': 'Pickup', '1': 'Frisk' },
     num: 711,
     name: 'Gourgeist-Small',
     baseSpecies: 'Gourgeist',
     forme: 'Small',
     types: [ 'Ghost', 'Grass' ],
     baseStats: { hp: 55, atk: 85, def: 122, spa: 58, spd: 75, spe: 99 },
+    abilities: { '0': 'Pickup', '1': 'Frisk' },
     heightm: 0.7,
     weightkg: 9.5,
     color: 'Brown',
@@ -5544,13 +5544,13 @@
     gender: 'N'
   },
   gourgeistlarge: {
-    abilities: { '0': 'Pickup', '1': 'Frisk' },
     num: 711,
     name: 'Gourgeist-Large',
     baseSpecies: 'Gourgeist',
     forme: 'Large',
     types: [ 'Ghost', 'Grass' ],
     baseStats: { hp: 75, atk: 95, def: 122, spa: 58, spd: 75, spe: 69 },
+    abilities: { '0': 'Pickup', '1': 'Frisk' },
     heightm: 1.1,
     weightkg: 14,
     color: 'Brown',
@@ -5560,7 +5560,6 @@
     gender: 'N'
   },
   hawlucha: {
-    eggGroups: null,
     num: 701,
     name: 'Hawlucha',
     types: [ 'Fighting', 'Flying' ],
@@ -5569,10 +5568,10 @@
     heightm: 0.8,
     weightkg: 21.5,
     color: 'Green',
+    eggGroups: null,
     gender: 'N'
   },
   bergmite: {
-    eggGroups: null,
     num: 712,
     name: 'Bergmite',
     types: [ 'Ice' ],
@@ -5582,10 +5581,10 @@
     weightkg: 99.5,
     color: 'Blue',
     evos: [ 'Avalugg', 'Avalugg-Hisui' ],
+    eggGroups: null,
     gender: 'N'
   },
   avalugg: {
-    eggGroups: null,
     num: 713,
     name: 'Avalugg',
     types: [ 'Ice' ],
@@ -5596,12 +5595,12 @@
     color: 'Blue',
     prevo: 'Bergmite',
     evoLevel: 37,
+    eggGroups: null,
     otherFormes: [ 'Avalugg-Hisui' ],
     formeOrder: [ 'Avalugg', 'Avalugg-Hisui' ],
     gender: 'N'
   },
   noibat: {
-    eggGroups: null,
     num: 714,
     name: 'Noibat',
     types: [ 'Flying', 'Dragon' ],
@@ -5611,10 +5610,10 @@
     weightkg: 8,
     color: 'Purple',
     evos: [ 'Noivern' ],
+    eggGroups: null,
     gender: 'N'
   },
   noivern: {
-    eggGroups: null,
     num: 715,
     name: 'Noivern',
     types: [ 'Flying', 'Dragon' ],
@@ -5625,11 +5624,10 @@
     color: 'Purple',
     prevo: 'Noibat',
     evoLevel: 48,
+    eggGroups: null,
     gender: 'N'
   },
   vikavolt: {
-    evoType: 'levelExtra',
-    evoCondition: 'near a special magnetic field',
     num: 738,
     name: 'Vikavolt',
     types: [ 'Bug', 'Electric' ],
@@ -5639,15 +5637,15 @@
     weightkg: 45,
     color: 'Blue',
     prevo: 'Charjabug',
+    evoType: 'levelExtra',
     evoItem: 'Thunder Stone',
     eggGroups: null,
     otherFormes: [ 'Vikavolt-Totem' ],
     formeOrder: [ 'Vikavolt', 'Vikavolt-Totem' ],
+    evoCondition: 'near a special magnetic field',
     gender: 'N'
   },
   crabominable: {
-    evoType: 'levelExtra',
-    evoCondition: 'at Mount Lanakila',
     num: 740,
     name: 'Crabominable',
     types: [ 'Fighting', 'Ice' ],
@@ -5657,12 +5655,13 @@
     weightkg: 180,
     color: 'White',
     prevo: 'Crabrawler',
+    evoType: 'levelExtra',
     evoItem: 'Ice Stone',
     eggGroups: null,
+    evoCondition: 'at Mount Lanakila',
     gender: 'N'
   },
   lycanroc: {
-    evoCondition: 'in Pokemon Sun/Ultra Sun',
     num: 745,
     name: 'Lycanroc',
     baseForme: 'Midday',
@@ -5674,13 +5673,13 @@
     color: 'Brown',
     prevo: 'Rockruff',
     evoLevel: 25,
+    evoCondition: 'in Pokemon Sun/Ultra Sun',
     eggGroups: null,
     otherFormes: [ 'Lycanroc-Midnight', 'Lycanroc-Dusk' ],
     formeOrder: [ 'Lycanroc', 'Lycanroc-Midnight', 'Lycanroc-Dusk' ],
     gender: 'N'
   },
   lycanrocmidnight: {
-    evoCondition: 'in Pokemon Moon/Ultra Moon',
     num: 745,
     name: 'Lycanroc-Midnight',
     baseSpecies: 'Lycanroc',
@@ -5693,16 +5692,17 @@
     color: 'Red',
     prevo: 'Rockruff',
     evoLevel: 25,
+    evoCondition: 'in Pokemon Moon/Ultra Moon',
     eggGroups: null,
     gender: 'N'
   },
   tapukoko: {
-    abilities: { '0': 'Electric Surge' },
     num: 785,
     name: 'Tapu Koko',
     types: [ 'Electric', 'Fairy' ],
     gender: 'N',
     baseStats: { hp: 70, atk: 115, def: 85, spa: 95, spd: 75, spe: 130 },
+    abilities: { '0': 'Electric Surge' },
     heightm: 1.8,
     weightkg: 20.5,
     color: 'Yellow',
@@ -5710,12 +5710,12 @@
     eggGroups: null
   },
   tapulele: {
-    abilities: { '0': 'Psychic Surge' },
     num: 786,
     name: 'Tapu Lele',
     types: [ 'Psychic', 'Fairy' ],
     gender: 'N',
     baseStats: { hp: 70, atk: 85, def: 75, spa: 130, spd: 115, spe: 95 },
+    abilities: { '0': 'Psychic Surge' },
     heightm: 1.2,
     weightkg: 18.6,
     color: 'Pink',
@@ -5723,12 +5723,12 @@
     eggGroups: null
   },
   tapubulu: {
-    abilities: { '0': 'Grassy Surge' },
     num: 787,
     name: 'Tapu Bulu',
     types: [ 'Grass', 'Fairy' ],
     gender: 'N',
     baseStats: { hp: 70, atk: 130, def: 115, spa: 85, spd: 95, spe: 75 },
+    abilities: { '0': 'Grassy Surge' },
     heightm: 1.9,
     weightkg: 45.5,
     color: 'Red',
@@ -5736,12 +5736,12 @@
     eggGroups: null
   },
   tapufini: {
-    abilities: { '0': 'Misty Surge' },
     num: 788,
     name: 'Tapu Fini',
     types: [ 'Water', 'Fairy' ],
     gender: 'N',
     baseStats: { hp: 70, atk: 75, def: 115, spa: 95, spd: 130, spe: 85 },
+    abilities: { '0': 'Misty Surge' },
     heightm: 1.3,
     weightkg: 21.2,
     color: 'Purple',
@@ -5749,7 +5749,6 @@
     eggGroups: null
   },
   mumbao: {
-    unreleasedHidden: true,
     num: -43,
     name: 'Mumbao',
     types: [ 'Grass', 'Fairy' ],
@@ -5761,10 +5760,10 @@
     evos: [ 'Jumbao' ],
     eggGroups: null,
     gen: 7,
+    unreleasedHidden: true,
     gender: 'N'
   },
   jumbao: {
-    unreleasedHidden: true,
     num: -44,
     name: 'Jumbao',
     types: [ 'Grass', 'Fairy' ],
@@ -5778,10 +5777,10 @@
     evoCondition: 'during the day',
     eggGroups: null,
     gen: 7,
+    unreleasedHidden: true,
     gender: 'N'
   },
   growlithehisui: {
-    abilities: { '0': 'Intimidate', '1': 'Flash Fire', H: 'Justified' },
     num: 58,
     name: 'Growlithe-Hisui',
     baseSpecies: 'Growlithe',
@@ -5789,6 +5788,7 @@
     types: [ 'Fire', 'Rock' ],
     genderRatio: { M: 0.75, F: 0.25 },
     baseStats: { hp: 60, atk: 75, def: 45, spa: 65, spd: 50, spe: 55 },
+    abilities: { '0': 'Intimidate', '1': 'Flash Fire', H: 'Justified' },
     heightm: 0.8,
     weightkg: 22.7,
     color: 'Brown',
@@ -5797,7 +5797,6 @@
     gender: 'N'
   },
   arcaninehisui: {
-    abilities: { '0': 'Intimidate', '1': 'Flash Fire', H: 'Justified' },
     num: 59,
     name: 'Arcanine-Hisui',
     baseSpecies: 'Arcanine',
@@ -5805,6 +5804,7 @@
     types: [ 'Fire', 'Rock' ],
     genderRatio: { M: 0.75, F: 0.25 },
     baseStats: { hp: 95, atk: 115, def: 80, spa: 95, spd: 80, spe: 90 },
+    abilities: { '0': 'Intimidate', '1': 'Flash Fire', H: 'Justified' },
     heightm: 2,
     weightkg: 168,
     color: 'Brown',
@@ -5815,7 +5815,6 @@
     gender: 'N'
   },
   typhlosionhisui: {
-    abilities: { '0': 'Blaze', H: 'Flash Fire' },
     num: 157,
     name: 'Typhlosion-Hisui',
     baseSpecies: 'Typhlosion',
@@ -5823,6 +5822,7 @@
     types: [ 'Fire', 'Ghost' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 73, atk: 84, def: 78, spa: 119, spd: 85, spe: 95 },
+    abilities: { '0': 'Blaze', H: 'Flash Fire' },
     heightm: 1.6,
     weightkg: 69.8,
     color: 'Yellow',
@@ -5832,13 +5832,13 @@
     gender: 'N'
   },
   sneaselhisui: {
-    abilities: { '0': 'Inner Focus', '1': 'Keen Eye', H: 'Poison Touch' },
     num: 215,
     name: 'Sneasel-Hisui',
     baseSpecies: 'Sneasel',
     forme: 'Hisui',
     types: [ 'Fighting', 'Poison' ],
     baseStats: { hp: 55, atk: 95, def: 55, spa: 35, spd: 75, spe: 115 },
+    abilities: { '0': 'Inner Focus', '1': 'Keen Eye', H: 'Poison Touch' },
     heightm: 0.9,
     weightkg: 27,
     color: 'Gray',
@@ -5847,11 +5847,11 @@
     gender: 'N'
   },
   shiftry: {
-    abilities: { '0': 'Chlorophyll', '1': 'Early Bird', H: 'Pickpocket' },
     num: 275,
     name: 'Shiftry',
     types: [ 'Grass', 'Dark' ],
     baseStats: { hp: 90, atk: 100, def: 60, spa: 90, spd: 60, spe: 80 },
+    abilities: { '0': 'Chlorophyll', '1': 'Early Bird', H: 'Pickpocket' },
     heightm: 1.3,
     weightkg: 59.6,
     color: 'Brown',
@@ -5862,7 +5862,6 @@
     gender: 'N'
   },
   giratinaorigin: {
-    requiredItem: 'Griseous Orb',
     num: 487,
     name: 'Giratina-Origin',
     baseSpecies: 'Giratina',
@@ -5875,14 +5874,15 @@
     weightkg: 650,
     color: 'Black',
     eggGroups: null,
+    requiredItem: 'Griseous Orb',
     changesFrom: 'Giratina'
   },
   cresselia: {
-    baseStats: { hp: 120, atk: 70, def: 120, spa: 75, spd: 130, spe: 85 },
     num: 488,
     name: 'Cresselia',
     types: [ 'Psychic' ],
     gender: 'N',
+    baseStats: { hp: 120, atk: 70, def: 120, spa: 75, spd: 130, spe: 85 },
     abilities: { '0': 'Levitate' },
     heightm: 1.5,
     weightkg: 85.6,
@@ -5891,7 +5891,6 @@
     eggGroups: null
   },
   samurotthisui: {
-    abilities: { '0': 'Torrent', H: 'Shell Armor' },
     num: 503,
     name: 'Samurott-Hisui',
     baseSpecies: 'Samurott',
@@ -5899,6 +5898,7 @@
     types: [ 'Water', 'Dark' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 90, atk: 108, def: 80, spa: 100, spd: 65, spe: 85 },
+    abilities: { '0': 'Torrent', H: 'Shell Armor' },
     heightm: 1.5,
     weightkg: 58.2,
     color: 'Blue',
@@ -5908,7 +5908,6 @@
     gender: 'N'
   },
   braviaryhisui: {
-    abilities: { '0': 'Keen Eye', '1': 'Sheer Force', H: 'Defiant' },
     num: 628,
     name: 'Braviary-Hisui',
     baseSpecies: 'Braviary',
@@ -5916,6 +5915,7 @@
     types: [ 'Psychic', 'Flying' ],
     gender: 'N',
     baseStats: { hp: 110, atk: 83, def: 70, spa: 112, spd: 70, spe: 65 },
+    abilities: { '0': 'Keen Eye', '1': 'Sheer Force', H: 'Defiant' },
     heightm: 1.7,
     weightkg: 43.4,
     color: 'White',
@@ -5924,7 +5924,6 @@
     eggGroups: null
   },
   spewpa: {
-    evos: [ 'Vivillon' ],
     num: 665,
     name: 'Spewpa',
     types: [ 'Bug' ],
@@ -5935,33 +5934,34 @@
     color: 'Black',
     prevo: 'Scatterbug',
     evoLevel: 9,
+    evos: [ 'Vivillon' ],
     eggGroups: null,
     gender: 'N'
   },
   vivillonfancy: {
-    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
-    prevo: undefined,
-    evoLevel: undefined,
     num: 666,
     name: 'Vivillon-Fancy',
     baseSpecies: 'Vivillon',
     forme: 'Fancy',
     types: [ 'Bug', 'Flying' ],
     baseStats: { hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89 },
+    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
     heightm: 1.2,
     weightkg: 17,
     color: 'Black',
+    prevo: undefined,
+    evoLevel: undefined,
     eggGroups: null,
     gender: 'N'
   },
   vivillonpokeball: {
-    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
     num: 666,
     name: 'Vivillon-Pokeball',
     baseSpecies: 'Vivillon',
     forme: 'Pokeball',
     types: [ 'Bug', 'Flying' ],
     baseStats: { hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89 },
+    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
     heightm: 1.2,
     weightkg: 17,
     color: 'Black',
@@ -5969,13 +5969,13 @@
     gender: 'N'
   },
   sliggoohisui: {
-    abilities: { '0': 'Sap Sipper', '1': 'Overcoat', H: 'Gooey' },
     num: 705,
     name: 'Sliggoo-Hisui',
     baseSpecies: 'Sliggoo',
     forme: 'Hisui',
     types: [ 'Steel', 'Dragon' ],
     baseStats: { hp: 58, atk: 75, def: 83, spa: 83, spd: 113, spe: 40 },
+    abilities: { '0': 'Sap Sipper', '1': 'Overcoat', H: 'Gooey' },
     heightm: 0.7,
     weightkg: 68.5,
     color: 'Purple',
@@ -5986,13 +5986,13 @@
     gender: 'N'
   },
   goodrahisui: {
-    abilities: { '0': 'Sap Sipper', '1': 'Overcoat', H: 'Gooey' },
     num: 706,
     name: 'Goodra-Hisui',
     baseSpecies: 'Goodra',
     forme: 'Hisui',
     types: [ 'Steel', 'Dragon' ],
     baseStats: { hp: 80, atk: 100, def: 100, spa: 110, spd: 150, spe: 60 },
+    abilities: { '0': 'Sap Sipper', '1': 'Overcoat', H: 'Gooey' },
     heightm: 1.7,
     weightkg: 334.1,
     color: 'Purple',
@@ -6003,7 +6003,6 @@
     gender: 'N'
   },
   decidueyehisui: {
-    abilities: { '0': 'Overgrow', H: 'Long Reach' },
     num: 724,
     name: 'Decidueye-Hisui',
     baseSpecies: 'Decidueye',
@@ -6011,6 +6010,7 @@
     types: [ 'Grass', 'Fighting' ],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 88, atk: 112, def: 80, spa: 95, spd: 95, spe: 60 },
+    abilities: { '0': 'Overgrow', H: 'Long Reach' },
     heightm: 1.6,
     weightkg: 37,
     color: 'Brown',
@@ -6020,12 +6020,12 @@
     gender: 'N'
   },
   zacian: {
-    baseStats: { hp: 92, atk: 130, def: 115, spa: 80, spd: 115, spe: 138 },
     num: 888,
     name: 'Zacian',
     baseForme: 'Hero',
     types: [ 'Fairy' ],
     gender: 'N',
+    baseStats: { hp: 92, atk: 130, def: 115, spa: 80, spd: 115, spe: 138 },
     abilities: { '0': 'Intrepid Sword' },
     heightm: 2.8,
     weightkg: 110,
@@ -6037,13 +6037,13 @@
     cannotDynamax: true
   },
   zaciancrowned: {
-    baseStats: { hp: 92, atk: 170, def: 115, spa: 80, spd: 115, spe: 148 },
     num: 888,
     name: 'Zacian-Crowned',
     baseSpecies: 'Zacian',
     forme: 'Crowned',
     types: [ 'Fairy', 'Steel' ],
     gender: 'N',
+    baseStats: { hp: 92, atk: 170, def: 115, spa: 80, spd: 115, spe: 148 },
     abilities: { '0': 'Intrepid Sword' },
     heightm: 2.8,
     weightkg: 355,
@@ -6054,12 +6054,12 @@
     cannotDynamax: true
   },
   zamazenta: {
-    baseStats: { hp: 92, atk: 130, def: 115, spa: 80, spd: 115, spe: 138 },
     num: 889,
     name: 'Zamazenta',
     baseForme: 'Hero',
     types: [ 'Fighting' ],
     gender: 'N',
+    baseStats: { hp: 92, atk: 130, def: 115, spa: 80, spd: 115, spe: 138 },
     abilities: { '0': 'Dauntless Shield' },
     heightm: 2.9,
     weightkg: 210,
@@ -6071,13 +6071,13 @@
     cannotDynamax: true
   },
   zamazentacrowned: {
-    baseStats: { hp: 92, atk: 130, def: 145, spa: 80, spd: 145, spe: 128 },
     num: 889,
     name: 'Zamazenta-Crowned',
     baseSpecies: 'Zamazenta',
     forme: 'Crowned',
     types: [ 'Fighting', 'Steel' ],
     gender: 'N',
+    baseStats: { hp: 92, atk: 130, def: 145, spa: 80, spd: 145, spe: 128 },
     abilities: { '0': 'Dauntless Shield' },
     heightm: 2.9,
     weightkg: 785,
@@ -6088,11 +6088,11 @@
     cannotDynamax: true
   },
   kleavor: {
-    abilities: { '0': 'Swarm', '1': 'Sheer Force', H: 'Steadfast' },
     num: 900,
     name: 'Kleavor',
     types: [ 'Bug', 'Rock' ],
     baseStats: { hp: 70, atk: 135, def: 95, spa: 45, spd: 70, spe: 85 },
+    abilities: { '0': 'Swarm', '1': 'Sheer Force', H: 'Steadfast' },
     heightm: 1.8,
     weightkg: 89,
     color: 'Brown',
@@ -6103,13 +6103,13 @@
     gender: 'N'
   },
   basculegion: {
-    abilities: { '0': 'Rattled', '1': 'Adaptability', H: 'Mold Breaker' },
     num: 902,
     name: 'Basculegion',
     baseForme: 'M',
     types: [ 'Water', 'Ghost' ],
     gender: 'N',
     baseStats: { hp: 120, atk: 112, def: 65, spa: 80, spd: 75, spe: 78 },
+    abilities: { '0': 'Rattled', '1': 'Adaptability', H: 'Mold Breaker' },
     heightm: 3,
     weightkg: 110,
     color: 'Green',
@@ -6121,7 +6121,6 @@
     formeOrder: [ 'Basculegion', 'Basculegion-F' ]
   },
   basculegionf: {
-    abilities: { '0': 'Rattled', '1': 'Adaptability', H: 'Mold Breaker' },
     num: 902,
     name: 'Basculegion-F',
     baseSpecies: 'Basculegion',
@@ -6129,6 +6128,7 @@
     types: [ 'Water', 'Ghost' ],
     gender: 'N',
     baseStats: { hp: 120, atk: 92, def: 65, spa: 100, spd: 75, spe: 78 },
+    abilities: { '0': 'Rattled', '1': 'Adaptability', H: 'Mold Breaker' },
     heightm: 3,
     weightkg: 110,
     color: 'Green',
@@ -6138,29 +6138,29 @@
     eggGroups: null
   },
   sneasler: {
-    abilities: { '0': 'Pressure', H: 'Poison Touch' },
-    evoType: 'useItem',
-    evoItem: 'Razor Claw',
-    evoCondition: 'during the day',
     num: 903,
     name: 'Sneasler',
     types: [ 'Fighting', 'Poison' ],
     baseStats: { hp: 80, atk: 130, def: 60, spa: 40, spd: 80, spe: 120 },
+    abilities: { '0': 'Pressure', H: 'Poison Touch' },
     heightm: 1.3,
     weightkg: 43,
     color: 'Blue',
     prevo: 'Sneasel-Hisui',
+    evoType: 'useItem',
+    evoItem: 'Razor Claw',
+    evoCondition: 'during the day',
     eggGroups: null,
     gender: 'N'
   },
   enamorus: {
-    abilities: { '0': 'Healer', H: 'Contrary' },
     num: 905,
     name: 'Enamorus',
     baseForme: 'Incarnate',
     types: [ 'Fairy', 'Flying' ],
     gender: 'N',
     baseStats: { hp: 74, atk: 115, def: 70, spa: 135, spd: 80, spe: 106 },
+    abilities: { '0': 'Healer', H: 'Contrary' },
     heightm: 1.6,
     weightkg: 48,
     color: 'Pink',
@@ -20907,6 +20907,19 @@
     heightm: 6.2,
     weightkg: 201.6,
     color: 'Black',
+    eggGroups: null,
+    gen: 9,
+    gender: 'N'
+  },
+  shox: {
+    num: -77,
+    name: 'Shox',
+    types: [ 'Electric', 'Normal' ],
+    baseStats: { hp: 136, atk: 73, def: 81, spa: 90, spd: 98, spe: 56 },
+    abilities: { '0': 'Electromorphosis', '1': 'Sticky Hold' },
+    heightm: 3,
+    weightkg: 99.9,
+    color: 'Brown',
     eggGroups: null,
     gen: 9,
     gender: 'N'

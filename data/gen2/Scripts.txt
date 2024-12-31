@@ -2,22 +2,22 @@
   inherit: 'gen3',
   gen: 2,
   pokemon: {
-    getStat: [Function: getStat],
-    boostBy: [Function: boostBy],
     inherit: true,
-    getActionSpeed: [Function: getActionSpeed]
+    getActionSpeed: [Function: getActionSpeed],
+    getStat: [Function: getStat],
+    boostBy: [Function: boostBy]
   },
   actions: {
-    runMove: [Function: runMove],
-    tryMoveHit: [Function: tryMoveHit],
-    moveHit: [Function: moveHit],
-    getDamage: [Function: getDamage],
-    modifyDamage: [Function: modifyDamage],
-    useMoveInner: [Function: useMoveInner],
-    calcRecoilDamage: [Function: calcRecoilDamage],
     inherit: true,
+    modifyDamage: [Function: modifyDamage],
     hitStepInvulnerabilityEvent: [Function: hitStepInvulnerabilityEvent],
-    hitStepAccuracy: [Function: hitStepAccuracy]
+    hitStepAccuracy: [Function: hitStepAccuracy],
+    calcRecoilDamage: [Function: calcRecoilDamage],
+    useMoveInner: [Function: useMoveInner],
+    tryMoveHit: [Function: tryMoveHit],
+    runMove: [Function: runMove],
+    moveHit: [Function: moveHit],
+    getDamage: [Function: getDamage]
   },
   init: [Function: init]
 }

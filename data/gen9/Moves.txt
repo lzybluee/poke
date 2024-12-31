@@ -16121,9 +16121,9 @@
     flags: { snatch: 1, heal: 1, metronome: 1 },
     slotCondition: 'Wish',
     condition: {
-      duration: 2,
       onStart: [Function: onStart],
       onResidualOrder: 4,
+      onResidual: [Function: onResidual],
       onEnd: [Function: onEnd]
     },
     secondary: null,

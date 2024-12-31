@@ -111,8 +111,9 @@
   },
   futuremove: {
     name: 'futuremove',
-    duration: 3,
+    onStart: [Function: onStart],
     onResidualOrder: 3,
+    onResidual: [Function: onResidual],
     onEnd: [Function: onEnd]
   },
   healreplacement: {

@@ -40,10 +40,10 @@
     onAfterSwitchInSelf: [Function: onAfterSwitchInSelf]
   },
   tox: {
-    onAfterMoveSelfPriority: 2,
     name: 'tox',
     effectType: 'Status',
     onStart: [Function: onStart],
+    onAfterMoveSelfPriority: 2,
     onAfterMoveSelf: [Function: onAfterMoveSelf],
     onSwitchIn: [Function: onSwitchIn],
     onAfterSwitchInSelf: [Function: onAfterSwitchInSelf]
@@ -80,11 +80,11 @@
     onDisableMove: [Function: onDisableMove]
   },
   mustrecharge: {
+    name: 'mustrecharge',
     duration: 0,
     onBeforeMovePriority: 7,
-    onStart: [Function: onStart],
-    name: 'mustrecharge',
     onBeforeMove: [Function: onBeforeMove],
+    onStart: [Function: onStart],
     onLockMove: 'recharge'
   },
   lockedmove: {
@@ -103,24 +103,24 @@
     onInvulnerability: [Function: onInvulnerability]
   },
   futuremove: {
-    onResidualOrder: 1,
     name: 'futuremove',
-    duration: 3,
+    onStart: [Function: onStart],
+    onResidualOrder: 1,
+    onResidual: [Function: onResidual],
     onEnd: [Function: onEnd]
   },
   raindance: {
-    onFieldResidualOrder: 2,
     name: 'RainDance',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],
     onWeatherModifyDamage: [Function: onWeatherModifyDamage],
     onFieldStart: [Function: onFieldStart],
+    onFieldResidualOrder: 2,
     onFieldResidual: [Function: onFieldResidual],
     onFieldEnd: [Function: onFieldEnd]
   },
   sunnyday: {
-    onFieldResidualOrder: 2,
     name: 'SunnyDay',
     effectType: 'Weather',
     duration: 5,
@@ -128,20 +128,21 @@
     onWeatherModifyDamage: [Function: onWeatherModifyDamage],
     onFieldStart: [Function: onFieldStart],
     onImmunity: [Function: onImmunity],
+    onFieldResidualOrder: 2,
     onFieldResidual: [Function: onFieldResidual],
     onFieldEnd: [Function: onFieldEnd]
   },
   sandstorm: {
-    onFieldResidualOrder: 2,
-    onWeather: [Function: onWeather],
-    onModifySpD: [Function: onModifySpD],
     name: 'Sandstorm',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],
     onModifySpDPriority: 10,
+    onModifySpD: [Function: onModifySpD],
     onFieldStart: [Function: onFieldStart],
+    onFieldResidualOrder: 2,
     onFieldResidual: [Function: onFieldResidual],
+    onWeather: [Function: onWeather],
     onFieldEnd: [Function: onFieldEnd]
   },
   stall: {
@@ -159,21 +160,21 @@
     onAfterSwitchInSelf: [Function: onAfterSwitchInSelf]
   },
   substitutebroken: { noCopy: true },
-  trapper: { noCopy: false, name: 'trapper' },
+  trapper: { name: 'trapper', noCopy: false },
   choicelock: {
-    onStart: [Function: onStart],
-    onBeforeMove: [Function: onBeforeMove],
     name: 'choicelock',
     noCopy: true,
+    onStart: [Function: onStart],
+    onBeforeMove: [Function: onBeforeMove],
     onDisableMove: [Function: onDisableMove]
   },
   hail: {
-    onFieldResidualOrder: 8,
     name: 'Hail',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],
     onFieldStart: [Function: onFieldStart],
+    onFieldResidualOrder: 8,
     onFieldResidual: [Function: onFieldResidual],
     onWeather: [Function: onWeather],
     onFieldEnd: [Function: onFieldEnd]

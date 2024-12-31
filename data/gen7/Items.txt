@@ -1,6 +1,5 @@
 {
   abomasite: {
-    isNonstandard: null,
     name: 'Abomasite',
     spritenum: 575,
     megaStone: 'Abomasnow-Mega',
@@ -8,10 +7,10 @@
     itemUser: [ 'Abomasnow' ],
     onTakeItem: [Function: onTakeItem],
     num: 674,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   absolite: {
-    isNonstandard: null,
     name: 'Absolite',
     spritenum: 576,
     megaStone: 'Absol-Mega',
@@ -19,10 +18,10 @@
     itemUser: [ 'Absol' ],
     onTakeItem: [Function: onTakeItem],
     num: 677,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   aerodactylite: {
-    isNonstandard: null,
     name: 'Aerodactylite',
     spritenum: 577,
     megaStone: 'Aerodactyl-Mega',
@@ -30,10 +29,10 @@
     itemUser: [ 'Aerodactyl' ],
     onTakeItem: [Function: onTakeItem],
     num: 672,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   aggronite: {
-    isNonstandard: null,
     name: 'Aggronite',
     spritenum: 578,
     megaStone: 'Aggron-Mega',
@@ -41,21 +40,21 @@
     itemUser: [ 'Aggron' ],
     onTakeItem: [Function: onTakeItem],
     num: 667,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   aguavberry: {
-    onEat: [Function: onEat],
     name: 'Aguav Berry',
     spritenum: 5,
     isBerry: true,
     naturalGift: { basePower: 80, type: 'Dragon' },
     onUpdate: [Function: onUpdate],
     onTryEatItem: [Function: onTryEatItem],
+    onEat: [Function: onEat],
     num: 162,
     gen: 3
   },
   alakazite: {
-    isNonstandard: null,
     name: 'Alakazite',
     spritenum: 579,
     megaStone: 'Alakazam-Mega',
@@ -63,10 +62,10 @@
     itemUser: [ 'Alakazam' ],
     onTakeItem: [Function: onTakeItem],
     num: 679,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   altarianite: {
-    isNonstandard: null,
     name: 'Altarianite',
     spritenum: 615,
     megaStone: 'Altaria-Mega',
@@ -74,10 +73,10 @@
     itemUser: [ 'Altaria' ],
     onTakeItem: [Function: onTakeItem],
     num: 755,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   aloraichiumz: {
-    isNonstandard: null,
     name: 'Aloraichium Z',
     spritenum: 655,
     onTakeItem: false,
@@ -85,10 +84,10 @@
     zMoveFrom: 'Thunderbolt',
     itemUser: [ 'Raichu-Alola' ],
     num: 803,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   ampharosite: {
-    isNonstandard: null,
     name: 'Ampharosite',
     spritenum: 580,
     megaStone: 'Ampharos-Mega',
@@ -96,18 +95,18 @@
     itemUser: [ 'Ampharos' ],
     onTakeItem: [Function: onTakeItem],
     num: 658,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   armorfossil: {
-    isNonstandard: null,
     name: 'Armor Fossil',
     spritenum: 12,
     fling: { basePower: 100 },
     num: 104,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   audinite: {
-    isNonstandard: null,
     name: 'Audinite',
     spritenum: 617,
     megaStone: 'Audino-Mega',
@@ -115,10 +114,10 @@
     itemUser: [ 'Audino' ],
     onTakeItem: [Function: onTakeItem],
     num: 757,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   banettite: {
-    isNonstandard: null,
     name: 'Banettite',
     spritenum: 582,
     megaStone: 'Banette-Mega',
@@ -126,10 +125,10 @@
     itemUser: [ 'Banette' ],
     onTakeItem: [Function: onTakeItem],
     num: 668,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   beedrillite: {
-    isNonstandard: null,
     name: 'Beedrillite',
     spritenum: 628,
     megaStone: 'Beedrill-Mega',
@@ -137,27 +136,27 @@
     itemUser: [ 'Beedrill' ],
     onTakeItem: [Function: onTakeItem],
     num: 770,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   belueberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Belue Berry',
     spritenum: 21,
     isBerry: true,
     naturalGift: { basePower: 100, type: 'Electric' },
     onEat: false,
     num: 183,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   bignugget: {
-    fling: { basePower: 30 },
     name: 'Big Nugget',
     spritenum: 27,
+    fling: { basePower: 30 },
     num: 581,
     gen: 5
   },
   blastoisinite: {
-    isNonstandard: null,
     name: 'Blastoisinite',
     spritenum: 583,
     megaStone: 'Blastoise-Mega',
@@ -165,10 +164,10 @@
     itemUser: [ 'Blastoise' ],
     onTakeItem: [Function: onTakeItem],
     num: 661,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   blazikenite: {
-    isNonstandard: null,
     name: 'Blazikenite',
     spritenum: 584,
     megaStone: 'Blaziken-Mega',
@@ -176,10 +175,10 @@
     itemUser: [ 'Blaziken' ],
     onTakeItem: [Function: onTakeItem],
     num: 664,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   blueorb: {
-    isNonstandard: null,
     name: 'Blue Orb',
     spritenum: 41,
     onSwitchIn: [Function: onSwitchIn],
@@ -187,29 +186,29 @@
     onTakeItem: [Function: onTakeItem],
     itemUser: [ 'Kyogre' ],
     num: 535,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   blukberry: {
-    isNonstandard: null,
     name: 'Bluk Berry',
     spritenum: 44,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Fire' },
     onEat: false,
     num: 165,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   buggem: {
-    isNonstandard: 'Unobtainable',
     name: 'Bug Gem',
     spritenum: 53,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 558,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   buginiumz: {
-    isNonstandard: null,
     name: 'Buginium Z',
     spritenum: 642,
     onPlate: 'Bug',
@@ -218,10 +217,10 @@
     zMoveType: 'Bug',
     forcedForme: 'Arceus-Bug',
     num: 787,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   cameruptite: {
-    isNonstandard: null,
     name: 'Cameruptite',
     spritenum: 625,
     megaStone: 'Camerupt-Mega',
@@ -229,10 +228,10 @@
     itemUser: [ 'Camerupt' ],
     onTakeItem: [Function: onTakeItem],
     num: 767,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   charizarditex: {
-    isNonstandard: null,
     name: 'Charizardite X',
     spritenum: 585,
     megaStone: 'Charizard-Mega-X',
@@ -240,10 +239,10 @@
     itemUser: [ 'Charizard' ],
     onTakeItem: [Function: onTakeItem],
     num: 660,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   charizarditey: {
-    isNonstandard: null,
     name: 'Charizardite Y',
     spritenum: 586,
     megaStone: 'Charizard-Mega-Y',
@@ -251,45 +250,45 @@
     itemUser: [ 'Charizard' ],
     onTakeItem: [Function: onTakeItem],
     num: 678,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   clawfossil: {
-    isNonstandard: null,
     name: 'Claw Fossil',
     spritenum: 72,
     fling: { basePower: 100 },
     num: 100,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   cornnberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Cornn Berry',
     spritenum: 81,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Bug' },
     onEat: false,
     num: 175,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   coverfossil: {
-    isNonstandard: null,
     name: 'Cover Fossil',
     spritenum: 85,
     fling: { basePower: 100 },
     num: 572,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   darkgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Dark Gem',
     spritenum: 89,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 562,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   darkiniumz: {
-    isNonstandard: null,
     name: 'Darkinium Z',
     spritenum: 646,
     onPlate: 'Dark',
@@ -298,10 +297,10 @@
     zMoveType: 'Dark',
     forcedForme: 'Arceus-Dark',
     num: 791,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   decidiumz: {
-    isNonstandard: null,
     name: 'Decidium Z',
     spritenum: 650,
     onTakeItem: false,
@@ -309,10 +308,10 @@
     zMoveFrom: 'Spirit Shackle',
     itemUser: [ 'Decidueye' ],
     num: 798,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   diancite: {
-    isNonstandard: null,
     name: 'Diancite',
     spritenum: 624,
     megaStone: 'Diancie-Mega',
@@ -320,18 +319,18 @@
     itemUser: [ 'Diancie' ],
     onTakeItem: [Function: onTakeItem],
     num: 764,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   domefossil: {
-    isNonstandard: null,
     name: 'Dome Fossil',
     spritenum: 102,
     fling: { basePower: 100 },
     num: 102,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   dracoplate: {
-    isNonstandard: null,
     name: 'Draco Plate',
     spritenum: 105,
     onPlate: 'Dragon',
@@ -340,19 +339,19 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Dragon',
     num: 311,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   dragongem: {
-    isNonstandard: 'Unobtainable',
     name: 'Dragon Gem',
     spritenum: 107,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 561,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   dragoniumz: {
-    isNonstandard: null,
     name: 'Dragonium Z',
     spritenum: 645,
     onPlate: 'Dragon',
@@ -361,10 +360,10 @@
     zMoveType: 'Dragon',
     forcedForme: 'Arceus-Dragon',
     num: 790,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   dreadplate: {
-    isNonstandard: null,
     name: 'Dread Plate',
     spritenum: 110,
     onPlate: 'Dark',
@@ -373,28 +372,28 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Dark',
     num: 312,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   dreamball: {
-    isNonstandard: 'Unobtainable',
     name: 'Dream Ball',
     spritenum: 111,
     num: 576,
     gen: 5,
-    isPokeball: true
+    isPokeball: true,
+    isNonstandard: 'Unobtainable'
   },
   durinberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Durin Berry',
     spritenum: 114,
     isBerry: true,
     naturalGift: { basePower: 100, type: 'Water' },
     onEat: false,
     num: 182,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   earthplate: {
-    isNonstandard: null,
     name: 'Earth Plate',
     spritenum: 117,
     onPlate: 'Ground',
@@ -403,10 +402,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Ground',
     num: 305,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   eeviumz: {
-    isNonstandard: null,
     name: 'Eevium Z',
     spritenum: 657,
     onTakeItem: false,
@@ -414,19 +413,19 @@
     zMoveFrom: 'Last Resort',
     itemUser: [ 'Eevee' ],
     num: 805,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   electricgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Electric Gem',
     spritenum: 120,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 550,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   electriumz: {
-    isNonstandard: null,
     name: 'Electrium Z',
     spritenum: 634,
     onPlate: 'Electric',
@@ -435,10 +434,10 @@
     zMoveType: 'Electric',
     forcedForme: 'Arceus-Electric',
     num: 779,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fairiumz: {
-    isNonstandard: null,
     name: 'Fairium Z',
     spritenum: 648,
     onPlate: 'Fairy',
@@ -447,28 +446,28 @@
     zMoveType: 'Fairy',
     forcedForme: 'Arceus-Fairy',
     num: 793,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fairygem: {
-    isNonstandard: 'Unobtainable',
     name: 'Fairy Gem',
     spritenum: 611,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 715,
-    gen: 6
+    gen: 6,
+    isNonstandard: 'Unobtainable'
   },
   fightinggem: {
-    isNonstandard: 'Unobtainable',
     name: 'Fighting Gem',
     spritenum: 139,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 553,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   fightiniumz: {
-    isNonstandard: null,
     name: 'Fightinium Z',
     spritenum: 637,
     onPlate: 'Fighting',
@@ -477,30 +476,30 @@
     zMoveType: 'Fighting',
     forcedForme: 'Arceus-Fighting',
     num: 782,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   figyberry: {
-    onEat: [Function: onEat],
     name: 'Figy Berry',
     spritenum: 140,
     isBerry: true,
     naturalGift: { basePower: 80, type: 'Bug' },
     onUpdate: [Function: onUpdate],
     onTryEatItem: [Function: onTryEatItem],
+    onEat: [Function: onEat],
     num: 159,
     gen: 3
   },
   firegem: {
-    isNonstandard: 'Unobtainable',
     name: 'Fire Gem',
     spritenum: 141,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 548,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   firiumz: {
-    isNonstandard: null,
     name: 'Firium Z',
     spritenum: 632,
     onPlate: 'Fire',
@@ -509,10 +508,10 @@
     zMoveType: 'Fire',
     forcedForme: 'Arceus-Fire',
     num: 777,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fistplate: {
-    isNonstandard: null,
     name: 'Fist Plate',
     spritenum: 143,
     onPlate: 'Fighting',
@@ -521,10 +520,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Fighting',
     num: 303,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   flameplate: {
-    isNonstandard: null,
     name: 'Flame Plate',
     spritenum: 146,
     onPlate: 'Fire',
@@ -533,19 +532,19 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Fire',
     num: 298,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   flyinggem: {
-    isNonstandard: 'Unobtainable',
     name: 'Flying Gem',
     spritenum: 149,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 556,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   flyiniumz: {
-    isNonstandard: null,
     name: 'Flyinium Z',
     spritenum: 640,
     onPlate: 'Flying',
@@ -554,10 +553,10 @@
     zMoveType: 'Flying',
     forcedForme: 'Arceus-Flying',
     num: 785,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   galladite: {
-    isNonstandard: null,
     name: 'Galladite',
     spritenum: 616,
     megaStone: 'Gallade-Mega',
@@ -565,10 +564,10 @@
     itemUser: [ 'Gallade' ],
     onTakeItem: [Function: onTakeItem],
     num: 756,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   garchompite: {
-    isNonstandard: null,
     name: 'Garchompite',
     spritenum: 589,
     megaStone: 'Garchomp-Mega',
@@ -576,10 +575,10 @@
     itemUser: [ 'Garchomp' ],
     onTakeItem: [Function: onTakeItem],
     num: 683,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   gardevoirite: {
-    isNonstandard: null,
     name: 'Gardevoirite',
     spritenum: 587,
     megaStone: 'Gardevoir-Mega',
@@ -587,10 +586,10 @@
     itemUser: [ 'Gardevoir' ],
     onTakeItem: [Function: onTakeItem],
     num: 657,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   gengarite: {
-    isNonstandard: null,
     name: 'Gengarite',
     spritenum: 588,
     megaStone: 'Gengar-Mega',
@@ -598,19 +597,19 @@
     itemUser: [ 'Gengar' ],
     onTakeItem: [Function: onTakeItem],
     num: 656,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   ghostgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Ghost Gem',
     spritenum: 161,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 560,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   ghostiumz: {
-    isNonstandard: null,
     name: 'Ghostium Z',
     spritenum: 644,
     onPlate: 'Ghost',
@@ -619,10 +618,10 @@
     zMoveType: 'Ghost',
     forcedForme: 'Arceus-Ghost',
     num: 789,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   glalitite: {
-    isNonstandard: null,
     name: 'Glalitite',
     spritenum: 623,
     megaStone: 'Glalie-Mega',
@@ -630,19 +629,19 @@
     itemUser: [ 'Glalie' ],
     onTakeItem: [Function: onTakeItem],
     num: 763,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   grassgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Grass Gem',
     spritenum: 172,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 551,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   grassiumz: {
-    isNonstandard: null,
     name: 'Grassium Z',
     spritenum: 635,
     onPlate: 'Grass',
@@ -651,19 +650,19 @@
     zMoveType: 'Grass',
     forcedForme: 'Arceus-Grass',
     num: 780,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   groundgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Ground Gem',
     spritenum: 182,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 555,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   groundiumz: {
-    isNonstandard: null,
     name: 'Groundium Z',
     spritenum: 639,
     onPlate: 'Ground',
@@ -672,10 +671,10 @@
     zMoveType: 'Ground',
     forcedForme: 'Arceus-Ground',
     num: 784,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   gyaradosite: {
-    isNonstandard: null,
     name: 'Gyaradosite',
     spritenum: 589,
     megaStone: 'Gyarados-Mega',
@@ -683,18 +682,18 @@
     itemUser: [ 'Gyarados' ],
     onTakeItem: [Function: onTakeItem],
     num: 676,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   helixfossil: {
-    isNonstandard: null,
     name: 'Helix Fossil',
     spritenum: 195,
     fling: { basePower: 100 },
     num: 101,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   heracronite: {
-    isNonstandard: null,
     name: 'Heracronite',
     spritenum: 590,
     megaStone: 'Heracross-Mega',
@@ -702,10 +701,10 @@
     itemUser: [ 'Heracross' ],
     onTakeItem: [Function: onTakeItem],
     num: 680,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   houndoominite: {
-    isNonstandard: null,
     name: 'Houndoominite',
     spritenum: 591,
     megaStone: 'Houndoom-Mega',
@@ -713,30 +712,30 @@
     itemUser: [ 'Houndoom' ],
     onTakeItem: [Function: onTakeItem],
     num: 666,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   iapapaberry: {
-    onEat: [Function: onEat],
     name: 'Iapapa Berry',
     spritenum: 217,
     isBerry: true,
     naturalGift: { basePower: 80, type: 'Dark' },
     onUpdate: [Function: onUpdate],
     onTryEatItem: [Function: onTryEatItem],
+    onEat: [Function: onEat],
     num: 163,
     gen: 3
   },
   icegem: {
-    isNonstandard: 'Unobtainable',
     name: 'Ice Gem',
     spritenum: 218,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 552,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   icicleplate: {
-    isNonstandard: null,
     name: 'Icicle Plate',
     spritenum: 220,
     onPlate: 'Ice',
@@ -745,10 +744,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Ice',
     num: 302,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   iciumz: {
-    isNonstandard: null,
     name: 'Icium Z',
     spritenum: 636,
     onPlate: 'Ice',
@@ -757,10 +756,10 @@
     zMoveType: 'Ice',
     forcedForme: 'Arceus-Ice',
     num: 781,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   inciniumz: {
-    isNonstandard: null,
     name: 'Incinium Z',
     spritenum: 651,
     onTakeItem: false,
@@ -768,10 +767,10 @@
     zMoveFrom: 'Darkest Lariat',
     itemUser: [ 'Incineroar' ],
     num: 799,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   insectplate: {
-    isNonstandard: null,
     name: 'Insect Plate',
     spritenum: 223,
     onPlate: 'Bug',
@@ -780,10 +779,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Bug',
     num: 308,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   ironplate: {
-    isNonstandard: null,
     name: 'Iron Plate',
     spritenum: 225,
     onPlate: 'Steel',
@@ -792,18 +791,18 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Steel',
     num: 313,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   jawfossil: {
-    isNonstandard: null,
     name: 'Jaw Fossil',
     spritenum: 694,
     fling: { basePower: 100 },
     num: 710,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   kangaskhanite: {
-    isNonstandard: null,
     name: 'Kangaskhanite',
     spritenum: 592,
     megaStone: 'Kangaskhan-Mega',
@@ -811,10 +810,10 @@
     itemUser: [ 'Kangaskhan' ],
     onTakeItem: [Function: onTakeItem],
     num: 675,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   kommoniumz: {
-    isNonstandard: null,
     name: 'Kommonium Z',
     spritenum: 690,
     onTakeItem: false,
@@ -822,10 +821,10 @@
     zMoveFrom: 'Clanging Scales',
     itemUser: [ 'Kommo-o', 'Kommo-o-Totem' ],
     num: 926,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   latiasite: {
-    isNonstandard: null,
     name: 'Latiasite',
     spritenum: 629,
     megaStone: 'Latias-Mega',
@@ -833,10 +832,10 @@
     itemUser: [ 'Latias' ],
     onTakeItem: [Function: onTakeItem],
     num: 684,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   latiosite: {
-    isNonstandard: null,
     name: 'Latiosite',
     spritenum: 630,
     megaStone: 'Latios-Mega',
@@ -844,10 +843,10 @@
     itemUser: [ 'Latios' ],
     onTakeItem: [Function: onTakeItem],
     num: 685,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   lopunnite: {
-    isNonstandard: null,
     name: 'Lopunnite',
     spritenum: 626,
     megaStone: 'Lopunny-Mega',
@@ -855,10 +854,10 @@
     itemUser: [ 'Lopunny' ],
     onTakeItem: [Function: onTakeItem],
     num: 768,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   lucarionite: {
-    isNonstandard: null,
     name: 'Lucarionite',
     spritenum: 594,
     megaStone: 'Lucario-Mega',
@@ -866,20 +865,20 @@
     itemUser: [ 'Lucario' ],
     onTakeItem: [Function: onTakeItem],
     num: 673,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   luckypunch: {
-    isNonstandard: null,
     name: 'Lucky Punch',
     spritenum: 261,
     fling: { basePower: 40 },
     onModifyCritRatio: [Function: onModifyCritRatio],
     itemUser: [ 'Chansey' ],
     num: 256,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   lunaliumz: {
-    isNonstandard: null,
     name: 'Lunalium Z',
     spritenum: 686,
     onTakeItem: false,
@@ -887,10 +886,10 @@
     zMoveFrom: 'Moongeist Beam',
     itemUser: [ 'Lunala', 'Necrozma-Dawn-Wings' ],
     num: 922,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   lycaniumz: {
-    isNonstandard: null,
     name: 'Lycanium Z',
     spritenum: 689,
     onTakeItem: false,
@@ -898,49 +897,49 @@
     zMoveFrom: 'Stone Edge',
     itemUser: [ 'Lycanroc', 'Lycanroc-Midnight', 'Lycanroc-Dusk' ],
     num: 925,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   machobrace: {
-    isNonstandard: 'Unobtainable',
     name: 'Macho Brace',
     spritenum: 269,
     ignoreKlutz: true,
     fling: { basePower: 60 },
     onModifySpe: [Function: onModifySpe],
     num: 215,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   magoberry: {
-    onEat: [Function: onEat],
     name: 'Mago Berry',
     spritenum: 274,
     isBerry: true,
     naturalGift: { basePower: 80, type: 'Ghost' },
     onUpdate: [Function: onUpdate],
     onTryEatItem: [Function: onTryEatItem],
+    onEat: [Function: onEat],
     num: 161,
     gen: 3
   },
   magostberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Magost Berry',
     spritenum: 275,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Rock' },
     onEat: false,
     num: 176,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   mail: {
-    isNonstandard: 'Unobtainable',
     name: 'Mail',
     spritenum: 403,
     onTakeItem: [Function: onTakeItem],
     num: 137,
-    gen: 2
+    gen: 2,
+    isNonstandard: 'Unobtainable'
   },
   manectite: {
-    isNonstandard: null,
     name: 'Manectite',
     spritenum: 596,
     megaStone: 'Manectric-Mega',
@@ -948,10 +947,10 @@
     itemUser: [ 'Manectric' ],
     onTakeItem: [Function: onTakeItem],
     num: 682,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   marshadiumz: {
-    isNonstandard: null,
     name: 'Marshadium Z',
     spritenum: 654,
     onTakeItem: false,
@@ -959,10 +958,10 @@
     zMoveFrom: 'Spectral Thief',
     itemUser: [ 'Marshadow' ],
     num: 802,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   mawilite: {
-    isNonstandard: null,
     name: 'Mawilite',
     spritenum: 598,
     megaStone: 'Mawile-Mega',
@@ -970,10 +969,10 @@
     itemUser: [ 'Mawile' ],
     onTakeItem: [Function: onTakeItem],
     num: 681,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   meadowplate: {
-    isNonstandard: null,
     name: 'Meadow Plate',
     spritenum: 282,
     onPlate: 'Grass',
@@ -982,10 +981,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Grass',
     num: 301,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   medichamite: {
-    isNonstandard: null,
     name: 'Medichamite',
     spritenum: 599,
     megaStone: 'Medicham-Mega',
@@ -993,10 +992,10 @@
     itemUser: [ 'Medicham' ],
     onTakeItem: [Function: onTakeItem],
     num: 665,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   metagrossite: {
-    isNonstandard: null,
     name: 'Metagrossite',
     spritenum: 618,
     megaStone: 'Metagross-Mega',
@@ -1004,10 +1003,10 @@
     itemUser: [ 'Metagross' ],
     onTakeItem: [Function: onTakeItem],
     num: 758,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   mewniumz: {
-    isNonstandard: null,
     name: 'Mewnium Z',
     spritenum: 658,
     onTakeItem: false,
@@ -1015,10 +1014,10 @@
     zMoveFrom: 'Psychic',
     itemUser: [ 'Mew' ],
     num: 806,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   mewtwonitex: {
-    isNonstandard: null,
     name: 'Mewtwonite X',
     spritenum: 600,
     megaStone: 'Mewtwo-Mega-X',
@@ -1026,10 +1025,10 @@
     itemUser: [ 'Mewtwo' ],
     onTakeItem: [Function: onTakeItem],
     num: 662,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   mewtwonitey: {
-    isNonstandard: null,
     name: 'Mewtwonite Y',
     spritenum: 601,
     megaStone: 'Mewtwo-Mega-Y',
@@ -1037,10 +1036,10 @@
     itemUser: [ 'Mewtwo' ],
     onTakeItem: [Function: onTakeItem],
     num: 663,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   mimikiumz: {
-    isNonstandard: null,
     name: 'Mimikium Z',
     spritenum: 688,
     onTakeItem: false,
@@ -1053,10 +1052,10 @@
       'Mimikyu-Busted-Totem'
     ],
     num: 924,
+    isNonstandard: null,
     gen: 7
   },
   mindplate: {
-    isNonstandard: null,
     name: 'Mind Plate',
     spritenum: 291,
     onPlate: 'Psychic',
@@ -1065,50 +1064,50 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Psychic',
     num: 307,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   nanabberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Nanab Berry',
     spritenum: 302,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Water' },
     onEat: false,
     num: 166,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   nomelberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Nomel Berry',
     spritenum: 306,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Dragon' },
     onEat: false,
     num: 178,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   normaliumz: {
-    isNonstandard: null,
     name: 'Normalium Z',
     spritenum: 631,
     onTakeItem: false,
     zMove: true,
     zMoveType: 'Normal',
     num: 776,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   pamtreberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Pamtre Berry',
     spritenum: 323,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Steel' },
     onEat: false,
     num: 180,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   pidgeotite: {
-    isNonstandard: null,
     name: 'Pidgeotite',
     spritenum: 622,
     megaStone: 'Pidgeot-Mega',
@@ -1116,10 +1115,10 @@
     itemUser: [ 'Pidgeot' ],
     onTakeItem: [Function: onTakeItem],
     num: 762,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   pikaniumz: {
-    isNonstandard: null,
     name: 'Pikanium Z',
     spritenum: 649,
     onTakeItem: false,
@@ -1127,10 +1126,10 @@
     zMoveFrom: 'Volt Tackle',
     itemUser: [ 'Pikachu' ],
     num: 794,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   pikashuniumz: {
-    isNonstandard: null,
     name: 'Pikashunium Z',
     spritenum: 659,
     onTakeItem: false,
@@ -1146,20 +1145,20 @@
       'Pikachu-Partner'
     ],
     num: 836,
+    isNonstandard: null,
     gen: 7
   },
   pinapberry: {
-    isNonstandard: null,
     name: 'Pinap Berry',
     spritenum: 337,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Grass' },
     onEat: false,
     num: 168,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   pinsirite: {
-    isNonstandard: null,
     name: 'Pinsirite',
     spritenum: 602,
     megaStone: 'Pinsir-Mega',
@@ -1167,27 +1166,27 @@
     itemUser: [ 'Pinsir' ],
     onTakeItem: [Function: onTakeItem],
     num: 671,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   plumefossil: {
-    isNonstandard: null,
     name: 'Plume Fossil',
     spritenum: 339,
     fling: { basePower: 100 },
     num: 573,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   poisongem: {
-    isNonstandard: 'Unobtainable',
     name: 'Poison Gem',
     spritenum: 344,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 554,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   poisoniumz: {
-    isNonstandard: null,
     name: 'Poisonium Z',
     spritenum: 638,
     onPlate: 'Poison',
@@ -1196,10 +1195,10 @@
     zMoveType: 'Poison',
     forcedForme: 'Arceus-Poison',
     num: 783,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   primariumz: {
-    isNonstandard: null,
     name: 'Primarium Z',
     spritenum: 652,
     onTakeItem: false,
@@ -1207,19 +1206,19 @@
     zMoveFrom: 'Sparkling Aria',
     itemUser: [ 'Primarina' ],
     num: 800,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   psychicgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Psychic Gem',
     spritenum: 369,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 557,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   psychiumz: {
-    isNonstandard: null,
     name: 'Psychium Z',
     spritenum: 641,
     onPlate: 'Psychic',
@@ -1228,40 +1227,40 @@
     zMoveType: 'Psychic',
     forcedForme: 'Arceus-Psychic',
     num: 786,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   rabutaberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Rabuta Berry',
     spritenum: 375,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Ghost' },
     onEat: false,
     num: 177,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   razorfang: {
-    isNonstandard: null,
     name: 'Razor Fang',
     spritenum: 383,
     fling: { basePower: 30, volatileStatus: 'flinch' },
     onModifyMovePriority: -1,
     onModifyMove: [Function: onModifyMove],
     num: 327,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   razzberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Razz Berry',
     spritenum: 384,
     isBerry: true,
     naturalGift: { basePower: 80, type: 'Steel' },
     onEat: false,
     num: 164,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   redorb: {
-    isNonstandard: null,
     name: 'Red Orb',
     spritenum: 390,
     onSwitchIn: [Function: onSwitchIn],
@@ -1269,19 +1268,19 @@
     onTakeItem: [Function: onTakeItem],
     itemUser: [ 'Groudon' ],
     num: 534,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   rockgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Rock Gem',
     spritenum: 415,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 559,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   rockiumz: {
-    isNonstandard: null,
     name: 'Rockium Z',
     spritenum: 643,
     onPlate: 'Rock',
@@ -1290,18 +1289,18 @@
     zMoveType: 'Rock',
     forcedForme: 'Arceus-Rock',
     num: 788,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   rootfossil: {
-    isNonstandard: null,
     name: 'Root Fossil',
     spritenum: 418,
     fling: { basePower: 100 },
     num: 99,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   sablenite: {
-    isNonstandard: null,
     name: 'Sablenite',
     spritenum: 614,
     megaStone: 'Sableye-Mega',
@@ -1309,26 +1308,26 @@
     itemUser: [ 'Sableye' ],
     onTakeItem: [Function: onTakeItem],
     num: 754,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   safariball: {
-    isNonstandard: 'Unobtainable',
     name: 'Safari Ball',
     spritenum: 425,
     num: 5,
     gen: 1,
-    isPokeball: true
+    isPokeball: true,
+    isNonstandard: 'Unobtainable'
   },
   sailfossil: {
-    isNonstandard: null,
     name: 'Sail Fossil',
     spritenum: 695,
     fling: { basePower: 100 },
     num: 711,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   salamencite: {
-    isNonstandard: null,
     name: 'Salamencite',
     spritenum: 627,
     megaStone: 'Salamence-Mega',
@@ -1336,10 +1335,10 @@
     itemUser: [ 'Salamence' ],
     onTakeItem: [Function: onTakeItem],
     num: 769,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   sceptilite: {
-    isNonstandard: null,
     name: 'Sceptilite',
     spritenum: 613,
     megaStone: 'Sceptile-Mega',
@@ -1347,10 +1346,10 @@
     itemUser: [ 'Sceptile' ],
     onTakeItem: [Function: onTakeItem],
     num: 753,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   scizorite: {
-    isNonstandard: null,
     name: 'Scizorite',
     spritenum: 605,
     megaStone: 'Scizor-Mega',
@@ -1358,10 +1357,10 @@
     itemUser: [ 'Scizor' ],
     onTakeItem: [Function: onTakeItem],
     num: 670,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   sharpedonite: {
-    isNonstandard: null,
     name: 'Sharpedonite',
     spritenum: 619,
     megaStone: 'Sharpedo-Mega',
@@ -1369,18 +1368,18 @@
     itemUser: [ 'Sharpedo' ],
     onTakeItem: [Function: onTakeItem],
     num: 759,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   skullfossil: {
-    isNonstandard: null,
     name: 'Skull Fossil',
     spritenum: 449,
     fling: { basePower: 100 },
     num: 105,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   skyplate: {
-    isNonstandard: null,
     name: 'Sky Plate',
     spritenum: 450,
     onPlate: 'Flying',
@@ -1389,10 +1388,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Flying',
     num: 306,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   slowbronite: {
-    isNonstandard: null,
     name: 'Slowbronite',
     spritenum: 620,
     megaStone: 'Slowbro-Mega',
@@ -1400,10 +1399,10 @@
     itemUser: [ 'Slowbro' ],
     onTakeItem: [Function: onTakeItem],
     num: 760,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   snorliumz: {
-    isNonstandard: null,
     name: 'Snorlium Z',
     spritenum: 656,
     onTakeItem: false,
@@ -1411,10 +1410,10 @@
     zMoveFrom: 'Giga Impact',
     itemUser: [ 'Snorlax' ],
     num: 804,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   solganiumz: {
-    isNonstandard: null,
     name: 'Solganium Z',
     spritenum: 685,
     onTakeItem: false,
@@ -1422,20 +1421,20 @@
     zMoveFrom: 'Sunsteel Strike',
     itemUser: [ 'Solgaleo', 'Necrozma-Dusk-Mane' ],
     num: 921,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   spelonberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Spelon Berry',
     spritenum: 462,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Dark' },
     onEat: false,
     num: 179,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   splashplate: {
-    isNonstandard: null,
     name: 'Splash Plate',
     spritenum: 463,
     onPlate: 'Water',
@@ -1444,10 +1443,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Water',
     num: 299,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   spookyplate: {
-    isNonstandard: null,
     name: 'Spooky Plate',
     spritenum: 464,
     onPlate: 'Ghost',
@@ -1456,27 +1455,27 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Ghost',
     num: 310,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   sportball: {
-    isNonstandard: 'Unobtainable',
     name: 'Sport Ball',
     spritenum: 465,
     num: 499,
     gen: 2,
-    isPokeball: true
+    isPokeball: true,
+    isNonstandard: 'Unobtainable'
   },
   steelgem: {
-    isNonstandard: 'Unobtainable',
     name: 'Steel Gem',
     spritenum: 473,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 563,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   steeliumz: {
-    isNonstandard: null,
     name: 'Steelium Z',
     spritenum: 647,
     onPlate: 'Steel',
@@ -1485,10 +1484,10 @@
     zMoveType: 'Steel',
     forcedForme: 'Arceus-Steel',
     num: 792,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   steelixite: {
-    isNonstandard: null,
     name: 'Steelixite',
     spritenum: 621,
     megaStone: 'Steelix-Mega',
@@ -1496,20 +1495,20 @@
     itemUser: [ 'Steelix' ],
     onTakeItem: [Function: onTakeItem],
     num: 761,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   stick: {
-    isNonstandard: null,
     name: 'Stick',
     fling: { basePower: 60 },
     spritenum: 475,
     onModifyCritRatio: [Function: onModifyCritRatio],
     itemUser: [ 'Farfetch’d' ],
     num: 259,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   stoneplate: {
-    isNonstandard: null,
     name: 'Stone Plate',
     spritenum: 477,
     onPlate: 'Rock',
@@ -1518,10 +1517,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Rock',
     num: 309,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   swampertite: {
-    isNonstandard: null,
     name: 'Swampertite',
     spritenum: 612,
     megaStone: 'Swampert-Mega',
@@ -1529,10 +1528,10 @@
     itemUser: [ 'Swampert' ],
     onTakeItem: [Function: onTakeItem],
     num: 752,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   tapuniumz: {
-    isNonstandard: null,
     name: 'Tapunium Z',
     spritenum: 653,
     onTakeItem: false,
@@ -1540,10 +1539,10 @@
     zMoveFrom: "Nature's Madness",
     itemUser: [ 'Tapu Koko', 'Tapu Lele', 'Tapu Bulu', 'Tapu Fini' ],
     num: 801,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   toxicplate: {
-    isNonstandard: null,
     name: 'Toxic Plate',
     spritenum: 516,
     onPlate: 'Poison',
@@ -1552,10 +1551,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Poison',
     num: 304,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   tyranitarite: {
-    isNonstandard: null,
     name: 'Tyranitarite',
     spritenum: 607,
     megaStone: 'Tyranitar-Mega',
@@ -1563,10 +1562,10 @@
     itemUser: [ 'Tyranitar' ],
     onTakeItem: [Function: onTakeItem],
     num: 669,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   ultranecroziumz: {
-    isNonstandard: null,
     name: 'Ultranecrozium Z',
     spritenum: 687,
     onTakeItem: false,
@@ -1574,10 +1573,10 @@
     zMoveFrom: 'Photon Geyser',
     itemUser: [ 'Necrozma-Ultra' ],
     num: 923,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   venusaurite: {
-    isNonstandard: null,
     name: 'Venusaurite',
     spritenum: 608,
     megaStone: 'Venusaur-Mega',
@@ -1585,19 +1584,19 @@
     itemUser: [ 'Venusaur' ],
     onTakeItem: [Function: onTakeItem],
     num: 659,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   watergem: {
-    isNonstandard: 'Unobtainable',
     name: 'Water Gem',
     spritenum: 528,
     isGem: true,
     onSourceTryPrimaryHit: [Function: onSourceTryPrimaryHit],
     num: 549,
-    gen: 5
+    gen: 5,
+    isNonstandard: 'Unobtainable'
   },
   wateriumz: {
-    isNonstandard: null,
     name: 'Waterium Z',
     spritenum: 633,
     onPlate: 'Water',
@@ -1606,42 +1605,42 @@
     zMoveType: 'Water',
     forcedForme: 'Arceus-Water',
     num: 778,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   watmelberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Watmel Berry',
     spritenum: 530,
     isBerry: true,
     naturalGift: { basePower: 100, type: 'Fire' },
     onEat: false,
     num: 181,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   wepearberry: {
-    isNonstandard: 'Unobtainable',
     name: 'Wepear Berry',
     spritenum: 533,
     isBerry: true,
     naturalGift: { basePower: 90, type: 'Electric' },
     onEat: false,
     num: 167,
-    gen: 3
+    gen: 3,
+    isNonstandard: 'Unobtainable'
   },
   wikiberry: {
-    isNonstandard: null,
-    onEat: [Function: onEat],
     name: 'Wiki Berry',
     spritenum: 538,
     isBerry: true,
     naturalGift: { basePower: 80, type: 'Rock' },
     onUpdate: [Function: onUpdate],
     onTryEatItem: [Function: onTryEatItem],
+    onEat: [Function: onEat],
     num: 160,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   zapplate: {
-    isNonstandard: null,
     name: 'Zap Plate',
     spritenum: 572,
     onPlate: 'Electric',
@@ -1650,10 +1649,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Electric',
     num: 300,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   adamantcrystal: {
-    isNonstandard: 'Future',
     name: 'Adamant Crystal',
     spritenum: 741,
     onBasePowerPriority: 15,
@@ -1662,27 +1661,27 @@
     forcedForme: 'Dialga-Origin',
     itemUser: [ 'Dialga-Origin' ],
     num: 1777,
-    gen: 8
+    gen: 8,
+    isNonstandard: 'Future'
   },
   berryjuice: {
-    isNonstandard: null,
     name: 'Berry Juice',
     spritenum: 22,
     fling: { basePower: 30 },
     onUpdate: [Function: onUpdate],
     num: 43,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   berrysweet: {
-    isNonstandard: null,
     name: 'Berry Sweet',
     spritenum: 706,
     fling: { basePower: 10 },
     num: 1111,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   bugmemory: {
-    isNonstandard: null,
     name: 'Bug Memory',
     spritenum: 673,
     onMemory: 'Bug',
@@ -1690,10 +1689,10 @@
     forcedForme: 'Silvally-Bug',
     itemUser: [ 'Silvally-Bug' ],
     num: 909,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   burndrive: {
-    isNonstandard: null,
     name: 'Burn Drive',
     spritenum: 54,
     onTakeItem: [Function: onTakeItem],
@@ -1701,10 +1700,10 @@
     forcedForme: 'Genesect-Burn',
     itemUser: [ 'Genesect-Burn' ],
     num: 118,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   chilldrive: {
-    isNonstandard: null,
     name: 'Chill Drive',
     spritenum: 67,
     onTakeItem: [Function: onTakeItem],
@@ -1712,18 +1711,18 @@
     forcedForme: 'Genesect-Chill',
     itemUser: [ 'Genesect-Chill' ],
     num: 119,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   cloversweet: {
-    isNonstandard: null,
     name: 'Clover Sweet',
     spritenum: 707,
     fling: { basePower: 10 },
     num: 1112,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   custapberry: {
-    isNonstandard: null,
     name: 'Custap Berry',
     spritenum: 86,
     isBerry: true,
@@ -1732,10 +1731,10 @@
     onFractionalPriority: [Function: onFractionalPriority],
     onEat: [Function: onEat],
     num: 210,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   darkmemory: {
-    isNonstandard: null,
     name: 'Dark Memory',
     spritenum: 683,
     onMemory: 'Dark',
@@ -1743,10 +1742,10 @@
     forcedForme: 'Silvally-Dark',
     itemUser: [ 'Silvally-Dark' ],
     num: 919,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   deepseascale: {
-    isNonstandard: null,
     name: 'Deep Sea Scale',
     spritenum: 93,
     fling: { basePower: 30 },
@@ -1754,10 +1753,10 @@
     onModifySpD: [Function: onModifySpD],
     itemUser: [ 'Clamperl' ],
     num: 227,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   deepseatooth: {
-    isNonstandard: null,
     name: 'Deep Sea Tooth',
     spritenum: 94,
     fling: { basePower: 90 },
@@ -1765,10 +1764,10 @@
     onModifySpA: [Function: onModifySpA],
     itemUser: [ 'Clamperl' ],
     num: 226,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   dousedrive: {
-    isNonstandard: null,
     name: 'Douse Drive',
     spritenum: 103,
     onTakeItem: [Function: onTakeItem],
@@ -1776,10 +1775,10 @@
     forcedForme: 'Genesect-Douse',
     itemUser: [ 'Genesect-Douse' ],
     num: 116,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   dragonmemory: {
-    isNonstandard: null,
     name: 'Dragon Memory',
     spritenum: 682,
     onMemory: 'Dragon',
@@ -1787,34 +1786,34 @@
     forcedForme: 'Silvally-Dragon',
     itemUser: [ 'Silvally-Dragon' ],
     num: 918,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   dragonscale: {
-    isNonstandard: null,
     name: 'Dragon Scale',
     spritenum: 108,
     fling: { basePower: 30 },
     num: 235,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   dubiousdisc: {
-    isNonstandard: null,
     name: 'Dubious Disc',
     spritenum: 113,
     fling: { basePower: 50 },
     num: 324,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   electirizer: {
-    isNonstandard: null,
     name: 'Electirizer',
     spritenum: 119,
     fling: { basePower: 80 },
     num: 322,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   electricmemory: {
-    isNonstandard: null,
     name: 'Electric Memory',
     spritenum: 679,
     onMemory: 'Electric',
@@ -1822,10 +1821,10 @@
     forcedForme: 'Silvally-Electric',
     itemUser: [ 'Silvally-Electric' ],
     num: 915,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   enigmaberry: {
-    isNonstandard: null,
     name: 'Enigma Berry',
     spritenum: 124,
     isBerry: true,
@@ -1834,10 +1833,10 @@
     onTryEatItem: [Function: onTryEatItem],
     onEat: [Function: onEat],
     num: 208,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   fairymemory: {
-    isNonstandard: null,
     name: 'Fairy Memory',
     spritenum: 684,
     onMemory: 'Fairy',
@@ -1845,10 +1844,10 @@
     forcedForme: 'Silvally-Fairy',
     itemUser: [ 'Silvally-Fairy' ],
     num: 920,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fightingmemory: {
-    isNonstandard: null,
     name: 'Fighting Memory',
     spritenum: 668,
     onMemory: 'Fighting',
@@ -1856,10 +1855,10 @@
     forcedForme: 'Silvally-Fighting',
     itemUser: [ 'Silvally-Fighting' ],
     num: 904,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   firememory: {
-    isNonstandard: null,
     name: 'Fire Memory',
     spritenum: 676,
     onMemory: 'Fire',
@@ -1867,18 +1866,18 @@
     forcedForme: 'Silvally-Fire',
     itemUser: [ 'Silvally-Fire' ],
     num: 912,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   flowersweet: {
-    isNonstandard: null,
     name: 'Flower Sweet',
     spritenum: 708,
     fling: { basePower: 0 },
     num: 1113,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   flyingmemory: {
-    isNonstandard: null,
     name: 'Flying Memory',
     spritenum: 669,
     onMemory: 'Flying',
@@ -1886,51 +1885,51 @@
     forcedForme: 'Silvally-Flying',
     itemUser: [ 'Silvally-Flying' ],
     num: 905,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fossilizedbird: {
-    isNonstandard: null,
     name: 'Fossilized Bird',
     spritenum: 700,
     fling: { basePower: 100 },
     num: 1105,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fossilizeddino: {
-    isNonstandard: null,
     name: 'Fossilized Dino',
     spritenum: 703,
     fling: { basePower: 100 },
     num: 1108,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fossilizeddrake: {
-    isNonstandard: null,
     name: 'Fossilized Drake',
     spritenum: 702,
     fling: { basePower: 100 },
     num: 1107,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fossilizedfish: {
-    isNonstandard: null,
     name: 'Fossilized Fish',
     spritenum: 701,
     fling: { basePower: 100 },
     num: 1106,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fullincense: {
-    isNonstandard: null,
     name: 'Full Incense',
     spritenum: 155,
     fling: { basePower: 10 },
     onFractionalPriority: -0.1,
     num: 316,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   ghostmemory: {
-    isNonstandard: null,
     name: 'Ghost Memory',
     spritenum: 674,
     onMemory: 'Ghost',
@@ -1938,10 +1937,10 @@
     forcedForme: 'Silvally-Ghost',
     itemUser: [ 'Silvally-Ghost' ],
     num: 910,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   grassmemory: {
-    isNonstandard: null,
     name: 'Grass Memory',
     spritenum: 678,
     onMemory: 'Grass',
@@ -1949,10 +1948,10 @@
     forcedForme: 'Silvally-Grass',
     itemUser: [ 'Silvally-Grass' ],
     num: 914,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   griseouscore: {
-    isNonstandard: 'Future',
     name: 'Griseous Core',
     spritenum: 743,
     onBasePowerPriority: 15,
@@ -1961,22 +1960,22 @@
     forcedForme: 'Giratina-Origin',
     itemUser: [ 'Giratina-Origin' ],
     num: 1779,
-    gen: 8
+    gen: 8,
+    isNonstandard: 'Future'
   },
   griseousorb: {
-    onTakeItem: [Function: onTakeItem],
-    forcedForme: 'Giratina-Origin',
-    itemUser: [ 'Giratina-Origin' ],
     name: 'Griseous Orb',
     spritenum: 180,
     fling: { basePower: 60 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
+    itemUser: [ 'Giratina-Origin' ],
     num: 112,
-    gen: 4
+    gen: 4,
+    onTakeItem: [Function: onTakeItem],
+    forcedForme: 'Giratina-Origin'
   },
   groundmemory: {
-    isNonstandard: null,
     name: 'Ground Memory',
     spritenum: 671,
     onMemory: 'Ground',
@@ -1984,10 +1983,10 @@
     forcedForme: 'Silvally-Ground',
     itemUser: [ 'Silvally-Ground' ],
     num: 907,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   icememory: {
-    isNonstandard: null,
     name: 'Ice Memory',
     spritenum: 681,
     onMemory: 'Ice',
@@ -1995,10 +1994,10 @@
     forcedForme: 'Silvally-Ice',
     itemUser: [ 'Silvally-Ice' ],
     num: 917,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   jabocaberry: {
-    isNonstandard: null,
     name: 'Jaboca Berry',
     spritenum: 230,
     isBerry: true,
@@ -2006,10 +2005,10 @@
     onDamagingHit: [Function: onDamagingHit],
     onEat: [Function: onEat],
     num: 211,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   keeberry: {
-    isNonstandard: null,
     name: 'Kee Berry',
     spritenum: 593,
     isBerry: true,
@@ -2017,38 +2016,38 @@
     onAfterMoveSecondary: [Function: onAfterMoveSecondary],
     onEat: [Function: onEat],
     num: 687,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   laxincense: {
-    isNonstandard: null,
     name: 'Lax Incense',
     spritenum: 240,
     fling: { basePower: 10 },
     onModifyAccuracyPriority: -2,
     onModifyAccuracy: [Function: onModifyAccuracy],
     num: 255,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   leek: {
-    isNonstandard: null,
     name: 'Leek',
     fling: { basePower: 60 },
     spritenum: 475,
     onModifyCritRatio: [Function: onModifyCritRatio],
     itemUser: [ 'Farfetch’d', 'Farfetch’d-Galar', 'Sirfetch’d' ],
     num: 259,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   lovesweet: {
-    isNonstandard: null,
     name: 'Love Sweet',
     spritenum: 705,
     fling: { basePower: 10 },
     num: 1110,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   lustrousglobe: {
-    isNonstandard: 'Future',
     name: 'Lustrous Globe',
     spritenum: 742,
     onBasePowerPriority: 15,
@@ -2057,18 +2056,18 @@
     forcedForme: 'Palkia-Origin',
     itemUser: [ 'Palkia-Origin' ],
     num: 1778,
-    gen: 8
+    gen: 8,
+    isNonstandard: 'Future'
   },
   magmarizer: {
-    isNonstandard: null,
     name: 'Magmarizer',
     spritenum: 272,
     fling: { basePower: 80 },
     num: 323,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   marangaberry: {
-    isNonstandard: null,
     name: 'Maranga Berry',
     spritenum: 597,
     isBerry: true,
@@ -2076,10 +2075,10 @@
     onAfterMoveSecondary: [Function: onAfterMoveSecondary],
     onEat: [Function: onEat],
     num: 688,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   metalpowder: {
-    isNonstandard: null,
     name: 'Metal Powder',
     fling: { basePower: 10 },
     spritenum: 287,
@@ -2087,10 +2086,10 @@
     onModifyDef: [Function: onModifyDef],
     itemUser: [ 'Ditto' ],
     num: 257,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   micleberry: {
-    isNonstandard: null,
     name: 'Micle Berry',
     spritenum: 290,
     isBerry: true,
@@ -2099,20 +2098,20 @@
     onEat: [Function: onEat],
     condition: { duration: 2, onSourceAccuracy: [Function: onSourceAccuracy] },
     num: 209,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   oddincense: {
-    isNonstandard: null,
     name: 'Odd Incense',
     spritenum: 312,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 314,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   poisonmemory: {
-    isNonstandard: null,
     name: 'Poison Memory',
     spritenum: 670,
     onMemory: 'Poison',
@@ -2120,18 +2119,18 @@
     forcedForme: 'Silvally-Poison',
     itemUser: [ 'Silvally-Poison' ],
     num: 906,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   protector: {
-    isNonstandard: null,
     name: 'Protector',
     spritenum: 367,
     fling: { basePower: 80 },
     num: 321,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   psychicmemory: {
-    isNonstandard: null,
     name: 'Psychic Memory',
     spritenum: 680,
     onMemory: 'Psychic',
@@ -2139,38 +2138,38 @@
     forcedForme: 'Silvally-Psychic',
     itemUser: [ 'Silvally-Psychic' ],
     num: 916,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   quickpowder: {
-    isNonstandard: null,
     name: 'Quick Powder',
     spritenum: 374,
     fling: { basePower: 10 },
     onModifySpe: [Function: onModifySpe],
     itemUser: [ 'Ditto' ],
     num: 274,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   ribbonsweet: {
-    isNonstandard: null,
     name: 'Ribbon Sweet',
     spritenum: 710,
     fling: { basePower: 10 },
     num: 1115,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   rockincense: {
-    isNonstandard: null,
     name: 'Rock Incense',
     spritenum: 416,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 315,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   rockmemory: {
-    isNonstandard: null,
     name: 'Rock Memory',
     spritenum: 672,
     onMemory: 'Rock',
@@ -2178,20 +2177,20 @@
     forcedForme: 'Silvally-Rock',
     itemUser: [ 'Silvally-Rock' ],
     num: 908,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   roseincense: {
-    isNonstandard: null,
     name: 'Rose Incense',
     spritenum: 419,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 318,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   rowapberry: {
-    isNonstandard: null,
     name: 'Rowap Berry',
     spritenum: 420,
     isBerry: true,
@@ -2199,28 +2198,28 @@
     onDamagingHit: [Function: onDamagingHit],
     onEat: [Function: onEat],
     num: 212,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   sachet: {
-    isNonstandard: null,
     name: 'Sachet',
     spritenum: 691,
     fling: { basePower: 80 },
     num: 647,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   seaincense: {
-    isNonstandard: null,
     name: 'Sea Incense',
     spritenum: 430,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 254,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   shockdrive: {
-    isNonstandard: null,
     name: 'Shock Drive',
     spritenum: 442,
     onTakeItem: [Function: onTakeItem],
@@ -2228,26 +2227,26 @@
     forcedForme: 'Genesect-Shock',
     itemUser: [ 'Genesect-Shock' ],
     num: 117,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   starsweet: {
-    isNonstandard: null,
     name: 'Star Sweet',
     spritenum: 709,
     fling: { basePower: 10 },
     num: 1114,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   strawberrysweet: {
-    isNonstandard: null,
     name: 'Strawberry Sweet',
     spritenum: 704,
     fling: { basePower: 10 },
     num: 1109,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   steelmemory: {
-    isNonstandard: null,
     name: 'Steel Memory',
     spritenum: 675,
     onMemory: 'Steel',
@@ -2255,18 +2254,18 @@
     forcedForme: 'Silvally-Steel',
     itemUser: [ 'Silvally-Steel' ],
     num: 911,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   strangeball: {
-    isNonstandard: 'Future',
     name: 'Strange Ball',
     spritenum: 308,
     num: 1785,
     gen: 8,
-    isPokeball: true
+    isPokeball: true,
+    isNonstandard: 'Future'
   },
   thickclub: {
-    isNonstandard: null,
     name: 'Thick Club',
     spritenum: 491,
     fling: { basePower: 90 },
@@ -2274,818 +2273,818 @@
     onModifyAtk: [Function: onModifyAtk],
     itemUser: [ 'Marowak', 'Marowak-Alola', 'Marowak-Alola-Totem', 'Cubone' ],
     num: 258,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   tr00: {
-    isNonstandard: null,
     name: 'TR00',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1130,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr01: {
-    isNonstandard: null,
     name: 'TR01',
     fling: { basePower: 85 },
     spritenum: 721,
     num: 1131,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr02: {
-    isNonstandard: null,
     name: 'TR02',
     fling: { basePower: 90 },
     spritenum: 730,
     num: 1132,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr03: {
-    isNonstandard: null,
     name: 'TR03',
     fling: { basePower: 110 },
     spritenum: 731,
     num: 1133,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr04: {
-    isNonstandard: null,
     name: 'TR04',
     fling: { basePower: 90 },
     spritenum: 731,
     num: 1134,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr05: {
-    isNonstandard: null,
     name: 'TR05',
     fling: { basePower: 90 },
     spritenum: 735,
     num: 1135,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr06: {
-    isNonstandard: null,
     name: 'TR06',
     fling: { basePower: 110 },
     spritenum: 735,
     num: 1136,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr07: {
-    isNonstandard: null,
     name: 'TR07',
     fling: { basePower: 10 },
     spritenum: 722,
     num: 1137,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr08: {
-    isNonstandard: null,
     name: 'TR08',
     fling: { basePower: 90 },
     spritenum: 733,
     num: 1138,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr09: {
-    isNonstandard: null,
     name: 'TR09',
     fling: { basePower: 110 },
     spritenum: 733,
     num: 1139,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr10: {
-    isNonstandard: null,
     name: 'TR10',
     fling: { basePower: 100 },
     spritenum: 725,
     num: 1140,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr11: {
-    isNonstandard: null,
     name: 'TR11',
     fling: { basePower: 90 },
     spritenum: 734,
     num: 1141,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr12: {
-    isNonstandard: null,
     name: 'TR12',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1142,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr13: {
-    isNonstandard: null,
     name: 'TR13',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1143,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr14: {
-    isNonstandard: null,
     name: 'TR14',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1144,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr15: {
-    isNonstandard: null,
     name: 'TR15',
     fling: { basePower: 110 },
     spritenum: 730,
     num: 1145,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr16: {
-    isNonstandard: null,
     name: 'TR16',
     fling: { basePower: 80 },
     spritenum: 731,
     num: 1146,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr17: {
-    isNonstandard: null,
     name: 'TR17',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1147,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr18: {
-    isNonstandard: null,
     name: 'TR18',
     fling: { basePower: 80 },
     spritenum: 727,
     num: 1148,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr19: {
-    isNonstandard: null,
     name: 'TR19',
     fling: { basePower: 80 },
     spritenum: 721,
     num: 1149,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr20: {
-    isNonstandard: null,
     name: 'TR20',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1150,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr21: {
-    isNonstandard: null,
     name: 'TR21',
     fling: { basePower: 10 },
     spritenum: 722,
     num: 1151,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr22: {
-    isNonstandard: null,
     name: 'TR22',
     fling: { basePower: 90 },
     spritenum: 724,
     num: 1152,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr23: {
-    isNonstandard: null,
     name: 'TR23',
     fling: { basePower: 10 },
     spritenum: 725,
     num: 1153,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr24: {
-    isNonstandard: null,
     name: 'TR24',
     fling: { basePower: 120 },
     spritenum: 736,
     num: 1154,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr25: {
-    isNonstandard: null,
     name: 'TR25',
     fling: { basePower: 80 },
     spritenum: 734,
     num: 1155,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr26: {
-    isNonstandard: null,
     name: 'TR26',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1156,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr27: {
-    isNonstandard: null,
     name: 'TR27',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1157,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr28: {
-    isNonstandard: null,
     name: 'TR28',
     fling: { basePower: 120 },
     spritenum: 727,
     num: 1158,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr29: {
-    isNonstandard: null,
     name: 'TR29',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1159,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr30: {
-    isNonstandard: null,
     name: 'TR30',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1160,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr31: {
-    isNonstandard: null,
     name: 'TR31',
     fling: { basePower: 100 },
     spritenum: 729,
     num: 1161,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr32: {
-    isNonstandard: null,
     name: 'TR32',
     fling: { basePower: 80 },
     spritenum: 737,
     num: 1162,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr33: {
-    isNonstandard: null,
     name: 'TR33',
     fling: { basePower: 80 },
     spritenum: 728,
     num: 1163,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr34: {
-    isNonstandard: null,
     name: 'TR34',
     fling: { basePower: 120 },
     spritenum: 734,
     num: 1164,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr35: {
-    isNonstandard: null,
     name: 'TR35',
     fling: { basePower: 90 },
     spritenum: 721,
     num: 1165,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr36: {
-    isNonstandard: null,
     name: 'TR36',
     fling: { basePower: 95 },
     spritenum: 730,
     num: 1166,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr37: {
-    isNonstandard: null,
     name: 'TR37',
     fling: { basePower: 10 },
     spritenum: 737,
     num: 1167,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr38: {
-    isNonstandard: null,
     name: 'TR38',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1168,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr39: {
-    isNonstandard: null,
     name: 'TR39',
     fling: { basePower: 120 },
     spritenum: 722,
     num: 1169,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr40: {
-    isNonstandard: null,
     name: 'TR40',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1170,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr41: {
-    isNonstandard: null,
     name: 'TR41',
     fling: { basePower: 85 },
     spritenum: 730,
     num: 1171,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr42: {
-    isNonstandard: null,
     name: 'TR42',
     fling: { basePower: 90 },
     spritenum: 721,
     num: 1172,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr43: {
-    isNonstandard: null,
     name: 'TR43',
     fling: { basePower: 130 },
     spritenum: 730,
     num: 1173,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr44: {
-    isNonstandard: null,
     name: 'TR44',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1174,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr45: {
-    isNonstandard: null,
     name: 'TR45',
     fling: { basePower: 90 },
     spritenum: 731,
     num: 1175,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr46: {
-    isNonstandard: null,
     name: 'TR46',
     fling: { basePower: 10 },
     spritenum: 729,
     num: 1176,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr47: {
-    isNonstandard: null,
     name: 'TR47',
     fling: { basePower: 80 },
     spritenum: 736,
     num: 1177,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr48: {
-    isNonstandard: null,
     name: 'TR48',
     fling: { basePower: 10 },
     spritenum: 722,
     num: 1178,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr49: {
-    isNonstandard: null,
     name: 'TR49',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1179,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr50: {
-    isNonstandard: null,
     name: 'TR50',
     fling: { basePower: 90 },
     spritenum: 732,
     num: 1180,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr51: {
-    isNonstandard: null,
     name: 'TR51',
     fling: { basePower: 10 },
     spritenum: 736,
     num: 1181,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr52: {
-    isNonstandard: null,
     name: 'TR52',
     fling: { basePower: 10 },
     spritenum: 729,
     num: 1182,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr53: {
-    isNonstandard: null,
     name: 'TR53',
     fling: { basePower: 120 },
     spritenum: 722,
     num: 1183,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr54: {
-    isNonstandard: null,
     name: 'TR54',
     fling: { basePower: 10 },
     spritenum: 724,
     num: 1184,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr55: {
-    isNonstandard: null,
     name: 'TR55',
     fling: { basePower: 120 },
     spritenum: 730,
     num: 1185,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr56: {
-    isNonstandard: null,
     name: 'TR56',
     fling: { basePower: 80 },
     spritenum: 722,
     num: 1186,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr57: {
-    isNonstandard: null,
     name: 'TR57',
     fling: { basePower: 80 },
     spritenum: 724,
     num: 1187,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr58: {
-    isNonstandard: null,
     name: 'TR58',
     fling: { basePower: 80 },
     spritenum: 737,
     num: 1188,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr59: {
-    isNonstandard: null,
     name: 'TR59',
     fling: { basePower: 80 },
     spritenum: 732,
     num: 1189,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr60: {
-    isNonstandard: null,
     name: 'TR60',
     fling: { basePower: 80 },
     spritenum: 727,
     num: 1190,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr61: {
-    isNonstandard: null,
     name: 'TR61',
     fling: { basePower: 90 },
     spritenum: 727,
     num: 1191,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr62: {
-    isNonstandard: null,
     name: 'TR62',
     fling: { basePower: 85 },
     spritenum: 736,
     num: 1192,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr63: {
-    isNonstandard: null,
     name: 'TR63',
     fling: { basePower: 80 },
     spritenum: 726,
     num: 1193,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr64: {
-    isNonstandard: null,
     name: 'TR64',
     fling: { basePower: 120 },
     spritenum: 722,
     num: 1194,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr65: {
-    isNonstandard: null,
     name: 'TR65',
     fling: { basePower: 90 },
     spritenum: 732,
     num: 1195,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr66: {
-    isNonstandard: null,
     name: 'TR66',
     fling: { basePower: 120 },
     spritenum: 723,
     num: 1196,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr67: {
-    isNonstandard: null,
     name: 'TR67',
     fling: { basePower: 90 },
     spritenum: 725,
     num: 1197,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr68: {
-    isNonstandard: null,
     name: 'TR68',
     fling: { basePower: 10 },
     spritenum: 737,
     num: 1198,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr69: {
-    isNonstandard: null,
     name: 'TR69',
     fling: { basePower: 80 },
     spritenum: 734,
     num: 1199,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr70: {
-    isNonstandard: null,
     name: 'TR70',
     fling: { basePower: 80 },
     spritenum: 729,
     num: 1200,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr71: {
-    isNonstandard: null,
     name: 'TR71',
     fling: { basePower: 130 },
     spritenum: 732,
     num: 1201,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr72: {
-    isNonstandard: null,
     name: 'TR72',
     fling: { basePower: 120 },
     spritenum: 732,
     num: 1202,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr73: {
-    isNonstandard: null,
     name: 'TR73',
     fling: { basePower: 120 },
     spritenum: 724,
     num: 1203,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr74: {
-    isNonstandard: null,
     name: 'TR74',
     fling: { basePower: 80 },
     spritenum: 729,
     num: 1204,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr75: {
-    isNonstandard: null,
     name: 'TR75',
     fling: { basePower: 100 },
     spritenum: 726,
     num: 1205,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr76: {
-    isNonstandard: null,
     name: 'TR76',
     fling: { basePower: 10 },
     spritenum: 726,
     num: 1206,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr77: {
-    isNonstandard: null,
     name: 'TR77',
     fling: { basePower: 10 },
     spritenum: 732,
     num: 1207,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr78: {
-    isNonstandard: null,
     name: 'TR78',
     fling: { basePower: 95 },
     spritenum: 724,
     num: 1208,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr79: {
-    isNonstandard: null,
     name: 'TR79',
     fling: { basePower: 10 },
     spritenum: 729,
     num: 1209,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr80: {
-    isNonstandard: null,
     name: 'TR80',
     fling: { basePower: 10 },
     spritenum: 733,
     num: 1210,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr81: {
-    isNonstandard: null,
     name: 'TR81',
     fling: { basePower: 95 },
     spritenum: 737,
     num: 1211,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr82: {
-    isNonstandard: null,
     name: 'TR82',
     fling: { basePower: 20 },
     spritenum: 734,
     num: 1212,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr83: {
-    isNonstandard: null,
     name: 'TR83',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1213,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr84: {
-    isNonstandard: null,
     name: 'TR84',
     fling: { basePower: 80 },
     spritenum: 731,
     num: 1214,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr85: {
-    isNonstandard: null,
     name: 'TR85',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1215,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr86: {
-    isNonstandard: null,
     name: 'TR86',
     fling: { basePower: 90 },
     spritenum: 733,
     num: 1216,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr87: {
-    isNonstandard: null,
     name: 'TR87',
     fling: { basePower: 80 },
     spritenum: 725,
     num: 1217,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr88: {
-    isNonstandard: null,
     name: 'TR88',
     fling: { basePower: 10 },
     spritenum: 730,
     num: 1218,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr89: {
-    isNonstandard: null,
     name: 'TR89',
     fling: { basePower: 110 },
     spritenum: 723,
     num: 1219,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr90: {
-    isNonstandard: null,
     name: 'TR90',
     fling: { basePower: 90 },
     spritenum: 738,
     num: 1220,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr91: {
-    isNonstandard: null,
     name: 'TR91',
     fling: { basePower: 10 },
     spritenum: 724,
     num: 1221,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr92: {
-    isNonstandard: null,
     name: 'TR92',
     fling: { basePower: 80 },
     spritenum: 738,
     num: 1222,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr93: {
-    isNonstandard: null,
     name: 'TR93',
     fling: { basePower: 85 },
     spritenum: 737,
     num: 1223,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr94: {
-    isNonstandard: null,
     name: 'TR94',
     fling: { basePower: 95 },
     spritenum: 725,
     num: 1224,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr95: {
-    isNonstandard: null,
     name: 'TR95',
     fling: { basePower: 80 },
     spritenum: 737,
     num: 1225,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr96: {
-    isNonstandard: null,
     name: 'TR96',
     fling: { basePower: 90 },
     spritenum: 727,
     num: 1226,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr97: {
-    isNonstandard: null,
     name: 'TR97',
     fling: { basePower: 85 },
     spritenum: 734,
     num: 1227,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr98: {
-    isNonstandard: null,
     name: 'TR98',
     fling: { basePower: 85 },
     spritenum: 731,
     num: 1228,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr99: {
-    isNonstandard: null,
     name: 'TR99',
     fling: { basePower: 80 },
     spritenum: 722,
     num: 1229,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   upgrade: {
-    isNonstandard: null,
     name: 'Up-Grade',
     spritenum: 523,
     fling: { basePower: 30 },
     num: 252,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   watermemory: {
-    isNonstandard: null,
     name: 'Water Memory',
     spritenum: 677,
     onMemory: 'Water',
@@ -3093,25 +3092,26 @@
     forcedForme: 'Silvally-Water',
     itemUser: [ 'Silvally-Water' ],
     num: 913,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   waveincense: {
-    isNonstandard: null,
     name: 'Wave Incense',
     spritenum: 531,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 317,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   whippeddream: {
-    isNonstandard: null,
     name: 'Whipped Dream',
     spritenum: 692,
     fling: { basePower: 80 },
     num: 646,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   abilityshield: {
     name: 'Ability Shield',
@@ -3413,6 +3413,7 @@
     name: 'Clear Amulet',
     spritenum: 747,
     fling: { basePower: 30 },
+    onTryBoostPriority: 1,
     onTryBoost: [Function: onTryBoost],
     num: 1882,
     gen: 9

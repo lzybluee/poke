@@ -8,121 +8,121 @@
     onBeforeMove: [Function: onBeforeMove]
   },
   frz: {
-    onDamagingHit: [Function: onDamagingHit],
-    onBeforeMove: [Function: onBeforeMove],
     name: 'frz',
     effectType: 'Status',
     onStart: [Function: onStart],
     onBeforeMovePriority: 10,
+    onBeforeMove: [Function: onBeforeMove],
     onModifyMove: [Function: onModifyMove],
-    onAfterMoveSecondary: [Function: onAfterMoveSecondary]
+    onAfterMoveSecondary: [Function: onAfterMoveSecondary],
+    onDamagingHit: [Function: onDamagingHit]
   },
   sandstorm: {
-    onModifySpD: [Function: onModifySpD],
-    onFieldResidualOrder: 8,
     name: 'Sandstorm',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],
     onModifySpDPriority: 10,
+    onModifySpD: [Function: onModifySpD],
     onFieldStart: [Function: onFieldStart],
+    onFieldResidualOrder: 8,
     onFieldResidual: [Function: onFieldResidual],
     onWeather: [Function: onWeather],
     onFieldEnd: [Function: onFieldEnd]
   },
   brn: {
-    onResidualOrder: 10,
-    onResidualSubOrder: 6,
-    onResidual: [Function: onResidual],
     name: 'brn',
     effectType: 'Status',
-    onStart: [Function: onStart]
+    onStart: [Function: onStart],
+    onResidualOrder: 10,
+    onResidual: [Function: onResidual],
+    onResidualSubOrder: 6
   },
   par: {
-    onModifySpe: [Function: onModifySpe],
-    onBeforeMove: [Function: onBeforeMove],
     name: 'par',
     effectType: 'Status',
     onStart: [Function: onStart],
     onModifySpePriority: -101,
-    onBeforeMovePriority: 1
+    onModifySpe: [Function: onModifySpe],
+    onBeforeMovePriority: 1,
+    onBeforeMove: [Function: onBeforeMove]
   },
   psn: {
-    onResidualOrder: 10,
-    onResidualSubOrder: 6,
     name: 'psn',
     effectType: 'Status',
     onStart: [Function: onStart],
-    onResidual: [Function: onResidual]
+    onResidualOrder: 10,
+    onResidual: [Function: onResidual],
+    onResidualSubOrder: 6
   },
   tox: {
-    onResidualOrder: 10,
-    onResidualSubOrder: 6,
     name: 'tox',
     effectType: 'Status',
     onStart: [Function: onStart],
     onSwitchIn: [Function: onSwitchIn],
-    onResidual: [Function: onResidual]
+    onResidualOrder: 10,
+    onResidual: [Function: onResidual],
+    onResidualSubOrder: 6
   },
   confusion: {
-    onBeforeMove: [Function: onBeforeMove],
     name: 'confusion',
     onStart: [Function: onStart],
     onEnd: [Function: onEnd],
-    onBeforeMovePriority: 3
+    onBeforeMovePriority: 3,
+    onBeforeMove: [Function: onBeforeMove]
   },
   substitutebroken: { noCopy: true },
   trapped: {
-    noCopy: false,
     name: 'trapped',
+    noCopy: false,
     onTrapPokemon: [Function: onTrapPokemon],
     onStart: [Function: onStart]
   },
-  trapper: { noCopy: false, name: 'trapper' },
+  trapper: { name: 'trapper', noCopy: false },
   partiallytrapped: {
-    durationCallback: [Function: durationCallback],
-    onResidualOrder: 10,
-    onResidualSubOrder: 9,
-    onStart: [Function: onStart],
-    onResidual: [Function: onResidual],
     name: 'partiallytrapped',
     duration: 5,
+    durationCallback: [Function: durationCallback],
+    onStart: [Function: onStart],
+    onResidualOrder: 10,
+    onResidual: [Function: onResidual],
     onEnd: [Function: onEnd],
-    onTrapPokemon: [Function: onTrapPokemon]
+    onTrapPokemon: [Function: onTrapPokemon],
+    onResidualSubOrder: 9
   },
   choicelock: {
-    onStart: [Function: onStart],
-    onBeforeMove: [Function: onBeforeMove],
     name: 'choicelock',
     noCopy: true,
+    onStart: [Function: onStart],
+    onBeforeMove: [Function: onBeforeMove],
     onDisableMove: [Function: onDisableMove]
   },
   futuremove: {
-    onResidualOrder: 11,
     name: 'futuremove',
-    duration: 3,
+    onStart: [Function: onStart],
+    onResidualOrder: 11,
+    onResidual: [Function: onResidual],
     onEnd: [Function: onEnd]
   },
   stall: {
-    counterMax: 8,
     duration: 2,
+    counterMax: 8,
     onStart: [Function: onStart],
     onStallMove: [Function: onStallMove],
     onRestart: [Function: onRestart]
   },
   raindance: {
-    onFieldResidualOrder: 8,
     name: 'RainDance',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],
     onWeatherModifyDamage: [Function: onWeatherModifyDamage],
     onFieldStart: [Function: onFieldStart],
+    onFieldResidualOrder: 8,
     onFieldResidual: [Function: onFieldResidual],
     onFieldEnd: [Function: onFieldEnd]
   },
   sunnyday: {
-    onFieldResidualOrder: 8,
     name: 'SunnyDay',
     effectType: 'Weather',
     duration: 5,
@@ -130,16 +130,17 @@
     onWeatherModifyDamage: [Function: onWeatherModifyDamage],
     onFieldStart: [Function: onFieldStart],
     onImmunity: [Function: onImmunity],
+    onFieldResidualOrder: 8,
     onFieldResidual: [Function: onFieldResidual],
     onFieldEnd: [Function: onFieldEnd]
   },
   hail: {
-    onFieldResidualOrder: 8,
     name: 'Hail',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],
     onFieldStart: [Function: onFieldStart],
+    onFieldResidualOrder: 8,
     onFieldResidual: [Function: onFieldResidual],
     onWeather: [Function: onWeather],
     onFieldEnd: [Function: onFieldEnd]

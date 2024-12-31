@@ -621,6 +621,7 @@
     name: 'Clear Amulet',
     spritenum: 747,
     fling: { basePower: 30 },
+    onTryBoostPriority: 1,
     onTryBoost: [Function: onTryBoost],
     num: 1882,
     gen: 9

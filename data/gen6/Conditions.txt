@@ -1,32 +1,32 @@
 {
   brn: {
-    onResidual: [Function: onResidual],
     name: 'brn',
     effectType: 'Status',
     onStart: [Function: onStart],
-    onResidualOrder: 10
+    onResidualOrder: 10,
+    onResidual: [Function: onResidual]
   },
   par: {
-    onModifySpe: [Function: onModifySpe],
     name: 'par',
     effectType: 'Status',
     onStart: [Function: onStart],
     onModifySpePriority: -101,
+    onModifySpe: [Function: onModifySpe],
     onBeforeMovePriority: 1,
     onBeforeMove: [Function: onBeforeMove]
   },
   confusion: {
-    onBeforeMove: [Function: onBeforeMove],
     name: 'confusion',
     onStart: [Function: onStart],
     onEnd: [Function: onEnd],
-    onBeforeMovePriority: 3
+    onBeforeMovePriority: 3,
+    onBeforeMove: [Function: onBeforeMove]
   },
   choicelock: {
-    onBeforeMove: [Function: onBeforeMove],
     name: 'choicelock',
     noCopy: true,
     onStart: [Function: onStart],
+    onBeforeMove: [Function: onBeforeMove],
     onDisableMove: [Function: onDisableMove]
   },
   slp: {
@@ -111,8 +111,9 @@
   },
   futuremove: {
     name: 'futuremove',
-    duration: 3,
+    onStart: [Function: onStart],
     onResidualOrder: 3,
+    onResidual: [Function: onResidual],
     onEnd: [Function: onEnd]
   },
   healreplacement: {

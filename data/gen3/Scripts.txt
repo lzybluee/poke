@@ -4,12 +4,12 @@
   init: [Function: init],
   pokemon: { inherit: true, getActionSpeed: [Function: getActionSpeed] },
   actions: {
-    modifyDamage: [Function: modifyDamage],
-    useMoveInner: [Function: useMoveInner],
-    tryMoveHit: [Function: tryMoveHit],
-    calcRecoilDamage: [Function: calcRecoilDamage],
     inherit: true,
+    modifyDamage: [Function: modifyDamage],
     hitStepInvulnerabilityEvent: [Function: hitStepInvulnerabilityEvent],
-    hitStepAccuracy: [Function: hitStepAccuracy]
+    hitStepAccuracy: [Function: hitStepAccuracy],
+    calcRecoilDamage: [Function: calcRecoilDamage],
+    useMoveInner: [Function: useMoveInner],
+    tryMoveHit: [Function: tryMoveHit]
   }
 }

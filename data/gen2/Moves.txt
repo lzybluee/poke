@@ -1,6 +1,5 @@
 {
   aeroblast: {
-    critRatio: 3,
     num: 177,
     accuracy: 95,
     basePower: 100,
@@ -9,36 +8,36 @@
     pp: 5,
     priority: 0,
     flags: { protect: 1, mirror: 1, distance: 1, metronome: 1, wind: 1 },
+    critRatio: 3,
     secondary: null,
     target: 'any',
     type: 'Flying',
     contestType: 'Cool'
   },
   beatup: {
+    num: 251,
+    accuracy: 100,
+    basePower: 10,
+    basePowerCallback: [Function: basePowerCallback],
+    category: 'Special',
+    name: 'Beat Up',
+    pp: 10,
+    priority: 0,
+    flags: { protect: 1, mirror: 1, allyanim: 1, metronome: 1 },
     onModifyMove: [Function: onModifyMove],
+    secondary: null,
+    target: 'normal',
+    type: 'Dark',
+    contestType: 'Clever',
     condition: {
       duration: 1,
       onModifySpAPriority: -101,
       onModifySpA: [Function: onModifySpA],
       onFoeModifySpDPriority: -101,
       onFoeModifySpD: [Function: onFoeModifySpD]
-    },
-    basePower: 10,
-    basePowerCallback: [Function: basePowerCallback],
-    num: 251,
-    accuracy: 100,
-    category: 'Special',
-    name: 'Beat Up',
-    pp: 10,
-    priority: 0,
-    flags: { protect: 1, mirror: 1, allyanim: 1, metronome: 1 },
-    secondary: null,
-    target: 'normal',
-    type: 'Dark',
-    contestType: 'Clever'
+    }
   },
   bellydrum: {
-    onHit: [Function: onHit],
     num: 187,
     accuracy: true,
     basePower: 0,
@@ -47,6 +46,7 @@
     pp: 10,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -54,6 +54,24 @@
     contestType: 'Cute'
   },
   bide: {
+    num: 117,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Physical',
+    isNonstandard: null,
+    name: 'Bide',
+    pp: 10,
+    priority: 0,
+    flags: {
+      contact: 1,
+      protect: 1,
+      metronome: 1,
+      nosleeptalk: 1,
+      failinstruct: 1
+    },
+    volatileStatus: 'bide',
+    ignoreImmunity: true,
+    beforeMoveCallback: [Function: beforeMoveCallback],
     condition: {
       duration: 3,
       durationCallback: [Function: durationCallback],
@@ -65,41 +83,20 @@
       onMoveAborted: [Function: onMoveAborted],
       onEnd: [Function: onEnd]
     },
-    accuracy: 100,
-    priority: 0,
-    isNonstandard: null,
-    num: 117,
-    basePower: 0,
-    category: 'Physical',
-    name: 'Bide',
-    pp: 10,
-    flags: {
-      contact: 1,
-      protect: 1,
-      metronome: 1,
-      nosleeptalk: 1,
-      failinstruct: 1
-    },
-    volatileStatus: 'bide',
-    ignoreImmunity: true,
-    beforeMoveCallback: [Function: beforeMoveCallback],
     secondary: null,
     target: 'self',
     type: 'Normal',
     contestType: 'Tough'
   },
   counter: {
-    damageCallback: [Function: damageCallback],
-    beforeTurnCallback: [Function: beforeTurnCallback],
-    onTry: [Function: onTry],
-    condition: {},
-    priority: -1,
     num: 68,
     accuracy: 100,
     basePower: 0,
+    damageCallback: [Function: damageCallback],
     category: 'Physical',
     name: 'Counter',
     pp: 20,
+    priority: -1,
     flags: {
       contact: 1,
       protect: 1,
@@ -107,6 +104,9 @@
       noassist: 1,
       failcopycat: 1
     },
+    beforeTurnCallback: [Function: beforeTurnCallback],
+    onTry: [Function: onTry],
+    condition: {},
     secondary: null,
     target: 'scripted',
     type: 'Fighting',
@@ -114,22 +114,21 @@
     contestType: 'Tough'
   },
   crabhammer: {
-    critRatio: 3,
+    num: 152,
     accuracy: 85,
     basePower: 90,
-    num: 152,
     category: 'Special',
     name: 'Crabhammer',
     pp: 10,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    critRatio: 3,
     secondary: null,
     target: 'normal',
     type: 'Water',
     contestType: 'Tough'
   },
   crosschop: {
-    critRatio: 3,
     num: 238,
     accuracy: 80,
     basePower: 100,
@@ -138,20 +137,13 @@
     pp: 5,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    critRatio: 3,
     secondary: null,
     target: 'normal',
     type: 'Fighting',
     contestType: 'Cool'
   },
   curse: {
-    condition: {
-      onStart: [Function: onStart],
-      onAfterMoveSelf: [Function: onAfterMoveSelf]
-    },
-    flags: { metronome: 1 },
-    onModifyMove: [Function: onModifyMove],
-    type: '???',
-    target: 'normal',
     num: 174,
     accuracy: true,
     basePower: 0,
@@ -159,28 +151,30 @@
     name: 'Curse',
     pp: 10,
     priority: 0,
+    flags: { metronome: 1 },
     volatileStatus: 'curse',
+    onModifyMove: [Function: onModifyMove],
     onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
+    condition: {
+      onStart: [Function: onStart],
+      onAfterMoveSelf: [Function: onAfterMoveSelf]
+    },
     secondary: null,
+    target: 'normal',
     nonGhostTarget: 'self',
+    type: '???',
     zMove: { effect: 'curse' },
     contestType: 'Tough'
   },
   detect: {
-    priority: 2,
-    condition: {
-      duration: 1,
-      onStart: [Function: onStart],
-      onTryHitPriority: 3,
-      onTryHit: [Function: onTryHit]
-    },
     num: 197,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Detect',
     pp: 5,
+    priority: 2,
     flags: { noassist: 1, failcopycat: 1 },
     stallingMove: true,
     volatileStatus: 'protect',
@@ -190,17 +184,22 @@
     target: 'self',
     type: 'Fighting',
     zMove: { boost: { evasion: 1 } },
-    contestType: 'Cool'
+    contestType: 'Cool',
+    condition: {
+      duration: 1,
+      onStart: [Function: onStart],
+      onTryHitPriority: 3,
+      onTryHit: [Function: onTryHit]
+    }
   },
   dig: {
-    onPrepareHit: [Function: onPrepareHit],
-    condition: {
-      duration: 2,
-      onImmunity: [Function: onImmunity],
-      onInvulnerability: [Function: onInvulnerability],
-      onSourceBasePower: [Function: onSourceBasePower]
-    },
+    num: 91,
+    accuracy: 100,
     basePower: 60,
+    category: 'Physical',
+    name: 'Dig',
+    pp: 10,
+    priority: 0,
     flags: {
       contact: 1,
       charge: 1,
@@ -210,20 +209,20 @@
       metronome: 1,
       nosleeptalk: 1
     },
-    num: 91,
-    accuracy: 100,
-    category: 'Physical',
-    name: 'Dig',
-    pp: 10,
-    priority: 0,
     onTryMove: [Function: onTryMove],
+    condition: {
+      duration: 2,
+      onImmunity: [Function: onImmunity],
+      onInvulnerability: [Function: onInvulnerability],
+      onSourceBasePower: [Function: onSourceBasePower]
+    },
     secondary: null,
     target: 'normal',
     type: 'Ground',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    onPrepareHit: [Function: onPrepareHit]
   },
   doubleedge: {
-    recoil: [ 25, 100 ],
     num: 38,
     accuracy: 100,
     basePower: 120,
@@ -232,12 +231,28 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    recoil: [ 25, 100 ],
     secondary: null,
     target: 'normal',
     type: 'Normal',
     contestType: 'Tough'
   },
   encore: {
+    num: 227,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Status',
+    name: 'Encore',
+    pp: 5,
+    priority: 0,
+    flags: {
+      protect: 1,
+      mirror: 1,
+      bypasssub: 1,
+      metronome: 1,
+      failencore: 1
+    },
+    volatileStatus: 'encore',
     condition: {
       durationCallback: [Function: durationCallback],
       onStart: [Function: onStart],
@@ -247,21 +262,6 @@
       onEnd: [Function: onEnd],
       onDisableMove: [Function: onDisableMove]
     },
-    volatileStatus: 'encore',
-    flags: {
-      protect: 1,
-      mirror: 1,
-      bypasssub: 1,
-      metronome: 1,
-      failencore: 1
-    },
-    num: 227,
-    accuracy: 100,
-    basePower: 0,
-    category: 'Status',
-    name: 'Encore',
-    pp: 5,
-    priority: 0,
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -269,13 +269,13 @@
     contestType: 'Cute'
   },
   endure: {
-    priority: 2,
     num: 203,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Endure',
     pp: 10,
+    priority: 2,
     flags: { noassist: 1, failcopycat: 1 },
     stallingMove: true,
     volatileStatus: 'endure',
@@ -294,13 +294,6 @@
     contestType: 'Tough'
   },
   explosion: {
-    flags: {
-      protect: 1,
-      mirror: 1,
-      metronome: 1,
-      noparentalbond: 1,
-      nosketch: 1
-    },
     num: 153,
     accuracy: 100,
     basePower: 250,
@@ -308,6 +301,13 @@
     name: 'Explosion',
     pp: 5,
     priority: 0,
+    flags: {
+      protect: 1,
+      mirror: 1,
+      metronome: 1,
+      noparentalbond: 1,
+      nosketch: 1
+    },
     selfdestruct: 'always',
     secondary: null,
     target: 'allAdjacent',
@@ -315,12 +315,10 @@
     contestType: 'Beautiful'
   },
   flail: {
-    noDamageVariance: true,
-    willCrit: false,
-    basePowerCallback: [Function: basePowerCallback],
     num: 175,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
     name: 'Flail',
     pp: 15,
@@ -331,16 +329,18 @@
     type: 'Normal',
     zMove: { basePower: 160 },
     maxMove: { basePower: 130 },
-    contestType: 'Cute'
+    contestType: 'Cute',
+    noDamageVariance: true,
+    willCrit: false
   },
   fly: {
-    onPrepareHit: [Function: onPrepareHit],
-    condition: {
-      duration: 2,
-      onInvulnerability: [Function: onInvulnerability],
-      onSourceBasePower: [Function: onSourceBasePower]
-    },
+    num: 19,
+    accuracy: 95,
     basePower: 70,
+    category: 'Physical',
+    name: 'Fly',
+    pp: 15,
+    priority: 0,
     flags: {
       contact: 1,
       charge: 1,
@@ -351,22 +351,18 @@
       metronome: 1
     },
     onTryMove: [Function: onTryMove],
-    num: 19,
-    accuracy: 95,
-    category: 'Physical',
-    name: 'Fly',
-    pp: 15,
-    priority: 0,
+    condition: {
+      duration: 2,
+      onInvulnerability: [Function: onInvulnerability],
+      onSourceBasePower: [Function: onSourceBasePower]
+    },
     secondary: null,
     target: 'any',
     type: 'Flying',
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onPrepareHit: [Function: onPrepareHit]
   },
   focusenergy: {
-    condition: {
-      onStart: [Function: onStart],
-      onModifyCritRatio: [Function: onModifyCritRatio]
-    },
     num: 116,
     accuracy: true,
     basePower: 0,
@@ -376,6 +372,10 @@
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     volatileStatus: 'focusenergy',
+    condition: {
+      onStart: [Function: onStart],
+      onModifyCritRatio: [Function: onModifyCritRatio]
+    },
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -383,22 +383,22 @@
     contestType: 'Cool'
   },
   foresight: {
+    num: 193,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Foresight',
+    pp: 40,
+    priority: 0,
+    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
+    volatileStatus: 'foresight',
     onTryHit: [Function: onTryHit],
     condition: {
       onStart: [Function: onStart],
       onNegateImmunity: [Function: onNegateImmunity],
       onModifyBoost: [Function: onModifyBoost]
     },
-    accuracy: 100,
-    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
-    isNonstandard: null,
-    num: 193,
-    basePower: 0,
-    category: 'Status',
-    name: 'Foresight',
-    pp: 40,
-    priority: 0,
-    volatileStatus: 'foresight',
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -406,12 +406,12 @@
     contestType: 'Clever'
   },
   frustration: {
-    basePowerCallback: [Function: basePowerCallback],
-    isNonstandard: null,
     num: 218,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Frustration',
     pp: 20,
     priority: 0,
@@ -424,8 +424,6 @@
     contestType: 'Cute'
   },
   healbell: {
-    onHit: [Function: onHit],
-    flags: { snatch: 1, sound: 1, metronome: 1 },
     num: 215,
     accuracy: true,
     basePower: 0,
@@ -433,67 +431,63 @@
     name: 'Heal Bell',
     pp: 5,
     priority: 0,
+    flags: { snatch: 1, sound: 1, metronome: 1 },
+    onHit: [Function: onHit],
     target: 'allyTeam',
     type: 'Normal',
     zMove: { effect: 'heal' },
     contestType: 'Beautiful'
   },
   highjumpkick: {
-    onMoveFail: [Function: onMoveFail],
-    basePower: 85,
-    pp: 20,
     num: 136,
     accuracy: 90,
+    basePower: 85,
     category: 'Physical',
     name: 'High Jump Kick',
+    pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, gravity: 1, metronome: 1 },
     hasCrashDamage: true,
+    onMoveFail: [Function: onMoveFail],
     secondary: null,
     target: 'normal',
     type: 'Fighting',
     contestType: 'Cool'
   },
   jumpkick: {
-    onMoveFail: [Function: onMoveFail],
-    basePower: 70,
-    pp: 25,
-    isNonstandard: null,
     num: 26,
     accuracy: 95,
+    basePower: 70,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Jump Kick',
+    pp: 25,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, gravity: 1, metronome: 1 },
     hasCrashDamage: true,
+    onMoveFail: [Function: onMoveFail],
     secondary: null,
     target: 'normal',
     type: 'Fighting',
     contestType: 'Cool'
   },
   karatechop: {
-    critRatio: 3,
-    isNonstandard: null,
     num: 2,
     accuracy: 100,
     basePower: 50,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Karate Chop',
     pp: 25,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    critRatio: 3,
     secondary: null,
     target: 'normal',
     type: 'Fighting',
     contestType: 'Tough'
   },
   leechseed: {
-    onHit: [Function: onHit],
-    condition: {
-      onStart: [Function: onStart],
-      onAfterMoveSelfPriority: 2,
-      onAfterMoveSelf: [Function: onAfterMoveSelf]
-    },
     num: 73,
     accuracy: 90,
     basePower: 0,
@@ -503,20 +497,20 @@
     priority: 0,
     flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
     volatileStatus: 'leechseed',
+    condition: {
+      onStart: [Function: onStart],
+      onAfterMoveSelfPriority: 2,
+      onAfterMoveSelf: [Function: onAfterMoveSelf]
+    },
     onTryImmunity: [Function: onTryImmunity],
     secondary: null,
     target: 'normal',
     type: 'Grass',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onHit: [Function: onHit]
   },
   lightscreen: {
-    condition: {
-      duration: 5,
-      onSideStart: [Function: onSideStart],
-      onSideResidualOrder: 9,
-      onSideEnd: [Function: onSideEnd]
-    },
     num: 113,
     accuracy: true,
     basePower: 0,
@@ -526,6 +520,12 @@
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     sideCondition: 'lightscreen',
+    condition: {
+      duration: 5,
+      onSideStart: [Function: onSideStart],
+      onSideResidualOrder: 9,
+      onSideEnd: [Function: onSideEnd]
+    },
     secondary: null,
     target: 'allySide',
     type: 'Psychic',
@@ -533,17 +533,17 @@
     contestType: 'Beautiful'
   },
   lockon: {
-    onTryHit: [Function: onTryHit],
-    condition: { duration: 2, onSourceAccuracy: [Function: onSourceAccuracy] },
-    accuracy: 100,
     num: 199,
+    accuracy: 100,
     basePower: 0,
     category: 'Status',
     name: 'Lock-On',
     pp: 5,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
+    condition: { duration: 2, onSourceAccuracy: [Function: onSourceAccuracy] },
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -551,24 +551,23 @@
     contestType: 'Clever'
   },
   lowkick: {
+    num: 67,
     accuracy: 90,
     basePower: 50,
     basePowerCallback: [Function: basePowerCallback],
-    secondary: { chance: 30, volatileStatus: 'flinch' },
-    onTryHit: [Function: onTryHit],
-    num: 67,
     category: 'Physical',
     name: 'Low Kick',
     pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
+    secondary: { chance: 30, volatileStatus: 'flinch' },
     target: 'normal',
     type: 'Fighting',
     zMove: { basePower: 160 },
     contestType: 'Tough'
   },
   meanlook: {
-    flags: { reflectable: 1, mirror: 1, metronome: 1 },
     num: 212,
     accuracy: true,
     basePower: 0,
@@ -576,6 +575,7 @@
     name: 'Mean Look',
     pp: 5,
     priority: 0,
+    flags: { reflectable: 1, mirror: 1, metronome: 1 },
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -584,7 +584,6 @@
     contestType: 'Beautiful'
   },
   metronome: {
-    flags: { failencore: 1, nosketch: 1 },
     num: 118,
     accuracy: true,
     basePower: 0,
@@ -592,6 +591,7 @@
     name: 'Metronome',
     pp: 10,
     priority: 0,
+    flags: { failencore: 1, nosketch: 1 },
     onHit: [Function: onHit],
     callsMove: true,
     secondary: null,
@@ -600,7 +600,13 @@
     contestType: 'Cute'
   },
   mimic: {
+    num: 102,
     accuracy: 100,
+    basePower: 0,
+    category: 'Status',
+    name: 'Mimic',
+    pp: 10,
+    priority: 0,
     flags: {
       protect: 1,
       bypasssub: 1,
@@ -610,12 +616,6 @@
       nosketch: 1
     },
     onHit: [Function: onHit],
-    num: 102,
-    basePower: 0,
-    category: 'Status',
-    name: 'Mimic',
-    pp: 10,
-    priority: 0,
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -623,16 +623,16 @@
     contestType: 'Cute'
   },
   mindreader: {
-    onTryHit: [Function: onTryHit],
-    accuracy: 100,
-    isNonstandard: null,
     num: 170,
+    accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Mind Reader',
     pp: 5,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -641,41 +641,41 @@
     contestType: 'Clever'
   },
   mirrorcoat: {
-    damageCallback: [Function: damageCallback],
-    beforeTurnCallback: [Function: beforeTurnCallback],
-    onTry: [Function: onTry],
-    condition: {},
-    priority: -1,
-    flags: { protect: 1, failmefirst: 1, noassist: 1, failcopycat: 1 },
     num: 243,
     accuracy: 100,
     basePower: 0,
+    damageCallback: [Function: damageCallback],
     category: 'Special',
     name: 'Mirror Coat',
     pp: 20,
+    priority: -1,
+    flags: { protect: 1, failmefirst: 1, noassist: 1, failcopycat: 1 },
+    beforeTurnCallback: [Function: beforeTurnCallback],
+    onTry: [Function: onTry],
+    condition: {},
     secondary: null,
     target: 'scripted',
     type: 'Psychic',
     contestType: 'Beautiful'
   },
   mirrormove: {
-    flags: { metronome: 1, failencore: 1, nosketch: 1 },
-    onHit: [Function: onHit],
-    onTryHit: [Function: onTryHit],
-    target: 'self',
-    isNonstandard: null,
     num: 119,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Mirror Move',
     pp: 20,
     priority: 0,
+    flags: { metronome: 1, failencore: 1, nosketch: 1 },
+    onTryHit: [Function: onTryHit],
     callsMove: true,
     secondary: null,
+    target: 'self',
     type: 'Flying',
     zMove: { boost: { atk: 2 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onHit: [Function: onHit]
   },
   mist: {
     num: 54,
@@ -696,8 +696,6 @@
     type: 'Ice'
   },
   moonlight: {
-    onHit: [Function: onHit],
-    type: 'Normal',
     num: 236,
     accuracy: true,
     basePower: 0,
@@ -706,13 +704,14 @@
     pp: 5,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
+    type: 'Normal',
     zMove: { effect: 'clearnegativeboost' },
     contestType: 'Beautiful'
   },
   morningsun: {
-    onHit: [Function: onHit],
     num: 234,
     accuracy: true,
     basePower: 0,
@@ -721,6 +720,7 @@
     pp: 5,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -728,22 +728,22 @@
     contestType: 'Beautiful'
   },
   nightmare: {
+    num: 171,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Nightmare',
+    pp: 15,
+    priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
+    volatileStatus: 'nightmare',
     condition: {
       noCopy: true,
       onStart: [Function: onStart],
       onAfterMoveSelfPriority: 1,
       onAfterMoveSelf: [Function: onAfterMoveSelf]
     },
-    accuracy: true,
-    isNonstandard: null,
-    num: 171,
-    basePower: 0,
-    category: 'Status',
-    name: 'Nightmare',
-    pp: 15,
-    priority: 0,
-    flags: { protect: 1, mirror: 1, metronome: 1 },
-    volatileStatus: 'nightmare',
     secondary: null,
     target: 'normal',
     type: 'Ghost',
@@ -751,14 +751,12 @@
     contestType: 'Clever'
   },
   outrage: {
-    onMoveFail: [Function: onMoveFail],
-    onAfterMove: [Function: onAfterMove],
-    basePower: 90,
-    pp: 15,
     num: 200,
     accuracy: 100,
+    basePower: 90,
     category: 'Special',
     name: 'Outrage',
+    pp: 15,
     priority: 0,
     flags: {
       contact: 1,
@@ -768,14 +766,16 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
+    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Dragon',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    onMoveFail: [Function: onMoveFail]
   },
   painsplit: {
-    accuracy: 100,
     num: 220,
+    accuracy: 100,
     basePower: 0,
     category: 'Status',
     name: 'Pain Split',
@@ -790,13 +790,6 @@
     contestType: 'Clever'
   },
   perishsong: {
-    condition: {
-      duration: 4,
-      onEnd: [Function: onEnd],
-      onResidualOrder: 4,
-      onResidual: [Function: onResidual]
-    },
-    flags: { sound: 1, distance: 1, metronome: 1 },
     num: 195,
     accuracy: true,
     basePower: 0,
@@ -804,7 +797,14 @@
     name: 'Perish Song',
     pp: 5,
     priority: 0,
+    flags: { sound: 1, distance: 1, metronome: 1 },
     onHitField: [Function: onHitField],
+    condition: {
+      duration: 4,
+      onEnd: [Function: onEnd],
+      onResidualOrder: 4,
+      onResidual: [Function: onResidual]
+    },
     secondary: null,
     target: 'all',
     type: 'Normal',
@@ -812,14 +812,12 @@
     contestType: 'Beautiful'
   },
   petaldance: {
-    onMoveFail: [Function: onMoveFail],
-    onAfterMove: [Function: onAfterMove],
-    basePower: 70,
-    pp: 20,
     num: 80,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     name: 'Petal Dance',
+    pp: 20,
     priority: 0,
     flags: {
       contact: 1,
@@ -830,16 +828,16 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
+    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Grass',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    onMoveFail: [Function: onMoveFail]
   },
   poisongas: {
-    ignoreImmunity: false,
-    accuracy: 55,
-    target: 'normal',
     num: 139,
+    accuracy: 55,
     basePower: 0,
     category: 'Status',
     name: 'Poison Gas',
@@ -848,13 +846,13 @@
     flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
     status: 'psn',
     secondary: null,
+    target: 'normal',
     type: 'Poison',
     zMove: { boost: { def: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    ignoreImmunity: false
   },
   poisonpowder: {
-    ignoreImmunity: false,
-    onTryHit: [Function: onTryHit],
     num: 77,
     accuracy: 75,
     basePower: 0,
@@ -868,27 +866,29 @@
     target: 'normal',
     type: 'Poison',
     zMove: { boost: { def: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit],
+    ignoreImmunity: false
   },
   protect: {
-    priority: 2,
-    condition: {
-      duration: 1,
-      onStart: [Function: onStart],
-      onTryHitPriority: 3,
-      onTryHit: [Function: onTryHit]
-    },
     num: 182,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Protect',
     pp: 10,
+    priority: 2,
     flags: { noassist: 1, failcopycat: 1 },
     stallingMove: true,
     volatileStatus: 'protect',
     onPrepareHit: [Function: onPrepareHit],
     onHit: [Function: onHit],
+    condition: {
+      duration: 1,
+      onStart: [Function: onStart],
+      onTryHitPriority: 3,
+      onTryHit: [Function: onTryHit]
+    },
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -896,12 +896,12 @@
     contestType: 'Cute'
   },
   psywave: {
-    damageCallback: [Function: damageCallback],
-    accuracy: 80,
-    isNonstandard: null,
     num: 149,
+    accuracy: 80,
     basePower: 0,
+    damageCallback: [Function: damageCallback],
     category: 'Special',
+    isNonstandard: null,
     name: 'Psywave',
     pp: 15,
     priority: 0,
@@ -912,27 +912,26 @@
     contestType: 'Clever'
   },
   pursuit: {
-    onModifyMove: [Function: onModifyMove],
-    condition: { duration: 1, onBeforeSwitchOut: [Function: onBeforeSwitchOut] },
-    isNonstandard: null,
     num: 228,
     accuracy: 100,
     basePower: 40,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
+    isNonstandard: null,
     name: 'Pursuit',
     pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     beforeTurnCallback: [Function: beforeTurnCallback],
+    onModifyMove: [Function: onModifyMove],
     onTryHit: [Function: onTryHit],
+    condition: { duration: 1, onBeforeSwitchOut: [Function: onBeforeSwitchOut] },
     secondary: null,
     target: 'normal',
     type: 'Dark',
     contestType: 'Clever'
   },
   razorleaf: {
-    critRatio: 3,
     num: 75,
     accuracy: 95,
     basePower: 55,
@@ -941,19 +940,18 @@
     pp: 25,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1, slicing: 1 },
+    critRatio: 3,
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Grass',
     contestType: 'Cool'
   },
   razorwind: {
-    accuracy: 75,
-    critRatio: 3,
-    onPrepareHit: [Function: onPrepareHit],
-    isNonstandard: null,
     num: 13,
+    accuracy: 75,
     basePower: 80,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Razor Wind',
     pp: 10,
     priority: 0,
@@ -966,18 +964,14 @@
       failinstruct: 1
     },
     onTryMove: [Function: onTryMove],
+    critRatio: 3,
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Normal',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    onPrepareHit: [Function: onPrepareHit]
   },
   reflect: {
-    condition: {
-      duration: 5,
-      onSideStart: [Function: onSideStart],
-      onSideResidualOrder: 9,
-      onSideEnd: [Function: onSideEnd]
-    },
     num: 115,
     accuracy: true,
     basePower: 0,
@@ -987,6 +981,12 @@
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     sideCondition: 'reflect',
+    condition: {
+      duration: 5,
+      onSideStart: [Function: onSideStart],
+      onSideResidualOrder: 9,
+      onSideEnd: [Function: onSideEnd]
+    },
     secondary: null,
     target: 'allySide',
     type: 'Psychic',
@@ -994,29 +994,29 @@
     contestType: 'Clever'
   },
   rest: {
-    onTry: [Function: onTry],
-    onHit: [Function: onHit],
-    secondary: null,
-    pp: 10,
     num: 156,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Rest',
+    pp: 10,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
+    onTry: [Function: onTry],
+    onHit: [Function: onHit],
+    secondary: null,
     target: 'self',
     type: 'Psychic',
     zMove: { effect: 'clearnegativeboost' },
     contestType: 'Cute'
   },
   return: {
-    basePowerCallback: [Function: basePowerCallback],
-    isNonstandard: null,
     num: 216,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Return',
     pp: 20,
     priority: 0,
@@ -1029,12 +1029,10 @@
     contestType: 'Cute'
   },
   reversal: {
-    noDamageVariance: true,
-    willCrit: false,
-    basePowerCallback: [Function: basePowerCallback],
     num: 179,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
     name: 'Reversal',
     pp: 15,
@@ -1044,35 +1042,28 @@
     target: 'normal',
     type: 'Fighting',
     zMove: { basePower: 160 },
-    contestType: 'Cool'
+    contestType: 'Cool',
+    noDamageVariance: true,
+    willCrit: false
   },
   roar: {
-    onTryHit: [Function: onTryHit],
-    priority: -1,
-    flags: { protect: 1, mirror: 1, sound: 1, bypasssub: 1, metronome: 1 },
-    accuracy: 100,
     num: 46,
+    accuracy: 100,
     basePower: 0,
     category: 'Status',
     name: 'Roar',
     pp: 20,
+    priority: -1,
+    flags: { protect: 1, mirror: 1, sound: 1, bypasssub: 1, metronome: 1 },
     forceSwitch: true,
     secondary: null,
     target: 'normal',
     type: 'Normal',
     zMove: { boost: { def: 1 } },
-    contestType: 'Cool'
+    contestType: 'Cool',
+    onTryHit: [Function: onTryHit]
   },
   safeguard: {
-    condition: {
-      duration: 5,
-      durationCallback: [Function: durationCallback],
-      onSetStatus: [Function: onSetStatus],
-      onTryAddVolatile: [Function: onTryAddVolatile],
-      onSideStart: [Function: onSideStart],
-      onSideResidualOrder: 8,
-      onSideEnd: [Function: onSideEnd]
-    },
     num: 219,
     accuracy: true,
     basePower: 0,
@@ -1082,6 +1073,15 @@
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     sideCondition: 'safeguard',
+    condition: {
+      duration: 5,
+      durationCallback: [Function: durationCallback],
+      onSetStatus: [Function: onSetStatus],
+      onTryAddVolatile: [Function: onTryAddVolatile],
+      onSideStart: [Function: onSideStart],
+      onSideResidualOrder: 8,
+      onSideEnd: [Function: onSideEnd]
+    },
     secondary: null,
     target: 'allySide',
     type: 'Normal',
@@ -1089,13 +1089,6 @@
     contestType: 'Beautiful'
   },
   selfdestruct: {
-    flags: {
-      protect: 1,
-      mirror: 1,
-      metronome: 1,
-      noparentalbond: 1,
-      nosketch: 1
-    },
     num: 120,
     accuracy: 100,
     basePower: 200,
@@ -1103,6 +1096,13 @@
     name: 'Self-Destruct',
     pp: 5,
     priority: 0,
+    flags: {
+      protect: 1,
+      mirror: 1,
+      metronome: 1,
+      noparentalbond: 1,
+      nosketch: 1
+    },
     selfdestruct: 'always',
     secondary: null,
     target: 'allAdjacent',
@@ -1110,9 +1110,6 @@
     contestType: 'Beautiful'
   },
   sketch: {
-    flags: { bypasssub: 1, failencore: 1, noassist: 1, nosketch: 1 },
-    onHit: [Function: onHit],
-    isNonstandard: null,
     num: 166,
     accuracy: true,
     basePower: 0,
@@ -1121,21 +1118,23 @@
     pp: 1,
     noPPBoosts: true,
     priority: 0,
+    flags: { bypasssub: 1, failencore: 1, noassist: 1, nosketch: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Normal',
     zMove: { boost: { atk: 1, def: 1, spa: 1, spd: 1, spe: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    isNonstandard: null
   },
   skullbash: {
-    onPrepareHit: [Function: onPrepareHit],
-    basePower: 100,
-    pp: 15,
-    isNonstandard: null,
     num: 130,
     accuracy: 100,
+    basePower: 100,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Skull Bash',
+    pp: 15,
     priority: 0,
     flags: {
       contact: 1,
@@ -1150,12 +1149,10 @@
     secondary: null,
     target: 'normal',
     type: 'Normal',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    onPrepareHit: [Function: onPrepareHit]
   },
   skyattack: {
-    critRatio: 1,
-    onPrepareHit: [Function: onPrepareHit],
-    secondary: null,
     num: 143,
     accuracy: 90,
     basePower: 140,
@@ -1172,13 +1169,15 @@
       nosleeptalk: 1,
       failinstruct: 1
     },
+    critRatio: 1,
     onTryMove: [Function: onTryMove],
+    secondary: null,
     target: 'any',
     type: 'Flying',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    onPrepareHit: [Function: onPrepareHit]
   },
   slash: {
-    critRatio: 3,
     num: 163,
     accuracy: 100,
     basePower: 70,
@@ -1187,15 +1186,13 @@
     pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1, slicing: 1 },
+    critRatio: 3,
     secondary: null,
     target: 'normal',
     type: 'Normal',
     contestType: 'Cool'
   },
   sleeptalk: {
-    flags: { failencore: 1, nosleeptalk: 1, nosketch: 1 },
-    onHit: [Function: onHit],
-    onTryHit: [Function: onTryHit],
     num: 214,
     accuracy: true,
     basePower: 0,
@@ -1203,18 +1200,19 @@
     name: 'Sleep Talk',
     pp: 10,
     priority: 0,
+    flags: { failencore: 1, nosleeptalk: 1, nosketch: 1 },
     sleepUsable: true,
     onTry: [Function: onTry],
+    onHit: [Function: onHit],
     callsMove: true,
     secondary: null,
     target: 'self',
     type: 'Normal',
     zMove: { effect: 'crit2' },
-    contestType: 'Cute'
+    contestType: 'Cute',
+    onTryHit: [Function: onTryHit]
   },
   solarbeam: {
-    onPrepareHit: [Function: onPrepareHit],
-    onBasePower: [Function: onBasePower],
     num: 76,
     accuracy: 100,
     basePower: 120,
@@ -1231,21 +1229,23 @@
       failinstruct: 1
     },
     onTryMove: [Function: onTryMove],
+    onBasePower: [Function: onBasePower],
     secondary: null,
     target: 'normal',
     type: 'Grass',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    onPrepareHit: [Function: onPrepareHit]
   },
   spiderweb: {
-    flags: { reflectable: 1, mirror: 1, metronome: 1 },
-    isNonstandard: null,
     num: 169,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Spider Web',
     pp: 10,
     priority: 0,
+    flags: { reflectable: 1, mirror: 1, metronome: 1 },
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -1254,11 +1254,6 @@
     contestType: 'Clever'
   },
   spikes: {
-    condition: {
-      onSideStart: [Function: onSideStart],
-      onSwitchIn: [Function: onSwitchIn]
-    },
-    flags: { metronome: 1, mustpressure: 1 },
     num: 191,
     accuracy: true,
     basePower: 0,
@@ -1266,7 +1261,12 @@
     name: 'Spikes',
     pp: 20,
     priority: 0,
+    flags: { metronome: 1, mustpressure: 1 },
     sideCondition: 'spikes',
+    condition: {
+      onSideStart: [Function: onSideStart],
+      onSwitchIn: [Function: onSwitchIn]
+    },
     secondary: null,
     target: 'foeSide',
     type: 'Ground',
@@ -1274,12 +1274,6 @@
     contestType: 'Clever'
   },
   substitute: {
-    condition: {
-      onStart: [Function: onStart],
-      onTryPrimaryHitPriority: -1,
-      onTryPrimaryHit: [Function: onTryPrimaryHit],
-      onEnd: [Function: onEnd]
-    },
     num: 164,
     accuracy: true,
     basePower: 0,
@@ -1291,6 +1285,12 @@
     volatileStatus: 'substitute',
     onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
+    condition: {
+      onStart: [Function: onStart],
+      onTryPrimaryHitPriority: -1,
+      onTryPrimaryHit: [Function: onTryPrimaryHit],
+      onEnd: [Function: onEnd]
+    },
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -1298,9 +1298,8 @@
     contestType: 'Cute'
   },
   swagger: {
-    onTryHit: [Function: onTryHit],
-    accuracy: 90,
     num: 207,
+    accuracy: 90,
     basePower: 0,
     category: 'Status',
     name: 'Swagger',
@@ -1319,10 +1318,10 @@
     target: 'normal',
     type: 'Normal',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Cute'
+    contestType: 'Cute',
+    onTryHit: [Function: onTryHit]
   },
   synthesis: {
-    onHit: [Function: onHit],
     num: 235,
     accuracy: true,
     basePower: 0,
@@ -1331,6 +1330,7 @@
     pp: 5,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
     type: 'Grass',
@@ -1338,14 +1338,12 @@
     contestType: 'Clever'
   },
   thief: {
-    onAfterHit: [Function: onAfterHit],
-    secondary: { chance: 100, onHit: [Function: onHit] },
-    basePower: 40,
-    pp: 10,
     num: 168,
     accuracy: 100,
+    basePower: 40,
     category: 'Special',
     name: 'Thief',
+    pp: 10,
     priority: 0,
     flags: {
       contact: 1,
@@ -1355,19 +1353,19 @@
       noassist: 1,
       failcopycat: 1
     },
+    onAfterHit: [Function: onAfterHit],
+    secondary: { chance: 100, onHit: [Function: onHit] },
     target: 'normal',
     type: 'Dark',
     contestType: 'Tough'
   },
   thrash: {
-    onMoveFail: [Function: onMoveFail],
-    onAfterMove: [Function: onAfterMove],
-    basePower: 90,
-    pp: 20,
     num: 37,
     accuracy: 100,
+    basePower: 90,
     category: 'Physical',
     name: 'Thrash',
+    pp: 20,
     priority: 0,
     flags: {
       contact: 1,
@@ -1377,23 +1375,16 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
+    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Normal',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    onMoveFail: [Function: onMoveFail]
   },
   toxic: {
-    ignoreImmunity: false,
-    accuracy: 85,
-    onPrepareHit: [Function: onPrepareHit],
-    condition: {
-      noCopy: true,
-      duration: 1,
-      onSourceInvulnerabilityPriority: 1,
-      onSourceInvulnerability: [Function: onSourceInvulnerability],
-      onSourceAccuracy: [Function: onSourceAccuracy]
-    },
     num: 92,
+    accuracy: 85,
     basePower: 0,
     category: 'Status',
     name: 'Toxic',
@@ -1405,10 +1396,18 @@
     target: 'normal',
     type: 'Poison',
     zMove: { boost: { def: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onPrepareHit: [Function: onPrepareHit],
+    condition: {
+      noCopy: true,
+      duration: 1,
+      onSourceInvulnerabilityPriority: 1,
+      onSourceInvulnerability: [Function: onSourceInvulnerability],
+      onSourceAccuracy: [Function: onSourceAccuracy]
+    },
+    ignoreImmunity: false
   },
   transform: {
-    flags: { bypasssub: 1, metronome: 1, failencore: 1, nosketch: 1 },
     num: 144,
     accuracy: true,
     basePower: 0,
@@ -1416,6 +1415,7 @@
     name: 'Transform',
     pp: 10,
     priority: 0,
+    flags: { bypasssub: 1, metronome: 1, failencore: 1, nosketch: 1 },
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -1424,8 +1424,6 @@
     contestType: 'Clever'
   },
   triattack: {
-    onHit: [Function: onHit],
-    secondary: { chance: 20, onHit: [Function: onHit] },
     num: 161,
     accuracy: 100,
     basePower: 80,
@@ -1434,13 +1432,13 @@
     pp: 10,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
+    secondary: { chance: 20, onHit: [Function: onHit] },
     target: 'normal',
     type: 'Normal',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    onHit: [Function: onHit]
   },
   triplekick: {
-    multiaccuracy: false,
-    multihit: [ 1, 3 ],
     num: 167,
     accuracy: 90,
     basePower: 10,
@@ -1450,6 +1448,8 @@
     pp: 10,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    multihit: [ 1, 3 ],
+    multiaccuracy: false,
     secondary: null,
     target: 'normal',
     type: 'Fighting',
@@ -1458,31 +1458,31 @@
     contestType: 'Cool'
   },
   whirlwind: {
-    onTryHit: [Function: onTryHit],
-    priority: -1,
-    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
-    accuracy: 100,
     num: 18,
+    accuracy: 100,
     basePower: 0,
     category: 'Status',
     name: 'Whirlwind',
     pp: 20,
+    priority: -1,
+    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
     forceSwitch: true,
     secondary: null,
     target: 'normal',
     type: 'Normal',
     zMove: { boost: { spd: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit]
   },
   absorb: {
-    pp: 20,
-    flags: { protect: 1, mirror: 1, metronome: 1 },
     num: 71,
     accuracy: 100,
     basePower: 20,
     category: 'Special',
     name: 'Absorb',
+    pp: 20,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     drain: [ 1, 2 ],
     secondary: null,
     target: 'normal',
@@ -1490,7 +1490,6 @@
     contestType: 'Clever'
   },
   acid: {
-    secondary: { chance: 10, boosts: { def: -1 } },
     num: 51,
     accuracy: 100,
     basePower: 40,
@@ -1499,12 +1498,12 @@
     pp: 30,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
+    secondary: { chance: 10, boosts: { def: -1 } },
     target: 'allAdjacentFoes',
     type: 'Poison',
     contestType: 'Clever'
   },
   ancientpower: {
-    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     num: 246,
     accuracy: 100,
     basePower: 60,
@@ -1512,6 +1511,7 @@
     name: 'Ancient Power',
     pp: 5,
     priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     secondary: {
       chance: 10,
       self: { boosts: { atk: 1, def: 1, spa: 1, spd: 1, spe: 1 } }
@@ -1521,15 +1521,15 @@
     contestType: 'Tough'
   },
   assist: {
-    flags: { metronome: 1, noassist: 1, nosleeptalk: 1 },
-    isNonstandard: null,
     num: 274,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Assist',
     pp: 20,
     priority: 0,
+    flags: { metronome: 1, noassist: 1, nosleeptalk: 1 },
     onHit: [Function: onHit],
     callsMove: true,
     secondary: null,
@@ -1538,7 +1538,6 @@
     contestType: 'Cute'
   },
   astonish: {
-    basePowerCallback: [Function: basePowerCallback],
     num: 310,
     accuracy: 100,
     basePower: 30,
@@ -1550,25 +1549,25 @@
     secondary: { chance: 30, volatileStatus: 'flinch' },
     target: 'normal',
     type: 'Ghost',
-    contestType: 'Cute'
+    contestType: 'Cute',
+    basePowerCallback: [Function: basePowerCallback]
   },
   blizzard: {
-    onModifyMove: [Function: onModifyMove],
-    basePower: 120,
     num: 59,
     accuracy: 70,
+    basePower: 120,
     category: 'Special',
     name: 'Blizzard',
     pp: 5,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1, wind: 1 },
+    onModifyMove: [Function: onModifyMove],
     secondary: { chance: 10, status: 'frz' },
     target: 'allAdjacentFoes',
     type: 'Ice',
     contestType: 'Beautiful'
   },
   brickbreak: {
-    onTryHit: [Function: onTryHit],
     num: 280,
     accuracy: 100,
     basePower: 75,
@@ -1577,22 +1576,13 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
     secondary: null,
     target: 'normal',
     type: 'Fighting',
     contestType: 'Cool'
   },
   charge: {
-    boosts: null,
-    condition: {
-      onStart: [Function: onStart],
-      onRestart: [Function: onRestart],
-      onBasePowerPriority: 9,
-      onBasePower: [Function: onBasePower],
-      onMoveAborted: [Function: onMoveAborted],
-      onAfterMove: [Function: onAfterMove],
-      onEnd: [Function: onEnd]
-    },
     num: 268,
     accuracy: true,
     basePower: 0,
@@ -1602,6 +1592,16 @@
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     volatileStatus: 'charge',
+    condition: {
+      onStart: [Function: onStart],
+      onRestart: [Function: onRestart],
+      onBasePowerPriority: 9,
+      onBasePower: [Function: onBasePower],
+      onMoveAborted: [Function: onMoveAborted],
+      onAfterMove: [Function: onAfterMove],
+      onEnd: [Function: onEnd]
+    },
+    boosts: null,
     secondary: null,
     target: 'self',
     type: 'Electric',
@@ -1609,8 +1609,6 @@
     contestType: 'Clever'
   },
   conversion: {
-    onHit: [Function: onHit],
-    flags: { metronome: 1 },
     num: 160,
     accuracy: true,
     basePower: 0,
@@ -1618,6 +1616,8 @@
     name: 'Conversion',
     pp: 30,
     priority: 0,
+    flags: { metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -1625,14 +1625,14 @@
     contestType: 'Beautiful'
   },
   covet: {
-    flags: { protect: 1, mirror: 1, noassist: 1 },
-    basePower: 40,
-    pp: 40,
     num: 343,
     accuracy: 100,
+    basePower: 40,
     category: 'Physical',
     name: 'Covet',
+    pp: 40,
     priority: 0,
+    flags: { protect: 1, mirror: 1, noassist: 1 },
     onAfterHit: [Function: onAfterHit],
     secondary: null,
     target: 'normal',
@@ -1640,7 +1640,6 @@
     contestType: 'Cute'
   },
   crunch: {
-    secondary: { chance: 20, boosts: { spd: -1 } },
     num: 242,
     accuracy: 100,
     basePower: 80,
@@ -1649,14 +1648,22 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1, bite: 1 },
+    secondary: { chance: 20, boosts: { spd: -1 } },
     target: 'normal',
     type: 'Dark',
     contestType: 'Tough'
   },
   disable: {
+    num: 50,
     accuracy: 55,
+    basePower: 0,
+    category: 'Status',
+    name: 'Disable',
+    pp: 20,
+    priority: 0,
     flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
     volatileStatus: 'disable',
+    onTryHit: [Function: onTryHit],
     condition: {
       durationCallback: [Function: durationCallback],
       noCopy: true,
@@ -1665,13 +1672,6 @@
       onBeforeMove: [Function: onBeforeMove],
       onDisableMove: [Function: onDisableMove]
     },
-    num: 50,
-    basePower: 0,
-    category: 'Status',
-    name: 'Disable',
-    pp: 20,
-    priority: 0,
-    onTryHit: [Function: onTryHit],
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -1679,7 +1679,13 @@
     contestType: 'Clever'
   },
   dive: {
+    num: 291,
+    accuracy: 100,
     basePower: 60,
+    category: 'Special',
+    name: 'Dive',
+    pp: 10,
+    priority: 0,
     flags: {
       contact: 1,
       charge: 1,
@@ -1689,12 +1695,6 @@
       metronome: 1,
       nosleeptalk: 1
     },
-    num: 291,
-    accuracy: 100,
-    category: 'Special',
-    name: 'Dive',
-    pp: 10,
-    priority: 0,
     onTryMove: [Function: onTryMove],
     condition: {
       duration: 2,
@@ -1708,44 +1708,44 @@
     contestType: 'Beautiful'
   },
   doomdesire: {
-    onTry: [Function: onTry],
+    num: 353,
     accuracy: 85,
     basePower: 120,
-    num: 353,
     category: 'Physical',
     name: 'Doom Desire',
     pp: 5,
     priority: 0,
     flags: { metronome: 1, futuremove: 1 },
+    onTry: [Function: onTry],
     secondary: null,
     target: 'normal',
     type: 'Steel',
     contestType: 'Beautiful'
   },
   extrasensory: {
-    basePowerCallback: [Function: basePowerCallback],
-    pp: 30,
     num: 326,
     accuracy: 100,
     basePower: 80,
     category: 'Special',
     name: 'Extrasensory',
+    pp: 30,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
     secondary: { chance: 10, volatileStatus: 'flinch' },
     target: 'normal',
     type: 'Psychic',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    basePowerCallback: [Function: basePowerCallback]
   },
   fakeout: {
-    flags: { protect: 1, mirror: 1, metronome: 1 },
-    priority: 1,
     num: 252,
     accuracy: 100,
     basePower: 40,
     category: 'Physical',
     name: 'Fake Out',
     pp: 10,
+    priority: 1,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     onTry: [Function: onTry],
     secondary: { chance: 100, volatileStatus: 'flinch' },
     target: 'normal',
@@ -1753,26 +1753,26 @@
     contestType: 'Cute'
   },
   feintattack: {
-    flags: { protect: 1, mirror: 1, metronome: 1 },
-    isNonstandard: null,
     num: 185,
     accuracy: true,
     basePower: 60,
     category: 'Special',
+    isNonstandard: null,
     name: 'Feint Attack',
     pp: 20,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     secondary: null,
     target: 'normal',
     type: 'Dark',
     contestType: 'Clever'
   },
   flash: {
-    accuracy: 70,
-    isNonstandard: null,
     num: 148,
+    accuracy: 70,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Flash',
     pp: 20,
     priority: 0,
@@ -1785,59 +1785,59 @@
     contestType: 'Beautiful'
   },
   followme: {
-    volatileStatus: undefined,
-    slotCondition: 'followme',
-    condition: {
-      duration: 1,
-      onStart: [Function: onStart],
-      onFoeRedirectTargetPriority: 1,
-      onFoeRedirectTarget: [Function: onFoeRedirectTarget]
-    },
-    priority: 3,
     num: 266,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Follow Me',
     pp: 20,
+    priority: 3,
     flags: { noassist: 1, failcopycat: 1 },
+    volatileStatus: undefined,
     onTry: [Function: onTry],
+    condition: {
+      duration: 1,
+      onStart: [Function: onStart],
+      onFoeRedirectTargetPriority: 1,
+      onFoeRedirectTarget: [Function: onFoeRedirectTarget]
+    },
     secondary: null,
     target: 'self',
     type: 'Normal',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Cute'
+    contestType: 'Cute',
+    slotCondition: 'followme'
   },
   furycutter: {
-    onHit: [Function: onHit],
-    basePower: 10,
-    condition: {
-      duration: 2,
-      onStart: [Function: onStart],
-      onRestart: [Function: onRestart]
-    },
     num: 210,
     accuracy: 95,
+    basePower: 10,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
     name: 'Fury Cutter',
     pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1, slicing: 1 },
+    condition: {
+      duration: 2,
+      onStart: [Function: onStart],
+      onRestart: [Function: onRestart]
+    },
     secondary: null,
     target: 'normal',
     type: 'Bug',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    onHit: [Function: onHit]
   },
   gigadrain: {
-    pp: 5,
-    basePower: 60,
-    flags: { protect: 1, mirror: 1, metronome: 1 },
     num: 202,
     accuracy: 100,
+    basePower: 60,
     category: 'Special',
     name: 'Giga Drain',
+    pp: 5,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     drain: [ 1, 2 ],
     secondary: null,
     target: 'normal',
@@ -1845,9 +1845,8 @@
     contestType: 'Clever'
   },
   glare: {
-    ignoreImmunity: false,
-    accuracy: 75,
     num: 137,
+    accuracy: 75,
     basePower: 0,
     category: 'Status',
     name: 'Glare',
@@ -1859,16 +1858,15 @@
     target: 'normal',
     type: 'Normal',
     zMove: { boost: { spd: 1 } },
-    contestType: 'Tough'
+    contestType: 'Tough',
+    ignoreImmunity: false
   },
   hiddenpower: {
-    category: 'Physical',
-    onModifyMove: [Function: onModifyMove],
-    basePower: 0,
-    basePowerCallback: [Function: basePowerCallback],
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 0,
+    category: 'Physical',
+    isNonstandard: null,
     name: 'Hidden Power',
     pp: 15,
     priority: 0,
@@ -1877,11 +1875,13 @@
     secondary: null,
     target: 'normal',
     type: 'Normal',
-    contestType: 'Clever'
+    contestType: 'Clever',
+    basePowerCallback: [Function: basePowerCallback],
+    onModifyMove: [Function: onModifyMove]
   },
   hypnosis: {
-    accuracy: 60,
     num: 95,
+    accuracy: 60,
     basePower: 0,
     category: 'Status',
     name: 'Hypnosis',
@@ -1896,9 +1896,9 @@
     contestType: 'Clever'
   },
   leafblade: {
-    basePower: 70,
     num: 348,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     name: 'Leaf Blade',
     pp: 15,
@@ -1911,14 +1911,14 @@
     contestType: 'Cool'
   },
   megadrain: {
-    pp: 10,
-    flags: { protect: 1, mirror: 1, metronome: 1 },
     num: 72,
     accuracy: 100,
     basePower: 40,
     category: 'Special',
     name: 'Mega Drain',
+    pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     drain: [ 1, 2 ],
     secondary: null,
     target: 'normal',
@@ -1927,8 +1927,8 @@
     contestType: 'Clever'
   },
   memento: {
-    accuracy: true,
     num: 262,
+    accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Memento',
@@ -1944,30 +1944,29 @@
     contestType: 'Tough'
   },
   naturepower: {
-    accuracy: 95,
-    onHit: [Function: onHit],
-    flags: { metronome: 1 },
-    onTryHit: [Function: onTryHit],
-    target: 'self',
-    isNonstandard: null,
     num: 267,
+    accuracy: 95,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Nature Power',
     pp: 20,
     priority: 0,
+    flags: { metronome: 1 },
+    onTryHit: [Function: onTryHit],
     callsMove: true,
     secondary: null,
+    target: 'self',
     type: 'Normal',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    onHit: [Function: onHit]
   },
   needlearm: {
-    basePowerCallback: [Function: basePowerCallback],
-    isNonstandard: null,
     num: 302,
     accuracy: 100,
     basePower: 60,
     category: 'Special',
+    isNonstandard: null,
     name: 'Needle Arm',
     pp: 15,
     priority: 0,
@@ -1975,18 +1974,19 @@
     secondary: { chance: 30, volatileStatus: 'flinch' },
     target: 'normal',
     type: 'Grass',
-    contestType: 'Clever'
+    contestType: 'Clever',
+    basePowerCallback: [Function: basePowerCallback]
   },
   odorsleuth: {
-    accuracy: 100,
-    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
-    isNonstandard: null,
     num: 316,
+    accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Odor Sleuth',
     pp: 40,
     priority: 0,
+    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
     volatileStatus: 'foresight',
     onTryHit: [Function: onTryHit],
     secondary: null,
@@ -1996,14 +1996,14 @@
     contestType: 'Clever'
   },
   overheat: {
-    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
-    basePower: 140,
     num: 315,
     accuracy: 90,
+    basePower: 140,
     category: 'Special',
     name: 'Overheat',
     pp: 5,
     priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     self: { boosts: { spa: -2 } },
     secondary: null,
     target: 'normal',
@@ -2011,12 +2011,12 @@
     contestType: 'Beautiful'
   },
   recover: {
-    pp: 20,
     num: 105,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Recover',
+    pp: 20,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
     heal: [ 1, 2 ],
@@ -2027,9 +2027,9 @@
     contestType: 'Clever'
   },
   rocksmash: {
-    basePower: 20,
     num: 249,
     accuracy: 100,
+    basePower: 20,
     category: 'Physical',
     name: 'Rock Smash',
     pp: 15,
@@ -2041,8 +2041,6 @@
     contestType: 'Tough'
   },
   spite: {
-    onHit: [Function: onHit],
-    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
     num: 180,
     accuracy: 100,
     basePower: 0,
@@ -2050,6 +2048,8 @@
     name: 'Spite',
     pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Ghost',
@@ -2057,22 +2057,22 @@
     contestType: 'Tough'
   },
   stockpile: {
+    num: 254,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Stockpile',
     pp: 10,
+    priority: 0,
+    flags: { snatch: 1, metronome: 1 },
+    onTry: [Function: onTry],
+    volatileStatus: 'stockpile',
     condition: {
       noCopy: true,
       onStart: [Function: onStart],
       onRestart: [Function: onRestart],
       onEnd: [Function: onEnd]
     },
-    num: 254,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Stockpile',
-    priority: 0,
-    flags: { snatch: 1, metronome: 1 },
-    onTry: [Function: onTry],
-    volatileStatus: 'stockpile',
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -2080,6 +2080,14 @@
     contestType: 'Tough'
   },
   struggle: {
+    num: 165,
+    accuracy: 100,
+    basePower: 50,
+    category: 'Physical',
+    name: 'Struggle',
+    pp: 1,
+    noPPBoosts: true,
+    priority: 0,
     flags: {
       contact: 1,
       protect: 1,
@@ -2088,38 +2096,38 @@
       failmimic: 1,
       nosketch: 1
     },
-    accuracy: 100,
-    recoil: [ 1, 4 ],
-    struggleRecoil: false,
     onModifyMove: [Function: onModifyMove],
-    num: 165,
-    basePower: 50,
-    category: 'Physical',
-    name: 'Struggle',
-    pp: 1,
-    noPPBoosts: true,
-    priority: 0,
+    struggleRecoil: false,
     secondary: null,
     target: 'randomNormal',
     type: 'Normal',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    recoil: [ 1, 4 ]
   },
   surf: {
-    target: 'allAdjacentFoes',
-    basePower: 95,
     num: 57,
     accuracy: 100,
+    basePower: 95,
     category: 'Special',
     name: 'Surf',
     pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1, nonsky: 1, metronome: 1 },
     secondary: null,
+    target: 'allAdjacentFoes',
     type: 'Water',
     contestType: 'Beautiful'
   },
   taunt: {
+    num: 269,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Status',
+    name: 'Taunt',
+    pp: 20,
+    priority: 0,
     flags: { protect: 1, bypasssub: 1, metronome: 1 },
+    volatileStatus: 'taunt',
     condition: {
       duration: 2,
       onStart: [Function: onStart],
@@ -2129,14 +2137,6 @@
       onDisableMove: [Function: onDisableMove],
       onBeforeMove: [Function: onBeforeMove]
     },
-    num: 269,
-    accuracy: 100,
-    basePower: 0,
-    category: 'Status',
-    name: 'Taunt',
-    pp: 20,
-    priority: 0,
-    volatileStatus: 'taunt',
     secondary: null,
     target: 'normal',
     type: 'Dark',
@@ -2144,7 +2144,6 @@
     contestType: 'Clever'
   },
   teeterdance: {
-    flags: { protect: 1, metronome: 1 },
     num: 298,
     accuracy: 100,
     basePower: 0,
@@ -2152,6 +2151,7 @@
     name: 'Teeter Dance',
     pp: 20,
     priority: 0,
+    flags: { protect: 1, metronome: 1 },
     volatileStatus: 'confusion',
     secondary: null,
     target: 'allAdjacent',
@@ -2160,13 +2160,6 @@
     contestType: 'Cute'
   },
   tickle: {
-    flags: {
-      protect: 1,
-      reflectable: 1,
-      mirror: 1,
-      bypasssub: 1,
-      metronome: 1
-    },
     num: 321,
     accuracy: 100,
     basePower: 0,
@@ -2174,6 +2167,13 @@
     name: 'Tickle',
     pp: 20,
     priority: 0,
+    flags: {
+      protect: 1,
+      reflectable: 1,
+      mirror: 1,
+      bypasssub: 1,
+      metronome: 1
+    },
     boosts: { atk: -1, def: -1 },
     secondary: null,
     target: 'normal',
@@ -2182,6 +2182,16 @@
     contestType: 'Cute'
   },
   uproar: {
+    num: 253,
+    accuracy: 100,
+    basePower: 50,
+    category: 'Physical',
+    name: 'Uproar',
+    pp: 10,
+    priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1, nosleeptalk: 1 },
+    self: { volatileStatus: 'uproar' },
+    onTryHit: [Function: onTryHit],
     condition: {
       onStart: [Function: onStart],
       onResidual: [Function: onResidual],
@@ -2191,28 +2201,18 @@
       onLockMove: 'uproar',
       onAnySetStatus: [Function: onAnySetStatus]
     },
-    basePower: 50,
-    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1, nosleeptalk: 1 },
-    num: 253,
-    accuracy: 100,
-    category: 'Physical',
-    name: 'Uproar',
-    pp: 10,
-    priority: 0,
-    self: { volatileStatus: 'uproar' },
-    onTryHit: [Function: onTryHit],
     secondary: null,
     target: 'randomNormal',
     type: 'Normal',
     contestType: 'Cute'
   },
   vinewhip: {
-    pp: 10,
-    basePower: 35,
     num: 22,
     accuracy: 100,
+    basePower: 35,
     category: 'Special',
     name: 'Vine Whip',
+    pp: 10,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     secondary: null,
@@ -2221,8 +2221,6 @@
     contestType: 'Cool'
   },
   volttackle: {
-    secondary: null,
-    recoil: [ 1, 3 ],
     num: 344,
     accuracy: 100,
     basePower: 120,
@@ -2231,12 +2229,13 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    recoil: [ 1, 3 ],
+    secondary: null,
     target: 'normal',
     type: 'Electric',
     contestType: 'Cool'
   },
   waterfall: {
-    secondary: null,
     num: 127,
     accuracy: 100,
     basePower: 80,
@@ -2245,12 +2244,12 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    secondary: null,
     target: 'normal',
     type: 'Water',
     contestType: 'Tough'
   },
   weatherball: {
-    onModifyMove: [Function: onModifyMove],
     num: 311,
     accuracy: 100,
     basePower: 50,
@@ -2260,6 +2259,7 @@
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1, bullet: 1 },
     onModifyType: [Function: onModifyType],
+    onModifyMove: [Function: onModifyMove],
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -2268,9 +2268,9 @@
     contestType: 'Beautiful'
   },
   zapcannon: {
-    basePower: 100,
     num: 192,
     accuracy: 50,
+    basePower: 100,
     category: 'Special',
     name: 'Zap Cannon',
     pp: 5,
@@ -2282,8 +2282,6 @@
     contestType: 'Cool'
   },
   acupressure: {
-    flags: { snatch: 1, metronome: 1 },
-    onHit: [Function: onHit],
     num: 367,
     accuracy: true,
     basePower: 0,
@@ -2291,6 +2289,8 @@
     name: 'Acupressure',
     pp: 30,
     priority: 0,
+    flags: { snatch: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'adjacentAllyOrSelf',
     type: 'Normal',
@@ -2298,29 +2298,22 @@
     contestType: 'Tough'
   },
   aromatherapy: {
-    onHit: [Function: onHit],
-    isNonstandard: null,
     num: 312,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Aromatherapy',
     pp: 5,
     priority: 0,
     flags: { snatch: 1, distance: 1, metronome: 1 },
+    onHit: [Function: onHit],
     target: 'allyTeam',
     type: 'Grass',
     zMove: { effect: 'heal' },
     contestType: 'Clever'
   },
   aquaring: {
-    flags: { metronome: 1 },
-    condition: {
-      onStart: [Function: onStart],
-      onResidualOrder: 10,
-      onResidualSubOrder: 2,
-      onResidual: [Function: onResidual]
-    },
     num: 392,
     accuracy: true,
     basePower: 0,
@@ -2328,7 +2321,14 @@
     name: 'Aqua Ring',
     pp: 20,
     priority: 0,
+    flags: { metronome: 1 },
     volatileStatus: 'aquaring',
+    condition: {
+      onStart: [Function: onStart],
+      onResidualOrder: 10,
+      onResidualSubOrder: 2,
+      onResidual: [Function: onResidual]
+    },
     secondary: null,
     target: 'self',
     type: 'Water',
@@ -2336,8 +2336,8 @@
     contestType: 'Beautiful'
   },
   bind: {
-    accuracy: 75,
     num: 20,
+    accuracy: 75,
     basePower: 15,
     category: 'Physical',
     name: 'Bind',
@@ -2351,8 +2351,8 @@
     contestType: 'Tough'
   },
   bonerush: {
-    accuracy: 80,
     num: 198,
+    accuracy: 80,
     basePower: 25,
     category: 'Physical',
     name: 'Bone Rush',
@@ -2368,7 +2368,6 @@
     contestType: 'Tough'
   },
   bravebird: {
-    recoil: [ 1, 3 ],
     num: 413,
     accuracy: 100,
     basePower: 120,
@@ -2377,15 +2376,16 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, distance: 1, metronome: 1 },
+    recoil: [ 1, 3 ],
     secondary: null,
     target: 'any',
     type: 'Flying',
     contestType: 'Cool'
   },
   bulletseed: {
-    basePower: 10,
     num: 331,
     accuracy: 100,
+    basePower: 10,
     category: 'Special',
     name: 'Bullet Seed',
     pp: 30,
@@ -2400,16 +2400,16 @@
     contestType: 'Cool'
   },
   camouflage: {
-    onHit: [Function: onHit],
-    isNonstandard: null,
     num: 293,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Camouflage',
     pp: 20,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -2417,9 +2417,14 @@
     contestType: 'Clever'
   },
   chatter: {
-    secondary: { chance: 31, volatileStatus: 'confusion' },
+    num: 448,
+    accuracy: 100,
     basePower: 60,
-    onModifyMove: [Function: onModifyMove],
+    category: 'Physical',
+    isNonstandard: null,
+    name: 'Chatter',
+    pp: 20,
+    priority: 0,
     flags: {
       protect: 1,
       sound: 1,
@@ -2431,25 +2436,20 @@
       failmimic: 1,
       nosketch: 1
     },
-    isNonstandard: null,
-    num: 448,
-    accuracy: 100,
-    category: 'Physical',
-    name: 'Chatter',
-    pp: 20,
-    priority: 0,
+    secondary: { chance: 31, volatileStatus: 'confusion' },
     target: 'any',
     type: 'Flying',
-    contestType: 'Cute'
+    contestType: 'Cute',
+    onModifyMove: [Function: onModifyMove]
   },
   clamp: {
-    accuracy: 75,
-    pp: 10,
-    isNonstandard: null,
     num: 128,
+    accuracy: 75,
     basePower: 35,
     category: 'Special',
+    isNonstandard: null,
     name: 'Clamp',
+    pp: 10,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     volatileStatus: 'partiallytrapped',
@@ -2459,10 +2459,8 @@
     contestType: 'Tough'
   },
   cottonspore: {
-    accuracy: 85,
-    onTryHit: [Function: onTryHit],
-    target: 'normal',
     num: 178,
+    accuracy: 85,
     basePower: 0,
     category: 'Status',
     name: 'Cotton Spore',
@@ -2471,15 +2469,17 @@
     flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1, powder: 1 },
     boosts: { spe: -2 },
     secondary: null,
+    target: 'normal',
     type: 'Grass',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    onTryHit: [Function: onTryHit]
   },
   crushgrip: {
-    basePowerCallback: [Function: basePowerCallback],
     num: 462,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
     name: 'Crush Grip',
     pp: 5,
@@ -2493,8 +2493,6 @@
     contestType: 'Tough'
   },
   defog: {
-    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
-    onHit: [Function: onHit],
     num: 432,
     accuracy: true,
     basePower: 0,
@@ -2502,6 +2500,8 @@
     name: 'Defog',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Flying',
@@ -2509,14 +2509,14 @@
     contestType: 'Cool'
   },
   drainpunch: {
-    basePower: 60,
-    pp: 5,
-    flags: { contact: 1, protect: 1, mirror: 1, punch: 1, metronome: 1 },
     num: 409,
     accuracy: 100,
+    basePower: 60,
     category: 'Physical',
     name: 'Drain Punch',
+    pp: 5,
     priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1, punch: 1, metronome: 1 },
     drain: [ 1, 2 ],
     secondary: null,
     target: 'normal',
@@ -2524,8 +2524,6 @@
     contestType: 'Tough'
   },
   dreameater: {
-    onTryImmunity: [Function: onTryImmunity],
-    flags: { protect: 1, mirror: 1, metronome: 1 },
     num: 138,
     accuracy: 100,
     basePower: 100,
@@ -2533,15 +2531,25 @@
     name: 'Dream Eater',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     drain: [ 1, 2 ],
+    onTryImmunity: [Function: onTryImmunity],
     secondary: null,
     target: 'normal',
     type: 'Psychic',
     contestType: 'Clever'
   },
   embargo: {
+    num: 373,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Embargo',
+    pp: 15,
+    priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
-    onTryHit: [Function: onTryHit],
+    volatileStatus: 'embargo',
     condition: {
       duration: 5,
       onStart: [Function: onStart],
@@ -2549,23 +2557,14 @@
       onResidualSubOrder: 18,
       onEnd: [Function: onEnd]
     },
-    isNonstandard: null,
-    num: 373,
-    accuracy: 100,
-    basePower: 0,
-    category: 'Status',
-    name: 'Embargo',
-    pp: 15,
-    priority: 0,
-    volatileStatus: 'embargo',
     secondary: null,
     target: 'normal',
     type: 'Dark',
     zMove: { boost: { spa: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit]
   },
   endeavor: {
-    onTry: [Function: onTry],
     num: 283,
     accuracy: 100,
     basePower: 0,
@@ -2587,16 +2586,17 @@
     type: 'Normal',
     zMove: { basePower: 160 },
     maxMove: { basePower: 130 },
-    contestType: 'Tough'
+    contestType: 'Tough',
+    onTry: [Function: onTry]
   },
   extremespeed: {
-    priority: 1,
     num: 245,
     accuracy: 100,
     basePower: 80,
     category: 'Physical',
     name: 'Extreme Speed',
     pp: 5,
+    priority: 1,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     secondary: null,
     target: 'normal',
@@ -2604,25 +2604,25 @@
     contestType: 'Cool'
   },
   feint: {
-    basePower: 50,
-    onTry: [Function: onTry],
-    flags: { noassist: 1, failcopycat: 1 },
     num: 364,
     accuracy: 100,
+    basePower: 50,
     category: 'Physical',
     name: 'Feint',
     pp: 10,
     priority: 2,
+    flags: { noassist: 1, failcopycat: 1 },
     breaksProtect: true,
     secondary: null,
     target: 'normal',
     type: 'Normal',
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTry: [Function: onTry]
   },
   firespin: {
+    num: 83,
     accuracy: 70,
     basePower: 15,
-    num: 83,
     category: 'Special',
     name: 'Fire Spin',
     pp: 15,
@@ -2635,7 +2635,6 @@
     contestType: 'Beautiful'
   },
   flareblitz: {
-    recoil: [ 1, 3 ],
     num: 394,
     accuracy: 100,
     basePower: 120,
@@ -2644,16 +2643,35 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, defrost: 1, metronome: 1 },
+    recoil: [ 1, 3 ],
     secondary: { chance: 10, status: 'brn' },
     target: 'normal',
     type: 'Fire',
     contestType: 'Cool'
   },
+  fling: {
+    num: 374,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Special',
+    name: 'Fling',
+    pp: 10,
+    priority: 0,
+    flags: {
+      protect: 1,
+      mirror: 1,
+      allyanim: 1,
+      metronome: 1,
+      noparentalbond: 1
+    },
+    onPrepareHit: [Function: onPrepareHit],
+    condition: { onUpdate: [Function: onUpdate] },
+    secondary: null,
+    target: 'normal',
+    type: 'Dark',
+    contestType: 'Cute'
+  },
   focuspunch: {
-    priorityChargeCallback: [Function: priorityChargeCallback],
-    beforeTurnCallback: [Function: beforeTurnCallback],
-    beforeMoveCallback: [Function: beforeMoveCallback],
-    onTry: [Function: onTry],
     num: 264,
     accuracy: 100,
     basePower: 150,
@@ -2671,6 +2689,8 @@
       failcopycat: 1,
       failinstruct: 1
     },
+    priorityChargeCallback: [Function: priorityChargeCallback],
+    beforeMoveCallback: [Function: beforeMoveCallback],
     condition: {
       duration: 1,
       onStart: [Function: onStart],
@@ -2680,25 +2700,36 @@
     secondary: null,
     target: 'normal',
     type: 'Fighting',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    beforeTurnCallback: [Function: beforeTurnCallback],
+    onTry: [Function: onTry]
   },
   futuresight: {
+    num: 248,
     accuracy: 90,
     basePower: 80,
-    pp: 15,
-    onTry: [Function: onTry],
-    flags: { metronome: 1, futuremove: 1 },
-    num: 248,
     category: 'Special',
     name: 'Future Sight',
+    pp: 15,
     priority: 0,
+    flags: { metronome: 1, futuremove: 1 },
     ignoreImmunity: true,
+    onTry: [Function: onTry],
     secondary: null,
     target: 'normal',
     type: 'Psychic',
     contestType: 'Clever'
   },
   gravity: {
+    num: 356,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Gravity',
+    pp: 5,
+    priority: 0,
+    flags: { nonsky: 1, metronome: 1 },
+    pseudoWeather: 'gravity',
     condition: {
       duration: 5,
       durationCallback: [Function: durationCallback],
@@ -2711,15 +2742,6 @@
       onFieldResidualOrder: 9,
       onFieldEnd: [Function: onFieldEnd]
     },
-    num: 356,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Gravity',
-    pp: 5,
-    priority: 0,
-    flags: { nonsky: 1, metronome: 1 },
-    pseudoWeather: 'gravity',
     secondary: null,
     target: 'all',
     type: 'Psychic',
@@ -2727,16 +2749,16 @@
     contestType: 'Clever'
   },
   growth: {
-    onModifyMove: [Function: onModifyMove],
-    boosts: { spa: 1 },
-    pp: 40,
     num: 74,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Growth',
+    pp: 40,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
+    onModifyMove: [Function: onModifyMove],
+    boosts: { spa: 1 },
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -2744,7 +2766,16 @@
     contestType: 'Beautiful'
   },
   healblock: {
+    num: 377,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Heal Block',
+    pp: 15,
+    priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
+    volatileStatus: 'healblock',
     condition: {
       duration: 5,
       durationCallback: [Function: durationCallback],
@@ -2757,15 +2788,6 @@
       onEnd: [Function: onEnd],
       onTryHeal: [Function: onTryHeal]
     },
-    isNonstandard: null,
-    num: 377,
-    accuracy: 100,
-    basePower: 0,
-    category: 'Status',
-    name: 'Heal Block',
-    pp: 15,
-    priority: 0,
-    volatileStatus: 'healblock',
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Psychic',
@@ -2773,13 +2795,6 @@
     contestType: 'Clever'
   },
   healingwish: {
-    flags: { heal: 1, metronome: 1 },
-    onAfterMove: [Function: onAfterMove],
-    condition: {
-      duration: 1,
-      onSwitchInPriority: -1,
-      onSwitchIn: [Function: onSwitchIn]
-    },
     num: 361,
     accuracy: true,
     basePower: 0,
@@ -2787,18 +2802,25 @@
     name: 'Healing Wish',
     pp: 10,
     priority: 0,
+    flags: { heal: 1, metronome: 1 },
     onTryHit: [Function: onTryHit],
     selfdestruct: 'ifHit',
     slotCondition: 'healingwish',
+    condition: {
+      duration: 1,
+      onSwitchInPriority: -1,
+      onSwitchIn: [Function: onSwitchIn]
+    },
     secondary: null,
     target: 'self',
     type: 'Psychic',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    onAfterMove: [Function: onAfterMove]
   },
   iciclespear: {
-    basePower: 10,
     num: 333,
     accuracy: 100,
+    basePower: 10,
     category: 'Special',
     name: 'Icicle Spear',
     pp: 30,
@@ -2813,8 +2835,6 @@
     contestType: 'Beautiful'
   },
   imprison: {
-    flags: { bypasssub: 1, metronome: 1 },
-    onTryHit: [Function: onTryHit],
     num: 286,
     accuracy: true,
     basePower: 0,
@@ -2822,6 +2842,7 @@
     name: 'Imprison',
     pp: 10,
     priority: 0,
+    flags: { bypasssub: 1, metronome: 1 },
     volatileStatus: 'imprison',
     condition: {
       noCopy: true,
@@ -2834,17 +2855,10 @@
     target: 'self',
     type: 'Psychic',
     zMove: { boost: { spd: 2 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit]
   },
   ingrain: {
-    condition: {
-      onStart: [Function: onStart],
-      onResidualOrder: 10,
-      onResidualSubOrder: 1,
-      onResidual: [Function: onResidual],
-      onTrapPokemon: [Function: onTrapPokemon],
-      onDragOut: [Function: onDragOut]
-    },
     num: 275,
     accuracy: true,
     basePower: 0,
@@ -2854,6 +2868,14 @@
     priority: 0,
     flags: { snatch: 1, nonsky: 1, metronome: 1 },
     volatileStatus: 'ingrain',
+    condition: {
+      onStart: [Function: onStart],
+      onResidualOrder: 10,
+      onResidualSubOrder: 1,
+      onResidual: [Function: onResidual],
+      onTrapPokemon: [Function: onTrapPokemon],
+      onDragOut: [Function: onDragOut]
+    },
     secondary: null,
     target: 'self',
     type: 'Grass',
@@ -2861,25 +2883,25 @@
     contestType: 'Clever'
   },
   knockoff: {
-    onAfterHit: [Function: onAfterHit],
-    basePower: 20,
-    onBasePower: [Function: onBasePower],
     num: 282,
     accuracy: 100,
+    basePower: 20,
     category: 'Special',
     name: 'Knock Off',
     pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    onBasePower: [Function: onBasePower],
+    onAfterHit: [Function: onAfterHit],
     secondary: null,
     target: 'normal',
     type: 'Dark',
     contestType: 'Clever'
   },
   lastresort: {
-    basePower: 130,
     num: 387,
     accuracy: 100,
+    basePower: 130,
     category: 'Physical',
     name: 'Last Resort',
     pp: 5,
@@ -2892,7 +2914,16 @@
     contestType: 'Cute'
   },
   luckychant: {
+    num: 381,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Lucky Chant',
+    pp: 30,
+    priority: 0,
     flags: { metronome: 1 },
+    sideCondition: 'luckychant',
     condition: {
       duration: 5,
       onSideStart: [Function: onSideStart],
@@ -2900,15 +2931,6 @@
       onSideResidualOrder: 6,
       onSideEnd: [Function: onSideEnd]
     },
-    isNonstandard: null,
-    num: 381,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Lucky Chant',
-    pp: 30,
-    priority: 0,
-    sideCondition: 'luckychant',
     secondary: null,
     target: 'allySide',
     type: 'Normal',
@@ -2916,14 +2938,6 @@
     contestType: 'Cute'
   },
   lunardance: {
-    flags: { heal: 1, metronome: 1 },
-    onAfterMove: [Function: onAfterMove],
-    condition: {
-      duration: 1,
-      onSideStart: [Function: onSideStart],
-      onSwitchInPriority: -1,
-      onSwitchIn: [Function: onSwitchIn]
-    },
     num: 461,
     accuracy: true,
     basePower: 0,
@@ -2931,30 +2945,38 @@
     name: 'Lunar Dance',
     pp: 10,
     priority: 0,
+    flags: { heal: 1, metronome: 1 },
     onTryHit: [Function: onTryHit],
     selfdestruct: 'ifHit',
     slotCondition: 'lunardance',
+    condition: {
+      duration: 1,
+      onSideStart: [Function: onSideStart],
+      onSwitchInPriority: -1,
+      onSwitchIn: [Function: onSwitchIn]
+    },
     secondary: null,
     target: 'self',
     type: 'Psychic',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    onAfterMove: [Function: onAfterMove]
   },
   magiccoat: {
-    condition: {
-      duration: 1,
-      onTryHitPriority: 2,
-      onTryHit: [Function: onTryHit]
-    },
-    isNonstandard: null,
     num: 277,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Magic Coat',
     pp: 15,
     priority: 4,
     flags: { metronome: 1 },
     volatileStatus: 'magiccoat',
+    condition: {
+      duration: 1,
+      onTryHitPriority: 2,
+      onTryHit: [Function: onTryHit]
+    },
     secondary: null,
     target: 'self',
     type: 'Psychic',
@@ -2962,9 +2984,9 @@
     contestType: 'Beautiful'
   },
   magmastorm: {
+    num: 463,
     accuracy: 70,
     basePower: 120,
-    num: 463,
     category: 'Special',
     name: 'Magma Storm',
     pp: 5,
@@ -2977,8 +2999,16 @@
     contestType: 'Tough'
   },
   magnetrise: {
+    num: 393,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Magnet Rise',
+    pp: 10,
+    priority: 0,
     flags: { gravity: 1, metronome: 1 },
     volatileStatus: 'magnetrise',
+    onTry: [Function: onTry],
     condition: {
       duration: 5,
       onStart: [Function: onStart],
@@ -2987,14 +3017,6 @@
       onResidualSubOrder: 16,
       onEnd: [Function: onEnd]
     },
-    num: 393,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Magnet Rise',
-    pp: 10,
-    priority: 0,
-    onTry: [Function: onTry],
     secondary: null,
     target: 'self',
     type: 'Electric',
@@ -3002,10 +3024,14 @@
     contestType: 'Clever'
   },
   mefirst: {
-    condition: {
-      duration: 1,
-      onModifyDamagePhase2: [Function: onModifyDamagePhase2]
-    },
+    num: 382,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Me First',
+    pp: 20,
+    priority: 0,
     flags: {
       protect: 1,
       bypasssub: 1,
@@ -3014,15 +3040,11 @@
       failmefirst: 1,
       nosleeptalk: 1
     },
-    isNonstandard: null,
-    num: 382,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Me First',
-    pp: 20,
-    priority: 0,
     onTryHit: [Function: onTryHit],
+    condition: {
+      duration: 1,
+      onModifyDamagePhase2: [Function: onModifyDamagePhase2]
+    },
     callsMove: true,
     secondary: null,
     target: 'adjacentFoe',
@@ -3031,7 +3053,6 @@
     contestType: 'Clever'
   },
   metalburst: {
-    flags: { protect: 1, mirror: 1, metronome: 1 },
     num: 368,
     accuracy: 100,
     basePower: 0,
@@ -3040,6 +3061,7 @@
     name: 'Metal Burst',
     pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     onTry: [Function: onTry],
     onModifyTarget: [Function: onModifyTarget],
     secondary: null,
@@ -3048,20 +3070,20 @@
     contestType: 'Cool'
   },
   minimize: {
-    boosts: { evasion: 1 },
-    pp: 20,
-    condition: {
-      noCopy: true,
-      onSourceModifyDamage: [Function: onSourceModifyDamage]
-    },
     num: 107,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Minimize',
+    pp: 20,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     volatileStatus: 'minimize',
+    condition: {
+      noCopy: true,
+      onSourceModifyDamage: [Function: onSourceModifyDamage]
+    },
+    boosts: { evasion: 1 },
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -3069,15 +3091,15 @@
     contestType: 'Cute'
   },
   miracleeye: {
-    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
-    isNonstandard: null,
     num: 357,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Miracle Eye',
     pp: 40,
     priority: 0,
+    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
     volatileStatus: 'miracleeye',
     onTryHit: [Function: onTryHit],
     condition: {
@@ -3093,33 +3115,33 @@
     contestType: 'Clever'
   },
   mudsport: {
+    num: 300,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Mud Sport',
+    pp: 15,
+    priority: 0,
+    flags: { nonsky: 1, metronome: 1 },
+    pseudoWeather: undefined,
     condition: {
       onStart: [Function: onStart],
       onAnyBasePowerPriority: 3,
       onAnyBasePower: [Function: onAnyBasePower]
     },
-    pseudoWeather: undefined,
-    volatileStatus: 'mudsport',
-    isNonstandard: null,
-    num: 300,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Mud Sport',
-    pp: 15,
-    priority: 0,
-    flags: { nonsky: 1, metronome: 1 },
     secondary: null,
     target: 'all',
     type: 'Ground',
     zMove: { boost: { spd: 1 } },
-    contestType: 'Cute'
+    contestType: 'Cute',
+    volatileStatus: 'mudsport'
   },
   payback: {
-    basePowerCallback: [Function: basePowerCallback],
     num: 371,
     accuracy: 100,
     basePower: 50,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
     name: 'Payback',
     pp: 10,
@@ -3131,7 +3153,6 @@
     contestType: 'Tough'
   },
   payday: {
-    onHit: [Function: onHit],
     num: 6,
     accuracy: 100,
     basePower: 40,
@@ -3143,10 +3164,10 @@
     secondary: null,
     target: 'normal',
     type: 'Normal',
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onHit: [Function: onHit]
   },
   powertrick: {
-    flags: { metronome: 1 },
     num: 379,
     accuracy: true,
     basePower: 0,
@@ -3154,6 +3175,7 @@
     name: 'Power Trick',
     pp: 10,
     priority: 0,
+    flags: { metronome: 1 },
     volatileStatus: 'powertrick',
     condition: {
       onStart: [Function: onStart],
@@ -3168,8 +3190,6 @@
     contestType: 'Clever'
   },
   psychup: {
-    flags: { snatch: 1, bypasssub: 1, metronome: 1 },
-    onHit: [Function: onHit],
     num: 244,
     accuracy: true,
     basePower: 0,
@@ -3177,6 +3197,8 @@
     name: 'Psych Up',
     pp: 10,
     priority: 0,
+    flags: { snatch: 1, bypasssub: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -3184,11 +3206,9 @@
     contestType: 'Clever'
   },
   rapidspin: {
-    self: { onHit: [Function: onHit] },
-    basePower: 20,
-    secondary: null,
     num: 229,
     accuracy: 100,
+    basePower: 20,
     category: 'Physical',
     name: 'Rapid Spin',
     pp: 40,
@@ -3196,12 +3216,13 @@
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     onAfterHit: [Function: onAfterHit],
     onAfterSubDamage: [Function: onAfterSubDamage],
+    secondary: null,
     target: 'normal',
     type: 'Normal',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    self: { onHit: [Function: onHit] }
   },
   recycle: {
-    flags: { metronome: 1 },
     num: 278,
     accuracy: true,
     basePower: 0,
@@ -3209,6 +3230,7 @@
     name: 'Recycle',
     pp: 10,
     priority: 0,
+    flags: { metronome: 1 },
     onHit: [Function: onHit],
     secondary: null,
     target: 'self',
@@ -3217,14 +3239,14 @@
     contestType: 'Clever'
   },
   rockblast: {
-    accuracy: 80,
-    flags: { protect: 1, mirror: 1, metronome: 1 },
     num: 350,
+    accuracy: 80,
     basePower: 25,
     category: 'Physical',
     name: 'Rock Blast',
     pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     multihit: [ 2, 5 ],
     secondary: null,
     target: 'normal',
@@ -3234,7 +3256,6 @@
     contestType: 'Tough'
   },
   roleplay: {
-    onTryHit: [Function: onTryHit],
     num: 272,
     accuracy: true,
     basePower: 0,
@@ -3243,6 +3264,7 @@
     pp: 10,
     priority: 0,
     flags: { bypasssub: 1, allyanim: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -3251,9 +3273,9 @@
     contestType: 'Cute'
   },
   sandtomb: {
+    num: 328,
     accuracy: 70,
     basePower: 15,
-    num: 328,
     category: 'Physical',
     name: 'Sand Tomb',
     pp: 15,
@@ -3266,8 +3288,8 @@
     contestType: 'Clever'
   },
   scaryface: {
-    accuracy: 90,
     num: 184,
+    accuracy: 90,
     basePower: 0,
     category: 'Status',
     name: 'Scary Face',
@@ -3288,23 +3310,22 @@
     contestType: 'Tough'
   },
   secretpower: {
-    secondary: { chance: 30, status: 'par' },
-    isNonstandard: null,
     num: 290,
     accuracy: 100,
     basePower: 70,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Secret Power',
     pp: 20,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
     onModifyMove: [Function: onModifyMove],
+    secondary: { chance: 30, status: 'par' },
     target: 'normal',
     type: 'Normal',
     contestType: 'Clever'
   },
   skillswap: {
-    onHit: [Function: onHit],
     num: 285,
     accuracy: true,
     basePower: 0,
@@ -3314,6 +3335,7 @@
     priority: 0,
     flags: { protect: 1, mirror: 1, bypasssub: 1, allyanim: 1, metronome: 1 },
     onTryHit: [Function: onTryHit],
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Psychic',
@@ -3321,22 +3343,22 @@
     contestType: 'Clever'
   },
   snatch: {
+    num: 289,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Snatch',
+    pp: 10,
+    priority: 4,
     flags: { bypasssub: 1, noassist: 1, failcopycat: 1 },
+    volatileStatus: 'snatch',
     condition: {
       duration: 1,
       onStart: [Function: onStart],
       onAnyPrepareHitPriority: -1,
       onAnyPrepareHit: [Function: onAnyPrepareHit]
     },
-    isNonstandard: null,
-    num: 289,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Snatch',
-    pp: 10,
-    priority: 4,
-    volatileStatus: 'snatch',
     secondary: null,
     target: 'self',
     type: 'Dark',
@@ -3344,14 +3366,14 @@
     contestType: 'Clever'
   },
   snore: {
-    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
-    basePower: 40,
     num: 173,
     accuracy: 100,
+    basePower: 40,
     category: 'Physical',
     name: 'Snore',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     sleepUsable: true,
     onTry: [Function: onTry],
     secondary: { chance: 30, volatileStatus: 'flinch' },
@@ -3360,7 +3382,6 @@
     contestType: 'Cute'
   },
   stealthrock: {
-    flags: { metronome: 1, mustpressure: 1 },
     num: 446,
     accuracy: true,
     basePower: 0,
@@ -3368,6 +3389,7 @@
     name: 'Stealth Rock',
     pp: 20,
     priority: 0,
+    flags: { metronome: 1, mustpressure: 1 },
     sideCondition: 'stealthrock',
     condition: {
       onSideStart: [Function: onSideStart],
@@ -3380,23 +3402,38 @@
     contestType: 'Cool'
   },
   suckerpunch: {
-    onTry: [Function: onTry],
-    basePower: 80,
     num: 389,
     accuracy: 100,
+    basePower: 80,
     category: 'Special',
     name: 'Sucker Punch',
     pp: 5,
     priority: 1,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    onTry: [Function: onTry],
     secondary: null,
     target: 'normal',
     type: 'Dark',
     contestType: 'Clever'
   },
-  switcheroo: {
-    onTryHit: [Function: onTryHit],
+  swallow: {
+    num: 256,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Swallow',
+    pp: 10,
+    priority: 0,
+    flags: { snatch: 1, heal: 1, metronome: 1 },
+    onTry: [Function: onTry],
     onHit: [Function: onHit],
+    secondary: null,
+    target: 'self',
+    type: 'Normal',
+    zMove: { effect: 'clearnegativeboost' },
+    contestType: 'Tough'
+  },
+  switcheroo: {
     num: 415,
     accuracy: 100,
     basePower: 0,
@@ -3406,16 +3443,18 @@
     priority: 0,
     flags: { protect: 1, mirror: 1, allyanim: 1, noassist: 1, failcopycat: 1 },
     onTryImmunity: [Function: onTryImmunity],
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Dark',
     zMove: { boost: { spe: 2 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit]
   },
   tackle: {
+    num: 33,
     accuracy: 95,
     basePower: 35,
-    num: 33,
     category: 'Physical',
     name: 'Tackle',
     pp: 35,
@@ -3427,8 +3466,6 @@
     contestType: 'Tough'
   },
   tailglow: {
-    boosts: { spa: 2 },
-    isNonstandard: null,
     num: 294,
     accuracy: true,
     basePower: 0,
@@ -3437,13 +3474,24 @@
     pp: 20,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
+    boosts: { spa: 2 },
     secondary: null,
     target: 'self',
     type: 'Bug',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    isNonstandard: null
   },
   tailwind: {
+    num: 366,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Tailwind',
+    pp: 30,
+    priority: 0,
+    flags: { snatch: 1, metronome: 1, wind: 1 },
+    sideCondition: 'tailwind',
     condition: {
       duration: 3,
       durationCallback: [Function: durationCallback],
@@ -3452,15 +3500,6 @@
       onSideResidualOrder: 5,
       onSideEnd: [Function: onSideEnd]
     },
-    pp: 30,
-    num: 366,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Tailwind',
-    priority: 0,
-    flags: { snatch: 1, metronome: 1, wind: 1 },
-    sideCondition: 'tailwind',
     secondary: null,
     target: 'allySide',
     type: 'Flying',
@@ -3468,7 +3507,6 @@
     contestType: 'Cool'
   },
   torment: {
-    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
     num: 259,
     accuracy: 100,
     basePower: 0,
@@ -3476,6 +3514,7 @@
     name: 'Torment',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, bypasssub: 1, metronome: 1 },
     volatileStatus: 'torment',
     condition: {
       noCopy: true,
@@ -3490,12 +3529,6 @@
     contestType: 'Tough'
   },
   toxicspikes: {
-    flags: { metronome: 1, mustpressure: 1 },
-    condition: {
-      onSideStart: [Function: onSideStart],
-      onSideRestart: [Function: onSideRestart],
-      onEntryHazard: [Function: onEntryHazard]
-    },
     num: 390,
     accuracy: true,
     basePower: 0,
@@ -3503,7 +3536,13 @@
     name: 'Toxic Spikes',
     pp: 20,
     priority: 0,
+    flags: { metronome: 1, mustpressure: 1 },
     sideCondition: 'toxicspikes',
+    condition: {
+      onSideStart: [Function: onSideStart],
+      onSideRestart: [Function: onSideRestart],
+      onEntryHazard: [Function: onEntryHazard]
+    },
     secondary: null,
     target: 'foeSide',
     type: 'Poison',
@@ -3511,8 +3550,6 @@
     contestType: 'Clever'
   },
   trick: {
-    onTryHit: [Function: onTryHit],
-    onHit: [Function: onHit],
     num: 271,
     accuracy: 100,
     basePower: 0,
@@ -3522,21 +3559,15 @@
     priority: 0,
     flags: { protect: 1, mirror: 1, allyanim: 1, noassist: 1, failcopycat: 1 },
     onTryImmunity: [Function: onTryImmunity],
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Psychic',
     zMove: { boost: { spe: 2 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit]
   },
   trickroom: {
-    condition: {
-      duration: 5,
-      durationCallback: [Function: durationCallback],
-      onFieldStart: [Function: onFieldStart],
-      onFieldRestart: [Function: onFieldRestart],
-      onFieldResidualOrder: 13,
-      onFieldEnd: [Function: onFieldEnd]
-    },
     num: 433,
     accuracy: true,
     basePower: 0,
@@ -3546,6 +3577,14 @@
     priority: -7,
     flags: { mirror: 1, metronome: 1 },
     pseudoWeather: 'trickroom',
+    condition: {
+      duration: 5,
+      durationCallback: [Function: durationCallback],
+      onFieldStart: [Function: onFieldStart],
+      onFieldRestart: [Function: onFieldRestart],
+      onFieldResidualOrder: 13,
+      onFieldEnd: [Function: onFieldEnd]
+    },
     secondary: null,
     target: 'all',
     type: 'Psychic',
@@ -3553,32 +3592,32 @@
     contestType: 'Clever'
   },
   watersport: {
+    num: 346,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Water Sport',
+    pp: 15,
+    priority: 0,
+    flags: { nonsky: 1, metronome: 1 },
+    pseudoWeather: undefined,
     condition: {
       onStart: [Function: onStart],
       onAnyBasePowerPriority: 3,
       onAnyBasePower: [Function: onAnyBasePower]
     },
-    pseudoWeather: undefined,
-    volatileStatus: 'watersport',
-    isNonstandard: null,
-    num: 346,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Water Sport',
-    pp: 15,
-    priority: 0,
-    flags: { nonsky: 1, metronome: 1 },
     secondary: null,
     target: 'all',
     type: 'Water',
     zMove: { boost: { spd: 1 } },
-    contestType: 'Cute'
+    contestType: 'Cute',
+    volatileStatus: 'watersport'
   },
   whirlpool: {
+    num: 250,
     accuracy: 70,
     basePower: 15,
-    num: 250,
     category: 'Special',
     name: 'Whirlpool',
     pp: 15,
@@ -3591,9 +3630,6 @@
     contestType: 'Beautiful'
   },
   wish: {
-    flags: { heal: 1, metronome: 1 },
-    slotCondition: 'Wish',
-    condition: { duration: 2, onResidualOrder: 7, onEnd: [Function: onEnd] },
     num: 273,
     accuracy: true,
     basePower: 0,
@@ -3601,6 +3637,9 @@
     name: 'Wish',
     pp: 10,
     priority: 0,
+    flags: { heal: 1, metronome: 1 },
+    slotCondition: 'Wish',
+    condition: { duration: 2, onResidualOrder: 7, onEnd: [Function: onEnd] },
     secondary: null,
     target: 'self',
     type: 'Normal',
@@ -3608,7 +3647,6 @@
     contestType: 'Cute'
   },
   woodhammer: {
-    recoil: [ 1, 3 ],
     num: 452,
     accuracy: 100,
     basePower: 120,
@@ -3617,13 +3655,13 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    recoil: [ 1, 3 ],
     secondary: null,
     target: 'normal',
     type: 'Grass',
     contestType: 'Tough'
   },
   worryseed: {
-    onTryHit: [Function: onTryHit],
     num: 388,
     accuracy: 100,
     basePower: 0,
@@ -3639,6 +3677,7 @@
       metronome: 1
     },
     onTryImmunity: [Function: onTryImmunity],
+    onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -3647,8 +3686,8 @@
     contestType: 'Clever'
   },
   wrap: {
-    accuracy: 85,
     num: 35,
+    accuracy: 85,
     basePower: 15,
     category: 'Physical',
     name: 'Wrap',
@@ -3662,12 +3701,12 @@
     contestType: 'Tough'
   },
   wringout: {
-    basePowerCallback: [Function: basePowerCallback],
-    isNonstandard: null,
     num: 378,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Wring Out',
     pp: 5,
     priority: 0,
@@ -3680,14 +3719,6 @@
     contestType: 'Tough'
   },
   yawn: {
-    condition: {
-      noCopy: true,
-      duration: 2,
-      onStart: [Function: onStart],
-      onResidualOrder: 10,
-      onResidualSubOrder: 19,
-      onEnd: [Function: onEnd]
-    },
     num: 281,
     accuracy: true,
     basePower: 0,
@@ -3698,6 +3729,14 @@
     flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
     volatileStatus: 'yawn',
     onTryHit: [Function: onTryHit],
+    condition: {
+      noCopy: true,
+      duration: 2,
+      onStart: [Function: onStart],
+      onResidualOrder: 10,
+      onResidualSubOrder: 19,
+      onEnd: [Function: onEnd]
+    },
     secondary: null,
     target: 'normal',
     type: 'Normal',
@@ -3705,12 +3744,12 @@
     contestType: 'Cute'
   },
   acidarmor: {
-    pp: 40,
     num: 151,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Acid Armor',
+    pp: 40,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     boosts: { def: 2 },
@@ -3721,9 +3760,9 @@
     contestType: 'Tough'
   },
   aircutter: {
-    basePower: 55,
     num: 314,
     accuracy: 95,
+    basePower: 55,
     category: 'Physical',
     name: 'Air Cutter',
     pp: 25,
@@ -3736,12 +3775,12 @@
     contestType: 'Cool'
   },
   airslash: {
-    pp: 20,
     num: 403,
     accuracy: 95,
     basePower: 75,
     category: 'Physical',
     name: 'Air Slash',
+    pp: 20,
     priority: 0,
     flags: { protect: 1, mirror: 1, distance: 1, metronome: 1, slicing: 1 },
     secondary: { chance: 30, volatileStatus: 'flinch' },
@@ -3750,9 +3789,9 @@
     contestType: 'Cool'
   },
   assurance: {
-    basePower: 50,
     num: 372,
     accuracy: 100,
+    basePower: 50,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
     name: 'Assurance',
@@ -3765,9 +3804,9 @@
     contestType: 'Clever'
   },
   aurasphere: {
-    basePower: 90,
     num: 396,
     accuracy: true,
+    basePower: 90,
     category: 'Physical',
     name: 'Aura Sphere',
     pp: 20,
@@ -3786,40 +3825,40 @@
     contestType: 'Beautiful'
   },
   autotomize: {
-    volatileStatus: 'autotomize',
-    onHit: [Function: onHit],
-    condition: {
-      noCopy: true,
-      onStart: [Function: onStart],
-      onRestart: [Function: onRestart],
-      onModifyWeightPriority: 2,
-      onModifyWeight: [Function: onModifyWeight]
-    },
-    isNonstandard: null,
     num: 475,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Autotomize',
     pp: 15,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     onTryHit: [Function: onTryHit],
     boosts: { spe: 2 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
     type: 'Steel',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    volatileStatus: 'autotomize',
+    condition: {
+      noCopy: true,
+      onStart: [Function: onStart],
+      onRestart: [Function: onRestart],
+      onModifyWeightPriority: 2,
+      onModifyWeight: [Function: onModifyWeight]
+    }
   },
   barrier: {
-    pp: 30,
-    isNonstandard: null,
     num: 112,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Barrier',
+    pp: 30,
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     boosts: { def: 2 },
@@ -3830,15 +3869,15 @@
     contestType: 'Cool'
   },
   bestow: {
-    flags: { protect: 1, mirror: 1, noassist: 1, failcopycat: 1 },
-    isNonstandard: null,
     num: 516,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Bestow',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, noassist: 1, failcopycat: 1 },
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -3847,7 +3886,6 @@
     contestType: 'Cute'
   },
   block: {
-    flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
     num: 335,
     accuracy: true,
     basePower: 0,
@@ -3855,6 +3893,7 @@
     name: 'Block',
     pp: 5,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
     onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
@@ -3863,6 +3902,13 @@
     contestType: 'Cute'
   },
   bounce: {
+    num: 340,
+    accuracy: 85,
+    basePower: 85,
+    category: 'Physical',
+    name: 'Bounce',
+    pp: 5,
+    priority: 0,
     flags: {
       contact: 1,
       charge: 1,
@@ -3873,13 +3919,6 @@
       metronome: 1,
       nosleeptalk: 1
     },
-    num: 340,
-    accuracy: 85,
-    basePower: 85,
-    category: 'Physical',
-    name: 'Bounce',
-    pp: 5,
-    priority: 0,
     onTryMove: [Function: onTryMove],
     condition: {
       duration: 2,
@@ -3892,11 +3931,11 @@
     contestType: 'Cute'
   },
   bubble: {
-    basePower: 20,
-    isNonstandard: null,
     num: 145,
     accuracy: 100,
+    basePower: 20,
     category: 'Special',
+    isNonstandard: null,
     name: 'Bubble',
     pp: 30,
     priority: 0,
@@ -3907,7 +3946,6 @@
     contestType: 'Cute'
   },
   bugbuzz: {
-    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 405,
     accuracy: 100,
     basePower: 90,
@@ -3915,13 +3953,13 @@
     name: 'Bug Buzz',
     pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     secondary: { chance: 10, boosts: { spd: -1 } },
     target: 'normal',
     type: 'Bug',
     contestType: 'Beautiful'
   },
   charm: {
-    type: 'Normal',
     num: 204,
     accuracy: 100,
     basePower: 0,
@@ -3939,12 +3977,11 @@
     boosts: { atk: -2 },
     secondary: null,
     target: 'normal',
+    type: 'Normal',
     zMove: { boost: { def: 1 } },
     contestType: 'Cute'
   },
   copycat: {
-    onHit: [Function: onHit],
-    flags: { noassist: 1, failcopycat: 1, nosleeptalk: 1 },
     num: 383,
     accuracy: true,
     basePower: 0,
@@ -3952,6 +3989,8 @@
     name: 'Copycat',
     pp: 20,
     priority: 0,
+    flags: { noassist: 1, failcopycat: 1, nosleeptalk: 1 },
+    onHit: [Function: onHit],
     callsMove: true,
     secondary: null,
     target: 'self',
@@ -3960,9 +3999,9 @@
     contestType: 'Cute'
   },
   dracometeor: {
-    basePower: 140,
     num: 434,
     accuracy: 90,
+    basePower: 140,
     category: 'Special',
     name: 'Draco Meteor',
     pp: 5,
@@ -3975,9 +4014,9 @@
     contestType: 'Beautiful'
   },
   dragonpulse: {
-    basePower: 90,
     num: 406,
     accuracy: 100,
+    basePower: 90,
     category: 'Special',
     name: 'Dragon Pulse',
     pp: 10,
@@ -3989,7 +4028,6 @@
     contestType: 'Beautiful'
   },
   echoedvoice: {
-    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 497,
     accuracy: 100,
     basePower: 40,
@@ -3998,6 +4036,7 @@
     name: 'Echoed Voice',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     onTry: [Function: onTry],
     condition: {
       duration: 2,
@@ -4010,10 +4049,10 @@
     contestType: 'Beautiful'
   },
   electroball: {
-    basePowerCallback: [Function: basePowerCallback],
     num: 486,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
     name: 'Electro Ball',
     pp: 10,
@@ -4027,9 +4066,9 @@
     contestType: 'Cool'
   },
   energyball: {
-    basePower: 80,
     num: 412,
     accuracy: 100,
+    basePower: 80,
     category: 'Special',
     name: 'Energy Ball',
     pp: 10,
@@ -4041,7 +4080,6 @@
     contestType: 'Beautiful'
   },
   finalgambit: {
-    flags: { contact: 1, protect: 1, metronome: 1 },
     num: 515,
     accuracy: 100,
     basePower: 0,
@@ -4051,6 +4089,7 @@
     name: 'Final Gambit',
     pp: 5,
     priority: 0,
+    flags: { contact: 1, protect: 1, metronome: 1 },
     secondary: null,
     target: 'normal',
     type: 'Fighting',
@@ -4058,9 +4097,9 @@
     contestType: 'Tough'
   },
   fireblast: {
-    basePower: 120,
     num: 126,
     accuracy: 85,
+    basePower: 120,
     category: 'Special',
     name: 'Fire Blast',
     pp: 5,
@@ -4072,10 +4111,10 @@
     contestType: 'Beautiful'
   },
   firepledge: {
-    basePower: 50,
-    basePowerCallback: [Function: basePowerCallback],
     num: 519,
     accuracy: 100,
+    basePower: 50,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
     name: 'Fire Pledge',
     pp: 10,
@@ -4099,9 +4138,9 @@
     contestType: 'Beautiful'
   },
   flamethrower: {
-    basePower: 95,
     num: 53,
     accuracy: 100,
+    basePower: 95,
     category: 'Special',
     name: 'Flamethrower',
     pp: 15,
@@ -4113,9 +4152,9 @@
     contestType: 'Beautiful'
   },
   frostbreath: {
-    basePower: 40,
     num: 524,
     accuracy: 90,
+    basePower: 40,
     category: 'Special',
     name: 'Frost Breath',
     pp: 10,
@@ -4128,15 +4167,15 @@
     contestType: 'Beautiful'
   },
   grasswhistle: {
-    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
-    isNonstandard: null,
     num: 320,
     accuracy: 55,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Grass Whistle',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     status: 'slp',
     secondary: null,
     target: 'normal',
@@ -4145,10 +4184,10 @@
     contestType: 'Clever'
   },
   grasspledge: {
-    basePower: 50,
-    basePowerCallback: [Function: basePowerCallback],
     num: 520,
     accuracy: 100,
+    basePower: 50,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
     name: 'Grass Pledge',
     pp: 10,
@@ -4170,7 +4209,6 @@
     contestType: 'Beautiful'
   },
   growl: {
-    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 45,
     accuracy: 100,
     basePower: 0,
@@ -4178,6 +4216,7 @@
     name: 'Growl',
     pp: 40,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     boosts: { atk: -1 },
     secondary: null,
     target: 'allAdjacentFoes',
@@ -4186,8 +4225,8 @@
     contestType: 'Cute'
   },
   gunkshot: {
-    accuracy: 70,
     num: 441,
+    accuracy: 70,
     basePower: 120,
     category: 'Physical',
     name: 'Gunk Shot',
@@ -4200,10 +4239,10 @@
     contestType: 'Tough'
   },
   gyroball: {
-    basePowerCallback: [Function: basePowerCallback],
     num: 360,
     accuracy: 100,
     basePower: 0,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
     name: 'Gyro Ball',
     pp: 5,
@@ -4217,8 +4256,6 @@
     contestType: 'Cool'
   },
   healpulse: {
-    heal: [ 1, 2 ],
-    onHit: [Function: onHit],
     num: 505,
     accuracy: true,
     basePower: 0,
@@ -4235,16 +4272,18 @@
       metronome: 1,
       pulse: 1
     },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'any',
     type: 'Psychic',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    heal: [ 1, 2 ]
   },
   heatwave: {
-    basePower: 100,
     num: 257,
     accuracy: 90,
+    basePower: 100,
     category: 'Special',
     name: 'Heat Wave',
     pp: 10,
@@ -4256,9 +4295,9 @@
     contestType: 'Beautiful'
   },
   hex: {
-    basePower: 50,
     num: 506,
     accuracy: 100,
+    basePower: 50,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
     name: 'Hex',
@@ -4272,12 +4311,12 @@
     contestType: 'Clever'
   },
   hiddenpowerbug: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Bug',
     pp: 15,
     priority: 0,
@@ -4288,12 +4327,12 @@
     contestType: 'Clever'
   },
   hiddenpowerdark: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Dark',
     pp: 15,
     priority: 0,
@@ -4304,12 +4343,12 @@
     contestType: 'Clever'
   },
   hiddenpowerdragon: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Dragon',
     pp: 15,
     priority: 0,
@@ -4320,12 +4359,12 @@
     contestType: 'Clever'
   },
   hiddenpowerelectric: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Electric',
     pp: 15,
     priority: 0,
@@ -4336,12 +4375,12 @@
     contestType: 'Clever'
   },
   hiddenpowerfighting: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Fighting',
     pp: 15,
     priority: 0,
@@ -4352,12 +4391,12 @@
     contestType: 'Clever'
   },
   hiddenpowerfire: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Fire',
     pp: 15,
     priority: 0,
@@ -4368,12 +4407,12 @@
     contestType: 'Clever'
   },
   hiddenpowerflying: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Flying',
     pp: 15,
     priority: 0,
@@ -4384,12 +4423,12 @@
     contestType: 'Clever'
   },
   hiddenpowerghost: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Ghost',
     pp: 15,
     priority: 0,
@@ -4400,12 +4439,12 @@
     contestType: 'Clever'
   },
   hiddenpowergrass: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Grass',
     pp: 15,
     priority: 0,
@@ -4416,12 +4455,12 @@
     contestType: 'Clever'
   },
   hiddenpowerground: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Ground',
     pp: 15,
     priority: 0,
@@ -4432,12 +4471,12 @@
     contestType: 'Clever'
   },
   hiddenpowerice: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Ice',
     pp: 15,
     priority: 0,
@@ -4448,12 +4487,12 @@
     contestType: 'Clever'
   },
   hiddenpowerpoison: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Poison',
     pp: 15,
     priority: 0,
@@ -4464,12 +4503,12 @@
     contestType: 'Clever'
   },
   hiddenpowerpsychic: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Psychic',
     pp: 15,
     priority: 0,
@@ -4480,12 +4519,12 @@
     contestType: 'Clever'
   },
   hiddenpowerrock: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Rock',
     pp: 15,
     priority: 0,
@@ -4496,12 +4535,12 @@
     contestType: 'Clever'
   },
   hiddenpowersteel: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Steel',
     pp: 15,
     priority: 0,
@@ -4512,12 +4551,12 @@
     contestType: 'Clever'
   },
   hiddenpowerwater: {
-    basePower: 70,
-    isNonstandard: null,
     num: 237,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     realMove: 'Hidden Power',
+    isNonstandard: null,
     name: 'Hidden Power Water',
     pp: 15,
     priority: 0,
@@ -4528,7 +4567,6 @@
     contestType: 'Clever'
   },
   hornleech: {
-    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     num: 532,
     accuracy: 100,
     basePower: 75,
@@ -4536,6 +4574,7 @@
     name: 'Horn Leech',
     pp: 10,
     priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     drain: [ 1, 2 ],
     secondary: null,
     target: 'normal',
@@ -4543,9 +4582,9 @@
     contestType: 'Tough'
   },
   hurricane: {
-    basePower: 120,
     num: 542,
     accuracy: 70,
+    basePower: 120,
     category: 'Physical',
     name: 'Hurricane',
     pp: 10,
@@ -4558,9 +4597,9 @@
     contestType: 'Tough'
   },
   hydropump: {
-    basePower: 120,
     num: 56,
     accuracy: 80,
+    basePower: 120,
     category: 'Special',
     name: 'Hydro Pump',
     pp: 5,
@@ -4572,7 +4611,6 @@
     contestType: 'Beautiful'
   },
   hypervoice: {
-    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 304,
     accuracy: 100,
     basePower: 90,
@@ -4580,15 +4618,16 @@
     name: 'Hyper Voice',
     pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Normal',
     contestType: 'Cool'
   },
   icebeam: {
-    basePower: 95,
     num: 58,
     accuracy: 100,
+    basePower: 95,
     category: 'Special',
     name: 'Ice Beam',
     pp: 10,
@@ -4600,24 +4639,24 @@
     contestType: 'Beautiful'
   },
   incinerate: {
-    basePower: 30,
-    onHit: [Function: onHit],
     num: 510,
     accuracy: 100,
+    basePower: 30,
     category: 'Special',
     name: 'Incinerate',
     pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Fire',
     contestType: 'Tough'
   },
   leafstorm: {
-    basePower: 140,
     num: 437,
     accuracy: 90,
+    basePower: 140,
     category: 'Special',
     name: 'Leaf Storm',
     pp: 5,
@@ -4630,14 +4669,14 @@
     contestType: 'Beautiful'
   },
   leechlife: {
-    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
-    basePower: 20,
-    pp: 15,
     num: 141,
     accuracy: 100,
+    basePower: 20,
     category: 'Physical',
     name: 'Leech Life',
+    pp: 15,
     priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     drain: [ 1, 2 ],
     secondary: null,
     target: 'normal',
@@ -4645,9 +4684,9 @@
     contestType: 'Clever'
   },
   lick: {
-    basePower: 20,
     num: 122,
     accuracy: 100,
+    basePower: 20,
     category: 'Physical',
     name: 'Lick',
     pp: 30,
@@ -4659,9 +4698,9 @@
     contestType: 'Cute'
   },
   lowsweep: {
-    basePower: 60,
     num: 490,
     accuracy: 100,
+    basePower: 60,
     category: 'Physical',
     name: 'Low Sweep',
     pp: 20,
@@ -4673,13 +4712,13 @@
     contestType: 'Clever'
   },
   magicroom: {
-    priority: -7,
     num: 478,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Magic Room',
     pp: 10,
+    priority: -7,
     flags: { mirror: 1, metronome: 1 },
     pseudoWeather: 'magicroom',
     condition: {
@@ -4698,7 +4737,6 @@
     contestType: 'Clever'
   },
   metalsound: {
-    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 319,
     accuracy: 85,
     basePower: 0,
@@ -4706,6 +4744,7 @@
     name: 'Metal Sound',
     pp: 40,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     boosts: { spd: -2 },
     secondary: null,
     target: 'normal',
@@ -4714,9 +4753,9 @@
     contestType: 'Clever'
   },
   meteormash: {
+    num: 309,
     accuracy: 85,
     basePower: 100,
-    num: 309,
     category: 'Physical',
     name: 'Meteor Mash',
     pp: 10,
@@ -4728,9 +4767,9 @@
     contestType: 'Cool'
   },
   muddywater: {
-    basePower: 95,
     num: 330,
     accuracy: 85,
+    basePower: 95,
     category: 'Special',
     name: 'Muddy Water',
     pp: 10,
@@ -4742,9 +4781,9 @@
     contestType: 'Tough'
   },
   pinmissile: {
+    num: 42,
     accuracy: 85,
     basePower: 14,
-    num: 42,
     category: 'Physical',
     name: 'Pin Missile',
     pp: 20,
@@ -4759,7 +4798,6 @@
     contestType: 'Cool'
   },
   poisonfang: {
-    secondary: { chance: 30, status: 'tox' },
     num: 305,
     accuracy: 100,
     basePower: 50,
@@ -4768,14 +4806,15 @@
     pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1, bite: 1 },
+    secondary: { chance: 30, status: 'tox' },
     target: 'normal',
     type: 'Poison',
     contestType: 'Clever'
   },
   powergem: {
-    basePower: 70,
     num: 408,
     accuracy: 100,
+    basePower: 70,
     category: 'Physical',
     name: 'Power Gem',
     pp: 20,
@@ -4787,11 +4826,11 @@
     contestType: 'Beautiful'
   },
   psychoshift: {
-    accuracy: 90,
-    isNonstandard: null,
     num: 375,
+    accuracy: 90,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Psycho Shift',
     pp: 10,
     priority: 0,
@@ -4805,15 +4844,6 @@
     contestType: 'Clever'
   },
   quickguard: {
-    stallingMove: true,
-    onTry: [Function: onTry],
-    onHitSide: [Function: onHitSide],
-    condition: {
-      duration: 1,
-      onSideStart: [Function: onSideStart],
-      onTryHitPriority: 4,
-      onTryHit: [Function: onTryHit]
-    },
     num: 501,
     accuracy: true,
     basePower: 0,
@@ -4823,21 +4853,30 @@
     priority: 3,
     flags: { snatch: 1 },
     sideCondition: 'quickguard',
+    onTry: [Function: onTry],
+    onHitSide: [Function: onHitSide],
+    condition: {
+      duration: 1,
+      onSideStart: [Function: onSideStart],
+      onTryHitPriority: 4,
+      onTryHit: [Function: onTryHit]
+    },
     secondary: null,
     target: 'allySide',
     type: 'Fighting',
     zMove: { boost: { def: 1 } },
-    contestType: 'Cool'
+    contestType: 'Cool',
+    stallingMove: true
   },
   ragepowder: {
-    priority: 3,
-    flags: { noassist: 1, failcopycat: 1 },
     num: 476,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Rage Powder',
     pp: 20,
+    priority: 3,
+    flags: { noassist: 1, failcopycat: 1 },
     volatileStatus: 'ragepowder',
     onTry: [Function: onTry],
     condition: {
@@ -4853,8 +4892,6 @@
     contestType: 'Clever'
   },
   relicsong: {
-    flags: { protect: 1, mirror: 1, sound: 1 },
-    isNonstandard: null,
     num: 547,
     accuracy: 100,
     basePower: 75,
@@ -4862,20 +4899,22 @@
     name: 'Relic Song',
     pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1 },
     secondary: { chance: 10, status: 'slp' },
     onHit: [Function: onHit],
     onAfterMoveSecondarySelf: [Function: onAfterMoveSecondarySelf],
     target: 'allAdjacentFoes',
     type: 'Normal',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    isNonstandard: null
   },
   rocktomb: {
+    num: 317,
     accuracy: 80,
     basePower: 50,
-    pp: 10,
-    num: 317,
     category: 'Physical',
     name: 'Rock Tomb',
+    pp: 10,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
     secondary: { chance: 100, boosts: { spe: -1 } },
@@ -4884,7 +4923,6 @@
     contestType: 'Clever'
   },
   round: {
-    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 496,
     accuracy: 100,
     basePower: 60,
@@ -4893,6 +4931,7 @@
     name: 'Round',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
     onTry: [Function: onTry],
     secondary: null,
     target: 'normal',
@@ -4900,12 +4939,12 @@
     contestType: 'Beautiful'
   },
   sacredsword: {
-    pp: 20,
     num: 533,
     accuracy: 100,
     basePower: 90,
     category: 'Physical',
     name: 'Sacred Sword',
+    pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1, slicing: 1 },
     ignoreEvasion: true,
@@ -4916,7 +4955,6 @@
     contestType: 'Cool'
   },
   scald: {
-    thawsTarget: false,
     num: 503,
     accuracy: 100,
     basePower: 80,
@@ -4925,13 +4963,13 @@
     pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1, defrost: 1, metronome: 1 },
+    thawsTarget: false,
     secondary: { chance: 30, status: 'brn' },
     target: 'normal',
     type: 'Water',
     contestType: 'Tough'
   },
   screech: {
-    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 103,
     accuracy: 85,
     basePower: 0,
@@ -4939,6 +4977,7 @@
     name: 'Screech',
     pp: 40,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     boosts: { def: -2 },
     secondary: null,
     target: 'normal',
@@ -4947,7 +4986,6 @@
     contestType: 'Clever'
   },
   shadowforce: {
-    flags: { contact: 1, charge: 1, mirror: 1, metronome: 1, nosleeptalk: 1 },
     num: 467,
     accuracy: 100,
     basePower: 120,
@@ -4955,6 +4993,7 @@
     name: 'Shadow Force',
     pp: 5,
     priority: 0,
+    flags: { contact: 1, charge: 1, mirror: 1, metronome: 1, nosleeptalk: 1 },
     breaksProtect: true,
     onTryMove: [Function: onTryMove],
     condition: { duration: 2, onInvulnerability: false },
@@ -4964,7 +5003,6 @@
     contestType: 'Cool'
   },
   sing: {
-    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 47,
     accuracy: 55,
     basePower: 0,
@@ -4972,6 +5010,7 @@
     name: 'Sing',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     status: 'slp',
     secondary: null,
     target: 'normal',
@@ -4980,6 +5019,14 @@
     contestType: 'Cute'
   },
   skydrop: {
+    num: 507,
+    accuracy: 100,
+    basePower: 60,
+    category: 'Physical',
+    isNonstandard: null,
+    name: 'Sky Drop',
+    pp: 10,
+    priority: 0,
     flags: {
       contact: 1,
       charge: 1,
@@ -4990,18 +5037,10 @@
       metronome: 1,
       nosleeptalk: 1
     },
-    onTryHit: [Function: onTryHit],
-    isNonstandard: null,
-    num: 507,
-    accuracy: 100,
-    basePower: 60,
-    category: 'Physical',
-    name: 'Sky Drop',
-    pp: 10,
-    priority: 0,
     onModifyMove: [Function: onModifyMove],
     onMoveFail: [Function: onMoveFail],
     onTry: [Function: onTry],
+    onTryHit: [Function: onTryHit],
     onHit: [Function: onHit],
     condition: {
       duration: 2,
@@ -5022,7 +5061,6 @@
     contestType: 'Tough'
   },
   sleeppowder: {
-    onTryHit: [Function: onTryHit],
     num: 79,
     accuracy: 75,
     basePower: 0,
@@ -5036,15 +5074,16 @@
     target: 'normal',
     type: 'Grass',
     zMove: { boost: { spe: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit]
   },
   smellingsalts: {
-    basePower: 60,
-    isNonstandard: null,
     num: 265,
     accuracy: 100,
+    basePower: 60,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Smelling Salts',
     pp: 10,
     priority: 0,
@@ -5056,9 +5095,9 @@
     contestType: 'Tough'
   },
   smog: {
-    basePower: 20,
     num: 123,
     accuracy: 70,
+    basePower: 20,
     category: 'Physical',
     name: 'Smog',
     pp: 20,
@@ -5070,7 +5109,6 @@
     contestType: 'Tough'
   },
   snarl: {
-    flags: { protect: 1, mirror: 1, sound: 1 },
     num: 555,
     accuracy: 95,
     basePower: 55,
@@ -5078,13 +5116,13 @@
     name: 'Snarl',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, sound: 1 },
     secondary: { chance: 100, boosts: { spa: -1 } },
     target: 'allAdjacentFoes',
     type: 'Dark',
     contestType: 'Tough'
   },
   soak: {
-    onHit: [Function: onHit],
     num: 487,
     accuracy: 100,
     basePower: 0,
@@ -5099,6 +5137,7 @@
       allyanim: 1,
       metronome: 1
     },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Water',
@@ -5106,7 +5145,6 @@
     contestType: 'Cute'
   },
   spore: {
-    onTryHit: [Function: onTryHit],
     num: 147,
     accuracy: 100,
     basePower: 0,
@@ -5120,14 +5158,15 @@
     target: 'normal',
     type: 'Grass',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    onTryHit: [Function: onTryHit]
   },
   stormthrow: {
-    basePower: 40,
-    isNonstandard: null,
     num: 480,
     accuracy: 100,
+    basePower: 40,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Storm Throw',
     pp: 10,
     priority: 0,
@@ -5139,7 +5178,6 @@
     contestType: 'Cool'
   },
   stringshot: {
-    boosts: { spe: -1 },
     num: 81,
     accuracy: 95,
     basePower: 0,
@@ -5148,6 +5186,7 @@
     pp: 40,
     priority: 0,
     flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
+    boosts: { spe: -1 },
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Bug',
@@ -5155,9 +5194,9 @@
     contestType: 'Clever'
   },
   strugglebug: {
-    basePower: 30,
     num: 522,
     accuracy: 100,
+    basePower: 30,
     category: 'Physical',
     name: 'Struggle Bug',
     pp: 20,
@@ -5169,7 +5208,6 @@
     contestType: 'Cute'
   },
   stunspore: {
-    onTryHit: [Function: onTryHit],
     num: 78,
     accuracy: 75,
     basePower: 0,
@@ -5183,16 +5221,17 @@
     target: 'normal',
     type: 'Grass',
     zMove: { boost: { spd: 1 } },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    onTryHit: [Function: onTryHit]
   },
   submission: {
-    pp: 25,
-    isNonstandard: null,
     num: 66,
     accuracy: 80,
     basePower: 80,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Submission',
+    pp: 25,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     recoil: [ 1, 4 ],
@@ -5202,7 +5241,6 @@
     contestType: 'Cool'
   },
   supersonic: {
-    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     num: 48,
     accuracy: 55,
     basePower: 0,
@@ -5210,6 +5248,7 @@
     name: 'Supersonic',
     pp: 20,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, sound: 1, metronome: 1 },
     volatileStatus: 'confusion',
     secondary: null,
     target: 'normal',
@@ -5218,7 +5257,6 @@
     contestType: 'Clever'
   },
   sweetkiss: {
-    type: 'Normal',
     num: 186,
     accuracy: 75,
     basePower: 0,
@@ -5230,11 +5268,11 @@
     volatileStatus: 'confusion',
     secondary: null,
     target: 'normal',
+    type: 'Normal',
     zMove: { boost: { spa: 1 } },
     contestType: 'Cute'
   },
   sweetscent: {
-    boosts: { evasion: -1 },
     num: 230,
     accuracy: 100,
     basePower: 0,
@@ -5243,6 +5281,7 @@
     pp: 20,
     priority: 0,
     flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
+    boosts: { evasion: -1 },
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Normal',
@@ -5250,12 +5289,12 @@
     contestType: 'Cute'
   },
   swordsdance: {
-    pp: 30,
     num: 14,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Swords Dance',
+    pp: 30,
     priority: 0,
     flags: { snatch: 1, dance: 1, metronome: 1 },
     boosts: { atk: 2 },
@@ -5266,13 +5305,13 @@
     contestType: 'Beautiful'
   },
   synchronoise: {
-    basePower: 70,
-    pp: 15,
-    isNonstandard: null,
     num: 485,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
+    isNonstandard: null,
     name: 'Synchronoise',
+    pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
     onTryImmunity: [Function: onTryImmunity],
@@ -5282,11 +5321,11 @@
     contestType: 'Clever'
   },
   technoblast: {
-    basePower: 85,
-    isNonstandard: null,
     num: 546,
     accuracy: 100,
+    basePower: 85,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Techno Blast',
     pp: 5,
     priority: 0,
@@ -5298,9 +5337,9 @@
     contestType: 'Cool'
   },
   thunder: {
-    basePower: 120,
     num: 87,
     accuracy: 70,
+    basePower: 120,
     category: 'Special',
     name: 'Thunder',
     pp: 10,
@@ -5313,9 +5352,9 @@
     contestType: 'Cool'
   },
   thunderbolt: {
-    basePower: 95,
     num: 85,
     accuracy: 100,
+    basePower: 95,
     category: 'Special',
     name: 'Thunderbolt',
     pp: 15,
@@ -5327,12 +5366,12 @@
     contestType: 'Cool'
   },
   wakeupslap: {
-    basePower: 60,
-    isNonstandard: null,
     num: 358,
     accuracy: 100,
+    basePower: 60,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Wake-Up Slap',
     pp: 10,
     priority: 0,
@@ -5344,10 +5383,10 @@
     contestType: 'Tough'
   },
   waterpledge: {
-    basePower: 50,
-    basePowerCallback: [Function: basePowerCallback],
     num: 518,
     accuracy: 100,
+    basePower: 50,
+    basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
     name: 'Water Pledge',
     pp: 10,
@@ -5369,15 +5408,6 @@
     contestType: 'Beautiful'
   },
   wideguard: {
-    stallingMove: true,
-    onTry: [Function: onTry],
-    onHitSide: [Function: onHitSide],
-    condition: {
-      duration: 1,
-      onSideStart: [Function: onSideStart],
-      onTryHitPriority: 4,
-      onTryHit: [Function: onTryHit]
-    },
     num: 469,
     accuracy: true,
     basePower: 0,
@@ -5387,15 +5417,24 @@
     priority: 3,
     flags: { snatch: 1 },
     sideCondition: 'wideguard',
+    onTry: [Function: onTry],
+    onHitSide: [Function: onHitSide],
+    condition: {
+      duration: 1,
+      onSideStart: [Function: onSideStart],
+      onTryHitPriority: 4,
+      onTryHit: [Function: onTryHit]
+    },
     secondary: null,
     target: 'allySide',
     type: 'Rock',
     zMove: { boost: { def: 1 } },
-    contestType: 'Tough'
+    contestType: 'Tough',
+    stallingMove: true
   },
   willowisp: {
-    accuracy: 75,
     num: 261,
+    accuracy: 75,
     basePower: 0,
     category: 'Status',
     name: 'Will-O-Wisp',
@@ -5410,13 +5449,13 @@
     contestType: 'Beautiful'
   },
   wonderroom: {
-    priority: -7,
     num: 472,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Wonder Room',
     pp: 10,
+    priority: -7,
     flags: { mirror: 1, metronome: 1 },
     pseudoWeather: 'wonderroom',
     condition: {
@@ -5436,15 +5475,15 @@
     contestType: 'Clever'
   },
   allyswitch: {
-    priority: 1,
-    onPrepareHit: [Function: onPrepareHit],
     num: 502,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Ally Switch',
     pp: 15,
+    priority: 1,
     flags: { metronome: 1 },
+    onPrepareHit: [Function: onPrepareHit],
     onHit: [Function: onHit],
     condition: {
       duration: 2,
@@ -5459,25 +5498,24 @@
     contestType: 'Clever'
   },
   darkvoid: {
-    accuracy: 80,
-    onTry: [Function: onTry],
-    isNonstandard: null,
-    flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
     num: 464,
+    accuracy: 80,
     basePower: 0,
     category: 'Status',
     name: 'Dark Void',
     pp: 10,
     priority: 0,
+    flags: { protect: 1, reflectable: 1, mirror: 1, metronome: 1 },
     status: 'slp',
+    onTry: [Function: onTry],
     secondary: null,
     target: 'allAdjacentFoes',
     type: 'Dark',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    isNonstandard: null
   },
   destinybond: {
-    onPrepareHit: [Function: onPrepareHit],
     num: 194,
     accuracy: true,
     basePower: 0,
@@ -5487,6 +5525,7 @@
     priority: 0,
     flags: { bypasssub: 1, noassist: 1, failcopycat: 1 },
     volatileStatus: 'destinybond',
+    onPrepareHit: [Function: onPrepareHit],
     condition: {
       onStart: [Function: onStart],
       onFaint: [Function: onFaint],
@@ -5501,8 +5540,6 @@
     contestType: 'Clever'
   },
   diamondstorm: {
-    self: null,
-    secondary: { chance: 50, self: { boosts: { def: 1 } } },
     num: 591,
     accuracy: 95,
     basePower: 100,
@@ -5511,29 +5548,31 @@
     pp: 5,
     priority: 0,
     flags: { protect: 1, mirror: 1 },
+    self: null,
+    secondary: { chance: 50, self: { boosts: { def: 1 } } },
     target: 'allAdjacentFoes',
     type: 'Rock',
     contestType: 'Beautiful'
   },
   fellstinger: {
-    basePower: 30,
-    onAfterMoveSecondarySelf: [Function: onAfterMoveSecondarySelf],
     num: 565,
     accuracy: 100,
+    basePower: 30,
     category: 'Physical',
     name: 'Fell Stinger',
     pp: 25,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
+    onAfterMoveSecondarySelf: [Function: onAfterMoveSecondarySelf],
     secondary: null,
     target: 'normal',
     type: 'Bug',
     contestType: 'Cool'
   },
   flyingpress: {
-    basePower: 80,
     num: 560,
     accuracy: 95,
+    basePower: 80,
     category: 'Physical',
     name: 'Flying Press',
     pp: 10,
@@ -5555,6 +5594,15 @@
     contestType: 'Tough'
   },
   mistyterrain: {
+    num: 581,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Misty Terrain',
+    pp: 10,
+    priority: 0,
+    flags: { nonsky: 1, metronome: 1 },
+    terrain: 'mistyterrain',
     condition: {
       duration: 5,
       durationCallback: [Function: durationCallback],
@@ -5565,15 +5613,6 @@
       onFieldResidualSubOrder: 7,
       onFieldEnd: [Function: onFieldEnd]
     },
-    num: 581,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Misty Terrain',
-    pp: 10,
-    priority: 0,
-    flags: { nonsky: 1, metronome: 1 },
-    terrain: 'mistyterrain',
     secondary: null,
     target: 'all',
     type: 'Fairy',
@@ -5581,9 +5620,9 @@
     contestType: 'Beautiful'
   },
   mysticalfire: {
-    basePower: 65,
     num: 595,
     accuracy: 100,
+    basePower: 65,
     category: 'Special',
     name: 'Mystical Fire',
     pp: 10,
@@ -5595,9 +5634,9 @@
     contestType: 'Beautiful'
   },
   paraboliccharge: {
-    basePower: 50,
     num: 570,
     accuracy: 100,
+    basePower: 50,
     category: 'Special',
     name: 'Parabolic Charge',
     pp: 20,
@@ -5610,7 +5649,6 @@
     contestType: 'Clever'
   },
   partingshot: {
-    onHit: [Function: onHit],
     num: 575,
     accuracy: 100,
     basePower: 0,
@@ -5626,6 +5664,7 @@
       bypasssub: 1,
       metronome: 1
     },
+    onHit: [Function: onHit],
     selfSwitch: true,
     secondary: null,
     target: 'normal',
@@ -5634,17 +5673,11 @@
     contestType: 'Cool'
   },
   powder: {
-    condition: {
-      duration: 1,
-      onStart: [Function: onStart],
-      onTryMovePriority: 1,
-      onTryMove: [Function: onTryMove]
-    },
-    isNonstandard: null,
     num: 600,
     accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Powder',
     pp: 20,
     priority: 1,
@@ -5657,6 +5690,12 @@
       powder: 1
     },
     volatileStatus: 'powder',
+    condition: {
+      duration: 1,
+      onStart: [Function: onStart],
+      onTryMovePriority: 1,
+      onTryMove: [Function: onTryMove]
+    },
     secondary: null,
     target: 'normal',
     type: 'Bug',
@@ -5664,7 +5703,6 @@
     contestType: 'Clever'
   },
   sheercold: {
-    ohko: true,
     num: 329,
     accuracy: 30,
     basePower: 0,
@@ -5674,6 +5712,7 @@
     priority: 0,
     flags: { protect: 1, mirror: 1, metronome: 1 },
     secondary: null,
+    ohko: true,
     target: 'normal',
     type: 'Ice',
     zMove: { basePower: 180 },
@@ -5681,11 +5720,11 @@
     contestType: 'Beautiful'
   },
   thousandarrows: {
-    isNonstandard: 'Unobtainable',
     num: 614,
     accuracy: 100,
     basePower: 90,
     category: 'Physical',
+    isNonstandard: 'Unobtainable',
     name: 'Thousand Arrows',
     pp: 10,
     priority: 0,
@@ -5700,11 +5739,11 @@
     contestType: 'Beautiful'
   },
   thousandwaves: {
-    isNonstandard: 'Unobtainable',
     num: 615,
     accuracy: 100,
     basePower: 90,
     category: 'Physical',
+    isNonstandard: 'Unobtainable',
     name: 'Thousand Waves',
     pp: 10,
     priority: 0,
@@ -5716,8 +5755,8 @@
     contestType: 'Tough'
   },
   thunderwave: {
-    accuracy: 100,
     num: 86,
+    accuracy: 100,
     basePower: 0,
     category: 'Status',
     name: 'Thunder Wave',
@@ -5733,11 +5772,11 @@
     contestType: 'Cool'
   },
   watershuriken: {
-    category: 'Special',
     num: 594,
     accuracy: 100,
     basePower: 15,
     basePowerCallback: [Function: basePowerCallback],
+    category: 'Special',
     name: 'Water Shuriken',
     pp: 20,
     priority: 1,
@@ -5749,11 +5788,11 @@
     contestType: 'Cool'
   },
   '10000000voltthunderbolt': {
-    isNonstandard: null,
     num: 719,
     accuracy: true,
     basePower: 195,
     category: 'Special',
+    isNonstandard: null,
     name: '10,000,000 Volt Thunderbolt',
     pp: 1,
     priority: 0,
@@ -5766,11 +5805,11 @@
     contestType: 'Cool'
   },
   aciddownpour: {
-    isNonstandard: null,
     num: 628,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Acid Downpour',
     pp: 1,
     priority: 0,
@@ -5782,11 +5821,11 @@
     contestType: 'Cool'
   },
   alloutpummeling: {
-    isNonstandard: null,
     num: 624,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'All-Out Pummeling',
     pp: 1,
     priority: 0,
@@ -5798,9 +5837,9 @@
     contestType: 'Cool'
   },
   baddybad: {
+    num: 737,
     accuracy: 100,
     basePower: 90,
-    num: 737,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Baddy Bad',
@@ -5814,11 +5853,11 @@
     contestType: 'Clever'
   },
   barrage: {
-    isNonstandard: null,
     num: 140,
     accuracy: 85,
     basePower: 15,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Barrage',
     pp: 20,
     priority: 0,
@@ -5830,7 +5869,6 @@
     contestType: 'Cute'
   },
   beakblast: {
-    isNonstandard: null,
     num: 690,
     accuracy: 100,
     basePower: 100,
@@ -5857,14 +5895,15 @@
     secondary: null,
     target: 'normal',
     type: 'Flying',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    isNonstandard: null
   },
   blackholeeclipse: {
-    isNonstandard: null,
     num: 654,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Black Hole Eclipse',
     pp: 1,
     priority: 0,
@@ -5876,11 +5915,11 @@
     contestType: 'Cool'
   },
   bloomdoom: {
-    isNonstandard: null,
     num: 644,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Bloom Doom',
     pp: 1,
     priority: 0,
@@ -5892,11 +5931,11 @@
     contestType: 'Cool'
   },
   boneclub: {
-    isNonstandard: null,
     num: 125,
     accuracy: 85,
     basePower: 65,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Bone Club',
     pp: 20,
     priority: 0,
@@ -5907,13 +5946,13 @@
     contestType: 'Tough'
   },
   bouncybubble: {
-    basePower: 90,
-    pp: 15,
     num: 733,
     accuracy: 100,
+    basePower: 90,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Bouncy Bubble',
+    pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1, heal: 1 },
     drain: [ 1, 2 ],
@@ -5923,11 +5962,11 @@
     contestType: 'Clever'
   },
   breakneckblitz: {
-    isNonstandard: null,
     num: 622,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Breakneck Blitz',
     pp: 1,
     priority: 0,
@@ -5939,13 +5978,13 @@
     contestType: 'Cool'
   },
   buzzybuzz: {
-    basePower: 90,
-    pp: 15,
     num: 734,
     accuracy: 100,
+    basePower: 90,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Buzzy Buzz',
+    pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1 },
     secondary: { chance: 100, status: 'par' },
@@ -5954,11 +5993,11 @@
     contestType: 'Clever'
   },
   captivate: {
-    isNonstandard: null,
     num: 445,
     accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Captivate',
     pp: 20,
     priority: 0,
@@ -5972,11 +6011,11 @@
     contestType: 'Cute'
   },
   catastropika: {
-    isNonstandard: null,
     num: 658,
     accuracy: true,
     basePower: 210,
     category: 'Special',
+    isNonstandard: null,
     name: 'Catastropika',
     pp: 1,
     priority: 0,
@@ -5988,11 +6027,11 @@
     contestType: 'Cool'
   },
   chipaway: {
-    isNonstandard: null,
     num: 498,
     accuracy: 100,
     basePower: 70,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Chip Away',
     pp: 20,
     priority: 0,
@@ -6005,11 +6044,11 @@
     contestType: 'Tough'
   },
   clangoroussoulblaze: {
-    isNonstandard: null,
     num: 728,
     accuracy: true,
     basePower: 185,
     category: 'Special',
+    isNonstandard: null,
     name: 'Clangorous Soulblaze',
     pp: 1,
     priority: 0,
@@ -6022,11 +6061,11 @@
     contestType: 'Cool'
   },
   cometpunch: {
-    isNonstandard: null,
     num: 4,
     accuracy: 85,
     basePower: 18,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Comet Punch',
     pp: 15,
     priority: 0,
@@ -6039,11 +6078,11 @@
     contestType: 'Tough'
   },
   constrict: {
-    isNonstandard: null,
     num: 132,
     accuracy: 100,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Constrict',
     pp: 35,
     priority: 0,
@@ -6054,11 +6093,11 @@
     contestType: 'Tough'
   },
   continentalcrush: {
-    isNonstandard: null,
     num: 632,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Continental Crush',
     pp: 1,
     priority: 0,
@@ -6070,11 +6109,11 @@
     contestType: 'Cool'
   },
   corkscrewcrash: {
-    isNonstandard: null,
     num: 638,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Corkscrew Crash',
     pp: 1,
     priority: 0,
@@ -6086,11 +6125,11 @@
     contestType: 'Cool'
   },
   devastatingdrake: {
-    isNonstandard: null,
     num: 652,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Devastating Drake',
     pp: 1,
     priority: 0,
@@ -6102,11 +6141,11 @@
     contestType: 'Cool'
   },
   dizzypunch: {
-    isNonstandard: null,
     num: 146,
     accuracy: 100,
     basePower: 70,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Dizzy Punch',
     pp: 10,
     priority: 0,
@@ -6117,11 +6156,11 @@
     contestType: 'Cute'
   },
   doubleironbash: {
-    isNonstandard: 'LGPE',
     num: 742,
     accuracy: 100,
     basePower: 60,
     category: 'Physical',
+    isNonstandard: 'LGPE',
     name: 'Double Iron Bash',
     pp: 5,
     priority: 0,
@@ -6135,11 +6174,11 @@
     contestType: 'Clever'
   },
   doubleslap: {
-    isNonstandard: null,
     num: 3,
     accuracy: 85,
     basePower: 15,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Double Slap',
     pp: 10,
     priority: 0,
@@ -6151,7 +6190,6 @@
     contestType: 'Cute'
   },
   dragonhammer: {
-    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     num: 692,
     accuracy: 100,
     basePower: 90,
@@ -6159,18 +6197,19 @@
     name: 'Dragon Hammer',
     pp: 15,
     priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     secondary: null,
     target: 'normal',
     type: 'Dragon',
     contestType: 'Tough'
   },
   dragonrage: {
-    isNonstandard: null,
     num: 82,
     accuracy: 100,
     basePower: 0,
     damage: 40,
     category: 'Special',
+    isNonstandard: null,
     name: 'Dragon Rage',
     pp: 10,
     priority: 0,
@@ -6181,11 +6220,11 @@
     contestType: 'Cool'
   },
   eggbomb: {
-    isNonstandard: null,
     num: 121,
     accuracy: 75,
     basePower: 100,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Egg Bomb',
     pp: 10,
     priority: 0,
@@ -6196,6 +6235,15 @@
     contestType: 'Cute'
   },
   electricterrain: {
+    num: 604,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Electric Terrain',
+    pp: 10,
+    priority: 0,
+    flags: { nonsky: 1, metronome: 1 },
+    terrain: 'electricterrain',
     condition: {
       duration: 5,
       durationCallback: [Function: durationCallback],
@@ -6207,15 +6255,6 @@
       onFieldResidualSubOrder: 7,
       onFieldEnd: [Function: onFieldEnd]
     },
-    num: 604,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Electric Terrain',
-    pp: 10,
-    priority: 0,
-    flags: { nonsky: 1, metronome: 1 },
-    terrain: 'electricterrain',
     secondary: null,
     target: 'all',
     type: 'Electric',
@@ -6223,11 +6262,11 @@
     contestType: 'Clever'
   },
   extremeevoboost: {
-    isNonstandard: null,
     num: 702,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Extreme Evoboost',
     pp: 1,
     priority: 0,
@@ -6240,11 +6279,11 @@
     contestType: 'Beautiful'
   },
   flameburst: {
-    isNonstandard: null,
     num: 481,
     accuracy: 100,
     basePower: 70,
     category: 'Special',
+    isNonstandard: null,
     name: 'Flame Burst',
     pp: 15,
     priority: 0,
@@ -6257,7 +6296,6 @@
     contestType: 'Beautiful'
   },
   floralhealing: {
-    onHit: [Function: onHit],
     num: 666,
     accuracy: true,
     basePower: 0,
@@ -6266,6 +6304,7 @@
     pp: 10,
     priority: 0,
     flags: { protect: 1, reflectable: 1, heal: 1, allyanim: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Fairy',
@@ -6273,13 +6312,13 @@
     contestType: 'Beautiful'
   },
   freezyfrost: {
+    num: 739,
     accuracy: 100,
     basePower: 90,
-    pp: 15,
-    num: 739,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Freezy Frost',
+    pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1 },
     onHit: [Function: onHit],
@@ -6289,11 +6328,11 @@
     contestType: 'Clever'
   },
   genesissupernova: {
-    isNonstandard: null,
     num: 703,
     accuracy: true,
     basePower: 185,
     category: 'Special',
+    isNonstandard: null,
     name: 'Genesis Supernova',
     pp: 1,
     priority: 0,
@@ -6305,11 +6344,11 @@
     contestType: 'Cool'
   },
   gigavolthavoc: {
-    isNonstandard: null,
     num: 646,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Gigavolt Havoc',
     pp: 1,
     priority: 0,
@@ -6321,9 +6360,9 @@
     contestType: 'Cool'
   },
   glitzyglow: {
+    num: 736,
     accuracy: 100,
     basePower: 90,
-    num: 736,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Glitzy Glow',
@@ -6337,7 +6376,6 @@
     contestType: 'Clever'
   },
   grassknot: {
-    onTryHit: [Function: onTryHit],
     num: 447,
     accuracy: 100,
     basePower: 0,
@@ -6347,6 +6385,7 @@
     pp: 20,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, nonsky: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
     secondary: null,
     target: 'normal',
     type: 'Grass',
@@ -6355,6 +6394,15 @@
     contestType: 'Cute'
   },
   grassyterrain: {
+    num: 580,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Grassy Terrain',
+    pp: 10,
+    priority: 0,
+    flags: { nonsky: 1, metronome: 1 },
+    terrain: 'grassyterrain',
     condition: {
       duration: 5,
       durationCallback: [Function: durationCallback],
@@ -6367,15 +6415,6 @@
       onFieldResidualSubOrder: 7,
       onFieldEnd: [Function: onFieldEnd]
     },
-    num: 580,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Grassy Terrain',
-    pp: 10,
-    priority: 0,
-    flags: { nonsky: 1, metronome: 1 },
-    terrain: 'grassyterrain',
     secondary: null,
     target: 'all',
     type: 'Grass',
@@ -6383,12 +6422,12 @@
     contestType: 'Beautiful'
   },
   guardianofalola: {
-    isNonstandard: null,
     num: 698,
     accuracy: true,
     basePower: 0,
     damageCallback: [Function: damageCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Guardian of Alola',
     pp: 1,
     priority: 0,
@@ -6400,11 +6439,11 @@
     contestType: 'Tough'
   },
   healorder: {
-    isNonstandard: null,
     num: 456,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Heal Order',
     pp: 10,
     priority: 0,
@@ -6417,11 +6456,11 @@
     contestType: 'Clever'
   },
   heartstamp: {
-    isNonstandard: null,
     num: 531,
     accuracy: 100,
     basePower: 60,
     category: 'Special',
+    isNonstandard: null,
     name: 'Heart Stamp',
     pp: 25,
     priority: 0,
@@ -6432,7 +6471,6 @@
     contestType: 'Cute'
   },
   heartswap: {
-    isNonstandard: null,
     num: 391,
     accuracy: true,
     basePower: 0,
@@ -6446,10 +6484,10 @@
     target: 'normal',
     type: 'Psychic',
     zMove: { effect: 'crit2' },
-    contestType: 'Clever'
+    contestType: 'Clever',
+    isNonstandard: null
   },
   heatcrash: {
-    onTryHit: [Function: onTryHit],
     num: 535,
     accuracy: 100,
     basePower: 0,
@@ -6459,6 +6497,7 @@
     pp: 10,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, nonsky: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
     secondary: null,
     target: 'normal',
     type: 'Fire',
@@ -6467,7 +6506,6 @@
     contestType: 'Tough'
   },
   heavyslam: {
-    onTryHit: [Function: onTryHit],
     num: 484,
     accuracy: 100,
     basePower: 0,
@@ -6477,6 +6515,7 @@
     pp: 10,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, nonsky: 1, metronome: 1 },
+    onTryHit: [Function: onTryHit],
     secondary: null,
     target: 'normal',
     type: 'Steel',
@@ -6485,9 +6524,6 @@
     contestType: 'Tough'
   },
   howl: {
-    flags: { snatch: 1, metronome: 1 },
-    boosts: { atk: 1 },
-    target: 'self',
     num: 336,
     accuracy: true,
     basePower: 0,
@@ -6495,17 +6531,20 @@
     name: 'Howl',
     pp: 40,
     priority: 0,
+    flags: { snatch: 1, metronome: 1 },
+    boosts: { atk: 1 },
     secondary: null,
+    target: 'self',
     type: 'Normal',
     zMove: { boost: { atk: 1 } },
     contestType: 'Cool'
   },
   hydrovortex: {
-    isNonstandard: null,
     num: 642,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Hydro Vortex',
     pp: 1,
     priority: 0,
@@ -6517,11 +6556,11 @@
     contestType: 'Cool'
   },
   hyperfang: {
-    isNonstandard: null,
     num: 158,
     accuracy: 90,
     basePower: 80,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Hyper Fang',
     pp: 15,
     priority: 0,
@@ -6532,8 +6571,6 @@
     contestType: 'Cool'
   },
   hyperspacefury: {
-    isNonstandard: null,
-    flags: { mirror: 1, bypasssub: 1 },
     num: 621,
     accuracy: true,
     basePower: 100,
@@ -6541,16 +6578,17 @@
     name: 'Hyperspace Fury',
     pp: 5,
     priority: 0,
+    flags: { mirror: 1, bypasssub: 1 },
     breaksProtect: true,
     onTry: [Function: onTry],
     self: { boosts: { def: -1 } },
     secondary: null,
     target: 'normal',
     type: 'Dark',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    isNonstandard: null
   },
   hyperspacehole: {
-    isNonstandard: null,
     num: 593,
     accuracy: true,
     basePower: 80,
@@ -6563,15 +6601,16 @@
     secondary: null,
     target: 'normal',
     type: 'Psychic',
-    contestType: 'Clever'
+    contestType: 'Clever',
+    isNonstandard: null
   },
   iceball: {
-    isNonstandard: null,
     num: 301,
     accuracy: 90,
     basePower: 30,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
+    isNonstandard: null,
     name: 'Ice Ball',
     pp: 20,
     priority: 0,
@@ -6598,7 +6637,6 @@
     contestType: 'Beautiful'
   },
   icehammer: {
-    isNonstandard: null,
     num: 665,
     accuracy: 90,
     basePower: 100,
@@ -6611,14 +6649,15 @@
     secondary: null,
     target: 'normal',
     type: 'Ice',
-    contestType: 'Tough'
+    contestType: 'Tough',
+    isNonstandard: null
   },
   infernooverdrive: {
-    isNonstandard: null,
     num: 640,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Inferno Overdrive',
     pp: 1,
     priority: 0,
@@ -6630,11 +6669,11 @@
     contestType: 'Cool'
   },
   iondeluge: {
-    isNonstandard: null,
     num: 569,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Ion Deluge',
     pp: 25,
     priority: 1,
@@ -6653,7 +6692,6 @@
     contestType: 'Beautiful'
   },
   judgment: {
-    isNonstandard: null,
     num: 449,
     accuracy: 100,
     basePower: 100,
@@ -6666,21 +6704,15 @@
     secondary: null,
     target: 'normal',
     type: 'Normal',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    isNonstandard: null
   },
   kingsshield: {
-    condition: {
-      duration: 1,
-      onStart: [Function: onStart],
-      onTryHitPriority: 3,
-      onTryHit: [Function: onTryHit],
-      onHit: [Function: onHit]
-    },
-    isNonstandard: null,
     num: 588,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: "King's Shield",
     pp: 10,
     priority: 4,
@@ -6689,6 +6721,13 @@
     volatileStatus: 'kingsshield',
     onPrepareHit: [Function: onPrepareHit],
     onHit: [Function: onHit],
+    condition: {
+      duration: 1,
+      onStart: [Function: onStart],
+      onTryHitPriority: 3,
+      onTryHit: [Function: onTryHit],
+      onHit: [Function: onHit]
+    },
     secondary: null,
     target: 'self',
     type: 'Steel',
@@ -6696,11 +6735,11 @@
     contestType: 'Cool'
   },
   letssnuggleforever: {
-    isNonstandard: null,
     num: 726,
     accuracy: true,
     basePower: 190,
     category: 'Physical',
+    isNonstandard: null,
     name: "Let's Snuggle Forever",
     pp: 1,
     priority: 0,
@@ -6712,11 +6751,11 @@
     contestType: 'Cool'
   },
   lightofruin: {
-    isNonstandard: 'Unobtainable',
     num: 617,
     accuracy: 90,
     basePower: 140,
     category: 'Physical',
+    isNonstandard: 'Unobtainable',
     name: 'Light of Ruin',
     pp: 5,
     priority: 0,
@@ -6728,11 +6767,11 @@
     contestType: 'Beautiful'
   },
   lightthatburnsthesky: {
-    isNonstandard: null,
     num: 723,
     accuracy: true,
     basePower: 200,
     category: 'Special',
+    isNonstandard: null,
     name: 'Light That Burns the Sky',
     pp: 1,
     priority: 0,
@@ -6746,11 +6785,11 @@
     contestType: 'Cool'
   },
   magnetbomb: {
-    isNonstandard: null,
     num: 443,
     accuracy: true,
     basePower: 60,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Magnet Bomb',
     pp: 20,
     priority: 0,
@@ -6761,11 +6800,11 @@
     contestType: 'Cool'
   },
   magnitude: {
-    isNonstandard: null,
     num: 222,
     accuracy: 100,
     basePower: 0,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Magnitude',
     pp: 30,
     priority: 0,
@@ -6780,11 +6819,11 @@
     contestType: 'Tough'
   },
   maliciousmoonsault: {
-    isNonstandard: null,
     num: 696,
     accuracy: true,
     basePower: 180,
     category: 'Special',
+    isNonstandard: null,
     name: 'Malicious Moonsault',
     pp: 1,
     priority: 0,
@@ -6796,11 +6835,11 @@
     contestType: 'Cool'
   },
   meditate: {
-    isNonstandard: null,
     num: 96,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Meditate',
     pp: 40,
     priority: 0,
@@ -6813,11 +6852,11 @@
     contestType: 'Beautiful'
   },
   menacingmoonrazemaelstrom: {
-    isNonstandard: null,
     num: 725,
     accuracy: true,
     basePower: 200,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Menacing Moonraze Maelstrom',
     pp: 1,
     priority: 0,
@@ -6830,11 +6869,11 @@
     contestType: 'Cool'
   },
   mirrorshot: {
-    isNonstandard: null,
     num: 429,
     accuracy: 85,
     basePower: 65,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Mirror Shot',
     pp: 10,
     priority: 0,
@@ -6845,7 +6884,6 @@
     contestType: 'Beautiful'
   },
   moongeistbeam: {
-    flags: { protect: 1, mirror: 1, metronome: 1 },
     num: 714,
     accuracy: 100,
     basePower: 100,
@@ -6853,6 +6891,7 @@
     name: 'Moongeist Beam',
     pp: 5,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     ignoreAbility: true,
     secondary: null,
     target: 'normal',
@@ -6860,11 +6899,11 @@
     contestType: 'Cool'
   },
   mudbomb: {
-    isNonstandard: null,
     num: 426,
     accuracy: 85,
     basePower: 65,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Mud Bomb',
     pp: 10,
     priority: 0,
@@ -6875,11 +6914,11 @@
     contestType: 'Cute'
   },
   multiattack: {
-    basePower: 90,
-    isNonstandard: null,
     num: 718,
     accuracy: 100,
+    basePower: 90,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Multi-Attack',
     pp: 10,
     priority: 0,
@@ -6893,11 +6932,11 @@
     contestType: 'Tough'
   },
   naturalgift: {
-    isNonstandard: null,
     num: 363,
     accuracy: 100,
     basePower: 0,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Natural Gift',
     pp: 15,
     priority: 0,
@@ -6912,27 +6951,27 @@
     contestType: 'Clever'
   },
   naturesmadness: {
-    flags: { protect: 1, mirror: 1, metronome: 1 },
-    isNonstandard: null,
     num: 717,
     accuracy: 90,
     basePower: 0,
     damageCallback: [Function: damageCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: "Nature's Madness",
     pp: 10,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1 },
     secondary: null,
     target: 'normal',
     type: 'Fairy',
     contestType: 'Tough'
   },
   neverendingnightmare: {
-    isNonstandard: null,
     num: 636,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Never-Ending Nightmare',
     pp: 1,
     priority: 0,
@@ -6944,11 +6983,11 @@
     contestType: 'Cool'
   },
   oceanicoperetta: {
-    isNonstandard: null,
     num: 697,
     accuracy: true,
     basePower: 195,
     category: 'Special',
+    isNonstandard: null,
     name: 'Oceanic Operetta',
     pp: 1,
     priority: 0,
@@ -6960,11 +6999,11 @@
     contestType: 'Cool'
   },
   ominouswind: {
-    isNonstandard: null,
     num: 466,
     accuracy: 100,
     basePower: 60,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Ominous Wind',
     pp: 5,
     priority: 0,
@@ -6978,8 +7017,6 @@
     contestType: 'Beautiful'
   },
   pollenpuff: {
-    flags: { protect: 1, mirror: 1, metronome: 1, bullet: 1 },
-    onHit: [Function: onHit],
     num: 676,
     accuracy: 100,
     basePower: 90,
@@ -6987,15 +7024,16 @@
     name: 'Pollen Puff',
     pp: 15,
     priority: 0,
+    flags: { protect: 1, mirror: 1, metronome: 1, bullet: 1 },
     onTryHit: [Function: onTryHit],
     onTryMove: [Function: onTryMove],
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Bug',
     contestType: 'Cute'
   },
   precipiceblades: {
-    isNonstandard: null,
     num: 619,
     accuracy: 85,
     basePower: 120,
@@ -7006,9 +7044,19 @@
     flags: { protect: 1, mirror: 1, nonsky: 1 },
     target: 'allAdjacentFoes',
     type: 'Ground',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    isNonstandard: null
   },
   psychicterrain: {
+    num: 678,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Psychic Terrain',
+    pp: 10,
+    priority: 0,
+    flags: { nonsky: 1, metronome: 1 },
+    terrain: 'psychicterrain',
     condition: {
       duration: 5,
       durationCallback: [Function: durationCallback],
@@ -7020,15 +7068,6 @@
       onFieldResidualSubOrder: 7,
       onFieldEnd: [Function: onFieldEnd]
     },
-    num: 678,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Psychic Terrain',
-    pp: 10,
-    priority: 0,
-    flags: { nonsky: 1, metronome: 1 },
-    terrain: 'psychicterrain',
     secondary: null,
     target: 'all',
     type: 'Psychic',
@@ -7036,7 +7075,6 @@
     contestType: 'Clever'
   },
   psychoboost: {
-    isNonstandard: null,
     num: 354,
     accuracy: 90,
     basePower: 140,
@@ -7049,14 +7087,15 @@
     secondary: null,
     target: 'normal',
     type: 'Psychic',
-    contestType: 'Clever'
+    contestType: 'Clever',
+    isNonstandard: null
   },
   pulverizingpancake: {
-    isNonstandard: null,
     num: 701,
     accuracy: true,
     basePower: 210,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Pulverizing Pancake',
     pp: 1,
     priority: 0,
@@ -7068,12 +7107,12 @@
     contestType: 'Cool'
   },
   punishment: {
-    isNonstandard: null,
     num: 386,
     accuracy: 100,
     basePower: 0,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
+    isNonstandard: null,
     name: 'Punishment',
     pp: 5,
     priority: 0,
@@ -7086,16 +7125,16 @@
     contestType: 'Cool'
   },
   purify: {
-    onHit: [Function: onHit],
-    isNonstandard: null,
     num: 685,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Purify',
     pp: 20,
     priority: 0,
     flags: { protect: 1, reflectable: 1, heal: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Poison',
@@ -7103,7 +7142,6 @@
     contestType: 'Beautiful'
   },
   quash: {
-    onHit: [Function: onHit],
     num: 511,
     accuracy: 100,
     basePower: 0,
@@ -7112,6 +7150,7 @@
     pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'normal',
     type: 'Dark',
@@ -7119,11 +7158,11 @@
     contestType: 'Clever'
   },
   rage: {
-    isNonstandard: null,
     num: 99,
     accuracy: 100,
     basePower: 20,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Rage',
     pp: 20,
     priority: 0,
@@ -7141,11 +7180,11 @@
     contestType: 'Tough'
   },
   refresh: {
-    isNonstandard: null,
     num: 287,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Refresh',
     pp: 20,
     priority: 0,
@@ -7158,7 +7197,6 @@
     contestType: 'Cute'
   },
   revelationdance: {
-    isNonstandard: null,
     num: 686,
     accuracy: 100,
     basePower: 90,
@@ -7171,14 +7209,15 @@
     secondary: null,
     target: 'normal',
     type: 'Normal',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    isNonstandard: null
   },
   rockclimb: {
-    isNonstandard: null,
     num: 431,
     accuracy: 85,
     basePower: 90,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Rock Climb',
     pp: 20,
     priority: 0,
@@ -7189,11 +7228,11 @@
     contestType: 'Tough'
   },
   rollingkick: {
-    isNonstandard: null,
     num: 27,
     accuracy: 85,
     basePower: 60,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Rolling Kick',
     pp: 15,
     priority: 0,
@@ -7204,11 +7243,11 @@
     contestType: 'Cool'
   },
   rototiller: {
-    isNonstandard: null,
     num: 563,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Rototiller',
     pp: 10,
     priority: 0,
@@ -7221,13 +7260,13 @@
     contestType: 'Tough'
   },
   sappyseed: {
+    num: 738,
     accuracy: 100,
     basePower: 90,
-    pp: 15,
-    num: 738,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Sappy Seed',
+    pp: 15,
     priority: 0,
     flags: { protect: 1, reflectable: 1, mirror: 1 },
     onHit: [Function: onHit],
@@ -7237,11 +7276,11 @@
     contestType: 'Clever'
   },
   savagespinout: {
-    isNonstandard: null,
     num: 634,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Savage Spin-Out',
     pp: 1,
     priority: 0,
@@ -7253,11 +7292,11 @@
     contestType: 'Cool'
   },
   searingsunrazesmash: {
-    isNonstandard: null,
     num: 724,
     accuracy: true,
     basePower: 200,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Searing Sunraze Smash',
     pp: 1,
     priority: 0,
@@ -7270,7 +7309,6 @@
     contestType: 'Cool'
   },
   seedflare: {
-    isNonstandard: null,
     num: 465,
     accuracy: 85,
     basePower: 120,
@@ -7282,14 +7320,15 @@
     secondary: { chance: 40, boosts: { spd: -2 } },
     target: 'normal',
     type: 'Grass',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    isNonstandard: null
   },
   sharpen: {
-    isNonstandard: null,
     num: 159,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Sharpen',
     pp: 30,
     priority: 0,
@@ -7302,11 +7341,11 @@
     contestType: 'Cute'
   },
   shatteredpsyche: {
-    isNonstandard: null,
     num: 648,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Shattered Psyche',
     pp: 1,
     priority: 0,
@@ -7318,15 +7357,15 @@
     contestType: 'Cool'
   },
   shoreup: {
-    onHit: [Function: onHit],
-    pp: 10,
     num: 659,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Shore Up',
+    pp: 10,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
+    onHit: [Function: onHit],
     secondary: null,
     target: 'self',
     type: 'Ground',
@@ -7334,11 +7373,11 @@
     contestType: 'Beautiful'
   },
   signalbeam: {
-    isNonstandard: null,
     num: 324,
     accuracy: 100,
     basePower: 75,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Signal Beam',
     pp: 15,
     priority: 0,
@@ -7349,11 +7388,11 @@
     contestType: 'Beautiful'
   },
   silverwind: {
-    isNonstandard: null,
     num: 318,
     accuracy: 100,
     basePower: 60,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Silver Wind',
     pp: 5,
     priority: 0,
@@ -7367,11 +7406,11 @@
     contestType: 'Beautiful'
   },
   sinisterarrowraid: {
-    isNonstandard: null,
     num: 695,
     accuracy: true,
     basePower: 180,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Sinister Arrow Raid',
     pp: 1,
     priority: 0,
@@ -7383,13 +7422,13 @@
     contestType: 'Cool'
   },
   sizzlyslide: {
-    basePower: 90,
-    pp: 15,
     num: 735,
     accuracy: 100,
+    basePower: 90,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Sizzly Slide',
+    pp: 15,
     priority: 0,
     flags: { contact: 1, protect: 1, mirror: 1, defrost: 1 },
     secondary: { chance: 100, status: 'brn' },
@@ -7398,11 +7437,11 @@
     contestType: 'Clever'
   },
   skyuppercut: {
-    isNonstandard: null,
     num: 327,
     accuracy: 90,
     basePower: 85,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Sky Uppercut',
     pp: 15,
     priority: 0,
@@ -7413,12 +7452,12 @@
     contestType: 'Cool'
   },
   sonicboom: {
-    isNonstandard: null,
     num: 49,
     accuracy: 90,
     basePower: 0,
     damage: 20,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Sonic Boom',
     pp: 20,
     priority: 0,
@@ -7429,11 +7468,11 @@
     contestType: 'Cool'
   },
   soulstealing7starstrike: {
-    isNonstandard: null,
     num: 699,
     accuracy: true,
     basePower: 195,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Soul-Stealing 7-Star Strike',
     pp: 1,
     priority: 0,
@@ -7445,13 +7484,13 @@
     contestType: 'Cool'
   },
   sparklyswirl: {
+    num: 740,
     accuracy: 100,
     basePower: 90,
-    pp: 15,
-    num: 740,
     category: 'Physical',
     isNonstandard: 'LGPE',
     name: 'Sparkly Swirl',
+    pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1 },
     self: { onHit: [Function: onHit] },
@@ -7461,11 +7500,11 @@
     contestType: 'Clever'
   },
   spikecannon: {
-    isNonstandard: null,
     num: 131,
     accuracy: 100,
     basePower: 20,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Spike Cannon',
     pp: 15,
     priority: 0,
@@ -7478,11 +7517,11 @@
     contestType: 'Cool'
   },
   splinteredstormshards: {
-    isNonstandard: null,
     num: 727,
     accuracy: true,
     basePower: 190,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Splintered Stormshards',
     pp: 1,
     priority: 0,
@@ -7496,11 +7535,11 @@
     contestType: 'Cool'
   },
   spotlight: {
-    isNonstandard: null,
     num: 671,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Spotlight',
     pp: 15,
     priority: 3,
@@ -7527,11 +7566,11 @@
     contestType: 'Cute'
   },
   steamroller: {
-    isNonstandard: null,
     num: 537,
     accuracy: 100,
     basePower: 65,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Steamroller',
     pp: 20,
     priority: 0,
@@ -7542,11 +7581,11 @@
     contestType: 'Tough'
   },
   stokedsparksurfer: {
-    isNonstandard: null,
     num: 700,
     accuracy: true,
     basePower: 175,
     category: 'Special',
+    isNonstandard: null,
     name: 'Stoked Sparksurfer',
     pp: 1,
     priority: 0,
@@ -7558,11 +7597,11 @@
     contestType: 'Cool'
   },
   subzeroslammer: {
-    isNonstandard: null,
     num: 650,
     accuracy: true,
     basePower: 1,
     category: 'Special',
+    isNonstandard: null,
     name: 'Subzero Slammer',
     pp: 1,
     priority: 0,
@@ -7574,7 +7613,6 @@
     contestType: 'Cool'
   },
   sunsteelstrike: {
-    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     num: 713,
     accuracy: 100,
     basePower: 100,
@@ -7582,6 +7620,7 @@
     name: 'Sunsteel Strike',
     pp: 5,
     priority: 0,
+    flags: { contact: 1, protect: 1, mirror: 1, metronome: 1 },
     ignoreAbility: true,
     secondary: null,
     target: 'normal',
@@ -7589,11 +7628,11 @@
     contestType: 'Cool'
   },
   supersonicskystrike: {
-    isNonstandard: null,
     num: 626,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Supersonic Skystrike',
     pp: 1,
     priority: 0,
@@ -7604,29 +7643,12 @@
     type: 'Flying',
     contestType: 'Cool'
   },
-  swallow: {
-    onHit: [Function: onHit],
-    num: 256,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Swallow',
-    pp: 10,
-    priority: 0,
-    flags: { snatch: 1, heal: 1, metronome: 1 },
-    onTry: [Function: onTry],
-    secondary: null,
-    target: 'self',
-    type: 'Normal',
-    zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Tough'
-  },
   tectonicrage: {
-    isNonstandard: null,
     num: 630,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Tectonic Rage',
     pp: 1,
     priority: 0,
@@ -7638,11 +7660,11 @@
     contestType: 'Cool'
   },
   telekinesis: {
-    isNonstandard: null,
     num: 477,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Telekinesis',
     pp: 15,
     priority: 0,
@@ -7673,16 +7695,16 @@
     contestType: 'Clever'
   },
   teleport: {
-    priority: 0,
-    selfSwitch: false,
-    onTry: false,
     num: 100,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Teleport',
     pp: 20,
+    priority: 0,
     flags: { metronome: 1 },
+    onTry: false,
+    selfSwitch: false,
     secondary: null,
     target: 'self',
     type: 'Psychic',
@@ -7690,7 +7712,6 @@
     contestType: 'Cool'
   },
   toxicthread: {
-    isNonstandard: null,
     num: 672,
     accuracy: 100,
     basePower: 0,
@@ -7705,15 +7726,16 @@
     target: 'normal',
     type: 'Poison',
     zMove: { boost: { spe: 1 } },
-    contestType: 'Tough'
+    contestType: 'Tough',
+    isNonstandard: null
   },
   trumpcard: {
-    isNonstandard: null,
     num: 376,
     accuracy: true,
     basePower: 0,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Trump Card',
     pp: 5,
     noPPBoosts: true,
@@ -7727,11 +7749,11 @@
     contestType: 'Cool'
   },
   twineedle: {
-    isNonstandard: null,
     num: 41,
     accuracy: 100,
     basePower: 25,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Twineedle',
     pp: 20,
     priority: 0,
@@ -7744,11 +7766,11 @@
     contestType: 'Cool'
   },
   twinkletackle: {
-    isNonstandard: null,
     num: 656,
     accuracy: true,
     basePower: 1,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Twinkle Tackle',
     pp: 1,
     priority: 0,
@@ -7760,27 +7782,27 @@
     contestType: 'Cool'
   },
   zippyzap: {
-    basePower: 50,
-    pp: 15,
-    willCrit: true,
-    secondary: null,
     num: 729,
     accuracy: 100,
+    basePower: 50,
     category: 'Special',
     isNonstandard: 'LGPE',
     name: 'Zippy Zap',
+    pp: 15,
     priority: 2,
     flags: { contact: 1, protect: 1, mirror: 1 },
+    secondary: null,
     target: 'normal',
     type: 'Electric',
-    contestType: 'Cool'
+    contestType: 'Cool',
+    willCrit: true
   },
   anchorshot: {
-    isNonstandard: null,
     num: 677,
     accuracy: 100,
     basePower: 80,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Anchor Shot',
     pp: 20,
     priority: 0,
@@ -7791,7 +7813,6 @@
     contestType: 'Tough'
   },
   auroraveil: {
-    onTry: [Function: onTry],
     num: 694,
     accuracy: true,
     basePower: 0,
@@ -7801,6 +7822,7 @@
     priority: 0,
     flags: { snatch: 1, metronome: 1 },
     sideCondition: 'auroraveil',
+    onTry: [Function: onTry],
     condition: {
       duration: 5,
       durationCallback: [Function: durationCallback],
@@ -7817,6 +7839,13 @@
     contestType: 'Beautiful'
   },
   belch: {
+    num: 562,
+    accuracy: 90,
+    basePower: 120,
+    category: 'Physical',
+    name: 'Belch',
+    pp: 10,
+    priority: 0,
     flags: {
       protect: 1,
       failmefirst: 1,
@@ -7825,13 +7854,6 @@
       failcopycat: 1,
       failinstruct: 1
     },
-    num: 562,
-    accuracy: 90,
-    basePower: 120,
-    category: 'Physical',
-    name: 'Belch',
-    pp: 10,
-    priority: 0,
     onDisableMove: [Function: onDisableMove],
     secondary: null,
     target: 'normal',
@@ -7839,12 +7861,12 @@
     contestType: 'Tough'
   },
   boltbeak: {
-    isNonstandard: null,
     num: 754,
     accuracy: 100,
     basePower: 85,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
+    isNonstandard: null,
     name: 'Bolt Beak',
     pp: 10,
     priority: 0,
@@ -7854,11 +7876,11 @@
     type: 'Electric'
   },
   bonemerang: {
-    isNonstandard: null,
     num: 155,
     accuracy: 90,
     basePower: 50,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Bonemerang',
     pp: 10,
     priority: 0,
@@ -7871,11 +7893,11 @@
     contestType: 'Tough'
   },
   burnup: {
-    isNonstandard: null,
     num: 682,
     accuracy: 100,
     basePower: 130,
     category: 'Special',
+    isNonstandard: null,
     name: 'Burn Up',
     pp: 5,
     priority: 0,
@@ -7888,7 +7910,6 @@
     contestType: 'Clever'
   },
   celebrate: {
-    flags: { nosleeptalk: 1, noassist: 1, failcopycat: 1, failinstruct: 1 },
     num: 606,
     accuracy: true,
     basePower: 0,
@@ -7896,6 +7917,7 @@
     name: 'Celebrate',
     pp: 40,
     priority: 0,
+    flags: { nosleeptalk: 1, noassist: 1, failcopycat: 1, failinstruct: 1 },
     onTryHit: [Function: onTryHit],
     secondary: null,
     target: 'self',
@@ -7904,11 +7926,11 @@
     contestType: 'Cute'
   },
   coreenforcer: {
-    isNonstandard: null,
     num: 687,
     accuracy: 100,
     basePower: 100,
     category: 'Special',
+    isNonstandard: null,
     name: 'Core Enforcer',
     pp: 10,
     priority: 0,
@@ -7922,11 +7944,11 @@
     contestType: 'Tough'
   },
   corrosivegas: {
-    isNonstandard: null,
     num: 810,
     accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Corrosive Gas',
     pp: 40,
     priority: 0,
@@ -7943,11 +7965,11 @@
     type: 'Poison'
   },
   craftyshield: {
-    isNonstandard: null,
     num: 578,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Crafty Shield',
     pp: 10,
     priority: 3,
@@ -7967,11 +7989,11 @@
     contestType: 'Clever'
   },
   cut: {
-    isNonstandard: null,
     num: 15,
     accuracy: 95,
     basePower: 50,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Cut',
     pp: 30,
     priority: 0,
@@ -7982,11 +8004,11 @@
     contestType: 'Cool'
   },
   dualchop: {
-    isNonstandard: null,
     num: 530,
     accuracy: 90,
     basePower: 40,
     category: 'Special',
+    isNonstandard: null,
     name: 'Dual Chop',
     pp: 15,
     priority: 0,
@@ -7999,11 +8021,11 @@
     contestType: 'Tough'
   },
   electrify: {
-    isNonstandard: null,
     num: 582,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Electrify',
     pp: 20,
     priority: 0,
@@ -8023,27 +8045,27 @@
     contestType: 'Clever'
   },
   eternabeam: {
-    flags: { recharge: 1, protect: 1, mirror: 1, failinstruct: 1 },
-    isNonstandard: null,
     num: 795,
     accuracy: 90,
     basePower: 160,
     category: 'Special',
+    isNonstandard: null,
     name: 'Eternabeam',
     pp: 5,
     priority: 0,
+    flags: { recharge: 1, protect: 1, mirror: 1, failinstruct: 1 },
     self: { volatileStatus: 'mustrecharge' },
     secondary: null,
     target: 'normal',
     type: 'Dragon'
   },
   fishiousrend: {
-    isNonstandard: null,
     num: 755,
     accuracy: 100,
     basePower: 85,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Special',
+    isNonstandard: null,
     name: 'Fishious Rend',
     pp: 10,
     priority: 0,
@@ -8053,11 +8075,11 @@
     type: 'Water'
   },
   flowershield: {
-    isNonstandard: null,
     num: 579,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Flower Shield',
     pp: 10,
     priority: 0,
@@ -8070,11 +8092,11 @@
     contestType: 'Beautiful'
   },
   geargrind: {
-    isNonstandard: null,
     num: 544,
     accuracy: 85,
     basePower: 50,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Gear Grind',
     pp: 15,
     priority: 0,
@@ -8088,11 +8110,11 @@
     contestType: 'Clever'
   },
   gearup: {
-    isNonstandard: null,
     num: 674,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Gear Up',
     pp: 20,
     priority: 0,
@@ -8105,11 +8127,11 @@
     contestType: 'Clever'
   },
   geomancy: {
-    isNonstandard: null,
     num: 601,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Geomancy',
     pp: 10,
     priority: 0,
@@ -8129,9 +8151,9 @@
     contestType: 'Beautiful'
   },
   glaciallance: {
-    basePower: 130,
     num: 824,
     accuracy: 100,
+    basePower: 130,
     category: 'Special',
     name: 'Glacial Lance',
     pp: 5,
@@ -8142,9 +8164,9 @@
     type: 'Ice'
   },
   grassyglide: {
-    basePower: 70,
     num: 803,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     name: 'Grassy Glide',
     pp: 20,
@@ -8157,11 +8179,11 @@
     contestType: 'Cool'
   },
   grudge: {
-    isNonstandard: null,
     num: 288,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Grudge',
     pp: 5,
     priority: 0,
@@ -8180,11 +8202,11 @@
     contestType: 'Tough'
   },
   hail: {
-    isNonstandard: null,
     num: 258,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Hail',
     pp: 10,
     priority: 0,
@@ -8197,11 +8219,11 @@
     contestType: 'Beautiful'
   },
   headcharge: {
-    isNonstandard: null,
     num: 543,
     accuracy: 100,
     basePower: 120,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Head Charge',
     pp: 15,
     priority: 0,
@@ -8213,11 +8235,11 @@
     contestType: 'Tough'
   },
   holdback: {
-    isNonstandard: null,
     num: 610,
     accuracy: 100,
     basePower: 40,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Hold Back',
     pp: 40,
     priority: 0,
@@ -8230,7 +8252,14 @@
     contestType: 'Cool'
   },
   holdhands: {
+    num: 607,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
     isNonstandard: null,
+    name: 'Hold Hands',
+    pp: 40,
+    priority: 0,
     flags: {
       bypasssub: 1,
       nosleeptalk: 1,
@@ -8238,13 +8267,6 @@
       failcopycat: 1,
       failinstruct: 1
     },
-    num: 607,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Hold Hands',
-    pp: 40,
-    priority: 0,
     secondary: null,
     target: 'adjacentAlly',
     type: 'Normal',
@@ -8252,11 +8274,11 @@
     contestType: 'Cute'
   },
   kinesis: {
-    isNonstandard: null,
     num: 134,
     accuracy: 80,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Kinesis',
     pp: 15,
     priority: 0,
@@ -8269,11 +8291,11 @@
     contestType: 'Clever'
   },
   landswrath: {
-    isNonstandard: null,
     num: 616,
     accuracy: 100,
     basePower: 90,
     category: 'Physical',
+    isNonstandard: null,
     name: "Land's Wrath",
     pp: 10,
     priority: 0,
@@ -8285,11 +8307,11 @@
     contestType: 'Beautiful'
   },
   laserfocus: {
-    isNonstandard: null,
     num: 673,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Laser Focus',
     pp: 30,
     priority: 0,
@@ -8309,11 +8331,11 @@
     contestType: 'Cool'
   },
   leaftornado: {
-    isNonstandard: null,
     num: 536,
     accuracy: 90,
     basePower: 65,
     category: 'Special',
+    isNonstandard: null,
     name: 'Leaf Tornado',
     pp: 10,
     priority: 0,
@@ -8324,11 +8346,11 @@
     contestType: 'Cool'
   },
   lovelykiss: {
-    isNonstandard: null,
     num: 142,
     accuracy: 75,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Lovely Kiss',
     pp: 10,
     priority: 0,
@@ -8341,9 +8363,9 @@
     contestType: 'Beautiful'
   },
   lusterpurge: {
-    basePower: 70,
     num: 295,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     name: 'Luster Purge',
     pp: 5,
@@ -8355,11 +8377,11 @@
     contestType: 'Clever'
   },
   matblock: {
-    isNonstandard: null,
     num: 561,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Mat Block',
     pp: 10,
     priority: 0,
@@ -8380,11 +8402,11 @@
     contestType: 'Cool'
   },
   maxairstream: {
-    isNonstandard: null,
     num: 766,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Airstream',
     pp: 10,
     priority: 0,
@@ -8396,11 +8418,11 @@
     contestType: 'Cool'
   },
   maxdarkness: {
-    isNonstandard: null,
     num: 772,
     accuracy: true,
     basePower: 10,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Darkness',
     pp: 10,
     priority: 0,
@@ -8412,11 +8434,11 @@
     contestType: 'Cool'
   },
   maxflare: {
-    isNonstandard: null,
     num: 757,
     accuracy: true,
     basePower: 100,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Flare',
     pp: 10,
     priority: 0,
@@ -8428,11 +8450,11 @@
     contestType: 'Cool'
   },
   maxflutterby: {
-    isNonstandard: null,
     num: 758,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Flutterby',
     pp: 10,
     priority: 0,
@@ -8444,11 +8466,11 @@
     contestType: 'Cool'
   },
   maxgeyser: {
-    isNonstandard: null,
     num: 765,
     accuracy: true,
     basePower: 10,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Geyser',
     pp: 10,
     priority: 0,
@@ -8460,11 +8482,11 @@
     contestType: 'Cool'
   },
   maxguard: {
-    isNonstandard: null,
     num: 743,
     accuracy: true,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Max Guard',
     pp: 10,
     priority: 4,
@@ -8486,11 +8508,11 @@
     contestType: 'Cool'
   },
   maxhailstorm: {
-    isNonstandard: null,
     num: 763,
     accuracy: true,
     basePower: 10,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Hailstorm',
     pp: 10,
     priority: 0,
@@ -8502,11 +8524,11 @@
     contestType: 'Cool'
   },
   maxknuckle: {
-    isNonstandard: null,
     num: 761,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Knuckle',
     pp: 10,
     priority: 0,
@@ -8518,11 +8540,11 @@
     contestType: 'Cool'
   },
   maxlightning: {
-    isNonstandard: null,
     num: 759,
     accuracy: true,
     basePower: 10,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Lightning',
     pp: 10,
     priority: 0,
@@ -8534,11 +8556,11 @@
     contestType: 'Cool'
   },
   maxmindstorm: {
-    isNonstandard: null,
     num: 769,
     accuracy: true,
     basePower: 10,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Mindstorm',
     pp: 10,
     priority: 0,
@@ -8550,11 +8572,11 @@
     contestType: 'Cool'
   },
   maxooze: {
-    isNonstandard: null,
     num: 764,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Ooze',
     pp: 10,
     priority: 0,
@@ -8566,11 +8588,11 @@
     contestType: 'Cool'
   },
   maxovergrowth: {
-    isNonstandard: null,
     num: 773,
     accuracy: true,
     basePower: 10,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Overgrowth',
     pp: 10,
     priority: 0,
@@ -8582,11 +8604,11 @@
     contestType: 'Cool'
   },
   maxphantasm: {
-    isNonstandard: null,
     num: 762,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Phantasm',
     pp: 10,
     priority: 0,
@@ -8598,11 +8620,11 @@
     contestType: 'Cool'
   },
   maxquake: {
-    isNonstandard: null,
     num: 771,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Quake',
     pp: 10,
     priority: 0,
@@ -8614,11 +8636,11 @@
     contestType: 'Cool'
   },
   maxrockfall: {
-    isNonstandard: null,
     num: 770,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Rockfall',
     pp: 10,
     priority: 0,
@@ -8630,11 +8652,11 @@
     contestType: 'Cool'
   },
   maxstarfall: {
-    isNonstandard: null,
     num: 767,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Starfall',
     pp: 10,
     priority: 0,
@@ -8646,11 +8668,11 @@
     contestType: 'Cool'
   },
   maxsteelspike: {
-    isNonstandard: null,
     num: 774,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Steelspike',
     pp: 10,
     priority: 0,
@@ -8662,11 +8684,11 @@
     contestType: 'Cool'
   },
   maxstrike: {
-    isNonstandard: null,
     num: 760,
     accuracy: true,
     basePower: 10,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Max Strike',
     pp: 10,
     priority: 0,
@@ -8678,11 +8700,11 @@
     contestType: 'Cool'
   },
   maxwyrmwind: {
-    isNonstandard: null,
     num: 768,
     accuracy: true,
     basePower: 10,
     category: 'Special',
+    isNonstandard: null,
     name: 'Max Wyrmwind',
     pp: 10,
     priority: 0,
@@ -8694,11 +8716,11 @@
     contestType: 'Cool'
   },
   meteorassault: {
-    isNonstandard: null,
     num: 794,
     accuracy: 100,
     basePower: 150,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Meteor Assault',
     pp: 5,
     priority: 0,
@@ -8709,12 +8731,12 @@
     type: 'Fighting'
   },
   milkdrink: {
-    pp: 10,
     num: 208,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Milk Drink',
+    pp: 10,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
     heal: [ 1, 2 ],
@@ -8725,11 +8747,11 @@
     contestType: 'Cute'
   },
   mindblown: {
-    isNonstandard: null,
     num: 720,
     accuracy: 100,
     basePower: 150,
     category: 'Special',
+    isNonstandard: null,
     name: 'Mind Blown',
     pp: 5,
     priority: 0,
@@ -8742,9 +8764,9 @@
     contestType: 'Cool'
   },
   mistball: {
-    basePower: 70,
     num: 296,
     accuracy: 100,
+    basePower: 70,
     category: 'Special',
     name: 'Mist Ball',
     pp: 5,
@@ -8756,11 +8778,11 @@
     contestType: 'Clever'
   },
   oblivionwing: {
-    isNonstandard: null,
     num: 613,
     accuracy: 100,
     basePower: 80,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Oblivion Wing',
     pp: 10,
     priority: 0,
@@ -8772,11 +8794,11 @@
     contestType: 'Cool'
   },
   obstruct: {
-    isNonstandard: null,
     num: 792,
     accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Obstruct',
     pp: 10,
     priority: 4,
@@ -8797,11 +8819,11 @@
     type: 'Dark'
   },
   octazooka: {
-    isNonstandard: null,
     num: 190,
     accuracy: 85,
     basePower: 65,
     category: 'Special',
+    isNonstandard: null,
     name: 'Octazooka',
     pp: 10,
     priority: 0,
@@ -8812,11 +8834,11 @@
     contestType: 'Tough'
   },
   octolock: {
-    isNonstandard: null,
     num: 753,
     accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Octolock',
     pp: 15,
     priority: 0,
@@ -8834,11 +8856,11 @@
     type: 'Fighting'
   },
   plasmafists: {
-    isNonstandard: null,
     num: 721,
     accuracy: 100,
     basePower: 100,
     category: 'Special',
+    isNonstandard: null,
     name: 'Plasma Fists',
     pp: 15,
     priority: 0,
@@ -8850,11 +8872,11 @@
     contestType: 'Cool'
   },
   poweruppunch: {
-    isNonstandard: null,
     num: 612,
     accuracy: 100,
     basePower: 40,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Power-Up Punch',
     pp: 20,
     priority: 0,
@@ -8865,12 +8887,12 @@
     contestType: 'Tough'
   },
   revenge: {
-    isNonstandard: null,
     num: 279,
     accuracy: 100,
     basePower: 60,
     basePowerCallback: [Function: basePowerCallback],
     category: 'Physical',
+    isNonstandard: null,
     name: 'Revenge',
     pp: 10,
     priority: -4,
@@ -8881,12 +8903,12 @@
     contestType: 'Tough'
   },
   roost: {
-    pp: 10,
     num: 355,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Roost',
+    pp: 10,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
     heal: [ 1, 2 ],
@@ -8905,11 +8927,11 @@
     contestType: 'Clever'
   },
   searingshot: {
-    isNonstandard: null,
     num: 545,
     accuracy: 100,
     basePower: 100,
     category: 'Special',
+    isNonstandard: null,
     name: 'Searing Shot',
     pp: 5,
     priority: 0,
@@ -8920,7 +8942,6 @@
     contestType: 'Cool'
   },
   secretsword: {
-    isNonstandard: null,
     num: 548,
     accuracy: 100,
     basePower: 85,
@@ -8933,14 +8954,15 @@
     secondary: null,
     target: 'normal',
     type: 'Fighting',
-    contestType: 'Beautiful'
+    contestType: 'Beautiful',
+    isNonstandard: null
   },
   shadowbone: {
-    isNonstandard: null,
     num: 708,
     accuracy: 100,
     basePower: 85,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Shadow Bone',
     pp: 10,
     priority: 0,
@@ -8951,11 +8973,11 @@
     contestType: 'Cool'
   },
   shelltrap: {
-    isNonstandard: null,
     num: 704,
     accuracy: 100,
     basePower: 150,
     category: 'Special',
+    isNonstandard: null,
     name: 'Shell Trap',
     pp: 5,
     priority: -3,
@@ -8980,12 +9002,12 @@
     contestType: 'Tough'
   },
   slackoff: {
-    pp: 10,
     num: 303,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Slack Off',
+    pp: 10,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
     heal: [ 1, 2 ],
@@ -8996,11 +9018,11 @@
     contestType: 'Cute'
   },
   snaptrap: {
-    isNonstandard: null,
     num: 779,
     accuracy: 100,
     basePower: 35,
     category: 'Special',
+    isNonstandard: null,
     name: 'Snap Trap',
     pp: 15,
     priority: 0,
@@ -9011,12 +9033,12 @@
     type: 'Grass'
   },
   softboiled: {
-    pp: 10,
     num: 135,
     accuracy: true,
     basePower: 0,
     category: 'Status',
     name: 'Soft-Boiled',
+    pp: 10,
     priority: 0,
     flags: { snatch: 1, heal: 1, metronome: 1 },
     heal: [ 1, 2 ],
@@ -9027,11 +9049,11 @@
     contestType: 'Cute'
   },
   spectralthief: {
-    isNonstandard: null,
     num: 712,
     accuracy: 100,
     basePower: 90,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Spectral Thief',
     pp: 10,
     priority: 0,
@@ -9043,10 +9065,6 @@
     contestType: 'Cool'
   },
   stickyweb: {
-    condition: {
-      onSideStart: [Function: onSideStart],
-      onEntryHazard: [Function: onEntryHazard]
-    },
     num: 564,
     accuracy: true,
     basePower: 0,
@@ -9056,6 +9074,10 @@
     priority: 0,
     flags: { reflectable: 1, metronome: 1 },
     sideCondition: 'stickyweb',
+    condition: {
+      onSideStart: [Function: onSideStart],
+      onEntryHazard: [Function: onEntryHazard]
+    },
     secondary: null,
     target: 'foeSide',
     type: 'Bug',
@@ -9063,11 +9085,11 @@
     contestType: 'Tough'
   },
   trickortreat: {
-    isNonstandard: null,
     num: 567,
     accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Trick-or-Treat',
     pp: 20,
     priority: 0,
@@ -9086,11 +9108,11 @@
     contestType: 'Cute'
   },
   vcreate: {
-    isNonstandard: null,
     num: 557,
     accuracy: 95,
     basePower: 180,
     category: 'Special',
+    isNonstandard: null,
     name: 'V-create',
     pp: 5,
     priority: 0,
@@ -9103,11 +9125,11 @@
     contestType: 'Cool'
   },
   venomdrench: {
-    isNonstandard: null,
     num: 599,
     accuracy: 100,
     basePower: 0,
     category: 'Status',
+    isNonstandard: null,
     name: 'Venom Drench',
     pp: 20,
     priority: 0,
@@ -9120,11 +9142,11 @@
     contestType: 'Clever'
   },
   vitalthrow: {
-    isNonstandard: null,
     num: 233,
     accuracy: true,
     basePower: 70,
     category: 'Physical',
+    isNonstandard: null,
     name: 'Vital Throw',
     pp: 10,
     priority: -1,
@@ -9135,9 +9157,9 @@
     contestType: 'Cool'
   },
   wickedblow: {
-    basePower: 80,
     num: 817,
     accuracy: 100,
+    basePower: 80,
     category: 'Special',
     name: 'Wicked Blow',
     pp: 5,
@@ -11357,28 +11379,6 @@
     target: 'normal',
     type: 'Fairy',
     contestType: 'Beautiful'
-  },
-  fling: {
-    num: 374,
-    accuracy: 100,
-    basePower: 0,
-    category: 'Special',
-    name: 'Fling',
-    pp: 10,
-    priority: 0,
-    flags: {
-      protect: 1,
-      mirror: 1,
-      allyanim: 1,
-      metronome: 1,
-      noparentalbond: 1
-    },
-    onPrepareHit: [Function: onPrepareHit],
-    condition: { onUpdate: [Function: onUpdate] },
-    secondary: null,
-    target: 'normal',
-    type: 'Dark',
-    contestType: 'Cute'
   },
   flipturn: {
     num: 812,

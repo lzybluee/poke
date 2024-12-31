@@ -95,7 +95,6 @@
     HPdvs: { atk: 13 }
   },
   fairy: {
-    isNonstandard: 'Future',
     damageTaken: {
       Bug: 2,
       Dark: 2,
@@ -116,7 +115,8 @@
       Steel: 1,
       Stellar: 0,
       Water: 0
-    }
+    },
+    isNonstandard: 'Future'
   },
   dark: {
     damageTaken: {
@@ -142,7 +142,6 @@
     HPivs: {}
   },
   stellar: {
-    isNonstandard: 'Future',
     damageTaken: {
       Bug: 0,
       Dark: 0,
@@ -163,7 +162,8 @@
       Steel: 0,
       Stellar: 0,
       Water: 0
-    }
+    },
+    isNonstandard: 'Future'
   },
   bug: {
     damageTaken: {

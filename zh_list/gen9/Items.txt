@@ -1,5 +1,5 @@
 Ability Shield (特性护具)
-Holder's Ability cannot be changed by any effect.
+Holder's Ability cannot be changed, suppressed, or ignored by any effect.
 
 Absorb Bulb (球根)
 Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.
@@ -287,7 +287,7 @@ Icicle Plate (冰柱石板)
 Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.
 
 Icy Rock (冰冷岩石)
-Holder's use of Hail lasts 8 turns instead of 5.
+Holder's use of Snowscape lasts 8 turns instead of 5.
 
 Insect Plate (玉虫石板)
 Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.
@@ -347,7 +347,7 @@ Light Clay (光之黏土)
 Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.
 
 Loaded Dice (机变骰子)
-Holder's moves that hit 2-5 times hit 4-5 times; Population Bomb hits 4-10 times.
+The holder's moves that normally hit 2 to 5 times instead hit 4 or 5 times. If the first hit is successful, the holder's use of Triple Kick or Triple Axel hits 3 times, and Population Bomb hits 4 to 10 times, at random.
 
 Love Ball (甜蜜球)
 Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.
@@ -596,7 +596,7 @@ Sharp Beak (锐利鸟嘴)
 Holder's Flying-type attacks have 1.2x power.
 
 Shed Shell (美丽空壳)
-Holder may switch out even when trapped by another Pokemon, or by Ingrain.
+Holder cannot be prevented from choosing to switch out by any effect.
 
 Shell Bell (贝壳之铃)
 After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.
@@ -707,7 +707,7 @@ Up-Grade (升级数据)
 Evolves Porygon into Porygon2 when traded.
 
 Utility Umbrella (万能伞)
-The holder ignores rain- and sun-based effects. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.
+The holder ignores rain- and sun-based effects, including those of its Ability unless it is Orichalcum Pulse or Protosynthesis. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.
 
 Wacan Berry (烛木果)
 Halves damage taken from a supereffective Electric-type attack. Single use.

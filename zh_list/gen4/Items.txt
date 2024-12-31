@@ -497,7 +497,7 @@ Sharp Beak (锐利鸟嘴)
 Holder's Flying-type attacks have 1.2x power.
 
 Shed Shell (美丽空壳)
-Holder may switch out even when trapped by another Pokemon, or by Ingrain.
+Holder cannot be prevented from choosing to switch out by any effect.
 
 Shell Bell (贝壳之铃)
 After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.

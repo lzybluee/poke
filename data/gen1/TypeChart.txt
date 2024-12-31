@@ -119,7 +119,6 @@
     }
   },
   dark: {
-    isNonstandard: 'Future',
     damageTaken: {
       Bug: 1,
       Dark: 2,
@@ -140,10 +139,10 @@
       Steel: 0,
       Water: 0
     },
-    HPivs: {}
+    HPivs: {},
+    isNonstandard: 'Future'
   },
   steel: {
-    isNonstandard: 'Future',
     damageTaken: {
       sandstorm: 3,
       Bug: 2,
@@ -166,7 +165,8 @@
       Water: 0
     },
     HPivs: { spd: 30 },
-    HPdvs: { atk: 13 }
+    HPdvs: { atk: 13 },
+    isNonstandard: 'Future'
   },
   electric: {
     damageTaken: {
@@ -215,7 +215,6 @@
     HPdvs: { atk: 14, def: 14 }
   },
   fairy: {
-    isNonstandard: 'Future',
     damageTaken: {
       Bug: 2,
       Dark: 2,
@@ -236,10 +235,10 @@
       Steel: 1,
       Stellar: 0,
       Water: 0
-    }
+    },
+    isNonstandard: 'Future'
   },
   stellar: {
-    isNonstandard: 'Future',
     damageTaken: {
       Bug: 0,
       Dark: 0,
@@ -260,7 +259,8 @@
       Steel: 0,
       Stellar: 0,
       Water: 0
-    }
+    },
+    isNonstandard: 'Future'
   },
   dragon: {
     damageTaken: {

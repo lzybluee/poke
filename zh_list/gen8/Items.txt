@@ -620,7 +620,7 @@ Sharp Beak (锐利鸟嘴)
 Holder's Flying-type attacks have 1.2x power.
 
 Shed Shell (美丽空壳)
-Holder may switch out even when trapped by another Pokemon, or by Ingrain.
+Holder cannot be prevented from choosing to switch out by any effect.
 
 Shell Bell (贝壳之铃)
 After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.
@@ -1019,7 +1019,7 @@ Up-Grade (升级数据)
 Evolves Porygon into Porygon2 when traded.
 
 Utility Umbrella (万能伞)
-The holder ignores rain- and sun-based effects. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.
+The holder ignores rain- and sun-based effects, including those of its Ability. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.
 
 Wacan Berry (烛木果)
 Halves damage taken from a supereffective Electric-type attack. Single use.

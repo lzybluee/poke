@@ -1,6 +1,5 @@
 {
   adamantcrystal: {
-    isNonstandard: 'Future',
     name: 'Adamant Crystal',
     spritenum: 741,
     onBasePowerPriority: 15,
@@ -9,27 +8,27 @@
     forcedForme: 'Dialga-Origin',
     itemUser: [ 'Dialga-Origin' ],
     num: 1777,
-    gen: 8
+    gen: 8,
+    isNonstandard: 'Future'
   },
   berryjuice: {
-    isNonstandard: null,
     name: 'Berry Juice',
     spritenum: 22,
     fling: { basePower: 30 },
     onUpdate: [Function: onUpdate],
     num: 43,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   berrysweet: {
-    isNonstandard: null,
     name: 'Berry Sweet',
     spritenum: 706,
     fling: { basePower: 10 },
     num: 1111,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   bugmemory: {
-    isNonstandard: null,
     name: 'Bug Memory',
     spritenum: 673,
     onMemory: 'Bug',
@@ -37,10 +36,10 @@
     forcedForme: 'Silvally-Bug',
     itemUser: [ 'Silvally-Bug' ],
     num: 909,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   burndrive: {
-    isNonstandard: null,
     name: 'Burn Drive',
     spritenum: 54,
     onTakeItem: [Function: onTakeItem],
@@ -48,10 +47,10 @@
     forcedForme: 'Genesect-Burn',
     itemUser: [ 'Genesect-Burn' ],
     num: 118,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   chilldrive: {
-    isNonstandard: null,
     name: 'Chill Drive',
     spritenum: 67,
     onTakeItem: [Function: onTakeItem],
@@ -59,18 +58,18 @@
     forcedForme: 'Genesect-Chill',
     itemUser: [ 'Genesect-Chill' ],
     num: 119,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   cloversweet: {
-    isNonstandard: null,
     name: 'Clover Sweet',
     spritenum: 707,
     fling: { basePower: 10 },
     num: 1112,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   custapberry: {
-    isNonstandard: null,
     name: 'Custap Berry',
     spritenum: 86,
     isBerry: true,
@@ -79,10 +78,10 @@
     onFractionalPriority: [Function: onFractionalPriority],
     onEat: [Function: onEat],
     num: 210,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   darkmemory: {
-    isNonstandard: null,
     name: 'Dark Memory',
     spritenum: 683,
     onMemory: 'Dark',
@@ -90,10 +89,10 @@
     forcedForme: 'Silvally-Dark',
     itemUser: [ 'Silvally-Dark' ],
     num: 919,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   deepseascale: {
-    isNonstandard: null,
     name: 'Deep Sea Scale',
     spritenum: 93,
     fling: { basePower: 30 },
@@ -101,10 +100,10 @@
     onModifySpD: [Function: onModifySpD],
     itemUser: [ 'Clamperl' ],
     num: 227,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   deepseatooth: {
-    isNonstandard: null,
     name: 'Deep Sea Tooth',
     spritenum: 94,
     fling: { basePower: 90 },
@@ -112,10 +111,10 @@
     onModifySpA: [Function: onModifySpA],
     itemUser: [ 'Clamperl' ],
     num: 226,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   dousedrive: {
-    isNonstandard: null,
     name: 'Douse Drive',
     spritenum: 103,
     onTakeItem: [Function: onTakeItem],
@@ -123,10 +122,10 @@
     forcedForme: 'Genesect-Douse',
     itemUser: [ 'Genesect-Douse' ],
     num: 116,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   dracoplate: {
-    isNonstandard: 'Past',
     name: 'Draco Plate',
     spritenum: 105,
     onPlate: 'Dragon',
@@ -135,10 +134,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Dragon',
     num: 311,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   dragonmemory: {
-    isNonstandard: null,
     name: 'Dragon Memory',
     spritenum: 682,
     onMemory: 'Dragon',
@@ -146,18 +145,18 @@
     forcedForme: 'Silvally-Dragon',
     itemUser: [ 'Silvally-Dragon' ],
     num: 918,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   dragonscale: {
-    isNonstandard: null,
     name: 'Dragon Scale',
     spritenum: 108,
     fling: { basePower: 30 },
     num: 235,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   dreadplate: {
-    isNonstandard: 'Past',
     name: 'Dread Plate',
     spritenum: 110,
     onPlate: 'Dark',
@@ -166,18 +165,18 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Dark',
     num: 312,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   dubiousdisc: {
-    isNonstandard: null,
     name: 'Dubious Disc',
     spritenum: 113,
     fling: { basePower: 50 },
     num: 324,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   earthplate: {
-    isNonstandard: 'Past',
     name: 'Earth Plate',
     spritenum: 117,
     onPlate: 'Ground',
@@ -186,18 +185,18 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Ground',
     num: 305,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   electirizer: {
-    isNonstandard: null,
     name: 'Electirizer',
     spritenum: 119,
     fling: { basePower: 80 },
     num: 322,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   electricmemory: {
-    isNonstandard: null,
     name: 'Electric Memory',
     spritenum: 679,
     onMemory: 'Electric',
@@ -205,10 +204,10 @@
     forcedForme: 'Silvally-Electric',
     itemUser: [ 'Silvally-Electric' ],
     num: 915,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   enigmaberry: {
-    isNonstandard: null,
     name: 'Enigma Berry',
     spritenum: 124,
     isBerry: true,
@@ -217,10 +216,10 @@
     onTryEatItem: [Function: onTryEatItem],
     onEat: [Function: onEat],
     num: 208,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   fairymemory: {
-    isNonstandard: null,
     name: 'Fairy Memory',
     spritenum: 684,
     onMemory: 'Fairy',
@@ -228,10 +227,10 @@
     forcedForme: 'Silvally-Fairy',
     itemUser: [ 'Silvally-Fairy' ],
     num: 920,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fightingmemory: {
-    isNonstandard: null,
     name: 'Fighting Memory',
     spritenum: 668,
     onMemory: 'Fighting',
@@ -239,10 +238,10 @@
     forcedForme: 'Silvally-Fighting',
     itemUser: [ 'Silvally-Fighting' ],
     num: 904,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   firememory: {
-    isNonstandard: null,
     name: 'Fire Memory',
     spritenum: 676,
     onMemory: 'Fire',
@@ -250,10 +249,10 @@
     forcedForme: 'Silvally-Fire',
     itemUser: [ 'Silvally-Fire' ],
     num: 912,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fistplate: {
-    isNonstandard: 'Past',
     name: 'Fist Plate',
     spritenum: 143,
     onPlate: 'Fighting',
@@ -262,10 +261,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Fighting',
     num: 303,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   flameplate: {
-    isNonstandard: 'Past',
     name: 'Flame Plate',
     spritenum: 146,
     onPlate: 'Fire',
@@ -274,18 +273,18 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Fire',
     num: 298,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   flowersweet: {
-    isNonstandard: null,
     name: 'Flower Sweet',
     spritenum: 708,
     fling: { basePower: 0 },
     num: 1113,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   flyingmemory: {
-    isNonstandard: null,
     name: 'Flying Memory',
     spritenum: 669,
     onMemory: 'Flying',
@@ -293,51 +292,51 @@
     forcedForme: 'Silvally-Flying',
     itemUser: [ 'Silvally-Flying' ],
     num: 905,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   fossilizedbird: {
-    isNonstandard: null,
     name: 'Fossilized Bird',
     spritenum: 700,
     fling: { basePower: 100 },
     num: 1105,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fossilizeddino: {
-    isNonstandard: null,
     name: 'Fossilized Dino',
     spritenum: 703,
     fling: { basePower: 100 },
     num: 1108,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fossilizeddrake: {
-    isNonstandard: null,
     name: 'Fossilized Drake',
     spritenum: 702,
     fling: { basePower: 100 },
     num: 1107,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fossilizedfish: {
-    isNonstandard: null,
     name: 'Fossilized Fish',
     spritenum: 701,
     fling: { basePower: 100 },
     num: 1106,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   fullincense: {
-    isNonstandard: null,
     name: 'Full Incense',
     spritenum: 155,
     fling: { basePower: 10 },
     onFractionalPriority: -0.1,
     num: 316,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   ghostmemory: {
-    isNonstandard: null,
     name: 'Ghost Memory',
     spritenum: 674,
     onMemory: 'Ghost',
@@ -345,10 +344,10 @@
     forcedForme: 'Silvally-Ghost',
     itemUser: [ 'Silvally-Ghost' ],
     num: 910,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   grassmemory: {
-    isNonstandard: null,
     name: 'Grass Memory',
     spritenum: 678,
     onMemory: 'Grass',
@@ -356,10 +355,10 @@
     forcedForme: 'Silvally-Grass',
     itemUser: [ 'Silvally-Grass' ],
     num: 914,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   griseouscore: {
-    isNonstandard: 'Future',
     name: 'Griseous Core',
     spritenum: 743,
     onBasePowerPriority: 15,
@@ -368,22 +367,22 @@
     forcedForme: 'Giratina-Origin',
     itemUser: [ 'Giratina-Origin' ],
     num: 1779,
-    gen: 8
+    gen: 8,
+    isNonstandard: 'Future'
   },
   griseousorb: {
-    onTakeItem: [Function: onTakeItem],
-    forcedForme: 'Giratina-Origin',
-    itemUser: [ 'Giratina-Origin' ],
     name: 'Griseous Orb',
     spritenum: 180,
     fling: { basePower: 60 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
+    itemUser: [ 'Giratina-Origin' ],
     num: 112,
-    gen: 4
+    gen: 4,
+    onTakeItem: [Function: onTakeItem],
+    forcedForme: 'Giratina-Origin'
   },
   groundmemory: {
-    isNonstandard: null,
     name: 'Ground Memory',
     spritenum: 671,
     onMemory: 'Ground',
@@ -391,10 +390,10 @@
     forcedForme: 'Silvally-Ground',
     itemUser: [ 'Silvally-Ground' ],
     num: 907,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   icememory: {
-    isNonstandard: null,
     name: 'Ice Memory',
     spritenum: 681,
     onMemory: 'Ice',
@@ -402,10 +401,10 @@
     forcedForme: 'Silvally-Ice',
     itemUser: [ 'Silvally-Ice' ],
     num: 917,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   icicleplate: {
-    isNonstandard: 'Past',
     name: 'Icicle Plate',
     spritenum: 220,
     onPlate: 'Ice',
@@ -414,10 +413,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Ice',
     num: 302,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   insectplate: {
-    isNonstandard: 'Past',
     name: 'Insect Plate',
     spritenum: 223,
     onPlate: 'Bug',
@@ -426,10 +425,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Bug',
     num: 308,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   ironplate: {
-    isNonstandard: 'Past',
     name: 'Iron Plate',
     spritenum: 225,
     onPlate: 'Steel',
@@ -438,10 +437,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Steel',
     num: 313,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   jabocaberry: {
-    isNonstandard: null,
     name: 'Jaboca Berry',
     spritenum: 230,
     isBerry: true,
@@ -449,10 +448,10 @@
     onDamagingHit: [Function: onDamagingHit],
     onEat: [Function: onEat],
     num: 211,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   keeberry: {
-    isNonstandard: null,
     name: 'Kee Berry',
     spritenum: 593,
     isBerry: true,
@@ -460,38 +459,38 @@
     onAfterMoveSecondary: [Function: onAfterMoveSecondary],
     onEat: [Function: onEat],
     num: 687,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   laxincense: {
-    isNonstandard: null,
     name: 'Lax Incense',
     spritenum: 240,
     fling: { basePower: 10 },
     onModifyAccuracyPriority: -2,
     onModifyAccuracy: [Function: onModifyAccuracy],
     num: 255,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   leek: {
-    isNonstandard: null,
     name: 'Leek',
     fling: { basePower: 60 },
     spritenum: 475,
     onModifyCritRatio: [Function: onModifyCritRatio],
     itemUser: [ 'Farfetch’d', 'Farfetch’d-Galar', 'Sirfetch’d' ],
     num: 259,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   lovesweet: {
-    isNonstandard: null,
     name: 'Love Sweet',
     spritenum: 705,
     fling: { basePower: 10 },
     num: 1110,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   lustrousglobe: {
-    isNonstandard: 'Future',
     name: 'Lustrous Globe',
     spritenum: 742,
     onBasePowerPriority: 15,
@@ -500,28 +499,28 @@
     forcedForme: 'Palkia-Origin',
     itemUser: [ 'Palkia-Origin' ],
     num: 1778,
-    gen: 8
+    gen: 8,
+    isNonstandard: 'Future'
   },
   machobrace: {
-    isNonstandard: null,
     name: 'Macho Brace',
     spritenum: 269,
     ignoreKlutz: true,
     fling: { basePower: 60 },
     onModifySpe: [Function: onModifySpe],
     num: 215,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   magmarizer: {
-    isNonstandard: null,
     name: 'Magmarizer',
     spritenum: 272,
     fling: { basePower: 80 },
     num: 323,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   marangaberry: {
-    isNonstandard: null,
     name: 'Maranga Berry',
     spritenum: 597,
     isBerry: true,
@@ -529,10 +528,10 @@
     onAfterMoveSecondary: [Function: onAfterMoveSecondary],
     onEat: [Function: onEat],
     num: 688,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   meadowplate: {
-    isNonstandard: 'Past',
     name: 'Meadow Plate',
     spritenum: 282,
     onPlate: 'Grass',
@@ -541,10 +540,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Grass',
     num: 301,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   metalpowder: {
-    isNonstandard: null,
     name: 'Metal Powder',
     fling: { basePower: 10 },
     spritenum: 287,
@@ -552,10 +551,10 @@
     onModifyDef: [Function: onModifyDef],
     itemUser: [ 'Ditto' ],
     num: 257,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   micleberry: {
-    isNonstandard: null,
     name: 'Micle Berry',
     spritenum: 290,
     isBerry: true,
@@ -564,10 +563,10 @@
     onEat: [Function: onEat],
     condition: { duration: 2, onSourceAccuracy: [Function: onSourceAccuracy] },
     num: 209,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   mindplate: {
-    isNonstandard: 'Past',
     name: 'Mind Plate',
     spritenum: 291,
     onPlate: 'Psychic',
@@ -576,20 +575,20 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Psychic',
     num: 307,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   oddincense: {
-    isNonstandard: null,
     name: 'Odd Incense',
     spritenum: 312,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 314,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   poisonmemory: {
-    isNonstandard: null,
     name: 'Poison Memory',
     spritenum: 670,
     onMemory: 'Poison',
@@ -597,18 +596,18 @@
     forcedForme: 'Silvally-Poison',
     itemUser: [ 'Silvally-Poison' ],
     num: 906,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   protector: {
-    isNonstandard: null,
     name: 'Protector',
     spritenum: 367,
     fling: { basePower: 80 },
     num: 321,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   psychicmemory: {
-    isNonstandard: null,
     name: 'Psychic Memory',
     spritenum: 680,
     onMemory: 'Psychic',
@@ -616,48 +615,48 @@
     forcedForme: 'Silvally-Psychic',
     itemUser: [ 'Silvally-Psychic' ],
     num: 916,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   quickpowder: {
-    isNonstandard: null,
     name: 'Quick Powder',
     spritenum: 374,
     fling: { basePower: 10 },
     onModifySpe: [Function: onModifySpe],
     itemUser: [ 'Ditto' ],
     num: 274,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   razorfang: {
-    isNonstandard: 'Past',
     name: 'Razor Fang',
     spritenum: 383,
     fling: { basePower: 30, volatileStatus: 'flinch' },
     onModifyMovePriority: -1,
     onModifyMove: [Function: onModifyMove],
     num: 327,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   ribbonsweet: {
-    isNonstandard: null,
     name: 'Ribbon Sweet',
     spritenum: 710,
     fling: { basePower: 10 },
     num: 1115,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   rockincense: {
-    isNonstandard: null,
     name: 'Rock Incense',
     spritenum: 416,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 315,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   rockmemory: {
-    isNonstandard: null,
     name: 'Rock Memory',
     spritenum: 672,
     onMemory: 'Rock',
@@ -665,20 +664,20 @@
     forcedForme: 'Silvally-Rock',
     itemUser: [ 'Silvally-Rock' ],
     num: 908,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   roseincense: {
-    isNonstandard: null,
     name: 'Rose Incense',
     spritenum: 419,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 318,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   rowapberry: {
-    isNonstandard: null,
     name: 'Rowap Berry',
     spritenum: 420,
     isBerry: true,
@@ -686,28 +685,28 @@
     onDamagingHit: [Function: onDamagingHit],
     onEat: [Function: onEat],
     num: 212,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   sachet: {
-    isNonstandard: null,
     name: 'Sachet',
     spritenum: 691,
     fling: { basePower: 80 },
     num: 647,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   seaincense: {
-    isNonstandard: null,
     name: 'Sea Incense',
     spritenum: 430,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 254,
-    gen: 3
+    gen: 3,
+    isNonstandard: null
   },
   shockdrive: {
-    isNonstandard: null,
     name: 'Shock Drive',
     spritenum: 442,
     onTakeItem: [Function: onTakeItem],
@@ -715,10 +714,10 @@
     forcedForme: 'Genesect-Shock',
     itemUser: [ 'Genesect-Shock' ],
     num: 117,
-    gen: 5
+    gen: 5,
+    isNonstandard: null
   },
   skyplate: {
-    isNonstandard: 'Past',
     name: 'Sky Plate',
     spritenum: 450,
     onPlate: 'Flying',
@@ -727,10 +726,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Flying',
     num: 306,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   splashplate: {
-    isNonstandard: 'Past',
     name: 'Splash Plate',
     spritenum: 463,
     onPlate: 'Water',
@@ -739,10 +738,10 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Water',
     num: 299,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   spookyplate: {
-    isNonstandard: 'Past',
     name: 'Spooky Plate',
     spritenum: 464,
     onPlate: 'Ghost',
@@ -751,18 +750,18 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Ghost',
     num: 310,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   starsweet: {
-    isNonstandard: null,
     name: 'Star Sweet',
     spritenum: 709,
     fling: { basePower: 10 },
     num: 1114,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   stoneplate: {
-    isNonstandard: 'Past',
     name: 'Stone Plate',
     spritenum: 477,
     onPlate: 'Rock',
@@ -771,18 +770,18 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Rock',
     num: 309,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   strawberrysweet: {
-    isNonstandard: null,
     name: 'Strawberry Sweet',
     spritenum: 704,
     fling: { basePower: 10 },
     num: 1109,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   steelmemory: {
-    isNonstandard: null,
     name: 'Steel Memory',
     spritenum: 675,
     onMemory: 'Steel',
@@ -790,18 +789,18 @@
     forcedForme: 'Silvally-Steel',
     itemUser: [ 'Silvally-Steel' ],
     num: 911,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   strangeball: {
-    isNonstandard: 'Future',
     name: 'Strange Ball',
     spritenum: 308,
     num: 1785,
     gen: 8,
-    isPokeball: true
+    isPokeball: true,
+    isNonstandard: 'Future'
   },
   thickclub: {
-    isNonstandard: null,
     name: 'Thick Club',
     spritenum: 491,
     fling: { basePower: 90 },
@@ -809,10 +808,10 @@
     onModifyAtk: [Function: onModifyAtk],
     itemUser: [ 'Marowak', 'Marowak-Alola', 'Marowak-Alola-Totem', 'Cubone' ],
     num: 258,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   toxicplate: {
-    isNonstandard: 'Past',
     name: 'Toxic Plate',
     spritenum: 516,
     onPlate: 'Poison',
@@ -821,818 +820,818 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Poison',
     num: 304,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   tr00: {
-    isNonstandard: null,
     name: 'TR00',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1130,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr01: {
-    isNonstandard: null,
     name: 'TR01',
     fling: { basePower: 85 },
     spritenum: 721,
     num: 1131,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr02: {
-    isNonstandard: null,
     name: 'TR02',
     fling: { basePower: 90 },
     spritenum: 730,
     num: 1132,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr03: {
-    isNonstandard: null,
     name: 'TR03',
     fling: { basePower: 110 },
     spritenum: 731,
     num: 1133,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr04: {
-    isNonstandard: null,
     name: 'TR04',
     fling: { basePower: 90 },
     spritenum: 731,
     num: 1134,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr05: {
-    isNonstandard: null,
     name: 'TR05',
     fling: { basePower: 90 },
     spritenum: 735,
     num: 1135,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr06: {
-    isNonstandard: null,
     name: 'TR06',
     fling: { basePower: 110 },
     spritenum: 735,
     num: 1136,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr07: {
-    isNonstandard: null,
     name: 'TR07',
     fling: { basePower: 10 },
     spritenum: 722,
     num: 1137,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr08: {
-    isNonstandard: null,
     name: 'TR08',
     fling: { basePower: 90 },
     spritenum: 733,
     num: 1138,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr09: {
-    isNonstandard: null,
     name: 'TR09',
     fling: { basePower: 110 },
     spritenum: 733,
     num: 1139,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr10: {
-    isNonstandard: null,
     name: 'TR10',
     fling: { basePower: 100 },
     spritenum: 725,
     num: 1140,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr11: {
-    isNonstandard: null,
     name: 'TR11',
     fling: { basePower: 90 },
     spritenum: 734,
     num: 1141,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr12: {
-    isNonstandard: null,
     name: 'TR12',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1142,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr13: {
-    isNonstandard: null,
     name: 'TR13',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1143,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr14: {
-    isNonstandard: null,
     name: 'TR14',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1144,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr15: {
-    isNonstandard: null,
     name: 'TR15',
     fling: { basePower: 110 },
     spritenum: 730,
     num: 1145,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr16: {
-    isNonstandard: null,
     name: 'TR16',
     fling: { basePower: 80 },
     spritenum: 731,
     num: 1146,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr17: {
-    isNonstandard: null,
     name: 'TR17',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1147,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr18: {
-    isNonstandard: null,
     name: 'TR18',
     fling: { basePower: 80 },
     spritenum: 727,
     num: 1148,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr19: {
-    isNonstandard: null,
     name: 'TR19',
     fling: { basePower: 80 },
     spritenum: 721,
     num: 1149,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr20: {
-    isNonstandard: null,
     name: 'TR20',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1150,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr21: {
-    isNonstandard: null,
     name: 'TR21',
     fling: { basePower: 10 },
     spritenum: 722,
     num: 1151,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr22: {
-    isNonstandard: null,
     name: 'TR22',
     fling: { basePower: 90 },
     spritenum: 724,
     num: 1152,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr23: {
-    isNonstandard: null,
     name: 'TR23',
     fling: { basePower: 10 },
     spritenum: 725,
     num: 1153,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr24: {
-    isNonstandard: null,
     name: 'TR24',
     fling: { basePower: 120 },
     spritenum: 736,
     num: 1154,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr25: {
-    isNonstandard: null,
     name: 'TR25',
     fling: { basePower: 80 },
     spritenum: 734,
     num: 1155,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr26: {
-    isNonstandard: null,
     name: 'TR26',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1156,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr27: {
-    isNonstandard: null,
     name: 'TR27',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1157,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr28: {
-    isNonstandard: null,
     name: 'TR28',
     fling: { basePower: 120 },
     spritenum: 727,
     num: 1158,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr29: {
-    isNonstandard: null,
     name: 'TR29',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1159,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr30: {
-    isNonstandard: null,
     name: 'TR30',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1160,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr31: {
-    isNonstandard: null,
     name: 'TR31',
     fling: { basePower: 100 },
     spritenum: 729,
     num: 1161,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr32: {
-    isNonstandard: null,
     name: 'TR32',
     fling: { basePower: 80 },
     spritenum: 737,
     num: 1162,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr33: {
-    isNonstandard: null,
     name: 'TR33',
     fling: { basePower: 80 },
     spritenum: 728,
     num: 1163,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr34: {
-    isNonstandard: null,
     name: 'TR34',
     fling: { basePower: 120 },
     spritenum: 734,
     num: 1164,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr35: {
-    isNonstandard: null,
     name: 'TR35',
     fling: { basePower: 90 },
     spritenum: 721,
     num: 1165,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr36: {
-    isNonstandard: null,
     name: 'TR36',
     fling: { basePower: 95 },
     spritenum: 730,
     num: 1166,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr37: {
-    isNonstandard: null,
     name: 'TR37',
     fling: { basePower: 10 },
     spritenum: 737,
     num: 1167,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr38: {
-    isNonstandard: null,
     name: 'TR38',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1168,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr39: {
-    isNonstandard: null,
     name: 'TR39',
     fling: { basePower: 120 },
     spritenum: 722,
     num: 1169,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr40: {
-    isNonstandard: null,
     name: 'TR40',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1170,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr41: {
-    isNonstandard: null,
     name: 'TR41',
     fling: { basePower: 85 },
     spritenum: 730,
     num: 1171,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr42: {
-    isNonstandard: null,
     name: 'TR42',
     fling: { basePower: 90 },
     spritenum: 721,
     num: 1172,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr43: {
-    isNonstandard: null,
     name: 'TR43',
     fling: { basePower: 130 },
     spritenum: 730,
     num: 1173,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr44: {
-    isNonstandard: null,
     name: 'TR44',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1174,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr45: {
-    isNonstandard: null,
     name: 'TR45',
     fling: { basePower: 90 },
     spritenum: 731,
     num: 1175,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr46: {
-    isNonstandard: null,
     name: 'TR46',
     fling: { basePower: 10 },
     spritenum: 729,
     num: 1176,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr47: {
-    isNonstandard: null,
     name: 'TR47',
     fling: { basePower: 80 },
     spritenum: 736,
     num: 1177,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr48: {
-    isNonstandard: null,
     name: 'TR48',
     fling: { basePower: 10 },
     spritenum: 722,
     num: 1178,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr49: {
-    isNonstandard: null,
     name: 'TR49',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1179,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr50: {
-    isNonstandard: null,
     name: 'TR50',
     fling: { basePower: 90 },
     spritenum: 732,
     num: 1180,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr51: {
-    isNonstandard: null,
     name: 'TR51',
     fling: { basePower: 10 },
     spritenum: 736,
     num: 1181,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr52: {
-    isNonstandard: null,
     name: 'TR52',
     fling: { basePower: 10 },
     spritenum: 729,
     num: 1182,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr53: {
-    isNonstandard: null,
     name: 'TR53',
     fling: { basePower: 120 },
     spritenum: 722,
     num: 1183,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr54: {
-    isNonstandard: null,
     name: 'TR54',
     fling: { basePower: 10 },
     spritenum: 724,
     num: 1184,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr55: {
-    isNonstandard: null,
     name: 'TR55',
     fling: { basePower: 120 },
     spritenum: 730,
     num: 1185,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr56: {
-    isNonstandard: null,
     name: 'TR56',
     fling: { basePower: 80 },
     spritenum: 722,
     num: 1186,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr57: {
-    isNonstandard: null,
     name: 'TR57',
     fling: { basePower: 80 },
     spritenum: 724,
     num: 1187,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr58: {
-    isNonstandard: null,
     name: 'TR58',
     fling: { basePower: 80 },
     spritenum: 737,
     num: 1188,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr59: {
-    isNonstandard: null,
     name: 'TR59',
     fling: { basePower: 80 },
     spritenum: 732,
     num: 1189,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr60: {
-    isNonstandard: null,
     name: 'TR60',
     fling: { basePower: 80 },
     spritenum: 727,
     num: 1190,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr61: {
-    isNonstandard: null,
     name: 'TR61',
     fling: { basePower: 90 },
     spritenum: 727,
     num: 1191,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr62: {
-    isNonstandard: null,
     name: 'TR62',
     fling: { basePower: 85 },
     spritenum: 736,
     num: 1192,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr63: {
-    isNonstandard: null,
     name: 'TR63',
     fling: { basePower: 80 },
     spritenum: 726,
     num: 1193,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr64: {
-    isNonstandard: null,
     name: 'TR64',
     fling: { basePower: 120 },
     spritenum: 722,
     num: 1194,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr65: {
-    isNonstandard: null,
     name: 'TR65',
     fling: { basePower: 90 },
     spritenum: 732,
     num: 1195,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr66: {
-    isNonstandard: null,
     name: 'TR66',
     fling: { basePower: 120 },
     spritenum: 723,
     num: 1196,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr67: {
-    isNonstandard: null,
     name: 'TR67',
     fling: { basePower: 90 },
     spritenum: 725,
     num: 1197,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr68: {
-    isNonstandard: null,
     name: 'TR68',
     fling: { basePower: 10 },
     spritenum: 737,
     num: 1198,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr69: {
-    isNonstandard: null,
     name: 'TR69',
     fling: { basePower: 80 },
     spritenum: 734,
     num: 1199,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr70: {
-    isNonstandard: null,
     name: 'TR70',
     fling: { basePower: 80 },
     spritenum: 729,
     num: 1200,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr71: {
-    isNonstandard: null,
     name: 'TR71',
     fling: { basePower: 130 },
     spritenum: 732,
     num: 1201,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr72: {
-    isNonstandard: null,
     name: 'TR72',
     fling: { basePower: 120 },
     spritenum: 732,
     num: 1202,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr73: {
-    isNonstandard: null,
     name: 'TR73',
     fling: { basePower: 120 },
     spritenum: 724,
     num: 1203,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr74: {
-    isNonstandard: null,
     name: 'TR74',
     fling: { basePower: 80 },
     spritenum: 729,
     num: 1204,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr75: {
-    isNonstandard: null,
     name: 'TR75',
     fling: { basePower: 100 },
     spritenum: 726,
     num: 1205,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr76: {
-    isNonstandard: null,
     name: 'TR76',
     fling: { basePower: 10 },
     spritenum: 726,
     num: 1206,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr77: {
-    isNonstandard: null,
     name: 'TR77',
     fling: { basePower: 10 },
     spritenum: 732,
     num: 1207,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr78: {
-    isNonstandard: null,
     name: 'TR78',
     fling: { basePower: 95 },
     spritenum: 724,
     num: 1208,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr79: {
-    isNonstandard: null,
     name: 'TR79',
     fling: { basePower: 10 },
     spritenum: 729,
     num: 1209,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr80: {
-    isNonstandard: null,
     name: 'TR80',
     fling: { basePower: 10 },
     spritenum: 733,
     num: 1210,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr81: {
-    isNonstandard: null,
     name: 'TR81',
     fling: { basePower: 95 },
     spritenum: 737,
     num: 1211,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr82: {
-    isNonstandard: null,
     name: 'TR82',
     fling: { basePower: 20 },
     spritenum: 734,
     num: 1212,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr83: {
-    isNonstandard: null,
     name: 'TR83',
     fling: { basePower: 10 },
     spritenum: 734,
     num: 1213,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr84: {
-    isNonstandard: null,
     name: 'TR84',
     fling: { basePower: 80 },
     spritenum: 731,
     num: 1214,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr85: {
-    isNonstandard: null,
     name: 'TR85',
     fling: { basePower: 10 },
     spritenum: 721,
     num: 1215,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr86: {
-    isNonstandard: null,
     name: 'TR86',
     fling: { basePower: 90 },
     spritenum: 733,
     num: 1216,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr87: {
-    isNonstandard: null,
     name: 'TR87',
     fling: { basePower: 80 },
     spritenum: 725,
     num: 1217,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr88: {
-    isNonstandard: null,
     name: 'TR88',
     fling: { basePower: 10 },
     spritenum: 730,
     num: 1218,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr89: {
-    isNonstandard: null,
     name: 'TR89',
     fling: { basePower: 110 },
     spritenum: 723,
     num: 1219,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr90: {
-    isNonstandard: null,
     name: 'TR90',
     fling: { basePower: 90 },
     spritenum: 738,
     num: 1220,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr91: {
-    isNonstandard: null,
     name: 'TR91',
     fling: { basePower: 10 },
     spritenum: 724,
     num: 1221,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr92: {
-    isNonstandard: null,
     name: 'TR92',
     fling: { basePower: 80 },
     spritenum: 738,
     num: 1222,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr93: {
-    isNonstandard: null,
     name: 'TR93',
     fling: { basePower: 85 },
     spritenum: 737,
     num: 1223,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr94: {
-    isNonstandard: null,
     name: 'TR94',
     fling: { basePower: 95 },
     spritenum: 725,
     num: 1224,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr95: {
-    isNonstandard: null,
     name: 'TR95',
     fling: { basePower: 80 },
     spritenum: 737,
     num: 1225,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr96: {
-    isNonstandard: null,
     name: 'TR96',
     fling: { basePower: 90 },
     spritenum: 727,
     num: 1226,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr97: {
-    isNonstandard: null,
     name: 'TR97',
     fling: { basePower: 85 },
     spritenum: 734,
     num: 1227,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr98: {
-    isNonstandard: null,
     name: 'TR98',
     fling: { basePower: 85 },
     spritenum: 731,
     num: 1228,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   tr99: {
-    isNonstandard: null,
     name: 'TR99',
     fling: { basePower: 80 },
     spritenum: 722,
     num: 1229,
-    gen: 8
+    gen: 8,
+    isNonstandard: null
   },
   upgrade: {
-    isNonstandard: null,
     name: 'Up-Grade',
     spritenum: 523,
     fling: { basePower: 30 },
     num: 252,
-    gen: 2
+    gen: 2,
+    isNonstandard: null
   },
   watermemory: {
-    isNonstandard: null,
     name: 'Water Memory',
     spritenum: 677,
     onMemory: 'Water',
@@ -1640,28 +1639,28 @@
     forcedForme: 'Silvally-Water',
     itemUser: [ 'Silvally-Water' ],
     num: 913,
-    gen: 7
+    gen: 7,
+    isNonstandard: null
   },
   waveincense: {
-    isNonstandard: null,
     name: 'Wave Incense',
     spritenum: 531,
     fling: { basePower: 10 },
     onBasePowerPriority: 15,
     onBasePower: [Function: onBasePower],
     num: 317,
-    gen: 4
+    gen: 4,
+    isNonstandard: null
   },
   whippeddream: {
-    isNonstandard: null,
     name: 'Whipped Dream',
     spritenum: 692,
     fling: { basePower: 80 },
     num: 646,
-    gen: 6
+    gen: 6,
+    isNonstandard: null
   },
   zapplate: {
-    isNonstandard: 'Past',
     name: 'Zap Plate',
     spritenum: 572,
     onPlate: 'Electric',
@@ -1670,7 +1669,8 @@
     onTakeItem: [Function: onTakeItem],
     forcedForme: 'Arceus-Electric',
     num: 300,
-    gen: 4
+    gen: 4,
+    isNonstandard: 'Past'
   },
   abilityshield: {
     name: 'Ability Shield',
@@ -2234,6 +2234,7 @@
     name: 'Clear Amulet',
     spritenum: 747,
     fling: { basePower: 30 },
+    onTryBoostPriority: 1,
     onTryBoost: [Function: onTryBoost],
     num: 1882,
     gen: 9

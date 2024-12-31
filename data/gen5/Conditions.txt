@@ -1,19 +1,19 @@
 {
   slp: {
-    onSwitchIn: [Function: onSwitchIn],
     name: 'slp',
     effectType: 'Status',
     onStart: [Function: onStart],
     onBeforeMovePriority: 10,
-    onBeforeMove: [Function: onBeforeMove]
+    onBeforeMove: [Function: onBeforeMove],
+    onSwitchIn: [Function: onSwitchIn]
   },
   partiallytrapped: {
-    onStart: [Function: onStart],
-    onResidual: [Function: onResidual],
     name: 'partiallytrapped',
     duration: 5,
     durationCallback: [Function: durationCallback],
+    onStart: [Function: onStart],
     onResidualOrder: 13,
+    onResidual: [Function: onResidual],
     onEnd: [Function: onEnd],
     onTrapPokemon: [Function: onTrapPokemon]
   },
@@ -30,33 +30,33 @@
     onBasePower: [Function: onBasePower]
   },
   brn: {
-    onResidual: [Function: onResidual],
     name: 'brn',
     effectType: 'Status',
     onStart: [Function: onStart],
-    onResidualOrder: 10
+    onResidualOrder: 10,
+    onResidual: [Function: onResidual]
   },
   par: {
-    onModifySpe: [Function: onModifySpe],
     name: 'par',
     effectType: 'Status',
     onStart: [Function: onStart],
     onModifySpePriority: -101,
+    onModifySpe: [Function: onModifySpe],
     onBeforeMovePriority: 1,
     onBeforeMove: [Function: onBeforeMove]
   },
   confusion: {
-    onBeforeMove: [Function: onBeforeMove],
     name: 'confusion',
     onStart: [Function: onStart],
     onEnd: [Function: onEnd],
-    onBeforeMovePriority: 3
+    onBeforeMovePriority: 3,
+    onBeforeMove: [Function: onBeforeMove]
   },
   choicelock: {
-    onBeforeMove: [Function: onBeforeMove],
     name: 'choicelock',
     noCopy: true,
     onStart: [Function: onStart],
+    onBeforeMove: [Function: onBeforeMove],
     onDisableMove: [Function: onDisableMove]
   },
   frz: {
@@ -124,8 +124,9 @@
   },
   futuremove: {
     name: 'futuremove',
-    duration: 3,
+    onStart: [Function: onStart],
     onResidualOrder: 3,
+    onResidual: [Function: onResidual],
     onEnd: [Function: onEnd]
   },
   healreplacement: {
