@@ -76,6 +76,16 @@
     onTrapPokemon: [Function: onTrapPokemon],
     onResidualSubOrder: 9
   },
+  lockedmove: {
+    name: 'lockedmove',
+    duration: 2,
+    onResidual: [Function: onResidual],
+    onStart: [Function: onStart],
+    onRestart: [Function: onRestart],
+    onAfterMove: [Function: onAfterMove],
+    onEnd: [Function: onEnd],
+    onLockMove: [Function: onLockMove]
+  },
   choicelock: {
     name: 'choicelock',
     noCopy: true,
@@ -160,15 +170,6 @@
     onBeforeMovePriority: 8,
     onBeforeMove: [Function: onBeforeMove]
   },
-  lockedmove: {
-    name: 'lockedmove',
-    duration: 2,
-    onResidual: [Function: onResidual],
-    onStart: [Function: onStart],
-    onRestart: [Function: onRestart],
-    onEnd: [Function: onEnd],
-    onLockMove: [Function: onLockMove]
-  },
   twoturnmove: {
     name: 'twoturnmove',
     duration: 2,
@@ -188,7 +189,6 @@
   healreplacement: {
     name: 'healreplacement',
     onStart: [Function: onStart],
-    onSwitchInPriority: 1,
     onSwitchIn: [Function: onSwitchIn]
   },
   primordialsea: {
@@ -216,8 +216,8 @@
     onFieldResidual: [Function: onFieldResidual],
     onFieldEnd: [Function: onFieldEnd]
   },
-  snow: {
-    name: 'Snow',
+  snowscape: {
+    name: 'Snowscape',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],

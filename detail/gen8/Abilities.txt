@@ -54,7 +54,7 @@ Ability {
   num: 106,
   gen: 4,
   shortDesc: "If this Pokemon is KOed with a contact move, that move's user loses 1/4 its max HP.",
-  desc: "If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. If any active Pokemon has the Damp Ability, this effect is prevented.",
+  desc: "If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. This effect is prevented if the move's user has the Magic Guard Ability or if any active Pokemon has the Damp Ability.",
   isNonstandard: null,
   duration: undefined,
   noCopy: false,
@@ -146,7 +146,7 @@ Ability {
   num: 107,
   gen: 4,
   shortDesc: 'On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.',
-  desc: 'On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective against this Pokemon, or an OHKO move. This effect considers any move that deals direct damage as an attacking move of its respective type, Hidden Power counts as its determined type, and Judgment, Multi-Attack, Natural Gift, Revelation Dance, Techno Blast, and Weather Ball are considered Normal-type moves.',
+  desc: 'On switch-in, this Pokemon is alerted if any opposing Pokemon has an attacking move with a type that is super effective against this Pokemon, or any OHKO move. This effect considers Hidden Power to be its determined type, and every other move to be its original type.',
   isNonstandard: null,
   duration: undefined,
   noCopy: false,
@@ -231,7 +231,7 @@ Ability {
     cantsuppress: 1
   },
   rating: 3.5,
-  onPreStart: [Function: onPreStart],
+  onSwitchInPriority: 1,
   onStart: [Function: onStart],
   onEnd: [Function: onEnd],
   onFoeTryEatItem: [Function: onFoeTryEatItem],
@@ -264,7 +264,7 @@ Ability {
     cantsuppress: 1
   },
   rating: 3.5,
-  onPreStart: [Function: onPreStart],
+  onSwitchInPriority: 1,
   onStart: [Function: onStart],
   onEnd: [Function: onEnd],
   onFoeTryEatItem: [Function: onFoeTryEatItem],
@@ -1463,6 +1463,7 @@ Ability {
     breakable: 1
   },
   rating: 1,
+  onSwitchInPriority: -2,
   onStart: [Function: onStart],
   onWeatherChange: [Function: onWeatherChange],
   onAllyModifyAtkPriority: 3,
@@ -1536,6 +1537,7 @@ Ability {
   suppressWeather: false,
   flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
   rating: 2,
+  onSwitchInPriority: -2,
   onStart: [Function: onStart],
   onWeatherChange: [Function: onWeatherChange]
 },
@@ -2187,6 +2189,7 @@ Ability {
     notransform: 1
   },
   rating: 3,
+  onSwitchInPriority: -2,
   onStart: [Function: onStart],
   onDamagePriority: 1,
   onDamage: [Function: onDamage],
@@ -2314,8 +2317,7 @@ Ability {
   suppressWeather: false,
   flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
   rating: 5,
-  onSwitchIn: [Function: onSwitchIn],
-  onStart: [Function: onStart]
+  onSwitchIn: [Function: onSwitchIn]
 },
 Ability {
   name: 'Infiltrator',
@@ -2564,6 +2566,7 @@ Ability {
   suppressWeather: false,
   flags: {},
   rating: -1,
+  onSwitchInPriority: 1,
   onStart: [Function: onStart]
 },
 Ability {
@@ -2630,8 +2633,7 @@ Ability {
   suppressWeather: false,
   flags: {},
   rating: 4.5,
-  onPrepareHit: [Function: onPrepareHit],
-  onSwitchIn: [Function: onSwitchIn]
+  onPrepareHit: [Function: onPrepareHit]
 },
 Ability {
   name: 'Light Metal',
@@ -2790,8 +2792,7 @@ Ability {
   rating: 4,
   onTryHitPriority: 1,
   onTryHit: [Function: onTryHit],
-  onAllyTryHitSide: [Function: onAllyTryHitSide],
-  condition: { duration: 1 }
+  onAllyTryHitSide: [Function: onAllyTryHitSide]
 },
 Ability {
   name: 'Magic Guard',
@@ -2824,7 +2825,7 @@ Ability {
   num: 170,
   gen: 6,
   shortDesc: 'If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack.',
-  desc: 'If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack. Does not affect Doom Desire and Future Sight.',
+  desc: 'If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack. Does not affect Doom Desire and Future Sight. If multiple targets are hit by an attack the item is stolen from the fastest Pokemon, while considering the effect of Trick Room and prioritizing opposing Pokemon before allies.',
   isNonstandard: null,
   duration: undefined,
   noCopy: false,
@@ -2971,6 +2972,7 @@ Ability {
   suppressWeather: false,
   flags: {},
   rating: 0.5,
+  onSwitchInPriority: -1,
   onStart: [Function: onStart],
   onTerrainChange: [Function: onTerrainChange]
 },
@@ -3276,7 +3278,8 @@ Ability {
     notransform: 1
   },
   rating: 4,
-  onPreStart: [Function: onPreStart],
+  onSwitchInPriority: 2,
+  onSwitchIn: [Function: onSwitchIn],
   onEnd: [Function: onEnd]
 },
 Ability {
@@ -3472,7 +3475,7 @@ Ability {
   rating: 2,
   onStart: [Function: onStart],
   onUpdate: [Function: onUpdate],
-  onAllySwitchIn: [Function: onAllySwitchIn],
+  onAnySwitchIn: [Function: onAnySwitchIn],
   onSetStatus: [Function: onSetStatus],
   onAllySetStatus: [Function: onAllySetStatus]
 },
@@ -3868,8 +3871,7 @@ Ability {
   suppressWeather: false,
   flags: {},
   rating: 4.5,
-  onPrepareHit: [Function: onPrepareHit],
-  onSwitchIn: [Function: onSwitchIn]
+  onPrepareHit: [Function: onPrepareHit]
 },
 Ability {
   name: 'Psychic Surge',
@@ -4455,6 +4457,7 @@ Ability {
     cantsuppress: 1
   },
   rating: 3,
+  onSwitchInPriority: -1,
   onStart: [Function: onStart],
   onResidualOrder: 29,
   onResidual: [Function: onResidual]
@@ -4652,7 +4655,7 @@ Ability {
   num: 19,
   gen: 3,
   shortDesc: "This Pokemon is not affected by the secondary effect of another Pokemon's attack.",
-  desc: "This Pokemon is not affected by the secondary effect of another Pokemon's attack.",
+  desc: "This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, cause this Pokemon's stat stages to be lowered, as well as Anchor Shot, Eerie Spell, Fling, Spirit Shackle, and Throat Chop. The effect of Sparkling Aria is prevented if this Pokemon is the only target. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch and Stench Abilities are also prevented against this Pokemon.",
   isNonstandard: null,
   duration: undefined,
   noCopy: false,
@@ -4692,6 +4695,7 @@ Ability {
     cantsuppress: 1
   },
   rating: 3,
+  onSwitchInPriority: -1,
   onStart: [Function: onStart],
   onResidualOrder: 29,
   onResidual: [Function: onResidual],
@@ -4763,18 +4767,12 @@ Ability {
   flags: {},
   rating: -1,
   onStart: [Function: onStart],
-  onEnd: [Function: onEnd],
-  condition: {
-    duration: 5,
-    onResidualOrder: 28,
-    onResidualSubOrder: 2,
-    onStart: [Function: onStart],
-    onResidual: [Function: onResidual],
-    onModifyAtkPriority: 5,
-    onModifyAtk: [Function: onModifyAtk],
-    onModifySpe: [Function: onModifySpe],
-    onEnd: [Function: onEnd]
-  }
+  onResidualOrder: 28,
+  onResidualSubOrder: 2,
+  onResidual: [Function: onResidual],
+  onModifyAtkPriority: 5,
+  onModifyAtk: [Function: onModifyAtk],
+  onModifySpe: [Function: onModifySpe]
 },
 Ability {
   name: 'Slush Rush',
@@ -5930,7 +5928,7 @@ Ability {
   suppressWeather: false,
   flags: {},
   rating: 1.5,
-  onPreStart: [Function: onPreStart],
+  onSwitchInPriority: 1,
   onStart: [Function: onStart],
   onEnd: [Function: onEnd],
   onFoeTryEatItem: [Function: onFoeTryEatItem]

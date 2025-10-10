@@ -2506,6 +2506,20 @@
     cosmeticFormes: [ 'Burmy-Sandy', 'Burmy-Trash' ],
     formeOrder: [ 'Burmy', 'Burmy-Sandy', 'Burmy-Trash' ]
   },
+  burmysandy: {
+    isCosmeticForme: true,
+    name: 'Burmy-Sandy',
+    baseSpecies: 'Burmy',
+    forme: 'Sandy',
+    color: 'Gray'
+  },
+  burmytrash: {
+    isCosmeticForme: true,
+    name: 'Burmy-Trash',
+    baseSpecies: 'Burmy',
+    forme: 'Trash',
+    color: 'Gray'
+  },
   wormadam: {
     num: 413,
     name: 'Wormadam',
@@ -2570,6 +2584,20 @@
     eggGroups: [ 'Fairy', 'Grass' ],
     otherFormes: [ 'Cherrim-Sunshine' ],
     formeOrder: [ 'Cherrim', 'Cherrim-Sunshine' ]
+  },
+  shelloseast: {
+    isCosmeticForme: true,
+    name: 'Shellos-East',
+    baseSpecies: 'Shellos',
+    forme: 'East',
+    color: 'Purple'
+  },
+  gastrodoneast: {
+    isCosmeticForme: true,
+    name: 'Gastrodon-East',
+    baseSpecies: 'Gastrodon',
+    forme: 'East',
+    color: 'Purple'
   },
   arceus: {
     num: 493,
@@ -3019,6 +3047,27 @@
       'Deerling-Winter'
     ]
   },
+  deerlingsummer: {
+    isCosmeticForme: true,
+    name: 'Deerling-Summer',
+    baseSpecies: 'Deerling',
+    forme: 'Summer',
+    color: 'Yellow'
+  },
+  deerlingautumn: {
+    isCosmeticForme: true,
+    name: 'Deerling-Autumn',
+    baseSpecies: 'Deerling',
+    forme: 'Autumn',
+    color: 'Yellow'
+  },
+  deerlingwinter: {
+    isCosmeticForme: true,
+    name: 'Deerling-Winter',
+    baseSpecies: 'Deerling',
+    forme: 'Winter',
+    color: 'Yellow'
+  },
   cubchoo: {
     num: 613,
     name: 'Cubchoo',
@@ -3117,6 +3166,153 @@
       'Vivillon-Ocean',       'Vivillon-Jungle',
       'Vivillon-Fancy',       'Vivillon-Pokeball'
     ]
+  },
+  vivillonicysnow: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Icy Snow',
+    baseSpecies: 'Vivillon',
+    forme: 'Icy Snow',
+    color: 'Black'
+  },
+  vivillonpolar: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Polar',
+    baseSpecies: 'Vivillon',
+    forme: 'Polar',
+    color: 'Black'
+  },
+  vivillontundra: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Tundra',
+    baseSpecies: 'Vivillon',
+    forme: 'Tundra',
+    color: 'Black'
+  },
+  vivilloncontinental: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Continental',
+    baseSpecies: 'Vivillon',
+    forme: 'Continental',
+    color: 'Black'
+  },
+  vivillongarden: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Garden',
+    baseSpecies: 'Vivillon',
+    forme: 'Garden',
+    color: 'Black'
+  },
+  vivillonelegant: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Elegant',
+    baseSpecies: 'Vivillon',
+    forme: 'Elegant',
+    color: 'Black'
+  },
+  vivillonmodern: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Modern',
+    baseSpecies: 'Vivillon',
+    forme: 'Modern',
+    color: 'Black'
+  },
+  vivillonmarine: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Marine',
+    baseSpecies: 'Vivillon',
+    forme: 'Marine',
+    color: 'Black'
+  },
+  vivillonarchipelago: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Archipelago',
+    baseSpecies: 'Vivillon',
+    forme: 'Archipelago',
+    color: 'Black'
+  },
+  vivillonhighplains: {
+    isCosmeticForme: true,
+    name: 'Vivillon-High Plains',
+    baseSpecies: 'Vivillon',
+    forme: 'High Plains',
+    color: 'Black'
+  },
+  vivillonsandstorm: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Sandstorm',
+    baseSpecies: 'Vivillon',
+    forme: 'Sandstorm',
+    color: 'Black'
+  },
+  vivillonriver: {
+    isCosmeticForme: true,
+    name: 'Vivillon-River',
+    baseSpecies: 'Vivillon',
+    forme: 'River',
+    color: 'Black'
+  },
+  vivillonmonsoon: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Monsoon',
+    baseSpecies: 'Vivillon',
+    forme: 'Monsoon',
+    color: 'Black'
+  },
+  vivillonsavanna: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Savanna',
+    baseSpecies: 'Vivillon',
+    forme: 'Savanna',
+    color: 'Black'
+  },
+  vivillonsun: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Sun',
+    baseSpecies: 'Vivillon',
+    forme: 'Sun',
+    color: 'Black'
+  },
+  vivillonocean: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Ocean',
+    baseSpecies: 'Vivillon',
+    forme: 'Ocean',
+    color: 'Black'
+  },
+  vivillonjungle: {
+    isCosmeticForme: true,
+    name: 'Vivillon-Jungle',
+    baseSpecies: 'Vivillon',
+    forme: 'Jungle',
+    color: 'Black'
+  },
+  vivillonfancy: {
+    num: 666,
+    name: 'Vivillon-Fancy',
+    baseSpecies: 'Vivillon',
+    forme: 'Fancy',
+    types: [ 'Bug', 'Flying' ],
+    baseStats: { hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89 },
+    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
+    heightm: 1.2,
+    weightkg: 17,
+    color: 'Black',
+    prevo: undefined,
+    evoLevel: undefined,
+    eggGroups: [ 'Bug' ]
+  },
+  vivillonpokeball: {
+    num: 666,
+    name: 'Vivillon-Pokeball',
+    baseSpecies: 'Vivillon',
+    forme: 'Pokeball',
+    types: [ 'Bug', 'Flying' ],
+    baseStats: { hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89 },
+    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
+    heightm: 1.2,
+    weightkg: 17,
+    color: 'Black',
+    eggGroups: [ 'Bug' ]
   },
   meowstic: {
     num: 678,
@@ -4068,34 +4264,6 @@
     prevo: 'Scatterbug',
     evoLevel: 9,
     evos: [ 'Vivillon' ],
-    eggGroups: [ 'Bug' ]
-  },
-  vivillonfancy: {
-    num: 666,
-    name: 'Vivillon-Fancy',
-    baseSpecies: 'Vivillon',
-    forme: 'Fancy',
-    types: [ 'Bug', 'Flying' ],
-    baseStats: { hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89 },
-    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
-    heightm: 1.2,
-    weightkg: 17,
-    color: 'Black',
-    prevo: undefined,
-    evoLevel: undefined,
-    eggGroups: [ 'Bug' ]
-  },
-  vivillonpokeball: {
-    num: 666,
-    name: 'Vivillon-Pokeball',
-    baseSpecies: 'Vivillon',
-    forme: 'Pokeball',
-    types: [ 'Bug', 'Flying' ],
-    baseStats: { hp: 80, atk: 52, def: 50, spa: 90, spd: 50, spe: 89 },
-    abilities: { '0': 'Shield Dust', '1': 'Compound Eyes' },
-    heightm: 1.2,
-    weightkg: 17,
-    color: 'Black',
     eggGroups: [ 'Bug' ]
   },
   sliggoohisui: {
@@ -12843,10 +13011,10 @@
     ],
     formeOrder: [
       'Flabébé',
-      'Flabébé-Blue',
+      'Flabébé-Yellow',
       'Flabébé-Orange',
-      'Flabébé-White',
-      'Flabébé-Yellow'
+      'Flabébé-Blue',
+      'Flabébé-White'
     ]
   },
   floette: {
@@ -12873,10 +13041,10 @@
     ],
     formeOrder: [
       'Floette',
-      'Floette-Blue',
-      'Floette-Orange',
-      'Floette-White',
       'Floette-Yellow',
+      'Floette-Orange',
+      'Floette-Blue',
+      'Floette-White',
       'Floette-Eternal'
     ]
   },
@@ -12917,10 +13085,10 @@
     ],
     formeOrder: [
       'Florges',
-      'Florges-Blue',
+      'Florges-Yellow',
       'Florges-Orange',
-      'Florges-White',
-      'Florges-Yellow'
+      'Florges-Blue',
+      'Florges-White'
     ]
   },
   skiddo: {
@@ -14030,9 +14198,24 @@
     heightm: 0.5,
     weightkg: 9.2,
     color: 'Brown',
-    evos: [ 'Lycanroc', 'Lycanroc-Midnight', 'Lycanroc-Dusk' ],
+    evos: [ 'Lycanroc', 'Lycanroc-Midnight' ],
     eggGroups: [ 'Field' ],
-    formeOrder: [ 'Rockruff', 'Rockruff' ]
+    otherFormes: [ 'Rockruff-Dusk' ],
+    formeOrder: [ 'Rockruff', 'Rockruff-Dusk' ]
+  },
+  rockruffdusk: {
+    num: 744,
+    name: 'Rockruff-Dusk',
+    baseSpecies: 'Rockruff',
+    forme: 'Dusk',
+    types: [ 'Rock' ],
+    baseStats: { hp: 45, atk: 65, def: 40, spa: 30, spd: 40, spe: 60 },
+    abilities: { '0': 'Own Tempo' },
+    heightm: 0.5,
+    weightkg: 9.2,
+    color: 'Brown',
+    evos: [ 'Lycanroc-Dusk' ],
+    eggGroups: [ 'Field' ]
   },
   lycanrocdusk: {
     num: 745,
@@ -14045,7 +14228,7 @@
     heightm: 0.8,
     weightkg: 25,
     color: 'Brown',
-    prevo: 'Rockruff',
+    prevo: 'Rockruff-Dusk',
     evoLevel: 25,
     evoCondition: 'from a special Rockruff during the evening',
     eggGroups: [ 'Field' ]
@@ -14458,6 +14641,7 @@
   silvally: {
     num: 773,
     name: 'Silvally',
+    baseForme: 'Normal',
     types: [ 'Normal' ],
     gender: 'N',
     baseStats: { hp: 95, atk: 95, def: 95, spa: 95, spd: 95, spe: 95 },
@@ -14794,6 +14978,48 @@
       'Minior-Green',  'Minior-Blue',
       'Minior-Indigo', 'Minior-Violet'
     ]
+  },
+  miniororange: {
+    isCosmeticForme: true,
+    name: 'Minior-Orange',
+    baseSpecies: 'Minior',
+    forme: 'Orange',
+    color: 'Red'
+  },
+  minioryellow: {
+    isCosmeticForme: true,
+    name: 'Minior-Yellow',
+    baseSpecies: 'Minior',
+    forme: 'Yellow',
+    color: 'Yellow'
+  },
+  miniorgreen: {
+    isCosmeticForme: true,
+    name: 'Minior-Green',
+    baseSpecies: 'Minior',
+    forme: 'Green',
+    color: 'Green'
+  },
+  miniorblue: {
+    isCosmeticForme: true,
+    name: 'Minior-Blue',
+    baseSpecies: 'Minior',
+    forme: 'Blue',
+    color: 'Blue'
+  },
+  miniorindigo: {
+    isCosmeticForme: true,
+    name: 'Minior-Indigo',
+    baseSpecies: 'Minior',
+    forme: 'Indigo',
+    color: 'Blue'
+  },
+  miniorviolet: {
+    isCosmeticForme: true,
+    name: 'Minior-Violet',
+    baseSpecies: 'Minior',
+    forme: 'Violet',
+    color: 'Purple'
   },
   miniormeteor: {
     num: 774,
@@ -16479,7 +16705,7 @@
   alcremie: {
     num: 869,
     name: 'Alcremie',
-    baseForme: 'Vanilla Cream',
+    baseForme: 'Vanilla-Cream',
     types: [ 'Fairy' ],
     gender: 'F',
     baseStats: { hp: 65, atk: 60, def: 75, spa: 110, spd: 121, spe: 64 },
@@ -16513,6 +16739,55 @@
       'Alcremie-Rainbow-Swirl'
     ],
     canGigantamax: 'G-Max Finale'
+  },
+  alcremierubycream: {
+    isCosmeticForme: true,
+    name: 'Alcremie-Ruby-Cream',
+    baseSpecies: 'Alcremie',
+    forme: 'Ruby-Cream',
+    color: 'Pink'
+  },
+  alcremiematchacream: {
+    isCosmeticForme: true,
+    name: 'Alcremie-Matcha-Cream',
+    baseSpecies: 'Alcremie',
+    forme: 'Matcha-Cream',
+    color: 'Green'
+  },
+  alcremiemintcream: {
+    isCosmeticForme: true,
+    name: 'Alcremie-Mint-Cream',
+    baseSpecies: 'Alcremie',
+    forme: 'Mint-Cream',
+    color: 'Blue'
+  },
+  alcremielemoncream: {
+    isCosmeticForme: true,
+    name: 'Alcremie-Lemon-Cream',
+    baseSpecies: 'Alcremie',
+    forme: 'Lemon-Cream',
+    color: 'Yellow'
+  },
+  alcremierubyswirl: {
+    isCosmeticForme: true,
+    name: 'Alcremie-Ruby-Swirl',
+    baseSpecies: 'Alcremie',
+    forme: 'Ruby-Swirl',
+    color: 'Yellow'
+  },
+  alcremiecaramelswirl: {
+    isCosmeticForme: true,
+    name: 'Alcremie-Caramel-Swirl',
+    baseSpecies: 'Alcremie',
+    forme: 'Caramel-Swirl',
+    color: 'Yellow'
+  },
+  alcremierainbowswirl: {
+    isCosmeticForme: true,
+    name: 'Alcremie-Rainbow-Swirl',
+    baseSpecies: 'Alcremie',
+    forme: 'Rainbow-Swirl',
+    color: 'Yellow'
   },
   alcremiegmax: {
     num: 869,
@@ -16592,6 +16867,7 @@
   eiscue: {
     num: 875,
     name: 'Eiscue',
+    baseForme: 'Ice',
     types: [ 'Ice' ],
     baseStats: { hp: 75, atk: 80, def: 110, spa: 65, spd: 90, spe: 50 },
     abilities: { '0': 'Ice Face' },
@@ -16650,6 +16926,7 @@
   morpeko: {
     num: 877,
     name: 'Morpeko',
+    baseForme: 'Full-Belly',
     types: [ 'Electric', 'Dark' ],
     baseStats: { hp: 58, atk: 95, def: 58, spa: 70, spd: 58, spe: 97 },
     abilities: { '0': 'Hunger Switch' },
@@ -18187,6 +18464,20 @@
     formeOrder: [ 'Tatsugiri', 'Tatsugiri-Droopy', 'Tatsugiri-Stretchy' ],
     eggGroups: [ 'Water 2' ]
   },
+  tatsugiridroopy: {
+    isCosmeticForme: true,
+    name: 'Tatsugiri-Droopy',
+    baseSpecies: 'Tatsugiri',
+    forme: 'Droopy',
+    color: 'Pink'
+  },
+  tatsugiristretchy: {
+    isCosmeticForme: true,
+    name: 'Tatsugiri-Stretchy',
+    baseSpecies: 'Tatsugiri',
+    forme: 'Stretchy',
+    color: 'Yellow'
+  },
   annihilape: {
     num: 979,
     name: 'Annihilape',
@@ -18798,7 +19089,7 @@
       'Ogerpon-Hearthflame-Tera',
       'Ogerpon-Cornerstone-Tera'
     ],
-    forceTeraType: 'Grass'
+    requiredTeraType: 'Grass'
   },
   ogerponwellspring: {
     num: 1017,
@@ -18815,7 +19106,7 @@
     eggGroups: [ 'Undiscovered' ],
     requiredItem: 'Wellspring Mask',
     changesFrom: 'Ogerpon',
-    forceTeraType: 'Water'
+    requiredTeraType: 'Water'
   },
   ogerponhearthflame: {
     num: 1017,
@@ -18832,7 +19123,7 @@
     eggGroups: [ 'Undiscovered' ],
     requiredItem: 'Hearthflame Mask',
     changesFrom: 'Ogerpon',
-    forceTeraType: 'Fire'
+    requiredTeraType: 'Fire'
   },
   ogerponcornerstone: {
     num: 1017,
@@ -18849,7 +19140,7 @@
     eggGroups: [ 'Undiscovered' ],
     requiredItem: 'Cornerstone Mask',
     changesFrom: 'Ogerpon',
-    forceTeraType: 'Rock'
+    requiredTeraType: 'Rock'
   },
   ogerpontealtera: {
     num: 1017,
@@ -18865,7 +19156,7 @@
     color: 'Green',
     eggGroups: [ 'Undiscovered' ],
     battleOnly: 'Ogerpon',
-    forceTeraType: 'Grass'
+    requiredTeraType: 'Grass'
   },
   ogerponwellspringtera: {
     num: 1017,
@@ -18882,7 +19173,7 @@
     eggGroups: [ 'Undiscovered' ],
     requiredItem: 'Wellspring Mask',
     battleOnly: 'Ogerpon-Wellspring',
-    forceTeraType: 'Water'
+    requiredTeraType: 'Water'
   },
   ogerponhearthflametera: {
     num: 1017,
@@ -18899,7 +19190,7 @@
     eggGroups: [ 'Undiscovered' ],
     requiredItem: 'Hearthflame Mask',
     battleOnly: 'Ogerpon-Hearthflame',
-    forceTeraType: 'Fire'
+    requiredTeraType: 'Fire'
   },
   ogerponcornerstonetera: {
     num: 1017,
@@ -18916,7 +19207,7 @@
     eggGroups: [ 'Undiscovered' ],
     requiredItem: 'Cornerstone Mask',
     battleOnly: 'Ogerpon-Cornerstone',
-    forceTeraType: 'Rock'
+    requiredTeraType: 'Rock'
   },
   archaludon: {
     num: 1018,
@@ -19007,7 +19298,7 @@
     eggGroups: [ 'Undiscovered' ],
     otherFormes: [ 'Terapagos-Terastal', 'Terapagos-Stellar' ],
     formeOrder: [ 'Terapagos', 'Terapagos-Terastal', 'Terapagos-Stellar' ],
-    forceTeraType: 'Stellar'
+    requiredTeraType: 'Stellar'
   },
   terapagosterastal: {
     num: 1024,
@@ -19022,7 +19313,7 @@
     color: 'Blue',
     eggGroups: [ 'Undiscovered' ],
     battleOnly: 'Terapagos',
-    forceTeraType: 'Stellar'
+    requiredTeraType: 'Stellar'
   },
   terapagosstellar: {
     num: 1024,
@@ -19037,7 +19328,7 @@
     color: 'Blue',
     eggGroups: [ 'Undiscovered' ],
     battleOnly: 'Terapagos',
-    forceTeraType: 'Stellar'
+    requiredTeraType: 'Stellar'
   },
   pecharunt: {
     num: 1025,
@@ -19682,6 +19973,7 @@
     weightkg: 215,
     color: 'Purple',
     eggGroups: [ 'Undiscovered' ],
+    tags: [ 'Sub-Legendary' ],
     gen: 8
   },
   nohface: {
@@ -19872,6 +20164,34 @@
     eggGroups: [ 'Amorphous', 'Water 3' ],
     gen: 9
   },
+  chuggon: {
+    num: -73,
+    name: 'Chuggon',
+    types: [ 'Dragon', 'Poison' ],
+    baseStats: { hp: 30, atk: 23, def: 77, spa: 55, spd: 65, spe: 30 },
+    abilities: { '0': 'Shell Armor', '1': 'White Smoke', H: 'Slow Start' },
+    heightm: 1,
+    weightkg: 50,
+    color: 'Black',
+    evos: [ 'Draggalong' ],
+    eggGroups: [ 'Dragon', 'Mineral' ],
+    gen: 9
+  },
+  draggalong: {
+    num: -74,
+    name: 'Draggalong',
+    types: [ 'Dragon', 'Poison' ],
+    baseStats: { hp: 40, atk: 33, def: 92, spa: 95, spd: 80, spe: 85 },
+    abilities: { '0': 'Armor Tail', '1': 'White Smoke', H: 'Slow Start' },
+    heightm: 2.5,
+    weightkg: 110,
+    color: 'Black',
+    prevo: 'Chuggon',
+    evoLevel: 36,
+    evos: [ 'Chuggalong' ],
+    eggGroups: [ 'Dragon', 'Mineral' ],
+    gen: 9
+  },
   chuggalong: {
     num: -75,
     name: 'Chuggalong',
@@ -19881,6 +20201,8 @@
     heightm: 6.2,
     weightkg: 201.6,
     color: 'Black',
+    prevo: 'Draggalong',
+    evoLevel: 46,
     eggGroups: [ 'Dragon', 'Mineral' ],
     gen: 9
   },
@@ -19888,12 +20210,46 @@
     num: -77,
     name: 'Shox',
     types: [ 'Electric', 'Normal' ],
-    baseStats: { hp: 136, atk: 73, def: 81, spa: 90, spd: 98, spe: 56 },
-    abilities: { '0': 'Electromorphosis', '1': 'Sticky Hold' },
+    baseStats: { hp: 136, atk: 55, def: 87, spa: 108, spd: 108, spe: 56 },
+    abilities: { '0': 'Electromorphosis', '1': 'Sticky Hold', H: 'Cud Chew' },
     heightm: 3,
     weightkg: 99.9,
     color: 'Brown',
     eggGroups: [ 'Field' ],
+    gen: 9
+  },
+  ramnarok: {
+    num: -78,
+    name: 'Ramnarok',
+    baseForme: 'Dormant',
+    types: [ 'Fire', 'Steel' ],
+    gender: 'N',
+    baseStats: { hp: 110, atk: 63, def: 104, spa: 104, spd: 134, spe: 85 },
+    abilities: { '0': 'No Guard' },
+    heightm: 2.2,
+    weightkg: 250,
+    color: 'Red',
+    eggGroups: [ 'Undiscovered' ],
+    tags: [ 'Mythical' ],
+    otherFormes: [ 'Ramnarok-Radiant' ],
+    formeOrder: [ 'Ramnarok', 'Ramnarok-Radiant' ],
+    gen: 9
+  },
+  ramnarokradiant: {
+    num: -78,
+    name: 'Ramnarok-Radiant',
+    baseSpecies: 'Ramnarok',
+    forme: 'Radiant',
+    types: [ 'Fire', 'Ice' ],
+    gender: 'N',
+    baseStats: { hp: 110, atk: 63, def: 85, spa: 134, spd: 54, spe: 154 },
+    abilities: { '0': 'No Guard' },
+    heightm: 2.2,
+    weightkg: 182,
+    color: 'White',
+    eggGroups: [ 'Undiscovered' ],
+    requiredMove: 'Polar Flare',
+    battleOnly: 'Ramnarok',
     gen: 9
   },
   pokestarsmeargle: {

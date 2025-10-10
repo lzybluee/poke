@@ -46774,6 +46774,57 @@ Rockruff (岩狗狗)
     Toxic (剧毒) : TM
     Zen Headbutt (意念头锤) : Tutor
 
+Rockruff-Dusk
+    Attract (迷人) : TM
+    Bite (咬住) : Level 7
+    Confide (密语) : TM
+    Covet (渴望) : Tutor
+    Crunch (咬碎) : Level 40
+    Crush Claw (撕裂爪) : Egg
+    Double Team (影子分身) : TM
+    Earth Power (大地之力) : Tutor
+    Echoed Voice (回声) : TM
+    Endeavor (蛮干) : Tutor
+    Facade (硬撑) : TM
+    Fire Fang (火焰牙) : Egg
+    Frustration (迁怒) : TM
+    Hidden Power (觉醒力量) : TM
+    Howl (长嚎) : Level 12
+    Hyper Voice (巨声) : Tutor
+    Iron Defense (铁壁) : Tutor
+    Iron Head (铁头) : Tutor
+    Iron Tail (铁尾) : Tutor
+    Last Resort (珍藏) : Tutor
+    Leer (瞪眼) : Level 1
+    Odor Sleuth (气味侦测) : Level 18
+    Protect (守住) : TM
+    Rest (睡觉) : TM
+    Return (报恩) : TM
+    Roar (吼叫) : TM, Level 26
+    Rock Climb (攀岩) : Level 45
+    Rock Polish (岩石打磨) : TM
+    Rock Slide (岩崩) : TM, Level 34
+    Rock Throw (落石) : Level 15
+    Rock Tomb (岩石封锁) : TM, Level 23
+    Round (轮唱) : TM
+    Sand Attack (泼沙) : Level 4
+    Scary Face (可怕面孔) : Level 37
+    Sleep Talk (梦话) : TM
+    Snarl (大声咆哮) : TM
+    Snore (打鼾) : Tutor
+    Stealth Rock (隐形岩) : Tutor, Level 29
+    Stomping Tantrum (跺脚) : Tutor
+    Stone Edge (尖石攻击) : TM, Level 48
+    Substitute (替身) : TM
+    Sucker Punch (突袭) : Egg
+    Swagger (虚张声势) : TM
+    Tackle (撞击) : Level 1
+    Taunt (挑衅) : TM
+    Thrash (大闹一番) : Egg
+    Thunder Fang (雷电牙) : Egg
+    Toxic (剧毒) : TM
+    Zen Headbutt (意念头锤) : Tutor
+
 Lycanroc (鬃岩狼人)
     Accelerock (冲岩) : Level 1
     Attract (迷人) : TM

@@ -38,7 +38,7 @@
 "Coba Berry","Halves damage taken from a supereffective Flying-type attack. Single use.",
 "Colbur Berry","Halves damage taken from a supereffective Dark-type attack. Single use.",
 "Cornerstone Mask","Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
-"Covert Cloak","Holder is not affected by the secondary effect of another Pokemon's attack.",
+"Covert Cloak","The holder is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause the holder to flinch, cause the holder's stat stages to be lowered, as well as Anchor Shot, Eerie Spell, Fling, Psychic Noise, Salt Cure, Spirit Shackle, Syrup Bomb, and Throat Chop. The effect of Sparkling Aria is prevented if the holder is the only target. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch, Stench, and Toxic Chain Abilities are also prevented against the holder.",
 "Cracked Pot","Evolves Sinistea into Polteageist when used.",
 "Custap Berry","Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
 "Damp Rock","Holder's use of Rain Dance lasts 8 turns instead of 5.",

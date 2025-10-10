@@ -79,7 +79,7 @@
     num: 165
   },
   asoneglastrier: {
-    onPreStart: [Function: onPreStart],
+    onSwitchInPriority: 1,
     onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
@@ -97,7 +97,7 @@
     num: 266
   },
   asonespectrier: {
-    onPreStart: [Function: onPreStart],
+    onSwitchInPriority: 1,
     onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
@@ -149,6 +149,8 @@
   },
   battlebond: {
     onSourceAfterFaint: [Function: onSourceAfterFaint],
+    onModifyMovePriority: -1,
+    onModifyMove: [Function: onModifyMove],
     flags: {
       failroleplay: 1,
       noreceiver: 1,
@@ -160,8 +162,6 @@
     name: 'Battle Bond',
     rating: 4,
     num: 210,
-    onModifyMovePriority: -1,
-    onModifyMove: [Function: onModifyMove],
     isNonstandard: null
   },
   beastboost: {
@@ -514,6 +514,7 @@
     num: 18
   },
   flowergift: {
+    onSwitchInPriority: -2,
     onStart: [Function: onStart],
     onWeatherChange: [Function: onWeatherChange],
     onAllyModifyAtkPriority: 3,
@@ -548,6 +549,7 @@
     num: 218
   },
   forecast: {
+    onSwitchInPriority: -2,
     onStart: [Function: onStart],
     onWeatherChange: [Function: onWeatherChange],
     flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
@@ -780,6 +782,7 @@
     num: 115
   },
   iceface: {
+    onSwitchInPriority: -2,
     onStart: [Function: onStart],
     onDamagePriority: 1,
     onDamage: [Function: onDamage],
@@ -842,7 +845,6 @@
   },
   imposter: {
     onSwitchIn: [Function: onSwitchIn],
-    onStart: [Function: onStart],
     flags: { failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1 },
     name: 'Imposter',
     rating: 5,
@@ -926,6 +928,7 @@
     num: 51
   },
   klutz: {
+    onSwitchInPriority: 1,
     onStart: [Function: onStart],
     flags: {},
     name: 'Klutz',
@@ -943,7 +946,6 @@
   levitate: { flags: { breakable: 1 }, name: 'Levitate', rating: 3.5, num: 26 },
   libero: {
     onPrepareHit: [Function: onPrepareHit],
-    onSwitchIn: [Function: onSwitchIn],
     flags: {},
     name: 'Libero',
     rating: 4.5,
@@ -998,7 +1000,6 @@
     onTryHitPriority: 1,
     onTryHit: [Function: onTryHit],
     onAllyTryHitSide: [Function: onAllyTryHitSide],
-    condition: { duration: 1 },
     flags: { breakable: 1 },
     name: 'Magic Bounce',
     rating: 4,
@@ -1058,6 +1059,7 @@
     num: 196
   },
   mimicry: {
+    onSwitchInPriority: -1,
     onStart: [Function: onStart],
     onTerrainChange: [Function: onTerrainChange],
     flags: {},
@@ -1161,7 +1163,8 @@
     num: 233
   },
   neutralizinggas: {
-    onPreStart: [Function: onPreStart],
+    onSwitchInPriority: 2,
+    onSwitchIn: [Function: onSwitchIn],
     onEnd: [Function: onEnd],
     flags: {
       failroleplay: 1,
@@ -1244,7 +1247,7 @@
   pastelveil: {
     onStart: [Function: onStart],
     onUpdate: [Function: onUpdate],
-    onAllySwitchIn: [Function: onAllySwitchIn],
+    onAnySwitchIn: [Function: onAnySwitchIn],
     onSetStatus: [Function: onSetStatus],
     onAllySetStatus: [Function: onAllySetStatus],
     flags: { breakable: 1 },
@@ -1386,7 +1389,6 @@
   },
   protean: {
     onPrepareHit: [Function: onPrepareHit],
-    onSwitchIn: [Function: onSwitchIn],
     flags: {},
     name: 'Protean',
     rating: 4.5,
@@ -1585,6 +1587,7 @@
     num: 157
   },
   schooling: {
+    onSwitchInPriority: -1,
     onStart: [Function: onStart],
     onResidualOrder: 29,
     onResidual: [Function: onResidual],
@@ -1672,6 +1675,7 @@
     num: 19
   },
   shieldsdown: {
+    onSwitchInPriority: -1,
     onStart: [Function: onStart],
     onResidualOrder: 29,
     onResidual: [Function: onResidual],
@@ -1705,18 +1709,12 @@
   },
   slowstart: {
     onStart: [Function: onStart],
-    onEnd: [Function: onEnd],
-    condition: {
-      duration: 5,
-      onResidualOrder: 28,
-      onResidualSubOrder: 2,
-      onStart: [Function: onStart],
-      onResidual: [Function: onResidual],
-      onModifyAtkPriority: 5,
-      onModifyAtk: [Function: onModifyAtk],
-      onModifySpe: [Function: onModifySpe],
-      onEnd: [Function: onEnd]
-    },
+    onResidualOrder: 28,
+    onResidualSubOrder: 2,
+    onResidual: [Function: onResidual],
+    onModifyAtkPriority: 5,
+    onModifyAtk: [Function: onModifyAtk],
+    onModifySpe: [Function: onModifySpe],
     flags: {},
     name: 'Slow Start',
     rating: -1,
@@ -2122,7 +2120,7 @@
     num: 84
   },
   unnerve: {
-    onPreStart: [Function: onPreStart],
+    onSwitchInPriority: 1,
     onStart: [Function: onStart],
     onEnd: [Function: onEnd],
     onFoeTryEatItem: [Function: onFoeTryEatItem],
@@ -2265,25 +2263,24 @@
     flags: { breakable: 1 },
     name: 'Mountaineer',
     rating: 3,
-    num: -2
+    num: -1
   },
   rebound: {
     isNonstandard: 'CAP',
     onTryHitPriority: 1,
     onTryHit: [Function: onTryHit],
     onAllyTryHitSide: [Function: onAllyTryHitSide],
-    condition: { duration: 1 },
     flags: { breakable: 1 },
     name: 'Rebound',
     rating: 3,
-    num: -3
+    num: -2
   },
   persistent: {
     isNonstandard: 'CAP',
     flags: {},
     name: 'Persistent',
     rating: 3,
-    num: -4
+    num: -3
   },
   angershell: {
     onDamage: [Function: onDamage],
@@ -2310,6 +2307,9 @@
     num: 284
   },
   commander: {
+    onAnySwitchInPriority: -2,
+    onAnySwitchIn: [Function: onAnySwitchIn],
+    onStart: [Function: onStart],
     onUpdate: [Function: onUpdate],
     flags: {
       failroleplay: 1,
@@ -2323,6 +2323,7 @@
     num: 279
   },
   costar: {
+    onSwitchInPriority: -2,
     onStart: [Function: onStart],
     flags: {},
     name: 'Costar',
@@ -2331,15 +2332,9 @@
   },
   cudchew: {
     onEatItem: [Function: onEatItem],
-    onEnd: [Function: onEnd],
-    condition: {
-      noCopy: true,
-      duration: 2,
-      onRestart: [Function: onRestart],
-      onResidualOrder: 28,
-      onResidualSubOrder: 2,
-      onEnd: [Function: onEnd]
-    },
+    onResidualOrder: 28,
+    onResidualSubOrder: 2,
+    onResidual: [Function: onResidual],
     flags: {},
     name: 'Cud Chew',
     rating: 2,
@@ -2362,7 +2357,6 @@
   },
   embodyaspectcornerstone: {
     onStart: [Function: onStart],
-    onSwitchIn: [Function: onSwitchIn],
     flags: {
       failroleplay: 1,
       noreceiver: 1,
@@ -2377,7 +2371,6 @@
   },
   embodyaspecthearthflame: {
     onStart: [Function: onStart],
-    onSwitchIn: [Function: onSwitchIn],
     flags: {
       failroleplay: 1,
       noreceiver: 1,
@@ -2392,7 +2385,6 @@
   },
   embodyaspectteal: {
     onStart: [Function: onStart],
-    onSwitchIn: [Function: onSwitchIn],
     flags: {
       failroleplay: 1,
       noreceiver: 1,
@@ -2407,7 +2399,6 @@
   },
   embodyaspectwellspring: {
     onStart: [Function: onStart],
-    onSwitchIn: [Function: onSwitchIn],
     flags: {
       failroleplay: 1,
       noreceiver: 1,
@@ -2447,6 +2438,7 @@
     num: 289
   },
   hospitality: {
+    onSwitchInPriority: -2,
     onStart: [Function: onStart],
     flags: {},
     name: 'Hospitality',
@@ -2480,6 +2472,14 @@
   },
   opportunist: {
     onFoeAfterBoost: [Function: onFoeAfterBoost],
+    onAnySwitchInPriority: -3,
+    onAnySwitchIn: [Function: onAnySwitchIn],
+    onAnyAfterMega: [Function: onAnyAfterMega],
+    onAnyAfterTerastallization: [Function: onAnyAfterTerastallization],
+    onAnyAfterMove: [Function: onAnyAfterMove],
+    onResidualOrder: 29,
+    onResidual: [Function: onResidual],
+    onEnd: [Function: onEnd],
     flags: {},
     name: 'Opportunist',
     rating: 3,
@@ -2508,6 +2508,7 @@
     num: 310
   },
   protosynthesis: {
+    onSwitchInPriority: -2,
     onStart: [Function: onStart],
     onWeatherChange: [Function: onWeatherChange],
     onEnd: [Function: onEnd],
@@ -2550,6 +2551,7 @@
     num: 272
   },
   quarkdrive: {
+    onSwitchInPriority: -2,
     onStart: [Function: onStart],
     onTerrainChange: [Function: onTerrainChange],
     onEnd: [Function: onEnd],
@@ -2651,7 +2653,7 @@
     num: 309
   },
   terashell: {
-    onEffectiveness: [Function: onEffectiveness],
+    onAnyBeforeMove: [Function: onAnyBeforeMove],
     onAnyAfterMove: [Function: onAnyAfterMove],
     flags: {
       failroleplay: 1,
@@ -2666,7 +2668,8 @@
     num: 308
   },
   terashift: {
-    onPreStart: [Function: onPreStart],
+    onSwitchInPriority: 2,
+    onSwitchIn: [Function: onSwitchIn],
     flags: {
       failroleplay: 1,
       noreceiver: 1,
@@ -2721,7 +2724,7 @@
   windpower: {
     onDamagingHitOrder: 1,
     onDamagingHit: [Function: onDamagingHit],
-    onAllySideConditionStart: [Function: onAllySideConditionStart],
+    onSideConditionStart: [Function: onSideConditionStart],
     flags: {},
     name: 'Wind Power',
     rating: 1,
@@ -2730,7 +2733,7 @@
   windrider: {
     onStart: [Function: onStart],
     onTryHit: [Function: onTryHit],
-    onAllySideConditionStart: [Function: onAllySideConditionStart],
+    onSideConditionStart: [Function: onSideConditionStart],
     flags: { breakable: 1 },
     name: 'Wind Rider',
     rating: 3.5,
@@ -2739,7 +2742,6 @@
   zerotohero: {
     onSwitchOut: [Function: onSwitchOut],
     onSwitchIn: [Function: onSwitchIn],
-    onStart: [Function: onStart],
     flags: {
       failroleplay: 1,
       noreceiver: 1,

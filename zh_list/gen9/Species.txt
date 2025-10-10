@@ -3634,6 +3634,12 @@ Rock
 hp: 45, atk: 65, def: 40, spa: 30, spd: 40, spe: 60, sum: 280
 0: Keen Eye (锐利目光), 1: Vital Spirit (干劲), H: Steadfast (不屈之心), S: Own Tempo (我行我素)
 
+744
+Rockruff-Dusk
+Rock
+hp: 45, atk: 65, def: 40, spa: 30, spd: 40, spe: 60, sum: 280
+0: Own Tempo (我行我素)
+
 745
 Lycanroc (鬃岩狼人)
 Rock

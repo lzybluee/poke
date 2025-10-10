@@ -766,7 +766,6 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Dragon',
@@ -828,7 +827,6 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Grass',
@@ -1375,7 +1373,6 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Normal',
@@ -1624,6 +1621,22 @@
     zMove: { boost: { atk: 1, def: 1, spa: 1, spd: 1, spe: 1 } },
     contestType: 'Beautiful'
   },
+  conversion2: {
+    num: 176,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Conversion 2',
+    pp: 30,
+    priority: 0,
+    flags: { bypasssub: 1, metronome: 1 },
+    onHit: [Function: onHit],
+    secondary: null,
+    target: 'normal',
+    type: 'Normal',
+    zMove: { effect: 'heal' },
+    contestType: 'Beautiful'
+  },
   covet: {
     num: 343,
     accuracy: 100,
@@ -1860,6 +1873,22 @@
     zMove: { boost: { spd: 1 } },
     contestType: 'Tough',
     ignoreImmunity: false
+  },
+  haze: {
+    num: 114,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Haze',
+    pp: 30,
+    priority: 0,
+    flags: { bypasssub: 1, metronome: 1 },
+    onHitField: [Function: onHitField],
+    secondary: null,
+    target: 'all',
+    type: 'Ice',
+    zMove: { effect: 'heal' },
+    contestType: 'Beautiful'
   },
   hiddenpower: {
     num: 237,
@@ -2457,6 +2486,23 @@
     target: 'normal',
     type: 'Water',
     contestType: 'Tough'
+  },
+  copycat: {
+    num: 383,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    name: 'Copycat',
+    pp: 20,
+    priority: 0,
+    flags: { noassist: 1, failcopycat: 1, nosleeptalk: 1 },
+    onHit: [Function: onHit],
+    callsMove: true,
+    secondary: null,
+    target: 'self',
+    type: 'Normal',
+    zMove: { boost: { accuracy: 1 } },
+    contestType: 'Cute'
   },
   cottonspore: {
     num: 178,
@@ -3981,23 +4027,6 @@
     zMove: { boost: { def: 1 } },
     contestType: 'Cute'
   },
-  copycat: {
-    num: 383,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Copycat',
-    pp: 20,
-    priority: 0,
-    flags: { noassist: 1, failcopycat: 1, nosleeptalk: 1 },
-    onHit: [Function: onHit],
-    callsMove: true,
-    secondary: null,
-    target: 'self',
-    type: 'Normal',
-    zMove: { boost: { accuracy: 1 } },
-    contestType: 'Cute'
-  },
   dracometeor: {
     num: 434,
     accuracy: 90,
@@ -4037,7 +4066,7 @@
     pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
-    onTry: [Function: onTry],
+    onTryMove: [Function: onTryMove],
     condition: {
       duration: 2,
       onFieldStart: [Function: onFieldStart],
@@ -4277,8 +4306,7 @@
     target: 'any',
     type: 'Psychic',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Beautiful',
-    heal: [ 1, 2 ]
+    contestType: 'Beautiful'
   },
   heatwave: {
     num: 257,
@@ -5527,6 +5555,7 @@
     volatileStatus: 'destinybond',
     onPrepareHit: [Function: onPrepareHit],
     condition: {
+      noCopy: true,
       onStart: [Function: onStart],
       onFaint: [Function: onFaint],
       onBeforeMovePriority: -1,
@@ -5604,6 +5633,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'mistyterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onSetStatus: [Function: onSetStatus],
@@ -6245,6 +6275,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'electricterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onSetStatus: [Function: onSetStatus],
@@ -6404,6 +6435,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'grassyterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onBasePower: [Function: onBasePower],
@@ -7058,6 +7090,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'psychicterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onTryHitPriority: 4,
@@ -9076,7 +9109,7 @@
     sideCondition: 'stickyweb',
     condition: {
       onSideStart: [Function: onSideStart],
-      onEntryHazard: [Function: onEntryHazard]
+      onSwitchIn: [Function: onSwitchIn]
     },
     secondary: null,
     target: 'foeSide',
@@ -10074,9 +10107,15 @@
     pp: 10,
     priority: 0,
     flags: {},
-    weather: 'snow',
+    priorityChargeCallback: [Function: priorityChargeCallback],
+    weather: 'snowscape',
     selfSwitch: true,
     secondary: null,
+    condition: {
+      duration: 1,
+      onBeforeMovePriority: 100,
+      onBeforeMove: [Function: onBeforeMove]
+    },
     target: 'all',
     type: 'Ice'
   },
@@ -10307,22 +10346,6 @@
     target: 'normal',
     type: 'Psychic',
     contestType: 'Clever'
-  },
-  conversion2: {
-    num: 176,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Conversion 2',
-    pp: 30,
-    priority: 0,
-    flags: { bypasssub: 1, metronome: 1 },
-    onHit: [Function: onHit],
-    secondary: null,
-    target: 'normal',
-    type: 'Normal',
-    zMove: { effect: 'heal' },
-    contestType: 'Beautiful'
   },
   cosmicpower: {
     num: 322,
@@ -12101,7 +12124,7 @@
     self: { onHit: [Function: onHit] },
     condition: {
       onSideStart: [Function: onSideStart],
-      onEntryHazard: [Function: onEntryHazard]
+      onSwitchIn: [Function: onSwitchIn]
     },
     secondary: null,
     target: 'adjacentFoe',
@@ -12445,22 +12468,6 @@
     secondary: null,
     target: 'normal',
     type: 'Steel'
-  },
-  haze: {
-    num: 114,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    name: 'Haze',
-    pp: 30,
-    priority: 0,
-    flags: { bypasssub: 1, metronome: 1 },
-    onHitField: [Function: onHitField],
-    secondary: null,
-    target: 'all',
-    type: 'Ice',
-    zMove: { effect: 'heal' },
-    contestType: 'Beautiful'
   },
   headbutt: {
     num: 29,
@@ -14136,7 +14143,6 @@
     priority: 0,
     flags: { protect: 1, mirror: 1 },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Fire'
@@ -14851,7 +14857,7 @@
     pp: 10,
     priority: 0,
     flags: {},
-    weather: 'snow',
+    weather: 'snowscape',
     secondary: null,
     target: 'all',
     type: 'Ice'
@@ -14919,7 +14925,7 @@
     pp: 10,
     priority: 0,
     flags: { protect: 1, mirror: 1, sound: 1, bypasssub: 1, metronome: 1 },
-    secondary: { dustproof: true, chance: 100, volatileStatus: 'sparklingaria' },
+    secondary: { chance: 100, volatileStatus: 'sparklingaria' },
     onAfterMove: [Function: onAfterMove],
     target: 'allAdjacent',
     type: 'Water',
@@ -16175,7 +16181,7 @@
     contestType: 'Cool'
   },
   paleowave: {
-    num: 0,
+    num: -1,
     accuracy: 100,
     basePower: 85,
     category: 'Physical',
@@ -16190,7 +16196,7 @@
     contestType: 'Beautiful'
   },
   shadowstrike: {
-    num: 0,
+    num: -2,
     accuracy: 95,
     basePower: 80,
     category: 'Physical',
@@ -16203,5 +16209,22 @@
     target: 'normal',
     type: 'Ghost',
     contestType: 'Clever'
+  },
+  polarflare: {
+    num: -3,
+    accuracy: 100,
+    basePower: 75,
+    category: 'Special',
+    isNonstandard: 'CAP',
+    name: 'Polar Flare',
+    pp: 10,
+    priority: 0,
+    flags: { protect: 1, mirror: 1, defrost: 1, nosketch: 1 },
+    secondary: { chance: 10, status: 'frz' },
+    onHit: [Function: onHit],
+    onAfterMoveSecondarySelf: [Function: onAfterMoveSecondarySelf],
+    target: 'allAdjacentFoes',
+    type: 'Fire',
+    contestType: 'Beautiful'
   }
 }

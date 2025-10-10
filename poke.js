@@ -171,6 +171,9 @@ function log_species(list_folder, detail_folder, file, obj) {
     let text = '';
     let csv = '';
     for (const species of list) {
+        if (species.isCosmeticForme)
+            continue;
+
         let species_name = get_name(species.name, SPECIES);
         species_info[species.id] = species;
 
@@ -299,10 +302,15 @@ function log_evolves(file, species_info) {
     let evos_processed = [];
 
     let species_names = [];
-    for (let i in species_info)
-        species_names.push(species_info[i].name);
+    for (let i in species_info) {
+        if (!species_info[i].isCosmeticForme)
+            species_names.push(species_info[i].name);
+    }
 
     for (let i in species_info) {
+        if (species_info[i].isCosmeticForme)
+            continue;
+
         let evos = species_info[i].evos.filter(
             function(item) {
                 return species_names.includes(item);

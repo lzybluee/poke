@@ -5326,6 +5326,12 @@ Rock
 hp: 45, atk: 65, def: 40, spa: 30, spd: 40, spe: 60, sum: 280
 0: Keen Eye, 1: Vital Spirit, H: Steadfast, S: Own Tempo
 
+744
+Rockruff-Dusk
+Rock
+hp: 45, atk: 65, def: 40, spa: 30, spd: 40, spe: 60, sum: 280
+0: Own Tempo
+
 745
 Lycanroc
 Rock

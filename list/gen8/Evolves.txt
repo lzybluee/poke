@@ -549,7 +549,9 @@ Grubbin -> Charjabug -> Vikavolt
 
 Cutiefly -> Ribombee
 
-Rockruff -> Lycanroc, Lycanroc-Midnight, Lycanroc-Dusk
+Rockruff -> Lycanroc, Lycanroc-Midnight
+
+Rockruff-Dusk -> Lycanroc-Dusk
 
 Wishiwashi
 

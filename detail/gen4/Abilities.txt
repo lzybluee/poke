@@ -299,6 +299,7 @@ Ability {
   suppressWeather: false,
   flags: { breakable: 1 },
   rating: 1,
+  onSwitchInPriority: -2,
   onStart: [Function: onStart],
   onWeatherChange: [Function: onWeatherChange],
   onAllyModifyAtkPriority: 3,
@@ -326,6 +327,7 @@ Ability {
   suppressWeather: false,
   flags: { notrace: 1 },
   rating: 2,
+  onSwitchInPriority: -2,
   onStart: [Function: onStart],
   onWeatherChange: [Function: onWeatherChange]
 },
@@ -1233,7 +1235,7 @@ Ability {
   num: 107,
   gen: 4,
   shortDesc: 'On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.',
-  desc: "On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective against this Pokemon, or an OHKO move that this Pokemon is not immune to and if its level is less than or equal to the opposing Pokemon's level. This effect does not consider Counter, Dragon Rage, Metal Burst, Mirror Coat, Night Shade, Psywave, or Seismic Toss as attacking moves, and Hidden Power, Judgment, Natural Gift, and Weather Ball are considered Normal-type moves. This effect considers any changes to the effectiveness of attacks against this Pokemon due to the effects of Gravity or the Normalize or Scrappy Abilities.",
+  desc: 'On switch-in, this Pokemon is alerted if any opposing Pokemon has an attacking move with a type that is super effective against this Pokemon, or any OHKO move if this Pokemon is not immune to the type and the Pokemon with the move is not a lower level than this Pokemon. This effect considers moves to be their original type. This effect is not activated by Counter, Dragon Rage, Metal Burst, Mirror Coat, Night Shade, Psywave, or Seismic Toss. This effect checks if this Pokemon is holding an Iron Ball, if it is under the effects of Foresight (Odor Sleuth), Gravity, Ingrain, Miracle Eye, or Roost, and whether each opposing Pokemon has the Normalize or Scrappy Abilities before determining if their attacks fit the conditions.',
   isNonstandard: null,
   duration: undefined,
   noCopy: false,
@@ -1326,7 +1328,7 @@ Ability {
   num: 106,
   gen: 4,
   shortDesc: "If this Pokemon is KOed with a contact move, that move's user loses 1/4 its max HP.",
-  desc: "If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. If any active Pokemon has the Damp Ability, this effect is prevented.",
+  desc: "If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. This effect is prevented if the move's user has the Magic Guard Ability or if any active Pokemon has the Damp Ability.",
   isNonstandard: null,
   duration: undefined,
   noCopy: false,
@@ -1433,19 +1435,14 @@ Ability {
   flags: {},
   rating: -1,
   onStart: [Function: onStart],
-  onEnd: [Function: onEnd],
-  condition: {
-    duration: 5,
-    onResidualOrder: 28,
-    onResidualSubOrder: 2,
-    onStart: [Function: onStart],
-    onModifyAtkPriority: 5,
-    onModifyAtk: [Function: onModifyAtk],
-    onModifySpAPriority: 5,
-    onModifySpA: [Function: onModifySpA],
-    onModifySpe: [Function: onModifySpe],
-    onEnd: [Function: onEnd]
-  }
+  onResidualOrder: 28,
+  onResidualSubOrder: 2,
+  onResidual: [Function: onResidual],
+  onModifyAtkPriority: 5,
+  onModifyAtk: [Function: onModifyAtk],
+  onModifySpe: [Function: onModifySpe],
+  onModifySpAPriority: 5,
+  onModifySpA: [Function: onModifySpA]
 },
 Ability {
   name: 'Technician',
@@ -1968,6 +1965,7 @@ Ability {
   suppressWeather: false,
   flags: {},
   rating: -1,
+  onSwitchInPriority: 1,
   onStart: [Function: onStart]
 },
 Ability {
@@ -2435,7 +2433,7 @@ Ability {
   num: 19,
   gen: 3,
   shortDesc: "This Pokemon is not affected by the secondary effect of another Pokemon's attack.",
-  desc: "This Pokemon is not affected by the secondary effect of another Pokemon's attack.",
+  desc: "This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, cause this Pokemon's stat stages to be lowered, and Fling. Secondary effects added by King's Rock and Razor Fang are also prevented against this Pokemon.",
   isNonstandard: null,
   duration: undefined,
   noCopy: false,

@@ -14409,36 +14409,67 @@
   },
   pikachustarter: {
     learnset: {
-      agility: [ '8V', '7L27' ],
-      brickbreak: [ '8V', '7M' ],
+      agility: [ '9M', '9L24', '8V', '7L27' ],
+      bodyslam: [ '9M' ],
+      brickbreak: [ '9M', '8V', '7M' ],
       calmmind: [ '8V', '7M' ],
-      dig: [ '8V', '7M' ],
+      chargebeam: [ '9M' ],
+      charm: [ '9M', '9L1' ],
+      dig: [ '9M', '8V', '7M' ],
+      discharge: [ '9L32' ],
       doublekick: [ '8V', '7L9' ],
-      doubleteam: [ '8V', '7L12' ],
-      facade: [ '8V', '7M' ],
+      doubleteam: [ '9L8', '8V', '7L12' ],
+      drainingkiss: [ '9M' ],
+      eerieimpulse: [ '9M' ],
+      electricterrain: [ '9M' ],
+      electroball: [ '9M', '9L12' ],
+      encore: [ '9M' ],
+      endure: [ '9M' ],
+      facade: [ '9M', '8V', '7M' ],
+      faketears: [ '9M' ],
+      feint: [ '9L16' ],
+      fling: [ '9M' ],
       floatyfall: [ '8V', '7T' ],
-      growl: [ '8V', '7L1', '7S0' ],
+      grassknot: [ '9M' ],
+      growl: [ '9L1', '8V', '7L1', '7S0' ],
       headbutt: [ '8V', '7M' ],
-      helpinghand: [ '8V', '7M' ],
-      irontail: [ '8V', '7M' ],
-      lightscreen: [ '8V', '7M', '7L18' ],
+      helpinghand: [ '9M', '8V', '7M' ],
+      irontail: [ '9L28', '8V', '7M' ],
+      lightscreen: [ '9M', '9L40', '8V', '7M', '7L18' ],
+      nastyplot: [ '9M', '9L1' ],
+      nuzzle: [ '9L1' ],
       payday: [ '8V', '7M' ],
       pikapapow: [ '8V', '7T' ],
-      protect: [ '8V', '7M' ],
-      quickattack: [ '8V', '7L6' ],
-      reflect: [ '8V', '7M' ],
-      rest: [ '8V', '7M' ],
+      playnice: [ '9L1' ],
+      playrough: [ '9M' ],
+      protect: [ '9M', '8V', '7M' ],
+      quickattack: [ '9L1', '8V', '7L6' ],
+      raindance: [ '9M' ],
+      reflect: [ '9M', '8V', '7M' ],
+      rest: [ '9M', '8V', '7M' ],
+      reversal: [ '9M' ],
       seismictoss: [ '8V', '7M' ],
       slam: [ '8V', '7L24' ],
+      sleeptalk: [ '9M' ],
       splishysplash: [ '8V', '7T' ],
-      substitute: [ '8V', '7M' ],
-      tailwhip: [ '8V', '7L3', '7S0' ],
-      thunder: [ '8V', '7M', '7L30' ],
-      thunderbolt: [ '8V', '7M', '7L21' ],
-      thunderpunch: [ '8V', '7M' ],
-      thundershock: [ '8V', '7L1', '7S0' ],
-      thunderwave: [ '8V', '7M', '7L15' ],
+      spark: [ '9L20' ],
+      substitute: [ '9M', '8V', '7M' ],
+      surf: [ '9M' ],
+      sweetkiss: [ '9L1' ],
+      swift: [ '9M' ],
+      tailwhip: [ '9L1', '8V', '7L3', '7S0' ],
+      takedown: [ '9M' ],
+      terablast: [ '9M' ],
+      thief: [ '9M' ],
+      thunder: [ '9M', '9L44', '8V', '7M', '7L30' ],
+      thunderbolt: [ '9M', '9L36', '8V', '7M', '7L21' ],
+      thunderpunch: [ '9M', '8V', '7M' ],
+      thundershock: [ '9L1', '8V', '7L1', '7S0' ],
+      thunderwave: [ '9M', '9L4', '8V', '7M', '7L15' ],
       toxic: [ '8V', '7M' ],
+      trailblaze: [ '9M' ],
+      voltswitch: [ '9M' ],
+      wildcharge: [ '9M' ],
       zippyzap: [ '8V', '7T' ]
     },
     eventData: [
@@ -18980,37 +19011,61 @@
   },
   eeveestarter: {
     learnset: {
+      alluringvoice: [ '9M' ],
+      babydolleyes: [ '9L15' ],
       baddybad: [ '8V', '7T' ],
-      bite: [ '8V', '7L17' ],
+      batonpass: [ '9M', '9L35' ],
+      bite: [ '9L25', '8V', '7L17' ],
+      bodyslam: [ '9M' ],
       bouncybubble: [ '8V', '7T' ],
       buzzybuzz: [ '8V', '7T' ],
-      dig: [ '8V', '7M' ],
-      doubleedge: [ '8V', '7L28' ],
-      doublekick: [ '8V', '7L10' ],
-      facade: [ '8V', '7M' ],
+      charm: [ '9M', '9L45' ],
+      copycat: [ '9L30' ],
+      covet: [ '9L1' ],
+      curse: [ '9M', '9E' ],
+      detect: [ '9E' ],
+      dig: [ '9M', '8V', '7M' ],
+      doubleedge: [ '9M', '9L50', '8V', '7L28' ],
+      doublekick: [ '9E', '8V', '7L10' ],
+      endure: [ '9M' ],
+      facade: [ '9M', '8V', '7M' ],
+      faketears: [ '9M' ],
+      flail: [ '9E' ],
       freezyfrost: [ '8V', '7T' ],
       glitzyglow: [ '8V', '7T' ],
-      growl: [ '8V', '7L1', '7S0' ],
+      growl: [ '9L1', '8V', '7L1', '7S0' ],
       headbutt: [ '8V', '7M' ],
-      helpinghand: [ '8V', '7M', '7L31' ],
+      helpinghand: [ '9M', '9L1', '8V', '7M', '7L31' ],
+      hypervoice: [ '9M' ],
       irontail: [ '8V', '7M' ],
+      lastresort: [ '9L55' ],
+      mudslap: [ '9M', '9E' ],
       payday: [ '8V', '7M' ],
-      protect: [ '8V', '7M' ],
-      quickattack: [ '8V', '7L6' ],
+      protect: [ '9M', '8V', '7M' ],
+      quickattack: [ '9L10', '8V', '7L6' ],
+      raindance: [ '9M' ],
       reflect: [ '8V', '7M' ],
-      rest: [ '8V', '7M' ],
-      sandattack: [ '8V', '7L14' ],
+      rest: [ '9M', '8V', '7M' ],
+      roar: [ '9M' ],
+      sandattack: [ '9L5', '8V', '7L14' ],
       sappyseed: [ '8V', '7T' ],
-      shadowball: [ '8V', '7M' ],
+      shadowball: [ '9M', '8V', '7M' ],
       sizzlyslide: [ '8V', '7T' ],
+      sleeptalk: [ '9M' ],
       sparklyswirl: [ '8V', '7T' ],
-      substitute: [ '8V', '7M' ],
-      swift: [ '8V', '7L21' ],
-      tackle: [ '8V', '7L1', '7S0' ],
-      tailwhip: [ '8V', '7L3', '7S0' ],
-      takedown: [ '8V', '7L24' ],
+      storedpower: [ '9M' ],
+      substitute: [ '9M', '8V', '7M' ],
+      sunnyday: [ '9M' ],
+      swift: [ '9M', '9L20', '8V', '7L21' ],
+      tackle: [ '9L1', '8V', '7L1', '7S0' ],
+      tailwhip: [ '9L1', '8V', '7L3', '7S0' ],
+      takedown: [ '9M', '9L40', '8V', '7L24' ],
+      tickle: [ '9E' ],
       toxic: [ '8V', '7M' ],
-      veeveevolley: [ '8V', '7T' ]
+      veeveevolley: [ '8V', '7T' ],
+      weatherball: [ '9M' ],
+      wish: [ '9E' ],
+      yawn: [ '9E' ]
     },
     eventData: [
       {
@@ -27655,9 +27710,9 @@
       hiddenpower: [ '7M', '6M', '5M', '4M', '3M' ],
       hurricane: [
         '9M',   '9L55',
-        '8M',   '8L55',
-        '7L1',  '6L1',
-        '5L63'
+        '9S0',  '8M',
+        '8L55', '7L1',
+        '6L1',  '5L63'
       ],
       hydropump: [
         '9M',   '9L62',
@@ -27706,11 +27761,11 @@
       ],
       pluck: [ '5M', '4M' ],
       protect: [
-        '9M',   '9L1',  '8M',
-        '8L1',  '7M',   '7L1',
-        '6M',   '6L25', '5M',
-        '5L25', '4M',   '4L25',
-        '3M',   '3L25'
+        '9M',   '9L1',  '9S0',
+        '8M',   '8L1',  '7M',
+        '7L1',  '6M',   '6L25',
+        '5M',   '5L25', '4M',
+        '4L25', '3M',   '3L25'
       ],
       quickattack: [ '9L1', '8L1' ],
       raindance: [
@@ -27820,8 +27875,9 @@
         '4L19', '3M'
       ],
       watersport: [ '7L1', '6L1', '5L1', '4L1', '3L1' ],
-      weatherball: [ '9M', '8M' ],
+      weatherball: [ '9M', '9S0', '8M' ],
       whirlpool: [ '9M', '8M', '4M' ],
+      wideguard: [ '9S0' ],
       wingattack: [
         '9L15', '8L15',
         '7L1',  '6L1',
@@ -27829,6 +27885,19 @@
         '3L1'
       ]
     },
+    eventData: [
+      {
+        generation: 9,
+        level: 50,
+        shiny: true,
+        gender: 'M',
+        nature: 'Modest',
+        abilities: [ 'drizzle' ],
+        ivs: { hp: 31, atk: 8, def: 31, spa: 31, spd: 31, spe: 31 },
+        moves: [ 'protect', 'weatherball', 'hurricane', 'wideguard' ],
+        pokeball: 'cherishball'
+      }
+    ],
     encounters: [
       { generation: 4, level: 15 },
       { generation: 6, level: 18, maxEggMoves: 1 }
@@ -45779,6 +45848,14 @@
         level: 70,
         shiny: 1,
         moves: [ 'superpower', 'stoneedge', 'hammerarm', 'curse' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        isHidden: true,
+        moves: [ 'zapcannon', 'lockon', 'superpower', 'stoneedge' ],
+        source: 'gen8bdsp'
       }
     ],
     eventOnly: true
@@ -46076,6 +46153,14 @@
         level: 70,
         shiny: 1,
         moves: [ 'icebeam', 'zapcannon', 'amnesia', 'icywind' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        isHidden: true,
+        moves: [ 'zapcannon', 'lockon', 'superpower', 'blizzard' ],
+        source: 'gen8bdsp'
       }
     ],
     eventOnly: true
@@ -46393,6 +46478,14 @@
         level: 70,
         shiny: 1,
         moves: [ 'heavyslam', 'flashcannon', 'irondefense', 'chargebeam' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        isHidden: true,
+        moves: [ 'zapcannon', 'lockon', 'superpower', 'heavyslam' ],
+        source: 'gen8bdsp'
       }
     ],
     eventOnly: true
@@ -46492,9 +46585,9 @@
       futuresight: [ '9M', '8M' ],
       gigaimpact: [ '9M', '8M', '7M', '6M', '5M', '4M' ],
       grassknot: [ '9M', '8M', '7M', '6M', '5M', '4M' ],
-      guardsplit: [ '9L65', '9S12', '8L65', '7L46', '6L1', '5L75' ],
+      guardsplit: [ '9L65', '9S13', '8L65', '7L46', '6L1', '5L75' ],
       healingwish: [
-        '9L70', '9S12',
+        '9L70', '9S13',
         '8L70', '7L1',
         '6L1',  '5L85',
         '4L60'
@@ -46563,7 +46656,7 @@
         '3M'
       ],
       psychic: [
-        '9M',   '9L60', '9S12', '8M',
+        '9M',   '9L60', '9S13', '8M',
         '8L60', '7M',   '7L51', '7S9',
         '6M',   '6L51', '5M',   '5L60',
         '5S5',  '4M',   '4L65', '3M',
@@ -46600,7 +46693,7 @@
         '3M'
       ],
       reflecttype: [
-        '9L55', '9S12',
+        '9L55', '9S13',
         '8L55', '8S10',
         '7L36', '6L1',
         '5L70'
@@ -46818,6 +46911,13 @@
         pokeball: 'cherishball'
       },
       {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'healingwish', 'guardsplit', 'psychic', 'reflecttype' ],
+        source: 'gen8bdsp'
+      },
+      {
         generation: 9,
         level: 70,
         moves: [ 'healingwish', 'guardsplit', 'psychic', 'reflecttype' ]
@@ -46861,7 +46961,7 @@
         '4T'
       ],
       dragonbreath: [
-        '9L25', '9S12', '8L25',
+        '9L25', '9S13', '8L25',
         '7L20', '7S8',  '7S9',
         '6L20', '6S6',  '5L20',
         '4L20', '4S3',  '3L20'
@@ -46881,7 +46981,7 @@
         '3S2'
       ],
       dragonpulse: [
-        '9M',  '9L45', '9S12',
+        '9M',  '9L45', '9S13',
         '8M',  '8L45', '8S11',
         '7T',  '7L56', '7S8',
         '7S9', '6T',   '6L1',
@@ -46961,7 +47061,7 @@
       ],
       liquidation: [ '9M' ],
       lusterpurge: [
-        '9L35', '9S12', '8L35',
+        '9L35', '9S13', '8L35',
         '7L24', '7S8',  '7S9',
         '7S10', '6L24', '6S6',
         '6S7',  '5L35', '4L35',
@@ -47143,7 +47243,7 @@
       whirlpool: [ '8M', '4M' ],
       wonderroom: [ '8M', '7T', '6T', '5T' ],
       zenheadbutt: [
-        '9M',   '9L40', '9S12',
+        '9M',   '9L40', '9S13',
         '8M',   '8L40', '8S11',
         '7T',   '7L41', '6T',
         '6L40', '5T',   '5L40',
@@ -47225,6 +47325,13 @@
         moves: [ 'dragondance', 'dragonpulse', 'zenheadbutt', 'aurasphere' ]
       },
       {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'memento', 'powersplit', 'psychic', 'simplebeam' ],
+        source: 'gen8bdsp'
+      },
+      {
         generation: 9,
         level: 70,
         moves: [ 'lusterpurge', 'dragonpulse', 'zenheadbutt', 'dragonbreath' ]
@@ -47242,7 +47349,7 @@
         '4S2',  '3L15'
       ],
       aquaring: [
-        '9L54', '9S12',
+        '9L54', '9S13',
         '8L54', '8S11',
         '7L30', '6L30',
         '6S5',  '5L30',
@@ -47331,7 +47438,7 @@
         '3M'
       ],
       icebeam: [
-        '9M',   '9L36', '9S12', '8M',
+        '9M',   '9L36', '9S13', '8M',
         '8L36', '7M',   '7L35', '7S7',
         '7S8',  '7S9',  '7S10', '6M',
         '6L35', '6S5',  '6S6',  '5M',
@@ -47349,7 +47456,7 @@
       liquidation: [ '9M', '8M', '7T' ],
       mimic: [ '3T' ],
       muddywater: [
-        '9M',   '9L27', '9S12',
+        '9M',   '9L27', '9S13',
         '8M',   '8L27', '7L60',
         '7S7',  '7S8',  '7S9',
         '6L20', '5L20', '4L20'
@@ -47407,7 +47514,7 @@
       ],
       secretpower: [ '6M', '4M', '3M' ],
       sheercold: [
-        '9L45', '9S12',
+        '9L45', '9S13',
         '8L45', '7L65',
         '6L65', '6S6',
         '5L75', '5S4',
@@ -47556,6 +47663,13 @@
         moves: [ 'surf', 'bodyslam', 'aquaring', 'thunder' ]
       },
       {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'originpulse', 'aquaring', 'sheercold', 'icebeam' ],
+        source: 'gen8bdsp'
+      },
+      {
         generation: 9,
         level: 70,
         moves: [ 'aquaring', 'sheercold', 'icebeam', 'muddywater' ]
@@ -47617,7 +47731,7 @@
         '4T',   '4L65'
       ],
       earthquake: [
-        '9M',   '9L27', '9S12', '8M',
+        '9M',   '9L27', '9S13', '8M',
         '8L27', '8S11', '7M',   '7L35',
         '7S7',  '7S8',  '7S9',  '6M',
         '6L35', '6S5',  '5M',   '5L35',
@@ -47655,7 +47769,7 @@
         '3T'
       ],
       fissure: [
-        '9L45', '9S12',
+        '9L45', '9S13',
         '8L45', '7L65',
         '6L65', '5L75',
         '4L60', '3L60',
@@ -47674,7 +47788,7 @@
       furycutter: [ '4T', '3T' ],
       gigaimpact: [ '9M', '8M', '7M', '6M', '5M', '4M' ],
       hammerarm: [
-        '9L36', '9S12',
+        '9L36', '9S13',
         '8L36', '8S11',
         '7L80', '6L20',
         '6S6',  '5L20',
@@ -47736,7 +47850,7 @@
       ],
       psychup: [ '7M', '6M', '5M', '4M', '3T' ],
       rest: [
-        '9M',   '9L54', '9S12',
+        '9M',   '9L54', '9S13',
         '8M',   '8L54', '7M',
         '7L30', '6M',   '6L30',
         '6S5',  '5M',   '5L30',
@@ -47930,6 +48044,13 @@
         moves: [ 'earthquake', 'scaryface', 'lavaplume', 'hammerarm' ]
       },
       {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'precipiceblades', 'rest', 'fissure', 'hammerarm' ],
+        source: 'gen8bdsp'
+      },
+      {
         generation: 9,
         level: 70,
         moves: [ 'rest', 'fissure', 'hammerarm', 'earthquake' ]
@@ -48020,7 +48141,7 @@
         '3L30'
       ],
       dragonpulse: [
-        '9M',   '9L36', '9S10',
+        '9M',   '9L36', '9S11',
         '8M',   '8L36', '7T',
         '7L50', '7S8',  '6T',
         '6L50', '6S4',  '6S5',
@@ -48065,7 +48186,7 @@
       ],
       fling: [ '9M', '8M', '7M', '6M', '5M', '4M' ],
       fly: [
-        '9M',   '9L63', '9S10',
+        '9M',   '9L63', '9S11',
         '8M',   '8L63', '7M',
         '7L65', '6M',   '6L65',
         '6S7',  '5M',   '5L65',
@@ -48091,7 +48212,7 @@
         '4L65', '3M',   '3L75'
       ],
       hypervoice: [
-        '9M',   '9L45', '9S10',
+        '9M',   '9L45', '9S11',
         '8M',   '8L45', '7T',
         '7L75', '6T',   '6L20',
         '5T',   '5L20', '4L20'
@@ -48143,7 +48264,7 @@
         '3M'
       ],
       rest: [
-        '9M',   '9L54', '9S10',
+        '9M',   '9L54', '9S11',
         '8M',   '8L54', '7M',
         '7L35', '7S8',  '6M',
         '6L30', '5M',   '5L30',
@@ -48322,6 +48443,13 @@
         level: 70,
         shiny: 1,
         moves: [ 'dragonascent', 'brutalswing', 'extremespeed', 'twister' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'fly', 'rest', 'hypervoice', 'dragonpulse' ],
+        source: 'gen8bdsp'
       },
       {
         generation: 9,
@@ -48737,6 +48865,12 @@
         nature: 'Timid',
         moves: [ 'meteormash', 'psychic', 'rest', 'wish' ],
         pokeball: 'cherishball'
+      },
+      {
+        generation: 8,
+        level: 5,
+        moves: [ 'confusion', 'wish' ],
+        source: 'gen8bdsp'
       }
     ],
     eventOnly: true
@@ -48810,7 +48944,12 @@
       futuresight: [ '9M' ],
       gigaimpact: [ '9M', '7M', '6M', '5M', '4M' ],
       grassknot: [ '9M', '7M', '6M', '5M', '4M' ],
-      gravity: [ '9M', '9L37', '7T', '6T', '5T', '4T' ],
+      gravity: [
+        '9M',   '9L37',
+        '9S11', '7T',
+        '6T',   '5T',
+        '4T'
+      ],
       headbutt: [ '4T' ],
       hiddenpower: [ '7M', '6M', '5M', '4M', '3M' ],
       hyperbeam: [
@@ -48880,11 +49019,12 @@
       ],
       psybeam: [ '9M' ],
       psychic: [
-        '9M',   '9L31', '7M',
-        '7L31', '6M',   '6L31',
-        '5M',   '5L41', '4M',
-        '4L41', '3M',   '3L25',
-        '3S0',  '3S1',  '3S2'
+        '9M',   '9L31', '9S11',
+        '7M',   '7L31', '6M',
+        '6L31', '5M',   '5L41',
+        '4M',   '4L41', '3M',
+        '3L25', '3S0',  '3S1',
+        '3S2'
       ],
       psychicnoise: [ '9M' ],
       psychicterrain: [ '9M' ],
@@ -48929,10 +49069,10 @@
       shockwave: [ '7T', '6T', '4M', '3M' ],
       signalbeam: [ '7T', '6T', '5T', '4T' ],
       skillswap: [
-        '9M', '9L43',
-        '7T', '6T',
-        '5T', '4M',
-        '3M'
+        '9M',   '9L43',
+        '9S11', '7T',
+        '6T',   '5T',
+        '4M',   '3M'
       ],
       sleeptalk: [ '9M', '7M', '6M', '5T', '4M', '3T' ],
       snatch: [
@@ -49004,10 +49144,10 @@
         '3L40'
       ],
       zenheadbutt: [
-        '9M',   '9L49', '7T',
-        '7L49', '6T',   '6L49',
-        '5T',   '5L65', '4T',
-        '4L65'
+        '9M',   '9L49', '9S11',
+        '7T',   '7L49', '6T',
+        '6L49', '5T',   '5L65',
+        '4T',   '4L65'
       ]
     },
     eventData: [
@@ -49075,6 +49215,13 @@
         generation: 6,
         level: 80,
         moves: [ 'cosmicpower', 'recover', 'psychoboost', 'hyperbeam' ]
+      },
+      {
+        generation: 9,
+        level: 50,
+        nature: 'Serious',
+        moves: [ 'psychic', 'gravity', 'skillswap', 'zenheadbutt' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -57574,6 +57721,19 @@
         level: 70,
         shiny: 1,
         moves: [ 'psychic', 'futuresight', 'magicroom', 'shadowball' ]
+      },
+      {
+        generation: 8,
+        level: 50,
+        shiny: 1,
+        moves: [ 'psychic', 'amnesia', 'extrasensory', 'imprison' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'swift', 'extrasensory', 'mysticalpower', 'hypnosis' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -57773,6 +57933,19 @@
         level: 70,
         shiny: 1,
         moves: [ 'psychic', 'charm', 'drainingkiss', 'triattack' ]
+      },
+      {
+        generation: 8,
+        level: 50,
+        shiny: 1,
+        moves: [ 'psychic', 'charm', 'extrasensory', 'imprison' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'swift', 'extrasensory', 'mysticalpower', 'recover' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -57982,6 +58155,19 @@
         level: 70,
         shiny: 1,
         moves: [ 'psychic', 'dazzlinggleam', 'nastyplot', 'facade' ]
+      },
+      {
+        generation: 8,
+        level: 50,
+        shiny: 1,
+        moves: [ 'psychic', 'nastyplot', 'extrasensory', 'imprison' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'swift', 'extrasensory', 'mysticalpower', 'doublehit' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -58014,7 +58200,7 @@
       cut: [ '6M', '5M', '4M' ],
       doubleteam: [ '7M', '6M', '5M', '4M' ],
       dracometeor: [
-        '9M', '9S13', '8T',
+        '9M', '9S15', '8T',
         '7T', '7S9',  '7S10',
         '6T', '5T',   '5S4',
         '4T'
@@ -58040,7 +58226,7 @@
       ],
       dragontail: [ '9M', '7M', '6M', '5M' ],
       earthpower: [
-        '9M',   '9L72', '9S13',
+        '9M',   '9L72', '9S15',
         '8M',   '8L72', '7T',
         '7L33', '6T',   '6L33',
         '5T',   '5L33', '4T',
@@ -58051,7 +58237,7 @@
       endure: [ '9M', '8M', '4M' ],
       facade: [ '9M', '8M', '7M', '6M', '5M', '4M' ],
       fireblast: [
-        '9M', '9S13',
+        '9M', '9S15',
         '8M', '7M',
         '6M', '5M',
         '4M'
@@ -58156,7 +58342,7 @@
       sleeptalk: [ '9M', '8M', '7M', '6M', '5T', '4M' ],
       snore: [ '8M', '7T', '6T', '5T', '4T' ],
       stealthrock: [ '9M', '8M', '7T', '6T', '5T', '4M' ],
-      steelbeam: [ '9M', '9S13', '8T' ],
+      steelbeam: [ '9M', '9S15', '8T' ],
       stompingtantrum: [ '9M', '8M', '7T' ],
       stoneedge: [ '9M', '8M', '7M', '6M', '5M', '4M' ],
       strength: [ '6M', '5M', '4M' ],
@@ -58260,6 +58446,19 @@
         pokeball: 'cherishball'
       },
       {
+        generation: 8,
+        level: 47,
+        shiny: 1,
+        moves: [ 'roaroftime', 'flashcannon', 'slash', 'ancientpower' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 65,
+        moves: [ 'earthpower', 'irontail', 'flashcannon', 'roaroftime' ],
+        source: 'gen8legends'
+      },
+      {
         generation: 9,
         level: 75,
         nature: 'Quiet',
@@ -58311,7 +58510,7 @@
       dive: [ '8M', '6M', '5M', '4T' ],
       doubleteam: [ '7M', '6M', '5M', '4M' ],
       dracometeor: [
-        '9M', '9S13', '8T',
+        '9M', '9S15', '8T',
         '7T', '7S9',  '7S10',
         '6T', '5T',   '5S4',
         '4T'
@@ -58345,7 +58544,7 @@
       endure: [ '9M', '8M', '4M' ],
       facade: [ '9M', '8M', '7M', '6M', '5M', '4M' ],
       fireblast: [
-        '9M', '9S13',
+        '9M', '9S15',
         '8M', '7M',
         '6M', '5M',
         '4M'
@@ -58365,7 +58564,7 @@
       hiddenpower: [ '7M', '6M', '5M', '4M' ],
       honeclaws: [ '6M', '5M' ],
       hydropump: [
-        '9M',   '9L88', '9S13',
+        '9M',   '9L88', '9S15',
         '8M',   '8L88', '8S12',
         '7L50', '7S7',  '7S8',
         '7S9',  '7S10', '6L50',
@@ -58442,7 +58641,7 @@
       takedown: [ '9M' ],
       terablast: [ '9M' ],
       thunder: [
-        '9M', '9S13',
+        '9M', '9S15',
         '8M', '7M',
         '6M', '5M',
         '4M'
@@ -58546,6 +58745,19 @@
         isHidden: true,
         moves: [ 'spacialrend', 'hydropump', 'aurasphere', 'earthpower' ],
         pokeball: 'cherishball'
+      },
+      {
+        generation: 8,
+        level: 47,
+        shiny: 1,
+        moves: [ 'spacialrend', 'aquaring', 'slash', 'ancientpower' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 65,
+        moves: [ 'earthpower', 'aquatail', 'hydropump', 'spacialrend' ],
+        source: 'gen8legends'
       },
       {
         generation: 9,
@@ -58776,6 +58988,19 @@
         level: 70,
         shiny: 1,
         moves: [ 'metalsound', 'lavaplume', 'crunch', 'ironhead' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'stoneedge', 'heatwave', 'earthpower', 'metalsound' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'ironhead', 'crunch', 'earthpower', 'magmastorm' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -59022,6 +59247,19 @@
         level: 100,
         shiny: 1,
         moves: [ 'gigaimpact', 'zenheadbutt', 'hammerarm', 'crushgrip' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'crushgrip', 'gigaimpact', 'hammerarm', 'heavyslam' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'zenheadbutt', 'ironhead', 'crushgrip', 'gigaimpact' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -59264,6 +59502,19 @@
         level: 70,
         shiny: 1,
         moves: [ 'dragonclaw', 'scaryface', 'shadowball', 'ancientpower' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        shiny: 1,
+        moves: [ 'dragonclaw', 'aurasphere', 'painsplit', 'shadowforce' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'dragonclaw', 'dragonpulse', 'earthpower', 'shadowforce' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -59456,6 +59707,19 @@
         level: 70,
         shiny: 1,
         moves: [ 'icywind', 'moonblast', 'psychocut', 'psyshock' ]
+      },
+      {
+        generation: 8,
+        level: 50,
+        shiny: 1,
+        moves: [ 'safeguard', 'moonlight', 'psychocut', 'slash' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'psychocut', 'psychic', 'moonblast', 'lunarblessing' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -59561,7 +59825,12 @@
   },
   manaphy: {
     learnset: {
-      acidarmor: [ '9L31', '7L31', '6L31', '5L31', '4L31', '4S2' ],
+      acidarmor: [
+        '9L31', '9S9',
+        '7L31', '6L31',
+        '5L31', '4L31',
+        '4S2'
+      ],
       alluringvoice: [ '9M' ],
       ancientpower: [ '4T' ],
       aquaring: [
@@ -59580,7 +59849,7 @@
         '5L1', '4L1',
         '4S0', '4S1'
       ],
-      bubblebeam: [ '9L24', '7L24', '6L24', '5L24', '4L24' ],
+      bubblebeam: [ '9L24', '9S9', '7L24', '6L24', '5L24', '4L24' ],
       calmmind: [ '9M', '7M', '6M', '5M', '4M' ],
       charm: [ '9M', '9L9', '7L9', '6L9', '5L9', '4L9' ],
       chillingwater: [ '9M' ],
@@ -59669,10 +59938,11 @@
       waterfall: [ '9M', '7M', '6M', '5M', '4M' ],
       watergun: [ '9L1' ],
       waterpulse: [
-        '9M',   '9L46', '7T',
-        '7L46', '7S6',  '6T',
-        '6L46', '5L46', '4M',
-        '4L46', '4S2',  '4S3'
+        '9M',  '9L46', '9S9',
+        '7T',  '7L46', '7S6',
+        '6T',  '6L46', '5L46',
+        '4M',  '4L46', '4S2',
+        '4S3'
       ],
       watersport: [
         '7L1', '6L1',
@@ -59684,9 +59954,10 @@
       weatherball: [ '9M' ],
       whirlpool: [
         '9M',   '9L39',
-        '7L39', '6L39',
-        '5L39', '4M',
-        '4L39', '4S2'
+        '9S9',  '7L39',
+        '6L39', '5L39',
+        '4M',   '4L39',
+        '4S2'
       ],
       zenheadbutt: [ '9M' ]
     },
@@ -59733,6 +60004,27 @@
         level: 15,
         moves: [ 'tailglow', 'waterpulse', 'aquaring', 'heartswap' ],
         pokeball: 'cherishball'
+      },
+      {
+        generation: 8,
+        moves: [ 'tailglow', 'watergun' ],
+        pokeball: 'pokeball',
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 50,
+        moves: [ 'waterpulse', 'zenheadbutt', 'moonblast', 'bubble' ],
+        source: 'gen8legends'
+      },
+      {
+        generation: 9,
+        level: 50,
+        shiny: true,
+        nature: 'Calm',
+        ivs: { hp: 31, atk: 20, def: 31, spa: 20, spd: 31, spe: 20 },
+        moves: [ 'bubblebeam', 'acidarmor', 'whirlpool', 'waterpulse' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -59749,7 +60041,7 @@
       curse: [ '9M' ],
       cut: [ '6M', '5M', '4M' ],
       darkpulse: [
-        '9M',   '9L93', '9S8',
+        '9M',   '9L93', '9S10',
         '7M',   '7L93', '6M',
         '6L93', '6S5',  '5T',
         '5L93', '4M',   '4L93',
@@ -59771,7 +60063,7 @@
       ],
       drainpunch: [ '9M', '7T', '6T', '5T', '4M' ],
       dreameater: [
-        '9L84', '9S8',  '7M',
+        '9L84', '9S10', '7M',
         '7L84', '6M',   '6L84',
         '6S5',  '5M',   '5L84',
         '4M',   '4L84'
@@ -59798,7 +60090,7 @@
       hiddenpower: [ '7M', '6M', '5M', '4M' ],
       hyperbeam: [ '9M', '7M', '6M', '5M', '4M' ],
       hypnosis: [
-        '9L20', '9S8',
+        '9L20', '9S10',
         '7L20', '6L20',
         '5L20', '4L20',
         '4S0',  '4S1',
@@ -59850,7 +60142,7 @@
       scaryface: [ '9M' ],
       secretpower: [ '6M', '4M' ],
       shadowball: [
-        '9M',  '9S8',
+        '9M',  '9S10',
         '7M',  '6M',
         '5M',  '4M',
         '4S2'
@@ -59933,6 +60225,19 @@
         level: 50,
         moves: [ 'darkvoid', 'feintattack', 'nightmare', 'ominouswind' ],
         pokeball: 'cherishball'
+      },
+      {
+        generation: 8,
+        level: 50,
+        shiny: 1,
+        moves: [ 'hypnosis', 'suckerpunch', 'foulplay', 'doubleteam' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'hex', 'darkpulse', 'psychic', 'darkvoid' ],
+        source: 'gen8legends'
       },
       {
         generation: 9,
@@ -60102,6 +60407,19 @@
         level: 20,
         moves: [ 'return', 'growth', 'seedflare', 'celebrate' ],
         pokeball: 'cherishball'
+      },
+      {
+        generation: 8,
+        level: 30,
+        shiny: 1,
+        moves: [ 'growth', 'magicalleaf', 'leechseed', 'synthesis' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'seedflare', 'energyball', 'airslash', 'earthpower' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -60353,6 +60671,20 @@
         level: 100,
         moves: [ 'judgment', 'extremespeed', 'recover', 'hyperbeam' ],
         pokeball: 'cherishball'
+      },
+      {
+        generation: 8,
+        level: 80,
+        shiny: 1,
+        moves: [ 'healingwish', 'futuresight', 'recover', 'hyperbeam' ],
+        source: 'gen8bdsp'
+      },
+      {
+        generation: 8,
+        level: 75,
+        moves: [ 'recover', 'calmmind', 'judgment', 'hyperbeam' ],
+        pokeball: 'pokeball',
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -77776,6 +78108,12 @@
         level: 70,
         shiny: 1,
         moves: [ 'hurricane', 'agility', 'icywind', 'heatwave' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'extrasensory', 'crunch', 'hurricane', 'bleakwindstorm' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -77990,6 +78328,12 @@
         level: 70,
         shiny: 1,
         moves: [ 'thunder', 'raindance', 'weatherball', 'sludgewave' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'extrasensory', 'crunch', 'thunder', 'wildboltstorm' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -78622,6 +78966,12 @@
         level: 70,
         shiny: 1,
         moves: [ 'sandtomb', 'rockslide', 'bulldoze', 'focusblast' ]
+      },
+      {
+        generation: 8,
+        level: 70,
+        moves: [ 'extrasensory', 'crunch', 'earthpower', 'sandsearstorm' ],
+        source: 'gen8legends'
       }
     ],
     eventOnly: true
@@ -79221,7 +79571,8 @@
         '5S1'
       ],
       aquatail: [
-        '9L35', '8L35',
+        '9L35', '9S5',
+        '9S6',  '8L35',
         '7T',   '7L37',
         '6T',   '6L37',
         '5T',   '5L37'
@@ -79250,10 +79601,11 @@
       cut: [ '6M', '5M' ],
       doubleedge: [ '9M' ],
       doublekick: [
-        '9L21', '8L21',
-        '7L1',  '6L7',
-        '6S2',  '6S3',
-        '5L7',  '5S0'
+        '9L21', '9S6',
+        '8L21', '7L1',
+        '6L7',  '6S2',
+        '6S3',  '5L7',
+        '5S0'
       ],
       doubleteam: [ '7M', '6M', '5M' ],
       endeavor: [ '7T', '6T', '5T' ],
@@ -79296,15 +79648,16 @@
       poisonjab: [ '9M', '8M', '7M', '6M', '5M' ],
       protect: [ '9M', '8M', '7M', '6M', '5M' ],
       psychup: [ '9M', '7M', '6M', '5M' ],
-      quickguard: [ '9L14', '8L14', '7L55', '6L55', '5L55' ],
+      quickguard: [ '9L14', '9S6', '8L14', '7L55', '6L55', '5L55' ],
       raindance: [ '9M', '8M', '7M', '6M', '5M' ],
       reflect: [ '9M', '8M', '7M', '6M', '5M' ],
       rest: [ '9M', '8M', '7M', '6M', '5M' ],
       retaliate: [
-        '9L28', '8M',
-        '8L28', '7L31',
-        '6M',   '6L31',
-        '5M',   '5L31'
+        '9L28', '9S5',
+        '8M',   '8L28',
+        '7L31', '6M',
+        '6L31', '5M',
+        '5L31'
       ],
       return: [ '7M', '6M', '5M' ],
       revenge: [ '8M' ],
@@ -79313,7 +79666,8 @@
       rocksmash: [ '6M', '5M' ],
       round: [ '8M', '7M', '6M', '5M' ],
       sacredsword: [
-        '9L49', '8L49',
+        '9L49', '9S5',
+        '9S6',  '8L49',
         '8S4',  '7L43',
         '6L43', '5L43',
         '5S1'
@@ -79339,7 +79693,12 @@
         '7L49', '6M',   '6L49',
         '5M',   '5L49', '5S1'
       ],
-      takedown: [ '9M', '9L42', '8L42', '7L19', '6L19', '5L19' ],
+      takedown: [
+        '9M',   '9L42',
+        '9S5',  '8L42',
+        '7L19', '6L19',
+        '5L19'
+      ],
       taunt: [ '9M', '8M', '7M', '6M', '5M' ],
       terablast: [ '9M' ],
       toxic: [ '7M', '6M', '5M' ],
@@ -79384,6 +79743,22 @@
         generation: 8,
         level: 65,
         moves: [ 'secretsword', 'sacredsword', 'swordsdance', 'hydropump' ]
+      },
+      {
+        generation: 9,
+        level: 50,
+        nature: 'Docile',
+        moves: [ 'retaliate', 'aquatail', 'takedown', 'sacredsword' ],
+        pokeball: 'cherishball'
+      },
+      {
+        generation: 9,
+        level: 50,
+        shiny: true,
+        nature: 'Modest',
+        moves: [ 'quickguard', 'doublekick', 'aquatail', 'sacredsword' ],
+        ivs: { hp: 31, atk: 20, def: 20, spa: 31, spd: 20, spe: 31 },
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -81076,10 +81451,11 @@
   talonflame: {
     learnset: {
       acrobatics: [
-        '9M', '9L22',
-        '8M', '8L22',
-        '7M', '7L44',
-        '6M', '6L44'
+        '9M',   '9L22',
+        '9S0',  '8M',
+        '8L22', '7M',
+        '7L44', '6M',
+        '6L44'
       ],
       aerialace: [ '9M', '9L38', '8L38', '7M', '6M' ],
       agility: [ '9M', '9L29', '8M', '8L29', '7L13', '6L13' ],
@@ -81123,8 +81499,9 @@
       naturalgift: [ '7L31', '6L31' ],
       overheat: [ '9M', '8M', '7M', '6M' ],
       peck: [ '9L1', '8L1', '7L1', '6L10' ],
-      protect: [ '9M', '8M', '7M', '6M' ],
+      protect: [ '9M', '9S0', '8M', '7M', '6M' ],
       quickattack: [ '9L1', '8L1', '7L1', '6L6' ],
+      quickguard: [ '9S0' ],
       raindance: [ '9M' ],
       razorwind: [ '7L27', '6L27' ],
       rest: [ '9M', '8M', '7M', '6M' ],
@@ -81149,10 +81526,10 @@
       swordsdance: [ '9M', '8M', '7M', '6M' ],
       tackle: [ '7L1', '6L1' ],
       tailwind: [
-        '9M',   '9L47',
-        '8L47', '7T',
-        '7L55', '6T',
-        '6L55'
+        '9M',  '9L47',
+        '9S0', '8L47',
+        '7T',  '7L55',
+        '6T',  '6L55'
       ],
       takedown: [ '9M' ],
       taunt: [ '9M', '8M', '7M', '6M' ],
@@ -81164,7 +81541,19 @@
       uturn: [ '9M', '8M', '7M', '6M' ],
       willowisp: [ '9M', '8M', '7M', '6M' ],
       workup: [ '8M', '7M' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 50,
+        gender: 'M',
+        nature: 'Adamant',
+        isHidden: true,
+        perfectIVs: 6,
+        moves: [ 'acrobatics', 'tailwind', 'protect', 'quickguard' ],
+        pokeball: 'cherishball'
+      }
+    ]
   },
   scatterbug: {
     learnset: {
@@ -81518,6 +81907,7 @@
       calmmind: [ '9M', '7M', '6M' ],
       camouflage: [ '7E', '6E' ],
       captivate: [ '7E', '6E' ],
+      celebrate: [ '9S0' ],
       charm: [ '9M' ],
       chillingwater: [ '9M' ],
       confide: [ '7M', '6M' ],
@@ -81532,7 +81922,7 @@
       endure: [ '9M' ],
       energyball: [ '9M', '7M', '6M' ],
       facade: [ '9M', '7M', '6M' ],
-      fairywind: [ '9L6', '7L6', '6L6' ],
+      fairywind: [ '9L6', '9S0', '7L6', '6L6' ],
       flash: [ '6M' ],
       frustration: [ '7M', '6M' ],
       gigadrain: [ '9M', '7T', '6T' ],
@@ -81575,10 +81965,19 @@
       terablast: [ '9M' ],
       toxic: [ '7M', '6M' ],
       trailblaze: [ '9M' ],
-      vinewhip: [ '9L1', '7L1', '6L1' ],
-      wish: [ '9L20', '7L20', '6L20' ],
+      vinewhip: [ '9L1', '9S0', '7L1', '6L1' ],
+      wish: [ '9L20', '9S0', '7L20', '6L20' ],
       worryseed: [ '7T', '6T' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 5,
+        abilities: [ 'flowerveil' ],
+        moves: [ 'vinewhip', 'fairywind', 'wish', 'celebrate' ],
+        pokeball: 'cherishball'
+      }
+    ]
   },
   floette: {
     learnset: {
@@ -81656,56 +82055,57 @@
     learnset: {
       afteryou: [ '7T' ],
       allyswitch: [ '7T' ],
-      aromatherapy: [ '6L38' ],
+      aromatherapy: [ '9L38', '6L38' ],
       attract: [ '6M' ],
-      calmmind: [ '6M' ],
+      calmmind: [ '9M', '6M' ],
       confide: [ '6M' ],
       covet: [ '7T' ],
-      dazzlinggleam: [ '6M' ],
+      dazzlinggleam: [ '9M', '6M' ],
       doubleteam: [ '6M' ],
       echoedvoice: [ '6M' ],
       endeavor: [ '7T' ],
-      energyball: [ '6M' ],
-      facade: [ '6M' ],
-      fairywind: [ '6L6' ],
+      endure: [ '9M' ],
+      energyball: [ '9M', '6M' ],
+      facade: [ '9M', '6M' ],
+      fairywind: [ '9L1', '6L6' ],
       flash: [ '6M' ],
       frustration: [ '6M' ],
-      gigadrain: [ '7T' ],
-      grassknot: [ '6M' ],
-      grassyterrain: [ '6L27' ],
+      gigadrain: [ '9M', '7T' ],
+      grassknot: [ '9M', '6M' ],
+      grassyterrain: [ '9M', '9L27', '6L27' ],
       healbell: [ '7T' ],
-      helpinghand: [ '7T' ],
+      helpinghand: [ '9M', '7T' ],
       hiddenpower: [ '6M' ],
-      lightofruin: [ '6L50' ],
-      luckychant: [ '6L10' ],
-      magicalleaf: [ '6L25' ],
+      lightofruin: [ '9L50', '6L50' ],
+      luckychant: [ '9L10', '6L10' ],
+      magicalleaf: [ '9M', '9L25', '6L25' ],
       magiccoat: [ '7T' ],
-      mistyterrain: [ '6L43' ],
-      moonblast: [ '6L46' ],
+      mistyterrain: [ '9M', '9L43', '6L43' ],
+      moonblast: [ '9L46', '6L46' ],
       naturepower: [ '6M' ],
-      petalblizzard: [ '6L33' ],
-      petaldance: [ '6L51' ],
-      protect: [ '6M' ],
-      psychic: [ '6M' ],
-      raindance: [ '6M' ],
-      razorleaf: [ '6L15' ],
-      rest: [ '6M' ],
+      petalblizzard: [ '9L33', '6L33' ],
+      petaldance: [ '9L51', '6L51' ],
+      protect: [ '9M', '6M' ],
+      psychic: [ '9M', '6M' ],
+      raindance: [ '9M', '6M' ],
+      razorleaf: [ '9L15', '6L15' ],
+      rest: [ '9M', '6M' ],
       return: [ '6M' ],
       round: [ '6M' ],
       safeguard: [ '6M' ],
       secretpower: [ '6M' ],
-      seedbomb: [ '7T' ],
-      sleeptalk: [ '6M' ],
+      seedbomb: [ '9M', '7T' ],
+      sleeptalk: [ '9M', '6M' ],
       snore: [ '7T' ],
-      solarbeam: [ '6M', '6L58' ],
-      substitute: [ '6M' ],
-      sunnyday: [ '6M' ],
+      solarbeam: [ '9M', '9L58', '6M', '6L58' ],
+      substitute: [ '9M', '6M' ],
+      sunnyday: [ '9M', '6M' ],
       swagger: [ '6M' ],
       synthesis: [ '7T' ],
-      tackle: [ '6L1' ],
+      tackle: [ '9L1', '6L1' ],
       toxic: [ '6M' ],
-      vinewhip: [ '6L1' ],
-      wish: [ '6L20' ],
+      vinewhip: [ '9L1', '6L1' ],
+      wish: [ '9L20', '6L20' ],
       worryseed: [ '7T' ]
     }
   },
@@ -84361,8 +84761,8 @@
         '6T',  '6L1', '6S0'
       ],
       hiddenpower: [ '7M', '6M' ],
-      hyperbeam: [ '9M', '8M', '7M', '7S2', '6M' ],
-      hypervoice: [ '9M', '8M', '7T', '6T' ],
+      hyperbeam: [ '9M', '9S3', '8M', '7M', '7S2', '6M' ],
+      hypervoice: [ '9M', '9S3', '8M', '7T', '6T' ],
       irontail: [ '8M', '7T', '6T' ],
       laserfocus: [ '7T' ],
       lastresort: [ '9L55', '8L55', '7T', '7L41', '6T', '6L41' ],
@@ -84408,7 +84808,7 @@
         '7T', '7L25',
         '6T', '6L25'
       ],
-      sleeptalk: [ '9M', '8M', '7M', '6M' ],
+      sleeptalk: [ '9M', '9S3', '8M', '7M', '6M' ],
       snore: [ '8M', '7T', '6T' ],
       storedpower: [ '9M', '8M' ],
       substitute: [ '9M', '8M', '7M', '6M' ],
@@ -84419,7 +84819,7 @@
       tailwhip: [ '9L1', '8L1', '7L1', '6L1' ],
       takedown: [ '9M', '9L1', '8L1' ],
       telekinesis: [ '7T' ],
-      terablast: [ '9M' ],
+      terablast: [ '9M', '9S3' ],
       toxic: [ '7M', '6M' ],
       trailblaze: [ '9M' ],
       weatherball: [ '9M', '8M' ],
@@ -84450,6 +84850,16 @@
         gender: 'F',
         isHidden: true,
         moves: [ 'hyperbeam', 'drainingkiss', 'psyshock', 'calmmind' ],
+        pokeball: 'cherishball'
+      },
+      {
+        generation: 9,
+        level: 50,
+        gender: 'M',
+        nature: 'Modest',
+        isHidden: true,
+        perfectIVs: 6,
+        moves: [ 'hypervoice', 'terablast', 'hyperbeam', 'sleeptalk' ],
         pokeball: 'cherishball'
       }
     ]
@@ -95188,13 +95598,13 @@
   },
   meltan: {
     learnset: {
-      acidarmor: [ '8L32', '8V', '7L36' ],
+      acidarmor: [ '9S0', '8L32', '8V', '7L36' ],
       endure: [ '8M' ],
       facade: [ '8M' ],
-      flashcannon: [ '8M', '8L40', '8V', '7M', '7L45' ],
+      flashcannon: [ '9S0', '8M', '8L40', '8V', '7M', '7L45' ],
       gyroball: [ '8M' ],
       harden: [ '8L1', '8V', '7L1' ],
-      headbutt: [ '8L16', '8V', '7M', '7L1' ],
+      headbutt: [ '9S0', '8L16', '8V', '7M', '7L1' ],
       irondefense: [ '8M' ],
       protect: [ '8M', '8V', '7M' ],
       rest: [ '8M', '8V', '7M' ],
@@ -95206,9 +95616,20 @@
       tailwhip: [ '8L8', '8V', '7L9' ],
       thunderbolt: [ '8M', '8V', '7M' ],
       thundershock: [ '8L1', '8V', '7L27' ],
-      thunderwave: [ '8M', '8L24', '8V', '7M', '7L18' ],
+      thunderwave: [ '9S0', '8M', '8L24', '8V', '7M', '7L18' ],
       toxic: [ '8V', '7M' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 50,
+        shiny: true,
+        nature: 'Adamant',
+        moves: [ 'headbutt', 'acidarmor', 'thunderwave', 'flashcannon' ],
+        ivs: { hp: 31, atk: 31, def: 31, spa: 20, spd: 20, spe: 20 },
+        pokeball: 'cherishball'
+      }
+    ]
   },
   melmetal: {
     learnset: {
@@ -99993,7 +100414,7 @@
       aerialace: [ '9M' ],
       assurance: [ '8M' ],
       bind: [ '9L1', '8L1' ],
-      bite: [ '9L42', '8L42' ],
+      bite: [ '9L42', '9S1', '8L42' ],
       bodyslam: [ '9M', '8M' ],
       brickbreak: [ '9M', '8M' ],
       brutalswing: [ '8M' ],
@@ -100015,7 +100436,7 @@
       furyswipes: [ '9L24', '8L24' ],
       gigadrain: [ '9M', '8M' ],
       gigaimpact: [ '9M', '8M' ],
-      grassknot: [ '9M', '9L36', '8M', '8L36' ],
+      grassknot: [ '9M', '9L36', '9S1', '8M', '8L36' ],
       grassyglide: [ '9M', '8T' ],
       grassyterrain: [ '9M', '8M' ],
       growth: [ '9L18', '8L18' ],
@@ -100046,7 +100467,7 @@
       rockslide: [ '9M', '8M' ],
       rocktomb: [ '9M', '8M' ],
       round: [ '8M' ],
-      scaryface: [ '9M', '9L30', '8M', '8L30' ],
+      scaryface: [ '9M', '9L30', '9S1', '8M', '8L30' ],
       scratch: [ '9L1', '8L1' ],
       seedbomb: [ '9M', '8M' ],
       sleeptalk: [ '9M', '8M' ],
@@ -100069,7 +100490,7 @@
       thrash: [ '9L78', '8L78' ],
       throatchop: [ '9M', '8M' ],
       trailblaze: [ '9M' ],
-      uturn: [ '9M', '9L48', '8M', '8L48' ],
+      uturn: [ '9M', '9L48', '9S1', '8M', '8L48' ],
       vinewhip: [ '9L12', '8L12' ]
     },
     eventData: [
@@ -100078,6 +100499,13 @@
         level: 60,
         nature: 'Sassy',
         moves: [ 'closecombat', 'powerwhip', 'swagger', 'snarl' ],
+        pokeball: 'cherishball'
+      },
+      {
+        generation: 9,
+        level: 50,
+        nature: 'Quirky',
+        moves: [ 'scaryface', 'grassknot', 'bite', 'uturn' ],
         pokeball: 'cherishball'
       }
     ],
@@ -100748,10 +101176,10 @@
       calmmind: [ '9M' ],
       dazzlinggleam: [ '9M', '9L40' ],
       disarmingvoice: [ '9M' ],
-      drainingkiss: [ '9M', '9L20' ],
+      drainingkiss: [ '9M', '9L20', '9S1' ],
       earthpower: [ '9M' ],
       endure: [ '9M' ],
-      extrasensory: [ '9L45' ],
+      extrasensory: [ '9L45', '9S1' ],
       facade: [ '9M' ],
       fairywind: [ '9L1' ],
       flatter: [ '9L10' ],
@@ -100767,7 +101195,7 @@
       ironhead: [ '9M' ],
       mistyexplosion: [ '9M' ],
       mistyterrain: [ '9M' ],
-      moonblast: [ '9L65' ],
+      moonblast: [ '9L65', '9S1' ],
       mysticalfire: [ '9L35' ],
       outrage: [ '9M', '9L70' ],
       playrough: [ '9M' ],
@@ -100792,63 +101220,29 @@
       uproar: [ '9M', '9L50' ],
       weatherball: [ '9M' ],
       zenheadbutt: [ '9M' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 8,
+        level: 70,
+        perfectIVs: 3,
+        moves: [ 'extrasensory', 'crunch', 'moonblast', 'springtidestorm' ],
+        pokeball: 'strangeball',
+        source: 'gen8legends'
+      },
+      {
+        generation: 9,
+        level: 50,
+        shiny: true,
+        nature: 'Naive',
+        ivs: { hp: 20, atk: 31, def: 20, spa: 31, spd: 20, spe: 31 },
+        moves: [ 'drainingkiss', 'extrasensory', 'moonblast' ],
+        pokeball: 'cherishball'
+      }
+    ],
+    eventOnly: true
   },
-  enamorustherian: {
-    learnset: {
-      agility: [ '9M' ],
-      alluringvoice: [ '9M' ],
-      astonish: [ '9L1' ],
-      bodyslam: [ '9M' ],
-      calmmind: [ '9M' ],
-      dazzlinggleam: [ '9M', '9L40' ],
-      disarmingvoice: [ '9M' ],
-      drainingkiss: [ '9M', '9L20' ],
-      earthpower: [ '9M' ],
-      endure: [ '9M' ],
-      extrasensory: [ '9L45' ],
-      facade: [ '9M' ],
-      fairywind: [ '9L1' ],
-      flatter: [ '9L10' ],
-      fly: [ '9M' ],
-      focusblast: [ '9M' ],
-      gigaimpact: [ '9M' ],
-      grassknot: [ '9M' ],
-      grassyterrain: [ '9M' ],
-      healingwish: [ '9L60' ],
-      hyperbeam: [ '9M' ],
-      imprison: [ '9M', '9L30' ],
-      irondefense: [ '9M', '9L25' ],
-      ironhead: [ '9M' ],
-      mistyexplosion: [ '9M' ],
-      mistyterrain: [ '9M' ],
-      moonblast: [ '9L65' ],
-      mysticalfire: [ '9L35' ],
-      outrage: [ '9M', '9L70' ],
-      playrough: [ '9M' ],
-      protect: [ '9M' ],
-      psychic: [ '9M' ],
-      psychup: [ '9M' ],
-      raindance: [ '9M' ],
-      rest: [ '9M' ],
-      scaryface: [ '9M' ],
-      sleeptalk: [ '9M' ],
-      sludgebomb: [ '9M' ],
-      springtidestorm: [ '9L75' ],
-      substitute: [ '9M' ],
-      sunnyday: [ '9M' ],
-      superpower: [ '9L55' ],
-      tailwind: [ '9M' ],
-      takedown: [ '9M' ],
-      taunt: [ '9M' ],
-      terablast: [ '9M' ],
-      torment: [ '9L5' ],
-      twister: [ '9L15' ],
-      uproar: [ '9M', '9L50' ],
-      weatherball: [ '9M' ],
-      zenheadbutt: [ '9M' ]
-    }
-  },
+  enamorustherian: { eventOnly: true },
   sprigatito: {
     learnset: {
       acrobatics: [ '9M' ],
@@ -100870,7 +101264,7 @@
       grassyterrain: [ '9M' ],
       helpinghand: [ '9M' ],
       honeclaws: [ '9L10' ],
-      leafage: [ '9L1' ],
+      leafage: [ '9L1', '9S0' ],
       leafstorm: [ '9M' ],
       leechseed: [ '9E' ],
       magicalleaf: [ '9M', '9L13' ],
@@ -100881,7 +101275,7 @@
       protect: [ '9M' ],
       quickattack: [ '9L15' ],
       rest: [ '9M' ],
-      scratch: [ '9L1' ],
+      scratch: [ '9L1', '9S0' ],
       seedbomb: [ '9M', '9L17' ],
       shadowclaw: [ '9M' ],
       slash: [ '9L28' ],
@@ -100897,7 +101291,18 @@
       trailblaze: [ '9M' ],
       uturn: [ '9M', '9L21' ],
       worryseed: [ '9L25' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 5,
+        gender: 'F',
+        nature: 'Quirky',
+        ivs: { hp: 20, atk: 20, def: 20, spa: 20, spd: 29, spe: 20 },
+        moves: [ 'scratch', 'leafage' ],
+        pokeball: 'pokeball'
+      }
+    ]
   },
   floragato: {
     learnset: {
@@ -101035,7 +101440,7 @@
       curse: [ '9M', '9E' ],
       dig: [ '9M' ],
       disarmingvoice: [ '9M' ],
-      ember: [ '9L1' ],
+      ember: [ '9L1', '9S0' ],
       encore: [ '9M', '9E' ],
       endure: [ '9M' ],
       facade: [ '9M' ],
@@ -101065,7 +101470,7 @@
       stompingtantrum: [ '9M' ],
       substitute: [ '9M' ],
       sunnyday: [ '9M' ],
-      tackle: [ '9L1' ],
+      tackle: [ '9L1', '9S0' ],
       takedown: [ '9M' ],
       temperflare: [ '9M' ],
       terablast: [ '9M' ],
@@ -101073,7 +101478,18 @@
       willowisp: [ '9M' ],
       yawn: [ '9L17' ],
       zenheadbutt: [ '9M' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 5,
+        gender: 'M',
+        nature: 'Hardy',
+        ivs: { hp: 30, atk: 20, def: 20, spa: 20, spd: 20, spe: 20 },
+        moves: [ 'tackle', 'ember' ],
+        pokeball: 'pokeball'
+      }
+    ]
   },
   crocalor: {
     learnset: {
@@ -101214,7 +101630,7 @@
       liquidation: [ '9M', '9L35' ],
       lowkick: [ '9M' ],
       mistyterrain: [ '9M' ],
-      pound: [ '9L1' ],
+      pound: [ '9L1', '9S0' ],
       protect: [ '9M' ],
       psychup: [ '9M' ],
       raindance: [ '9M' ],
@@ -101227,12 +101643,23 @@
       swift: [ '9M' ],
       takedown: [ '9M' ],
       terablast: [ '9M' ],
-      watergun: [ '9L1' ],
+      watergun: [ '9L1', '9S0' ],
       waterpledge: [ '9M' ],
       whirlpool: [ '9M' ],
       wingattack: [ '9L10' ],
       workup: [ '9L7' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 5,
+        gender: 'M',
+        nature: 'Serious',
+        ivs: { hp: 20, atk: 20, def: 20, spa: 29, spd: 20, spe: 20 },
+        moves: [ 'pound', 'watergun' ],
+        pokeball: 'pokeball'
+      }
+    ]
   },
   quaxwell: {
     learnset: {
@@ -102931,18 +103358,19 @@
       aerialace: [ '9M' ],
       afteryou: [ '9E' ],
       agility: [ '9M' ],
-      babydolleyes: [ '9L1' ],
+      babydolleyes: [ '9L1', '9S0' ],
       batonpass: [ '9M', '9E' ],
       beatup: [ '9L37' ],
       bite: [ '9E' ],
       bulletseed: [ '9M', '9L18' ],
+      celebrate: [ '9S0' ],
       charm: [ '9M', '9L33' ],
       copycat: [ '9L41' ],
       crunch: [ '9M' ],
       dig: [ '9M' ],
       doubleedge: [ '9M' ],
       doublehit: [ '9L14' ],
-      echoedvoice: [ '9L5' ],
+      echoedvoice: [ '9L5', '9S0' ],
       encore: [ '9M', '9L22' ],
       endure: [ '9M' ],
       facade: [ '9M' ],
@@ -102971,13 +103399,22 @@
       switcheroo: [ '9E' ],
       takedown: [ '9M' ],
       taunt: [ '9M' ],
-      terablast: [ '9M' ],
+      terablast: [ '9M', '9S0' ],
       thief: [ '9M' ],
       thunderwave: [ '9M' ],
       tickle: [ '9E' ],
       uturn: [ '9M' ],
       waterpulse: [ '9M' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 5,
+        isHidden: true,
+        moves: [ 'celebrate', 'terablast', 'babydolleyes', 'echoedvoice' ],
+        pokeball: 'cherishball'
+      }
+    ]
   },
   maushold: {
     learnset: {
@@ -103546,9 +103983,9 @@
       coaching: [ '9M' ],
       crunch: [ '9M' ],
       dig: [ '9M', '9L15' ],
-      discharge: [ '9L49' ],
+      discharge: [ '9L49', '9S0' ],
       doubleedge: [ '9M' ],
-      doubleshock: [ '9L60' ],
+      doubleshock: [ '9L60', '9S0' ],
       eerieimpulse: [ '9M' ],
       electricterrain: [ '9M' ],
       electroball: [ '9M' ],
@@ -103572,10 +104009,10 @@
       lowsweep: [ '9M' ],
       metalclaw: [ '9M' ],
       metronome: [ '9M' ],
-      nuzzle: [ '9L12' ],
+      nuzzle: [ '9L12', '9S0' ],
       playrough: [ '9M' ],
       protect: [ '9M' ],
-      quickattack: [ '9L6' ],
+      quickattack: [ '9L6', '9S0' ],
       raindance: [ '9M' ],
       rest: [ '9M' ],
       revivalblessing: [ '9L0' ],
@@ -103603,7 +104040,19 @@
       upperhand: [ '9M' ],
       voltswitch: [ '9M' ],
       wildcharge: [ '9M', '9L1' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 20,
+        gender: 'F',
+        nature: 'Jolly',
+        abilities: [ 'voltabsorb' ],
+        ivs: { hp: 20, atk: 20, def: 20, spa: 20, spd: 20, spe: 31 },
+        moves: [ 'doubleshock', 'discharge', 'quickattack', 'nuzzle' ],
+        pokeball: 'cherishball'
+      }
+    ]
   },
   wattrel: {
     learnset: {
@@ -104674,10 +105123,11 @@
       },
       {
         generation: 9,
-        level: 5,
+        level: 20,
         nature: 'Timid',
         ivs: { hp: 0, atk: 0, def: 0, spa: 0, spd: 0, spe: 31 },
-        moves: [ 'astonish', 'tackle' ]
+        moves: [ 'astonish', 'tackle' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -105041,7 +105491,7 @@
       charm: [ '9M' ],
       confuseray: [ '9M', '9L1' ],
       darkpulse: [ '9M' ],
-      dazzlinggleam: [ '9M', '9L35', '9S0' ],
+      dazzlinggleam: [ '9M', '9L35', '9S0', '9S2' ],
       disarmingvoice: [ '9M' ],
       drainingkiss: [ '9M' ],
       endure: [ '9M' ],
@@ -105058,7 +105508,7 @@
       meanlook: [ '9L14' ],
       memento: [ '9L21' ],
       mistyterrain: [ '9M' ],
-      moonblast: [ '9L84', '9S1' ],
+      moonblast: [ '9L84', '9S1', '9S2' ],
       mysticalfire: [ '9L49', '9S0' ],
       nightshade: [ '9M' ],
       painsplit: [ '9M', '9L77' ],
@@ -105070,7 +105520,7 @@
       psybeam: [ '9M', '9L7' ],
       psyshock: [ '9M', '9L63' ],
       rest: [ '9M' ],
-      shadowball: [ '9M', '9L42', '9S0', '9S1' ],
+      shadowball: [ '9M', '9L42', '9S0', '9S1', '9S2' ],
       sleeptalk: [ '9M' ],
       spite: [ '9M', '9L1' ],
       storedpower: [ '9M' ],
@@ -105080,7 +105530,7 @@
       taunt: [ '9M' ],
       terablast: [ '9M' ],
       thunder: [ '9M' ],
-      thunderbolt: [ '9M' ],
+      thunderbolt: [ '9M', '9S2' ],
       thunderwave: [ '9M' ],
       trickroom: [ '9M' ],
       wish: [ '9L28', '9S0' ]
@@ -105098,6 +105548,14 @@
         shiny: 1,
         perfectIVs: 4,
         moves: [ 'shadowball', 'moonblast', 'powergem', 'icywind' ]
+      },
+      {
+        generation: 9,
+        level: 50,
+        nature: 'Timid',
+        ivs: { hp: 31, atk: 0, def: 31, spa: 31, spd: 31, spe: 31 },
+        moves: [ 'shadowball', 'dazzlinggleam', 'moonblast', 'thunderbolt' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -105408,12 +105866,12 @@
       closecombat: [ '9M', '9L63' ],
       detect: [ '9L70' ],
       doubleedge: [ '9M' ],
-      drainpunch: [ '9M' ],
+      drainpunch: [ '9M', '9S1' ],
       earthquake: [ '9M' ],
       electricterrain: [ '9M', '9L1' ],
       endure: [ '9M' ],
       facade: [ '9M' ],
-      fakeout: [ '9L7' ],
+      fakeout: [ '9L7', '9S1' ],
       firepunch: [ '9M' ],
       fling: [ '9M' ],
       focusblast: [ '9M' ],
@@ -105451,9 +105909,9 @@
       thunder: [ '9M' ],
       thunderbolt: [ '9M' ],
       thunderpunch: [ '9M', '9L21' ],
-      voltswitch: [ '9M' ],
+      voltswitch: [ '9M', '9S1' ],
       whirlwind: [ '9L14' ],
-      wildcharge: [ '9M', '9L56' ]
+      wildcharge: [ '9M', '9L56', '9S1' ]
     },
     eventData: [
       {
@@ -105461,6 +105919,14 @@
         level: 52,
         shiny: 1,
         moves: [ 'forcepalm', 'seismictoss', 'charge', 'slam' ]
+      },
+      {
+        generation: 9,
+        level: 50,
+        nature: 'Adamant',
+        perfectIVs: 6,
+        moves: [ 'drainpunch', 'voltswitch', 'wildcharge', 'fakeout' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -105791,7 +106257,7 @@
       facade: [ '9M' ],
       fissure: [ '9L75' ],
       gigaimpact: [ '9M' ],
-      heavyslam: [ '9M' ],
+      heavyslam: [ '9M', '9S1' ],
       hex: [ '9M' ],
       hyperbeam: [ '9M' ],
       lashout: [ '9M' ],
@@ -105809,13 +106275,13 @@
       sandtomb: [ '9M', '9L1' ],
       scaryface: [ '9M' ],
       sleeptalk: [ '9M' ],
-      snarl: [ '9M' ],
+      snarl: [ '9M', '9S1' ],
       spikes: [ '9M', '9L5' ],
       spite: [ '9M', '9L1' ],
       stealthrock: [ '9M' ],
       stomp: [ '9L15' ],
-      stompingtantrum: [ '9M', '9L45', '9S0' ],
-      stoneedge: [ '9M' ],
+      stompingtantrum: [ '9M', '9L45', '9S0', '9S1' ],
+      stoneedge: [ '9M', '9S1' ],
       substitute: [ '9M' ],
       sunnyday: [ '9M' ],
       takedown: [ '9M' ],
@@ -105831,6 +106297,15 @@
         generation: 9,
         level: 60,
         moves: [ 'stompingtantrum', 'ruination', 'throatchop', 'rockslide' ]
+      },
+      {
+        generation: 9,
+        level: 75,
+        shiny: true,
+        nature: 'Impish',
+        ivs: { hp: 31, atk: 31, def: 31, spa: 20, spd: 31, spe: 31 },
+        moves: [ 'stompingtantrum', 'stoneedge', 'snarl', 'heavyslam' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -105842,7 +106317,7 @@
       avalanche: [ '9M' ],
       blizzard: [ '9M' ],
       brickbreak: [ '9M' ],
-      crunch: [ '9M' ],
+      crunch: [ '9M', '9S1' ],
       darkpulse: [ '9M', '9L40' ],
       endure: [ '9M' ],
       facade: [ '9M' ],
@@ -105852,9 +106327,9 @@
       hex: [ '9M' ],
       hyperbeam: [ '9M' ],
       icefang: [ '9M' ],
-      iceshard: [ '9L20' ],
+      iceshard: [ '9L20', '9S1' ],
       icespinner: [ '9M' ],
-      iciclecrash: [ '9L45', '9S0' ],
+      iciclecrash: [ '9L45', '9S0', '9S1' ],
       icywind: [ '9M', '9L5' ],
       lashout: [ '9M' ],
       meanlook: [ '9L1' ],
@@ -105868,7 +106343,7 @@
       recover: [ '9L65' ],
       rest: [ '9M' ],
       ruination: [ '9L50', '9S0' ],
-      sacredsword: [ '9L60', '9S0' ],
+      sacredsword: [ '9L60', '9S0', '9S1' ],
       scaryface: [ '9M' ],
       sheercold: [ '9L75' ],
       sleeptalk: [ '9M' ],
@@ -105888,6 +106363,15 @@
         generation: 9,
         level: 60,
         moves: [ 'iciclecrash', 'ruination', 'suckerpunch', 'sacredsword' ]
+      },
+      {
+        generation: 9,
+        level: 75,
+        shiny: true,
+        nature: 'Adamant',
+        ivs: { hp: 31, atk: 31, def: 31, spa: 20, spd: 31, spe: 31 },
+        moves: [ 'iciclecrash', 'crunch', 'sacredsword', 'iceshard' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -105898,12 +106382,12 @@
       bodypress: [ '9M' ],
       bodyslam: [ '9M' ],
       bulletseed: [ '9M' ],
-      darkpulse: [ '9M', '9L40' ],
+      darkpulse: [ '9M', '9L40', '9S1' ],
       endure: [ '9M' ],
       energyball: [ '9M' ],
       facade: [ '9M' ],
       foulplay: [ '9M', '9L55', '9S0' ],
-      gigadrain: [ '9M', '9L45', '9S0' ],
+      gigadrain: [ '9M', '9L45', '9S0', '9S1' ],
       gigaimpact: [ '9M' ],
       grassknot: [ '9M' ],
       grassyterrain: [ '9M', '9L65' ],
@@ -105923,7 +106407,7 @@
       mudslap: [ '9M' ],
       payback: [ '9L10' ],
       poisonpowder: [ '9L15' ],
-      pollenpuff: [ '9M' ],
+      pollenpuff: [ '9M', '9S1' ],
       powerwhip: [ '9L60', '9S0' ],
       protect: [ '9M' ],
       raindance: [ '9M' ],
@@ -105933,7 +106417,7 @@
       scaryface: [ '9M' ],
       seedbomb: [ '9M' ],
       sleeptalk: [ '9M' ],
-      snarl: [ '9M' ],
+      snarl: [ '9M', '9S1' ],
       solarbeam: [ '9M' ],
       solarblade: [ '9M' ],
       spite: [ '9M', '9L1' ],
@@ -105952,6 +106436,15 @@
         generation: 9,
         level: 60,
         moves: [ 'gigadrain', 'ruination', 'foulplay', 'powerwhip' ]
+      },
+      {
+        generation: 9,
+        level: 75,
+        shiny: true,
+        nature: 'Calm',
+        ivs: { hp: 31, atk: 20, def: 31, spa: 31, spd: 31, spe: 31 },
+        moves: [ 'gigadrain', 'darkpulse', 'snarl', 'pollenpuff' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -105962,18 +106455,18 @@
       burningjealousy: [ '9M' ],
       confuseray: [ '9M', '9L30' ],
       crunch: [ '9M' ],
-      darkpulse: [ '9M', '9L40' ],
+      darkpulse: [ '9M', '9L40', '9S1' ],
       ember: [ '9L1' ],
       endure: [ '9M' ],
       facade: [ '9M' ],
       fireblast: [ '9M' ],
       firespin: [ '9M' ],
       flamecharge: [ '9M', '9L20' ],
-      flamethrower: [ '9M' ],
+      flamethrower: [ '9M', '9S1' ],
       flamewheel: [ '9L5' ],
       flareblitz: [ '9M' ],
       gigaimpact: [ '9M' ],
-      heatwave: [ '9M' ],
+      heatwave: [ '9M', '9S1' ],
       hex: [ '9M' ],
       hyperbeam: [ '9M' ],
       incinerate: [ '9L25' ],
@@ -105993,7 +106486,7 @@
       ruination: [ '9L50', '9S0' ],
       scaryface: [ '9M' ],
       sleeptalk: [ '9M' ],
-      snarl: [ '9M' ],
+      snarl: [ '9M', '9S1' ],
       spite: [ '9M', '9L1' ],
       substitute: [ '9M' ],
       sunnyday: [ '9M' ],
@@ -106010,6 +106503,15 @@
         generation: 9,
         level: 60,
         moves: [ 'lavaplume', 'ruination', 'bounce', 'swagger' ]
+      },
+      {
+        generation: 9,
+        level: 75,
+        shiny: true,
+        nature: 'Modest',
+        ivs: { hp: 31, atk: 20, def: 31, spa: 31, spd: 31, spe: 31 },
+        moves: [ 'heatwave', 'darkpulse', 'snarl', 'flamethrower' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -106025,8 +106527,8 @@
       brickbreak: [ '9M', '9L28' ],
       bulkup: [ '9M', '9S1' ],
       bulldoze: [ '9M' ],
-      closecombat: [ '9M', '9L84' ],
-      collisioncourse: [ '9L56', '9S0', '9S1' ],
+      closecombat: [ '9M', '9L84', '9S2' ],
+      collisioncourse: [ '9L56', '9S0', '9S1', '9S2' ],
       counter: [ '9L70' ],
       crunch: [ '9M' ],
       dig: [ '9M' ],
@@ -106045,10 +106547,10 @@
       firespin: [ '9M' ],
       flamecharge: [ '9M' ],
       flamethrower: [ '9M', '9L49', '9S0', '9S1' ],
-      flareblitz: [ '9M', '9L91' ],
+      flareblitz: [ '9M', '9L91', '9S2' ],
       focusblast: [ '9M' ],
       focuspunch: [ '9M' ],
-      gigaimpact: [ '9M', '9L98', '9S1' ],
+      gigaimpact: [ '9M', '9L98', '9S1', '9S2' ],
       heatcrash: [ '9M' ],
       heatwave: [ '9M' ],
       heavyslam: [ '9M' ],
@@ -106104,6 +106606,20 @@
         nature: 'Adamant',
         ivs: { hp: 25, atk: 31, def: 25, spa: 31, spd: 25, spe: 31 },
         moves: [ 'gigaimpact', 'bulkup', 'collisioncourse', 'flamethrower' ]
+      },
+      {
+        generation: 9,
+        level: 100,
+        shiny: true,
+        nature: 'Adamant',
+        ivs: { hp: 31, atk: 31, def: 31, spa: 20, spd: 31, spe: 31 },
+        moves: [
+          'collisioncourse',
+          'closecombat',
+          'flareblitz',
+          'gigaimpact'
+        ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -106129,19 +106645,19 @@
       eerieimpulse: [ '9M' ],
       electricterrain: [ '9M', '9L1' ],
       electroball: [ '9M' ],
-      electrodrift: [ '9L56', '9S0', '9S1' ],
+      electrodrift: [ '9L56', '9S0', '9S1', '9S2' ],
       endure: [ '9M', '9S0' ],
       facade: [ '9M' ],
       flashcannon: [ '9M' ],
       gigaimpact: [ '9M' ],
       heavyslam: [ '9M' ],
       helpinghand: [ '9M' ],
-      hyperbeam: [ '9M', '9L98', '9S1' ],
+      hyperbeam: [ '9M', '9L98', '9S1', '9S2' ],
       lightscreen: [ '9M' ],
       metalsound: [ '9M', '9L63' ],
       mirrorcoat: [ '9L70' ],
       outrage: [ '9M', '9L77' ],
-      overheat: [ '9M', '9L91' ],
+      overheat: [ '9M', '9L91', '9S2' ],
       paraboliccharge: [ '9L21' ],
       powergem: [ '9M', '9S0', '9S1' ],
       protect: [ '9M' ],
@@ -106158,7 +106674,7 @@
       takedown: [ '9M' ],
       taunt: [ '9M' ],
       terablast: [ '9M', '9S0' ],
-      thunder: [ '9M', '9L84' ],
+      thunder: [ '9M', '9L84', '9S2' ],
       thunderbolt: [ '9M' ],
       thundershock: [ '9L1' ],
       thunderwave: [ '9M' ],
@@ -106182,6 +106698,15 @@
         nature: 'Modest',
         ivs: { hp: 25, atk: 31, def: 25, spa: 31, spd: 25, spe: 31 },
         moves: [ 'hyperbeam', 'charge', 'electrodrift', 'powergem' ]
+      },
+      {
+        generation: 9,
+        level: 100,
+        shiny: true,
+        nature: 'Modest',
+        ivs: { hp: 31, atk: 20, def: 31, spa: 31, spd: 31, spe: 31 },
+        moves: [ 'electrodrift', 'thunder', 'overheat', 'hyperbeam' ],
+        pokeball: 'cherishball'
       }
     ],
     eventOnly: true
@@ -106509,6 +107034,7 @@
       acidspray: [ '9M' ],
       acupressure: [ '9E' ],
       bulletseed: [ '9M' ],
+      celebrate: [ '9S0' ],
       confuseray: [ '9M' ],
       dazzlinggleam: [ '9M' ],
       earthpower: [ '9M', '9L48' ],
@@ -106516,7 +107042,7 @@
       energyball: [ '9M' ],
       flashcannon: [ '9M' ],
       foulplay: [ '9M' ],
-      gigadrain: [ '9M', '9L44' ],
+      gigadrain: [ '9M', '9L44', '9S0' ],
       grassknot: [ '9M' ],
       grassyglide: [ '9M' ],
       grassyterrain: [ '9M' ],
@@ -106527,7 +107053,7 @@
       leechseed: [ '9E' ],
       lightscreen: [ '9M' ],
       lunge: [ '9M' ],
-      magicalleaf: [ '9M' ],
+      magicalleaf: [ '9M', '9S0' ],
       megadrain: [ '9L16' ],
       mirrorcoat: [ '9E' ],
       mudshot: [ '9M', '9L24' ],
@@ -106547,7 +107073,7 @@
       sleeptalk: [ '9M' ],
       sludgebomb: [ '9M' ],
       solarbeam: [ '9M' ],
-      spikes: [ '9M' ],
+      spikes: [ '9M', '9S0' ],
       spore: [ '9L36' ],
       stunspore: [ '9L8' ],
       substitute: [ '9M' ],
@@ -106563,7 +107089,15 @@
       trickroom: [ '9M' ],
       venoshock: [ '9M' ],
       wrap: [ '9L1' ]
-    }
+    },
+    eventData: [
+      {
+        generation: 9,
+        level: 50,
+        moves: [ 'celebrate', 'gigadrain', 'magicalleaf', 'spikes' ],
+        pokeball: 'cherishball'
+      }
+    ]
   },
   toedscruel: {
     learnset: {
@@ -109331,7 +109865,6 @@
       dreameater: [ '7M', '4M' ],
       earthquake: [ '9M', '8M', '7M', '4M' ],
       embargo: [ '7M', '4M' ],
-      encore: [ '9M' ],
       endeavor: [ '9M', '7T', '4T' ],
       facade: [ '9M', '8M', '7M', '4M' ],
       fakeout: [ '9L1', '8L1', '7L27', '4L35' ],
@@ -112304,7 +112837,7 @@
       spiritshackle: [ '9L45', '8L45', '7L1' ],
       spite: [ '9M', '7T', '7E' ],
       stoneedge: [ '9M', '8M', '7M' ],
-      substitute: [ '8M', '7M' ],
+      substitute: [ '9M', '8M', '7M' ],
       surf: [ '9M', '8M', '7M' ],
       swagger: [ '7M' ],
       takedown: [ '9M' ],
@@ -113741,7 +114274,7 @@
       revenge: [ '8M' ],
       round: [ '8M' ],
       safeguard: [ '8M' ],
-      scald: [ '8M' ],
+      scald: [ '9M', '8M' ],
       scaryface: [ '9M', '8M' ],
       shadowball: [ '9M', '8M' ],
       sleeptalk: [ '9M', '8M' ],
@@ -114211,6 +114744,123 @@
       zenheadbutt: [ '9M' ]
     }
   },
+  chuggon: {
+    learnset: {
+      acidspray: [ '9M' ],
+      bite: [ '9L8' ],
+      bodyslam: [ '9M' ],
+      bulldoze: [ '9M' ],
+      clangingscales: [ '9L48' ],
+      crunch: [ '9M', '9L32' ],
+      destinybond: [ '9E' ],
+      dracometeor: [ '9M' ],
+      dragonbreath: [ '9L12' ],
+      dragoncheer: [ '9M' ],
+      dragonclaw: [ '9M' ],
+      dragonpulse: [ '9M', '9L36' ],
+      dragonrush: [ '9E' ],
+      encore: [ '9M' ],
+      endure: [ '9M' ],
+      entrainment: [ '9E' ],
+      facade: [ '9M' ],
+      gunkshot: [ '9M', '9L52' ],
+      healbell: [ '9E' ],
+      helpinghand: [ '9M' ],
+      irondefense: [ '9M', '9L44' ],
+      lastresort: [ '9E' ],
+      metalsound: [ '9M' ],
+      nobleroar: [ '9E' ],
+      outrage: [ '9M' ],
+      poisongas: [ '9L1' ],
+      poisonjab: [ '9M' ],
+      poisontail: [ '9M' ],
+      protect: [ '9M', '9L24' ],
+      raindance: [ '9M' ],
+      rest: [ '9M' ],
+      roar: [ '9M', '9L28' ],
+      rockslide: [ '9M' ],
+      rocktomb: [ '9M' ],
+      scaleshot: [ '9M' ],
+      scaryface: [ '9M' ],
+      sleeptalk: [ '9M' ],
+      sludge: [ '9L20' ],
+      sludgebomb: [ '9M', '9L40' ],
+      sludgewave: [ '9M' ],
+      smog: [ '9L4' ],
+      snarl: [ '9M' ],
+      storedpower: [ '9M' ],
+      substitute: [ '9M' ],
+      sunnyday: [ '9M' ],
+      tackle: [ '9L1' ],
+      takedown: [ '9M' ],
+      taunt: [ '9M', '9L16' ],
+      terablast: [ '9M' ],
+      toxic: [ '9M' ],
+      trailblaze: [ '9M' ],
+      uproar: [ '9M' ],
+      venoshock: [ '9M' ]
+    }
+  },
+  draggalong: {
+    learnset: {
+      acidspray: [ '9M' ],
+      bite: [ '9L1' ],
+      bodyslam: [ '9M' ],
+      bulldoze: [ '9M' ],
+      clangingscales: [ '9L51' ],
+      crunch: [ '9M', '9L32' ],
+      destinybond: [ '9E' ],
+      dracometeor: [ '9M' ],
+      dragonbreath: [ '9L12' ],
+      dragoncheer: [ '9M' ],
+      dragonclaw: [ '9M' ],
+      dragonpulse: [ '9M', '9L36' ],
+      dragonrush: [ '9E' ],
+      dragontail: [ '9M' ],
+      encore: [ '9M' ],
+      endure: [ '9M' ],
+      entrainment: [ '9E' ],
+      facade: [ '9M' ],
+      gunkshot: [ '9M', '9L56' ],
+      healbell: [ '9E' ],
+      helpinghand: [ '9M' ],
+      irondefense: [ '9M', '9L46' ],
+      ironhead: [ '9M' ],
+      lastresort: [ '9E' ],
+      metalsound: [ '9M' ],
+      nobleroar: [ '9E' ],
+      outrage: [ '9M' ],
+      poisongas: [ '9L1' ],
+      poisonjab: [ '9M' ],
+      poisontail: [ '9M' ],
+      protect: [ '9M', '9L24' ],
+      raindance: [ '9M' ],
+      rest: [ '9M' ],
+      roar: [ '9M', '9L28' ],
+      rockslide: [ '9M' ],
+      rocktomb: [ '9M' ],
+      scaleshot: [ '9M' ],
+      scaryface: [ '9M' ],
+      sleeptalk: [ '9M' ],
+      sludge: [ '9L20' ],
+      sludgebomb: [ '9M', '9L41' ],
+      sludgewave: [ '9M' ],
+      smog: [ '9L1' ],
+      snarl: [ '9M' ],
+      stompingtantrum: [ '9M' ],
+      storedpower: [ '9M' ],
+      substitute: [ '9M' ],
+      sunnyday: [ '9M' ],
+      tackle: [ '9L1' ],
+      takedown: [ '9M' ],
+      taunt: [ '9M', '9L16' ],
+      terablast: [ '9M' ],
+      toxic: [ '9M' ],
+      trailblaze: [ '9M' ],
+      uproar: [ '9M' ],
+      venoshock: [ '9M' ]
+    }
+  },
   chuggalong: {
     learnset: {
       acidspray: [ '9M' ],
@@ -114233,6 +114883,7 @@
       earthquake: [ '9M' ],
       encore: [ '9M' ],
       endure: [ '9M' ],
+      entrainment: [ '9E' ],
       facade: [ '9M' ],
       flashcannon: [ '9M' ],
       gigaimpact: [ '9M' ],
@@ -114271,8 +114922,9 @@
       surf: [ '9M' ],
       tackle: [ '9L1' ],
       takedown: [ '9M' ],
-      taunt: [ '9M', '9L12' ],
+      taunt: [ '9M', '9L16' ],
       terablast: [ '9M' ],
+      toxic: [ '9M' ],
       trailblaze: [ '9M' ],
       uproar: [ '9M' ],
       venoshock: [ '9M' ]
@@ -114290,30 +114942,110 @@
   },
   shox: {
     learnset: {
+      blizzard: [ '9M' ],
       bodyslam: [ '9M' ],
-      discharge: [ '9M' ],
-      doubleedge: [ '9M' ],
+      bulldoze: [ '9M' ],
+      charge: [ '9M', '9L15' ],
+      chargebeam: [ '9M' ],
+      charm: [ '9M', '9L1' ],
+      dig: [ '9M' ],
+      disarmingvoice: [ '9M' ],
+      discharge: [ '9L44' ],
+      doubleedge: [ '9M', '9L58' ],
+      earthpower: [ '9M' ],
+      earthquake: [ '9M' ],
+      eerieimpulse: [ '9M' ],
+      electricterrain: [ '9M' ],
+      electroball: [ '9M' ],
+      electroweb: [ '9M' ],
+      endeavor: [ '9M', '9E' ],
       endure: [ '9M' ],
       facade: [ '9M' ],
-      glare: [ '9M' ],
+      gigaimpact: [ '9M' ],
+      glare: [ '9E' ],
+      growl: [ '9L1' ],
+      headbutt: [ '9L20' ],
       helpinghand: [ '9M' ],
+      highhorsepower: [ '9M' ],
+      hornattack: [ '9L1' ],
+      hyperbeam: [ '9M' ],
       hypervoice: [ '9M' ],
       icebeam: [ '9M' ],
+      icywind: [ '9M' ],
+      ironhead: [ '9M' ],
       knockoff: [ '9M' ],
-      milkdrink: [ '9M' ],
-      nuzzle: [ '9M' ],
+      milkdrink: [ '9L30' ],
+      mudshot: [ '9M' ],
+      mudslap: [ '9M' ],
+      nuzzle: [ '9E' ],
+      playrough: [ '9M' ],
+      protect: [ '9M' ],
+      raindance: [ '9M' ],
+      rest: [ '9M' ],
+      rockslide: [ '9M' ],
+      rocktomb: [ '9M' ],
+      scaryface: [ '9M', '9L51' ],
+      seedbomb: [ '9M' ],
+      sleeptalk: [ '9M' ],
+      smartstrike: [ '9M' ],
+      spark: [ '9L25' ],
+      spitup: [ '9E' ],
+      stockpile: [ '9E' ],
+      stompingtantrum: [ '9M' ],
+      substitute: [ '9M' ],
+      sunnyday: [ '9M' ],
+      superfang: [ '9M' ],
+      supercellslam: [ '9M' ],
+      swallow: [ '9E' ],
+      tackle: [ '9L1' ],
+      takedown: [ '9M', '9L37' ],
+      terablast: [ '9M' ],
+      thief: [ '9M' ],
+      throatchop: [ '9M' ],
+      thunder: [ '9M' ],
+      thundershock: [ '9L1' ],
+      thunderwave: [ '9M', '9L1' ],
+      thunderbolt: [ '9M' ],
+      trailblaze: [ '9M' ],
+      uproar: [ '9M' ],
+      voltswitch: [ '9M' ],
+      wildcharge: [ '9M' ],
+      zapcannon: [ '9L65' ],
+      zenheadbutt: [ '9M' ]
+    }
+  },
+  ramnarok: {
+    learnset: {
+      avalanche: [ '9M' ],
+      blizzard: [ '9M' ],
+      endure: [ '9M' ],
+      facade: [ '9M' ],
+      fireblast: [ '9M' ],
+      firepunch: [ '9M' ],
+      flamethrower: [ '9M' ],
+      flareblitz: [ '9M' ],
+      flashcannon: [ '9M' ],
+      freezedry: [ '9M' ],
+      heatwave: [ '9M' ],
+      helpinghand: [ '9M' ],
+      icebeam: [ '9M' ],
+      iciclecrash: [ '9M' ],
+      iciclespear: [ '9M' ],
+      inferno: [ '9M' ],
+      irondefense: [ '9M' ],
+      ironhead: [ '9M' ],
+      lavaplume: [ '9M' ],
+      overheat: [ '9M' ],
+      polarflare: [ '9M' ],
       protect: [ '9M' ],
       rest: [ '9M' ],
       sleeptalk: [ '9M' ],
+      steelbeam: [ '9M' ],
       substitute: [ '9M' ],
-      superfang: [ '9M' ],
       takedown: [ '9M' ],
       terablast: [ '9M' ],
       thunder: [ '9M' ],
-      thunderwave: [ '9M' ],
-      thunderbolt: [ '9M' ],
-      voltswitch: [ '9M' ],
-      wildcharge: [ '9M' ]
+      willowisp: [ '9M' ]
     }
   },
   pokestarsmeargle: {

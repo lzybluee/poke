@@ -33765,6 +33765,56 @@ Rockruff (岩狗狗)
     Trailblaze (起草) : TM
     Zen Headbutt (意念头锤) : TM
 
+Rockruff-Dusk
+    Bite (咬住) : Level 20
+    Body Slam (泰山压顶) : TM
+    Bulldoze (重踏) : TM
+    Charm (撒娇) : TM
+    Crunch (咬碎) : TM, Level 36
+    Dig (挖洞) : TM
+    Double-Edge (舍身冲撞) : TM
+    Double Team (影子分身) : Level 8
+    Earth Power (大地之力) : TM
+    Endeavor (蛮干) : TM, Egg
+    Endure (挺住) : TM
+    Facade (硬撑) : TM
+    Fire Fang (火焰牙) : TM
+    Helping Hand (帮助) : TM
+    Howl (长嚎) : Level 16
+    Hyper Voice (巨声) : TM
+    Iron Defense (铁壁) : TM
+    Iron Head (铁头) : TM
+    Last Resort (珍藏) : Egg
+    Leer (瞪眼) : Level 1
+    Mud-Slap (掷泥) : TM
+    Play Rough (嬉闹) : TM
+    Protect (守住) : TM
+    Psychic Fangs (精神之牙) : TM
+    Rest (睡觉) : TM
+    Roar (吼叫) : TM, Level 28
+    Rock Slide (岩崩) : TM, Level 32
+    Rock Throw (落石) : Level 12
+    Rock Tomb (岩石封锁) : TM, Level 24
+    Sand Attack (泼沙) : Level 4
+    Sandstorm (沙暴) : TM
+    Scary Face (可怕面孔) : TM, Level 40
+    Sleep Talk (梦话) : TM
+    Snarl (大声咆哮) : TM
+    Stealth Rock (隐形岩) : TM, Level 44
+    Stomping Tantrum (跺脚) : TM
+    Stone Edge (尖石攻击) : TM, Level 48
+    Substitute (替身) : TM
+    Sucker Punch (突袭) : Egg
+    Swords Dance (剑舞) : TM
+    Tackle (撞击) : Level 1
+    Take Down (猛撞) : TM
+    Taunt (挑衅) : TM
+    Tera Blast (太晶爆发) : TM
+    Thrash (大闹一番) : Egg
+    Thunder Fang (雷电牙) : TM
+    Trailblaze (起草) : TM
+    Zen Headbutt (意念头锤) : TM
+
 Lycanroc (鬃岩狼人)
     Accelerock (冲岩) : Level 1
     Agility (高速移动) : TM
@@ -39853,59 +39903,6 @@ Overqwil (万针鱼)
     Water Pulse (水之波动) : TM
 
 Enamorus (眷恋云)
-    Agility (高速移动) : TM
-    Alluring Voice (魅诱之声) : TM
-    Astonish (惊吓) : Level 1
-    Body Slam (泰山压顶) : TM
-    Calm Mind (冥想) : TM
-    Dazzling Gleam (魔法闪耀) : TM, Level 40
-    Disarming Voice (魅惑之声) : TM
-    Draining Kiss (吸取之吻) : TM, Level 20
-    Earth Power (大地之力) : TM
-    Endure (挺住) : TM
-    Extrasensory (神通力) : Level 45
-    Facade (硬撑) : TM
-    Fairy Wind (妖精之风) : Level 1
-    Flatter (吹捧) : Level 10
-    Fly (飞翔) : TM
-    Focus Blast (真气弹) : TM
-    Giga Impact (终极冲击) : TM
-    Grass Knot (打草结) : TM
-    Grassy Terrain (青草场地) : TM
-    Healing Wish (治愈之愿) : Level 60
-    Hyper Beam (破坏光线) : TM
-    Imprison (封印) : TM, Level 30
-    Iron Defense (铁壁) : TM, Level 25
-    Iron Head (铁头) : TM
-    Misty Explosion (薄雾炸裂) : TM
-    Misty Terrain (薄雾场地) : TM
-    Moonblast (月亮之力) : Level 65
-    Mystical Fire (魔法火焰) : Level 35
-    Outrage (逆鳞) : TM, Level 70
-    Play Rough (嬉闹) : TM
-    Protect (守住) : TM
-    Psychic (精神强念) : TM
-    Psych Up (自我暗示) : TM
-    Rain Dance (求雨) : TM
-    Rest (睡觉) : TM
-    Scary Face (可怕面孔) : TM
-    Sleep Talk (梦话) : TM
-    Sludge Bomb (污泥炸弹) : TM
-    Springtide Storm (阳春风暴) : Level 75
-    Substitute (替身) : TM
-    Sunny Day (大晴天) : TM
-    Superpower (蛮力) : Level 55
-    Tailwind (顺风) : TM
-    Take Down (猛撞) : TM
-    Taunt (挑衅) : TM
-    Tera Blast (太晶爆发) : TM
-    Torment (无理取闹) : Level 5
-    Twister (龙卷风) : Level 15
-    Uproar (吵闹) : TM, Level 50
-    Weather Ball (气象球) : TM
-    Zen Headbutt (意念头锤) : TM
-
-Enamorus-Therian
     Agility (高速移动) : TM
     Alluring Voice (魅诱之声) : TM
     Astonish (惊吓) : Level 1

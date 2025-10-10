@@ -5,7 +5,7 @@ Aerilate (飞行皮肤)
 This Pokemon's Normal-type moves become Flying-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.
 
 Aftermath (诱爆)
-If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. If any active Pokemon has the Damp Ability, this effect is prevented.
+If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. This effect is prevented if the move's user has the Magic Guard Ability or if any active Pokemon has the Damp Ability.
 
 Air Lock (气闸)
 While this Pokemon is active, the effects of weather conditions are disabled.
@@ -20,7 +20,7 @@ Anger Shell (愤怒甲壳)
 When this Pokemon has more than 1/2 its maximum HP and takes damage from an attack bringing it to 1/2 or less of its maximum HP, its Attack, Special Attack, and Speed are raised by 1 stage, and its Defense and Special Defense are lowered by 1 stage. This effect applies after all hits from a multi-hit move. This effect is prevented if the move had a secondary effect removed by the Sheer Force Ability.
 
 Anticipation (危险预知)
-On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective against this Pokemon, or an OHKO move. This effect considers any move that deals direct damage as an attacking move of its respective type, Hidden Power counts as its determined type, and Judgment, Multi-Attack, Natural Gift, Revelation Dance, Techno Blast, and Weather Ball are considered Normal-type moves.
+On switch-in, this Pokemon is alerted if any opposing Pokemon has an attacking move with a type that is super effective against this Pokemon, or any OHKO move. This effect considers Hidden Power to be its determined type, and every other move to be its original type.
 
 Arena Trap (沙穴)
 Prevents opposing Pokemon from choosing to switch out unless they are airborne, are holding a Shed Shell, or are a Ghost type.
@@ -407,7 +407,7 @@ Magic Guard (魔法防守)
 This Pokemon can only be damaged by direct attacks. Curse and Substitute on use, Belly Drum, Pain Split, Struggle recoil, and confusion damage are considered direct damage.
 
 Magician (魔术师)
-If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack. Does not affect Doom Desire and Future Sight.
+If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack. Does not affect Doom Desire and Future Sight. If multiple targets are hit by an attack the item is stolen from the fastest Pokemon, while considering the effect of Trick Room and prioritizing opposing Pokemon before allies.
 
 Magma Armor (熔岩铠甲)
 This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.
@@ -674,7 +674,7 @@ Shell Armor (硬壳盔甲)
 This Pokemon cannot be struck by a critical hit.
 
 Shield Dust (鳞粉)
-This Pokemon is not affected by the secondary effect of another Pokemon's attack.
+This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, cause this Pokemon's stat stages to be lowered, as well as Anchor Shot, Eerie Spell, Fling, Psychic Noise, Salt Cure, Spirit Shackle, Syrup Bomb, and Throat Chop. The effect of Sparkling Aria is prevented if this Pokemon is the only target. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch, Stench, and Toxic Chain Abilities are also prevented against this Pokemon.
 
 Shields Down (界限盾壳)
 If this Pokemon is a Minior, it changes to its Core forme if it has 1/2 or less of its maximum HP, and changes to Meteor Form if it has more than 1/2 its maximum HP. This check is done on switch-in and at the end of each turn. While in its Meteor Form, it cannot become affected by a non-volatile status condition or Yawn.

@@ -200,7 +200,7 @@ Baton Pass
 Normal
 Status
 pow: 0, acc: true, pp: 40, pri: 0, target: self
-The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes, confusion, and certain move effects transferred to it.
+The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes transferred to it, as well as the effects of confusion, Aqua Ring, Curse, Embargo, Focus Energy, Gastro Acid, Heal Block, Ingrain, Leech Seed, Lock-On (Mind Reader), Magnet Rise, Perish Song, Power Trick, Telekinesis, the trapped effect of Mean Look (Block, Spider Web), and a substitute with its remaining HP. The effect of Gastro Acid is not transferred if the recipient has an Ability that cannot be affected. The effect of Telekinesis is not transferred if the recipient is Mega Gengar.
 
 Beat Up
 Dark

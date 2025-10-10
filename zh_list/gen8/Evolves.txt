@@ -549,7 +549,9 @@ Grubbin (强颚鸡母虫) -> Charjabug (虫电宝) -> Vikavolt (锹农炮虫)
 
 Cutiefly (萌虻) -> Ribombee (蝶结萌虻)
 
-Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人), Lycanroc-Midnight, Lycanroc-Dusk
+Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人), Lycanroc-Midnight
+
+Rockruff-Dusk -> Lycanroc-Dusk
 
 Wishiwashi (弱丁鱼)
 

@@ -164,7 +164,7 @@ Shell Armor (硬壳盔甲)
 This Pokemon cannot be struck by a critical hit.
 
 Shield Dust (鳞粉)
-This Pokemon is not affected by the secondary effect of another Pokemon's attack.
+This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, or cause this Pokemon's stat stages to be lowered. The secondary effect added by King's Rock is also prevented against this Pokemon.
 
 Soundproof (隔音)
 This Pokemon is immune to sound-based moves, including Heal Bell.

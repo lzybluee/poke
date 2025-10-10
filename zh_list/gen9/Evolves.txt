@@ -535,7 +535,9 @@ Oricorio (花舞鸟)
 
 Cutiefly (萌虻) -> Ribombee (蝶结萌虻)
 
-Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人), Lycanroc-Midnight, Lycanroc-Dusk
+Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人), Lycanroc-Midnight
+
+Rockruff-Dusk -> Lycanroc-Dusk
 
 Mareanie (好坏星) -> Toxapex (超坏星)
 

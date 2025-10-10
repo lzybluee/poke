@@ -71,12 +71,25 @@
     name: 'partiallytrapped',
     duration: 2,
     onBeforeMovePriority: 9,
-    onBeforeMove: [Function: onBeforeMove]
+    onBeforeMove: [Function: onBeforeMove],
+    onRestart: [Function: onRestart],
+    onAccuracy: [Function: onAccuracy],
+    onLockMove: [Function: onLockMove],
+    onDisableMove: [Function: onDisableMove]
+  },
+  fakepartiallytrapped: {
+    name: 'fakepartiallytrapped',
+    duration: 2,
+    onDisableMove: [Function: onDisableMove]
   },
   partialtrappinglock: {
     name: 'partialtrappinglock',
     durationCallback: [Function: durationCallback],
     onStart: [Function: onStart],
+    onOverrideAction: [Function: onOverrideAction],
+    onBeforeMove: [Function: onBeforeMove],
+    onAfterMove: [Function: onAfterMove],
+    onLockMove: [Function: onLockMove],
     onDisableMove: [Function: onDisableMove]
   },
   mustrecharge: {
@@ -85,13 +98,15 @@
     onBeforeMovePriority: 7,
     onBeforeMove: [Function: onBeforeMove],
     onStart: [Function: onStart],
-    onLockMove: 'recharge'
+    onLockMove: 'recharge',
+    onAfterMove: [Function: onAfterMove]
   },
   lockedmove: {
     name: 'lockedmove',
     onStart: [Function: onStart],
     onLockMove: [Function: onLockMove],
-    onBeforeTurn: [Function: onBeforeTurn]
+    onBeforeTurn: [Function: onBeforeTurn],
+    onAfterMove: [Function: onAfterMove]
   },
   twoturnmove: {
     name: 'twoturnmove',
@@ -192,7 +207,6 @@
   healreplacement: {
     name: 'healreplacement',
     onStart: [Function: onStart],
-    onSwitchInPriority: 1,
     onSwitchIn: [Function: onSwitchIn]
   },
   primordialsea: {
@@ -220,8 +234,8 @@
     onFieldResidual: [Function: onFieldResidual],
     onFieldEnd: [Function: onFieldEnd]
   },
-  snow: {
-    name: 'Snow',
+  snowscape: {
+    name: 'Snowscape',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],

@@ -29,6 +29,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 22,
   onUpdate: [Function: onUpdate],
   onResidualOrder: 10,
@@ -66,6 +67,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 32,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -104,6 +106,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 35,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -142,6 +145,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 51,
   onModifyAccuracyPriority: 5,
   onModifyAccuracy: [Function: onModifyAccuracy]
@@ -177,6 +181,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 61,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -215,6 +220,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 106,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -252,6 +258,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 108,
   onModifyDamage: [Function: onModifyDamage]
 },
@@ -286,6 +293,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 137
 },
 Item {
@@ -319,6 +327,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 150,
   onDamagePriority: -40,
   onDamage: [Function: onDamage]
@@ -354,6 +363,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 187,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -392,6 +402,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 194
 },
 Item {
@@ -425,6 +436,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 236,
   onModifyMovePriority: -1,
   onModifyMove: [Function: onModifyMove]
@@ -460,6 +472,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 242,
   onResidualOrder: 5,
   onResidualSubOrder: 1,
@@ -496,6 +509,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 246
 },
 Item {
@@ -538,6 +552,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 251,
   onModifyAtkPriority: 1,
   onModifyAtk: [Function: onModifyAtk],
@@ -576,6 +591,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 258
 },
 Item {
@@ -609,6 +625,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 261,
   onModifyCritRatio: [Function: onModifyCritRatio],
   onModifyCritRatioPriority: -1
@@ -644,6 +661,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 264
 },
 Item {
@@ -677,6 +695,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 273,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -715,6 +734,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 286,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -753,6 +773,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 287,
   onModifyDefPriority: 2,
   onModifyDef: [Function: onModifyDef],
@@ -789,6 +810,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 292,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -827,6 +849,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 294
 },
 Item {
@@ -860,6 +883,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 300,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -898,6 +922,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 305,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -936,6 +961,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 343,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -974,6 +1000,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 436,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -1012,6 +1039,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 447,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -1050,6 +1078,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 456,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -1088,6 +1117,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 461,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -1126,6 +1156,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 465
 },
 Item {
@@ -1159,6 +1190,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 475,
   onModifyCritRatio: [Function: onModifyCritRatio],
   onModifyCritRatioPriority: -1
@@ -1194,6 +1226,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 491,
   onModifyAtkPriority: 1,
   onModifyAtk: [Function: onModifyAtk]
@@ -1229,6 +1262,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 520,
   onBasePowerPriority: 15,
   onBasePower: [Function: onBasePower],
@@ -1267,6 +1301,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 388,
   onUpdate: [Function: onUpdate],
   boosts: { atk: 2 }
@@ -1302,9 +1337,10 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 319,
   naturalGift: { basePower: 80, type: 'Poison' },
-  onResidualOrder: 5,
+  onResidualOrder: 10,
   onResidual: [Function: onResidual],
   onTryEatItem: [Function: onTryEatItem],
   onEat: [Function: onEat]
@@ -1340,6 +1376,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 334,
   naturalGift: { basePower: 80, type: 'Ground' },
   onUpdate: [Function: onUpdate],
@@ -1376,6 +1413,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 13,
   naturalGift: { basePower: 80, type: 'Ice' },
   onUpdate: [Function: onUpdate],
@@ -1412,9 +1450,10 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 448,
   naturalGift: { basePower: 80, type: 'Psychic' },
-  onResidualOrder: 5,
+  onResidualOrder: 10,
   onResidual: [Function: onResidual],
   onTryEatItem: [Function: onTryEatItem],
   onEat: [Function: onEat]
@@ -1450,6 +1489,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 381,
   naturalGift: { basePower: 80, type: 'Grass' },
   onUpdate: [Function: onUpdate],
@@ -1486,6 +1526,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 65,
   naturalGift: { basePower: 80, type: 'Water' },
   onUpdate: [Function: onUpdate],
@@ -1522,6 +1563,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 262,
   naturalGift: { basePower: 80, type: 'Flying' },
   onUpdate: [Function: onUpdate],
@@ -1558,6 +1600,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 244,
   naturalGift: { basePower: 80, type: 'Fighting' },
   onUpdate: [Function: onUpdate],
@@ -1594,6 +1637,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 444,
   onBasePower: [Function: onBasePower],
   onModifyDamage: [Function: onModifyDamage]
@@ -1629,6 +1673,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 444,
   onBasePower: [Function: onBasePower],
   onModifyDamage: [Function: onModifyDamage]
@@ -1664,6 +1709,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 63,
   naturalGift: { basePower: 80, type: 'Fire' },
   onUpdate: [Function: onUpdate],
@@ -1700,6 +1746,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 333,
   naturalGift: { basePower: 80, type: 'Electric' },
   onUpdate: [Function: onUpdate],
@@ -1736,6 +1783,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   onFractionalPriorityPriority: -2,
   onFractionalPriority: [Function: onFractionalPriority],
   spritenum: 373
@@ -1771,6 +1819,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 403,
   onTakeItem: [Function: onTakeItem]
 },
@@ -1805,6 +1854,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 523
 },
 Item {
@@ -1838,6 +1888,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 142
 },
 Item {
@@ -1871,6 +1922,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 153
 },
 Item {
@@ -1904,6 +1956,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 174
 },
 Item {
@@ -1937,6 +1990,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 241
 },
 Item {
@@ -1970,6 +2024,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 276
 },
 Item {
@@ -2003,6 +2058,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 295
 },
 Item {
@@ -2036,6 +2092,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 345
 },
 Item {
@@ -2069,6 +2126,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 429,
   onModifyCritRatio: [Function: onModifyCritRatio]
 },
@@ -2103,6 +2161,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 480
 },
 Item {
@@ -2136,6 +2195,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 492
 },
 Item {
@@ -2169,6 +2229,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 521
 },
 Item {
@@ -2202,5 +2263,6 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 529
 }

@@ -2,7 +2,7 @@ Adaptability
 This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.
 
 Aftermath
-If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. If any active Pokemon has the Damp Ability, this effect is prevented.
+If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. This effect is prevented if the move's user has the Magic Guard Ability or if any active Pokemon has the Damp Ability.
 
 Air Lock
 While this Pokemon is active, the effects of weather conditions are disabled.
@@ -11,7 +11,7 @@ Anger Point
 If this Pokemon, or its substitute, is struck by a critical hit, its Attack is raised by 12 stages.
 
 Anticipation
-On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective against this Pokemon, or an OHKO move that this Pokemon is not immune to and if its level is less than or equal to the opposing Pokemon's level. This effect does not consider Counter, Dragon Rage, Metal Burst, Mirror Coat, Night Shade, Psywave, or Seismic Toss as attacking moves, and Hidden Power, Judgment, Natural Gift, and Weather Ball are considered Normal-type moves. This effect considers any changes to the effectiveness of attacks against this Pokemon due to the effects of Gravity or the Normalize or Scrappy Abilities.
+On switch-in, this Pokemon is alerted if any opposing Pokemon has an attacking move with a type that is super effective against this Pokemon, or any OHKO move if this Pokemon is not immune to the type and the Pokemon with the move is not a lower level than this Pokemon. This effect considers moves to be their original type. This effect is not activated by Counter, Dragon Rage, Metal Burst, Mirror Coat, Night Shade, Psywave, or Seismic Toss. This effect checks if this Pokemon is holding an Iron Ball, if it is under the effects of Foresight (Odor Sleuth), Gravity, Ingrain, Miracle Eye, or Roost, and whether each opposing Pokemon has the Normalize or Scrappy Abilities before determining if their attacks fit the conditions.
 
 Arena Trap
 Prevents opposing Pokemon from choosing to switch out unless they are airborne or holding a Shed Shell.
@@ -254,7 +254,7 @@ Shell Armor
 This Pokemon cannot be struck by a critical hit.
 
 Shield Dust
-This Pokemon is not affected by the secondary effect of another Pokemon's attack.
+This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, cause this Pokemon's stat stages to be lowered, and Fling. Secondary effects added by King's Rock and Razor Fang are also prevented against this Pokemon.
 
 Simple
 This Pokemon's stat stages are considered doubled during stat calculations. A stat stage cannot be considered more than 6 or less than -6.

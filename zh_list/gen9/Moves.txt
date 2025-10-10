@@ -242,7 +242,7 @@ Baton Pass (接棒)
 Normal
 Status
 pow: 0, acc: true, pp: 40, pri: 0, target: self
-The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes, confusion, and certain move effects transferred to it.
+The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes transferred to it, as well as the effects of confusion, Aqua Ring, Curse, Dragon Cheer, Embargo, Focus Energy, Gastro Acid, Heal Block, Ingrain, Leech Seed, Lock-On (Mind Reader), Magnet Rise, Perish Song, Power Trick, Telekinesis, and a substitute with its remaining HP. The effect of Gastro Acid is not transferred if the recipient has an Ability that cannot be affected.
 
 Beak Blast (鸟嘴加农炮)
 Flying
@@ -332,7 +332,7 @@ Block (挡路)
 Normal
 Status
 pow: 0, acc: true, pp: 5, pri: 0, target: normal
-Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field.
 
 Blood Moon (血月)
 Normal
@@ -524,7 +524,7 @@ Chloroblast (叶绿爆震)
 Grass
 Special
 pow: 150, acc: 95, pp: 5, pri: 0, target: normal
-If this move is successful, the user loses 1/2 of its maximum HP, rounded up, unless the user has the Magic Guard Ability.
+If this move is successful, the user loses 1/2 of its maximum HP, rounded up, unless the user has the Magic Guard or Rock Head Abilities.
 
 Circle Throw (巴投)
 Fighting
@@ -2120,7 +2120,7 @@ Mean Look (黑色目光)
 Normal
 Status
 pow: 0, acc: true, pp: 5, pri: 0, target: normal
-Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field.
 
 Mega Drain (超级吸取)
 Grass
@@ -2336,7 +2336,7 @@ No Retreat (背水一战)
 Fighting
 Status
 pow: 0, acc: true, pp: 5, pri: 0, target: self
-Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage, but it becomes prevented from switching out. The user can still switch out if it uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the user leaves the field using Baton Pass, the replacement will remain trapped. Fails if the user has already been prevented from switching by this effect.
+Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage, but it becomes prevented from switching out. The user can still switch out if it uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. Fails if the user has already been prevented from switching by this effect.
 
 Noble Roar (战吼)
 Normal
@@ -3314,7 +3314,7 @@ Spirit Shackle (缝影)
 Ghost
 Physical
 pow: 80, acc: 100, pp: 10, pri: 0, target: normal
-Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field.
+Prevents the target from switching out. The target can still switch out if it is holding Shed Shell or uses Baton Pass, Flip Turn, Parting Shot, Teleport, U-turn, or Volt Switch. The effect ends if either the user or the target leaves the field.
 
 Spit Up (喷出)
 Normal
@@ -3770,7 +3770,7 @@ Tidy Up (大扫除)
 Normal
 Status
 pow: 0, acc: true, pp: 10, pri: 0, target: self
-Raises the user's Attack and Speed by 1 stage. Removes subtitutes from all active Pokemon and ends the effects of Spikes, Stealth Rock, Sticky Web, and Toxic Spikes for both sides.
+Raises the user's Attack and Speed by 1 stage. Removes substitutes from all active Pokemon and ends the effects of Spikes, Stealth Rock, Sticky Web, and Toxic Spikes for both sides.
 
 Topsy-Turvy (颠倒)
 Dark

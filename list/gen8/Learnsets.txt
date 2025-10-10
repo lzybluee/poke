@@ -31179,6 +31179,47 @@ Rockruff
     Thunder Fang : TM
     Zen Headbutt : TM
 
+Rockruff-Dusk
+    Attract : TM
+    Bite : Level 20
+    Crunch : TM, Level 36
+    Double Team : Level 8
+    Earth Power : TM
+    Endeavor : Egg
+    Endure : TM
+    Facade : TM
+    Fire Fang : TM
+    Howl : Level 16
+    Hyper Voice : TM
+    Iron Defense : TM
+    Iron Head : TM
+    Iron Tail : TM
+    Last Resort : Egg
+    Leer : Level 1
+    Play Rough : TM
+    Protect : TM
+    Rest : TM
+    Roar : Level 28
+    Rock Slide : TM, Level 32
+    Rock Throw : Level 12
+    Rock Tomb : TM, Level 24
+    Round : TM
+    Sand Attack : Level 4
+    Scary Face : TM, Level 40
+    Sleep Talk : TM
+    Snarl : TM
+    Snore : TM
+    Stealth Rock : TM, Level 44
+    Stomping Tantrum : TM
+    Stone Edge : TM, Level 48
+    Substitute : TM
+    Swords Dance : TM
+    Tackle : Level 1
+    Taunt : TM
+    Thrash : Egg
+    Thunder Fang : TM
+    Zen Headbutt : TM
+
 Lycanroc
     Accelerock : Level 1
     Agility : TM

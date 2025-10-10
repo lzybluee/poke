@@ -76,6 +76,7 @@
     durationCallback: [Function: durationCallback],
     onResidual: [Function: onResidual],
     onStart: [Function: onStart],
+    onAfterMove: [Function: onAfterMove],
     onEnd: [Function: onEnd],
     onLockMove: [Function: onLockMove],
     onMoveAborted: [Function: onMoveAborted],
@@ -199,7 +200,6 @@
   healreplacement: {
     name: 'healreplacement',
     onStart: [Function: onStart],
-    onSwitchInPriority: 1,
     onSwitchIn: [Function: onSwitchIn]
   },
   primordialsea: {
@@ -227,8 +227,8 @@
     onFieldResidual: [Function: onFieldResidual],
     onFieldEnd: [Function: onFieldEnd]
   },
-  snow: {
-    name: 'Snow',
+  snowscape: {
+    name: 'Snowscape',
     effectType: 'Weather',
     duration: 5,
     durationCallback: [Function: durationCallback],

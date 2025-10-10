@@ -3,18 +3,26 @@
   gen: 1,
   init: [Function: init],
   pokemon: {
+    inherit: true,
+    getActionSpeed: [Function: getActionSpeed],
     getStat: [Function: getStat],
-    modifyStat: [Function: modifyStat],
     boostBy: [Function: boostBy],
+    modifyStat: [Function: modifyStat],
     clearBoosts: [Function: clearBoosts]
   },
   actions: {
-    runMove: [Function: runMove],
-    useMove: [Function: useMove],
+    inherit: true,
+    runSwitch: [Function: runSwitch],
+    modifyDamage: [Function: modifyDamage],
+    hitStepInvulnerabilityEvent: [Function: hitStepInvulnerabilityEvent],
+    hitStepAccuracy: [Function: hitStepAccuracy],
+    calcRecoilDamage: [Function: calcRecoilDamage],
     useMoveInner: [Function: useMoveInner],
     tryMoveHit: [Function: tryMoveHit],
+    runMove: [Function: runMove],
     moveHit: [Function: moveHit],
-    getDamage: [Function: getDamage]
+    getDamage: [Function: getDamage],
+    useMove: [Function: useMove]
   },
   boost: [Function: boost]
 }

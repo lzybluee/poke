@@ -5,7 +5,7 @@ Aerilate (飞行皮肤)
 This Pokemon's Normal-type moves become Flying-type moves and have their power multiplied by 1.3. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.
 
 Aftermath (诱爆)
-If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. If any active Pokemon has the Damp Ability, this effect is prevented.
+If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. This effect is prevented if the move's user has the Magic Guard Ability or if any active Pokemon has the Damp Ability.
 
 Air Lock (气闸)
 While this Pokemon is active, the effects of weather conditions are disabled.
@@ -17,7 +17,7 @@ Anger Point (愤怒穴位)
 If this Pokemon, but not its substitute, is struck by a critical hit, its Attack is raised by 12 stages.
 
 Anticipation (危险预知)
-On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective against this Pokemon, or an OHKO move. This effect considers any move that deals direct damage as an attacking move of its respective type, Hidden Power counts as its determined type, and Judgment, Natural Gift, Techno Blast, and Weather Ball are considered Normal-type moves.
+On switch-in, this Pokemon is alerted if any opposing Pokemon has an attacking move with a type that is super effective against this Pokemon, or any OHKO move. This effect considers Hidden Power to be its determined type, and every other move to be its original type.
 
 Arena Trap (沙穴)
 Prevents adjacent opposing Pokemon from choosing to switch out unless they are airborne, are holding a Shed Shell, or are a Ghost type.
@@ -254,7 +254,7 @@ Magic Guard (魔法防守)
 This Pokemon can only be damaged by direct attacks. Curse and Substitute on use, Belly Drum, Pain Split, Struggle recoil, and confusion damage are considered direct damage.
 
 Magician (魔术师)
-If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack. Does not affect Doom Desire and Future Sight.
+If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack. Does not affect Doom Desire and Future Sight. If multiple targets are hit by an attack the item is stolen from the fastest Pokemon, while considering the effect of Trick Room and prioritizing opposing Pokemon before allies.
 
 Magma Armor (熔岩铠甲)
 This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.
@@ -416,7 +416,7 @@ Shell Armor (硬壳盔甲)
 This Pokemon cannot be struck by a critical hit.
 
 Shield Dust (鳞粉)
-This Pokemon is not affected by the secondary effect of another Pokemon's attack.
+This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, cause this Pokemon's stat stages to be lowered, and Fling. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch and Stench Abilities are also prevented against this Pokemon.
 
 Simple (单纯)
 When one of this Pokemon's stat stages is raised or lowered, the amount is doubled.

@@ -46774,6 +46774,57 @@ Rockruff
     Toxic : TM
     Zen Headbutt : Tutor
 
+Rockruff-Dusk
+    Attract : TM
+    Bite : Level 7
+    Confide : TM
+    Covet : Tutor
+    Crunch : Level 40
+    Crush Claw : Egg
+    Double Team : TM
+    Earth Power : Tutor
+    Echoed Voice : TM
+    Endeavor : Tutor
+    Facade : TM
+    Fire Fang : Egg
+    Frustration : TM
+    Hidden Power : TM
+    Howl : Level 12
+    Hyper Voice : Tutor
+    Iron Defense : Tutor
+    Iron Head : Tutor
+    Iron Tail : Tutor
+    Last Resort : Tutor
+    Leer : Level 1
+    Odor Sleuth : Level 18
+    Protect : TM
+    Rest : TM
+    Return : TM
+    Roar : TM, Level 26
+    Rock Climb : Level 45
+    Rock Polish : TM
+    Rock Slide : TM, Level 34
+    Rock Throw : Level 15
+    Rock Tomb : TM, Level 23
+    Round : TM
+    Sand Attack : Level 4
+    Scary Face : Level 37
+    Sleep Talk : TM
+    Snarl : TM
+    Snore : Tutor
+    Stealth Rock : Tutor, Level 29
+    Stomping Tantrum : Tutor
+    Stone Edge : TM, Level 48
+    Substitute : TM
+    Sucker Punch : Egg
+    Swagger : TM
+    Tackle : Level 1
+    Taunt : TM
+    Thrash : Egg
+    Thunder Fang : Egg
+    Toxic : TM
+    Zen Headbutt : Tutor
+
 Lycanroc
     Accelerock : Level 1
     Attract : TM

@@ -29,6 +29,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 142
 },
 Item {
@@ -62,6 +63,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 174
 },
 Item {
@@ -95,6 +97,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 241
 },
 Item {
@@ -128,6 +131,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 276
 },
 Item {
@@ -161,6 +165,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 295
 },
 Item {
@@ -194,6 +199,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 345
 },
 Item {
@@ -227,6 +233,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 492
 },
 Item {
@@ -260,6 +267,7 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: true,
+  isPrimalOrb: false,
   spritenum: 521
 },
 Item {
@@ -293,5 +301,6 @@ Item {
   onPlate: undefined,
   isGem: false,
   isPokeball: false,
+  isPrimalOrb: false,
   spritenum: 529
 }

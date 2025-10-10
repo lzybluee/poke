@@ -68,7 +68,7 @@ Baton Pass (接棒)
 Normal
 Status
 pow: 0, acc: true, pp: 40, pri: 0, target: self
-The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes, confusion, and certain move effects transferred to it.
+The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes transferred to it, as well as the effects of confusion, Curse, Defense Curl, Focus Energy, Foresight, Leech Seed, Lock-On (Mind Reader), Minimize, Mist, Perish Song, the trapper or trapped effects of Mean Look (Spider Web), and a substitute with its remaining HP.
 
 Beat Up (围攻)
 Dark

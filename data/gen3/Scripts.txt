@@ -5,6 +5,7 @@
   pokemon: { inherit: true, getActionSpeed: [Function: getActionSpeed] },
   actions: {
     inherit: true,
+    runSwitch: [Function: runSwitch],
     modifyDamage: [Function: modifyDamage],
     hitStepInvulnerabilityEvent: [Function: hitStepInvulnerabilityEvent],
     hitStepAccuracy: [Function: hitStepAccuracy],

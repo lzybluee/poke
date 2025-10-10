@@ -563,7 +563,7 @@
     pp: 15,
     priority: 0,
     flags: { protect: 1, mirror: 1, sound: 1, metronome: 1 },
-    onTry: [Function: onTry],
+    onTryMove: [Function: onTryMove],
     condition: {
       duration: 2,
       onFieldStart: [Function: onFieldStart],
@@ -982,8 +982,7 @@
     target: 'any',
     type: 'Psychic',
     zMove: { effect: 'clearnegativeboost' },
-    contestType: 'Beautiful',
-    heal: [ 1, 2 ]
+    contestType: 'Beautiful'
   },
   heatwave: {
     num: 257,
@@ -1473,6 +1472,30 @@
     target: 'normal',
     type: 'Fighting',
     contestType: 'Clever'
+  },
+  magiccoat: {
+    num: 277,
+    accuracy: true,
+    basePower: 0,
+    category: 'Status',
+    isNonstandard: null,
+    name: 'Magic Coat',
+    pp: 15,
+    priority: 4,
+    flags: { metronome: 1 },
+    volatileStatus: 'magiccoat',
+    condition: {
+      duration: 1,
+      onStart: [Function: onStart],
+      onTryHitPriority: 2,
+      onTryHit: [Function: onTryHit],
+      onAllyTryHitSide: [Function: onAllyTryHitSide]
+    },
+    secondary: null,
+    target: 'self',
+    type: 'Psychic',
+    zMove: { boost: { spd: 2 } },
+    contestType: 'Beautiful'
   },
   magicroom: {
     num: 478,
@@ -2851,6 +2874,7 @@
     volatileStatus: 'destinybond',
     onPrepareHit: [Function: onPrepareHit],
     condition: {
+      noCopy: true,
       onStart: [Function: onStart],
       onFaint: [Function: onFaint],
       onBeforeMovePriority: -1,
@@ -3006,6 +3030,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'mistyterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onSetStatus: [Function: onSetStatus],
@@ -3833,6 +3858,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'electricterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onSetStatus: [Function: onSetStatus],
@@ -4095,6 +4121,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'grassyterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onBasePower: [Function: onBasePower],
@@ -4171,11 +4198,7 @@
     onTryHit: [Function: onTryHit],
     selfdestruct: 'ifHit',
     slotCondition: 'healingwish',
-    condition: {
-      duration: 2,
-      onSwitchInPriority: 1,
-      onSwitchIn: [Function: onSwitchIn]
-    },
+    condition: { duration: 2, onSwitchIn: [Function: onSwitchIn] },
     secondary: null,
     target: 'self',
     type: 'Psychic',
@@ -4614,11 +4637,7 @@
     onTryHit: [Function: onTryHit],
     selfdestruct: 'ifHit',
     slotCondition: 'lunardance',
-    condition: {
-      duration: 2,
-      onSwitchInPriority: 1,
-      onSwitchIn: [Function: onSwitchIn]
-    },
+    condition: { duration: 2, onSwitchIn: [Function: onSwitchIn] },
     secondary: null,
     target: 'self',
     type: 'Psychic',
@@ -5031,6 +5050,7 @@
     flags: { nonsky: 1, metronome: 1 },
     terrain: 'psychicterrain',
     condition: {
+      effectType: 'Terrain',
       duration: 5,
       durationCallback: [Function: durationCallback],
       onTryHitPriority: 4,
@@ -5915,23 +5935,6 @@
     contestType: 'Tough',
     isNonstandard: null
   },
-  trick: {
-    num: 271,
-    accuracy: 100,
-    basePower: 0,
-    category: 'Status',
-    name: 'Trick',
-    pp: 10,
-    priority: 0,
-    flags: { protect: 1, mirror: 1, allyanim: 1, noassist: 1, failcopycat: 1 },
-    onTryImmunity: [Function: onTryImmunity],
-    onHit: [Function: onHit],
-    secondary: null,
-    target: 'normal',
-    type: 'Psychic',
-    zMove: { boost: { spe: 2 } },
-    contestType: 'Clever'
-  },
   trumpcard: {
     num: 376,
     accuracy: true,
@@ -6622,30 +6625,6 @@
     target: 'normal',
     type: 'Psychic',
     contestType: 'Clever'
-  },
-  magiccoat: {
-    num: 277,
-    accuracy: true,
-    basePower: 0,
-    category: 'Status',
-    isNonstandard: null,
-    name: 'Magic Coat',
-    pp: 15,
-    priority: 4,
-    flags: { metronome: 1 },
-    volatileStatus: 'magiccoat',
-    condition: {
-      duration: 1,
-      onStart: [Function: onStart],
-      onTryHitPriority: 2,
-      onTryHit: [Function: onTryHit],
-      onAllyTryHitSide: [Function: onAllyTryHitSide]
-    },
-    secondary: null,
-    target: 'self',
-    type: 'Psychic',
-    zMove: { boost: { spd: 2 } },
-    contestType: 'Beautiful'
   },
   matblock: {
     num: 561,
@@ -7423,7 +7402,7 @@
     sideCondition: 'stickyweb',
     condition: {
       onSideStart: [Function: onSideStart],
-      onEntryHazard: [Function: onEntryHazard]
+      onSwitchIn: [Function: onSwitchIn]
     },
     secondary: null,
     target: 'foeSide',
@@ -8629,9 +8608,15 @@
     pp: 10,
     priority: 0,
     flags: {},
-    weather: 'snow',
+    priorityChargeCallback: [Function: priorityChargeCallback],
+    weather: 'snowscape',
     selfSwitch: true,
     secondary: null,
+    condition: {
+      duration: 1,
+      onBeforeMovePriority: 100,
+      onBeforeMove: [Function: onBeforeMove]
+    },
     target: 'all',
     type: 'Ice'
   },
@@ -11029,7 +11014,7 @@
     self: { onHit: [Function: onHit] },
     condition: {
       onSideStart: [Function: onSideStart],
-      onEntryHazard: [Function: onEntryHazard]
+      onSwitchIn: [Function: onSwitchIn]
     },
     secondary: null,
     target: 'adjacentFoe',
@@ -12806,7 +12791,6 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Dragon',
@@ -12915,7 +12899,6 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Grass',
@@ -13509,7 +13492,6 @@
     priority: 0,
     flags: { protect: 1, mirror: 1 },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Fire'
@@ -14419,7 +14401,7 @@
     pp: 10,
     priority: 0,
     flags: {},
-    weather: 'snow',
+    weather: 'snowscape',
     secondary: null,
     target: 'all',
     type: 'Ice'
@@ -14510,7 +14492,7 @@
     pp: 10,
     priority: 0,
     flags: { protect: 1, mirror: 1, sound: 1, bypasssub: 1, metronome: 1 },
-    secondary: { dustproof: true, chance: 100, volatileStatus: 'sparklingaria' },
+    secondary: { chance: 100, volatileStatus: 'sparklingaria' },
     onAfterMove: [Function: onAfterMove],
     target: 'allAdjacent',
     type: 'Water',
@@ -14559,7 +14541,7 @@
     condition: {
       onSideStart: [Function: onSideStart],
       onSideRestart: [Function: onSideRestart],
-      onEntryHazard: [Function: onEntryHazard]
+      onSwitchIn: [Function: onSwitchIn]
     },
     secondary: null,
     target: 'foeSide',
@@ -14730,7 +14712,7 @@
     sideCondition: 'stealthrock',
     condition: {
       onSideStart: [Function: onSideStart],
-      onEntryHazard: [Function: onEntryHazard]
+      onSwitchIn: [Function: onSwitchIn]
     },
     secondary: null,
     target: 'foeSide',
@@ -15337,7 +15319,6 @@
       failinstruct: 1
     },
     self: { volatileStatus: 'lockedmove' },
-    onAfterMove: [Function: onAfterMove],
     secondary: null,
     target: 'randomNormal',
     type: 'Normal',
@@ -15567,7 +15548,7 @@
     condition: {
       onSideStart: [Function: onSideStart],
       onSideRestart: [Function: onSideRestart],
-      onEntryHazard: [Function: onEntryHazard]
+      onSwitchIn: [Function: onSwitchIn]
     },
     secondary: null,
     target: 'foeSide',
@@ -15625,6 +15606,23 @@
     target: 'normal',
     type: 'Normal',
     contestType: 'Beautiful'
+  },
+  trick: {
+    num: 271,
+    accuracy: 100,
+    basePower: 0,
+    category: 'Status',
+    name: 'Trick',
+    pp: 10,
+    priority: 0,
+    flags: { protect: 1, mirror: 1, allyanim: 1, noassist: 1, failcopycat: 1 },
+    onTryImmunity: [Function: onTryImmunity],
+    onHit: [Function: onHit],
+    secondary: null,
+    target: 'normal',
+    type: 'Psychic',
+    zMove: { boost: { spe: 2 } },
+    contestType: 'Clever'
   },
   trickroom: {
     num: 433,
@@ -16254,7 +16252,7 @@
     contestType: 'Cool'
   },
   paleowave: {
-    num: 0,
+    num: -1,
     accuracy: 100,
     basePower: 85,
     category: 'Special',
@@ -16269,7 +16267,7 @@
     contestType: 'Beautiful'
   },
   shadowstrike: {
-    num: 0,
+    num: -2,
     accuracy: 95,
     basePower: 80,
     category: 'Physical',
@@ -16282,5 +16280,22 @@
     target: 'normal',
     type: 'Ghost',
     contestType: 'Clever'
+  },
+  polarflare: {
+    num: -3,
+    accuracy: 100,
+    basePower: 75,
+    category: 'Special',
+    isNonstandard: 'CAP',
+    name: 'Polar Flare',
+    pp: 10,
+    priority: 0,
+    flags: { protect: 1, mirror: 1, defrost: 1, nosketch: 1 },
+    secondary: { chance: 10, status: 'frz' },
+    onHit: [Function: onHit],
+    onAfterMoveSecondarySelf: [Function: onAfterMoveSecondarySelf],
+    target: 'allAdjacentFoes',
+    type: 'Fire',
+    contestType: 'Beautiful'
   }
 }

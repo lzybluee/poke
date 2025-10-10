@@ -31179,6 +31179,47 @@ Rockruff (岩狗狗)
     Thunder Fang (雷电牙) : TM
     Zen Headbutt (意念头锤) : TM
 
+Rockruff-Dusk
+    Attract (迷人) : TM
+    Bite (咬住) : Level 20
+    Crunch (咬碎) : TM, Level 36
+    Double Team (影子分身) : Level 8
+    Earth Power (大地之力) : TM
+    Endeavor (蛮干) : Egg
+    Endure (挺住) : TM
+    Facade (硬撑) : TM
+    Fire Fang (火焰牙) : TM
+    Howl (长嚎) : Level 16
+    Hyper Voice (巨声) : TM
+    Iron Defense (铁壁) : TM
+    Iron Head (铁头) : TM
+    Iron Tail (铁尾) : TM
+    Last Resort (珍藏) : Egg
+    Leer (瞪眼) : Level 1
+    Play Rough (嬉闹) : TM
+    Protect (守住) : TM
+    Rest (睡觉) : TM
+    Roar (吼叫) : Level 28
+    Rock Slide (岩崩) : TM, Level 32
+    Rock Throw (落石) : Level 12
+    Rock Tomb (岩石封锁) : TM, Level 24
+    Round (轮唱) : TM
+    Sand Attack (泼沙) : Level 4
+    Scary Face (可怕面孔) : TM, Level 40
+    Sleep Talk (梦话) : TM
+    Snarl (大声咆哮) : TM
+    Snore (打鼾) : TM
+    Stealth Rock (隐形岩) : TM, Level 44
+    Stomping Tantrum (跺脚) : TM
+    Stone Edge (尖石攻击) : TM, Level 48
+    Substitute (替身) : TM
+    Swords Dance (剑舞) : TM
+    Tackle (撞击) : Level 1
+    Taunt (挑衅) : TM
+    Thrash (大闹一番) : Egg
+    Thunder Fang (雷电牙) : TM
+    Zen Headbutt (意念头锤) : TM
+
 Lycanroc (鬃岩狼人)
     Accelerock (冲岩) : Level 1
     Agility (高速移动) : TM

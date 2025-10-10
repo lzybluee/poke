@@ -33765,6 +33765,56 @@ Rockruff
     Trailblaze : TM
     Zen Headbutt : TM
 
+Rockruff-Dusk
+    Bite : Level 20
+    Body Slam : TM
+    Bulldoze : TM
+    Charm : TM
+    Crunch : TM, Level 36
+    Dig : TM
+    Double-Edge : TM
+    Double Team : Level 8
+    Earth Power : TM
+    Endeavor : TM, Egg
+    Endure : TM
+    Facade : TM
+    Fire Fang : TM
+    Helping Hand : TM
+    Howl : Level 16
+    Hyper Voice : TM
+    Iron Defense : TM
+    Iron Head : TM
+    Last Resort : Egg
+    Leer : Level 1
+    Mud-Slap : TM
+    Play Rough : TM
+    Protect : TM
+    Psychic Fangs : TM
+    Rest : TM
+    Roar : TM, Level 28
+    Rock Slide : TM, Level 32
+    Rock Throw : Level 12
+    Rock Tomb : TM, Level 24
+    Sand Attack : Level 4
+    Sandstorm : TM
+    Scary Face : TM, Level 40
+    Sleep Talk : TM
+    Snarl : TM
+    Stealth Rock : TM, Level 44
+    Stomping Tantrum : TM
+    Stone Edge : TM, Level 48
+    Substitute : TM
+    Sucker Punch : Egg
+    Swords Dance : TM
+    Tackle : Level 1
+    Take Down : TM
+    Taunt : TM
+    Tera Blast : TM
+    Thrash : Egg
+    Thunder Fang : TM
+    Trailblaze : TM
+    Zen Headbutt : TM
+
 Lycanroc
     Accelerock : Level 1
     Agility : TM
@@ -39853,59 +39903,6 @@ Overqwil
     Water Pulse : TM
 
 Enamorus
-    Agility : TM
-    Alluring Voice : TM
-    Astonish : Level 1
-    Body Slam : TM
-    Calm Mind : TM
-    Dazzling Gleam : TM, Level 40
-    Disarming Voice : TM
-    Draining Kiss : TM, Level 20
-    Earth Power : TM
-    Endure : TM
-    Extrasensory : Level 45
-    Facade : TM
-    Fairy Wind : Level 1
-    Flatter : Level 10
-    Fly : TM
-    Focus Blast : TM
-    Giga Impact : TM
-    Grass Knot : TM
-    Grassy Terrain : TM
-    Healing Wish : Level 60
-    Hyper Beam : TM
-    Imprison : TM, Level 30
-    Iron Defense : TM, Level 25
-    Iron Head : TM
-    Misty Explosion : TM
-    Misty Terrain : TM
-    Moonblast : Level 65
-    Mystical Fire : Level 35
-    Outrage : TM, Level 70
-    Play Rough : TM
-    Protect : TM
-    Psychic : TM
-    Psych Up : TM
-    Rain Dance : TM
-    Rest : TM
-    Scary Face : TM
-    Sleep Talk : TM
-    Sludge Bomb : TM
-    Springtide Storm : Level 75
-    Substitute : TM
-    Sunny Day : TM
-    Superpower : Level 55
-    Tailwind : TM
-    Take Down : TM
-    Taunt : TM
-    Tera Blast : TM
-    Torment : Level 5
-    Twister : Level 15
-    Uproar : TM, Level 50
-    Weather Ball : TM
-    Zen Headbutt : TM
-
-Enamorus-Therian
     Agility : TM
     Alluring Voice : TM
     Astonish : Level 1

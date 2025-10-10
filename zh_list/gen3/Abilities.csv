@@ -53,7 +53,7 @@
 "Shadow Tag (踩影)","Prevents opposing Pokemon from choosing to switch out.",
 "Shed Skin (蜕皮)","This Pokemon has a 33% chance to have its non-volatile status condition cured at the end of each turn.",
 "Shell Armor (硬壳盔甲)","This Pokemon cannot be struck by a critical hit.",
-"Shield Dust (鳞粉)","This Pokemon is not affected by the secondary effect of another Pokemon's attack.",
+"Shield Dust (鳞粉)","This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, or cause this Pokemon's stat stages to be lowered. The secondary effect added by King's Rock is also prevented against this Pokemon.",
 "Soundproof (隔音)","This Pokemon is immune to sound-based moves, including Heal Bell.",
 "Speed Boost (加速)","This Pokemon's Speed is raised by 1 stage at the end of each full turn it has been on the field.",
 "Static (静电)","1/3 chance a Pokemon making contact with this Pokemon will be paralyzed. This effect does not happen if this Pokemon did not lose HP from the attack.",
