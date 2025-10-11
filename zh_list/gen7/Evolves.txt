@@ -12,17 +12,13 @@ Pidgey (波波) -> Pidgeotto (比比鸟) -> Pidgeot (大比鸟)
 
 Rattata (小拉达) -> Raticate (拉达)
 
-Rattata-Alola -> Raticate-Alola
-
 Spearow (烈雀) -> Fearow (大嘴雀)
 
 Ekans (阿柏蛇) -> Arbok (阿柏怪)
 
-Pichu (皮丘) -> Pikachu (皮卡丘) -> Raichu (雷丘), Raichu-Alola
+Pichu (皮丘) -> Pikachu (皮卡丘) -> Raichu (雷丘)
 
 Sandshrew (穿山鼠) -> Sandslash (穿山王)
-
-Sandshrew-Alola -> Sandslash-Alola
 
 Nidoran-F (尼多兰) -> Nidorina (尼多娜) -> Nidoqueen (尼多后)
 
@@ -31,8 +27,6 @@ Nidoran-M (尼多朗) -> Nidorino (尼多力诺) -> Nidoking (尼多王)
 Cleffa (皮宝宝) -> Clefairy (皮皮) -> Clefable (皮可西)
 
 Vulpix (六尾) -> Ninetales (九尾)
-
-Vulpix-Alola -> Ninetales-Alola
 
 Igglybuff (宝宝丁) -> Jigglypuff (胖丁) -> Wigglytuff (胖可丁)
 
@@ -46,11 +40,7 @@ Venonat (毛球) -> Venomoth (摩鲁蛾)
 
 Diglett (地鼠) -> Dugtrio (三地鼠)
 
-Diglett-Alola -> Dugtrio-Alola
-
 Meowth (喵喵) -> Persian (猫老大)
-
-Meowth-Alola -> Persian-Alola
 
 Psyduck (可达鸭) -> Golduck (哥达鸭)
 
@@ -70,8 +60,6 @@ Tentacool (玛瑙水母) -> Tentacruel (毒刺水母)
 
 Geodude (小拳石) -> Graveler (隆隆石) -> Golem (隆隆岩)
 
-Geodude-Alola -> Graveler-Alola -> Golem-Alola
-
 Ponyta (小火马) -> Rapidash (烈焰马)
 
 Slowpoke (呆呆兽) -> Slowbro (呆壳兽), Slowking (呆呆王)
@@ -86,8 +74,6 @@ Seel (小海狮) -> Dewgong (白海狮)
 
 Grimer (臭泥) -> Muk (臭臭泥)
 
-Grimer-Alola -> Muk-Alola
-
 Shellder (大舌贝) -> Cloyster (刺甲贝)
 
 Gastly (鬼斯) -> Haunter (鬼斯通) -> Gengar (耿鬼)
@@ -100,9 +86,9 @@ Krabby (大钳蟹) -> Kingler (巨钳蟹)
 
 Voltorb (霹雳电球) -> Electrode (顽皮雷弹)
 
-Exeggcute (蛋蛋) -> Exeggutor (椰蛋树), Exeggutor-Alola
+Exeggcute (蛋蛋) -> Exeggutor (椰蛋树)
 
-Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦), Marowak-Alola
+Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦)
 
 Tyrogue (无畏小子) -> Hitmonlee (飞腿郎), Hitmonchan (快拳郎), Hitmontop (战舞郎)
 
@@ -435,7 +421,7 @@ Cranidos (头盖龙) -> Rampardos (战槌龙)
 
 Shieldon (盾甲龙) -> Bastiodon (护城龙)
 
-Burmy (结草儿) -> Wormadam (结草贵妇), Wormadam-Sandy, Wormadam-Trash, Mothim (绅士蛾)
+Burmy (结草儿) -> Wormadam (结草贵妇), Mothim (绅士蛾)
 
 Combee (三蜜蜂) -> Vespiquen (蜂女王)
 
@@ -693,7 +679,7 @@ Pancham (顽皮熊猫) -> Pangoro (霸道熊猫)
 
 Furfrou (多丽米亚)
 
-Espurr (妙喵) -> Meowstic (超能妙喵), Meowstic-F
+Espurr (妙喵) -> Meowstic (超能妙喵)
 
 Honedge (独剑鞘) -> Doublade (双剑鞘) -> Aegislash (坚盾剑怪)
 
@@ -729,12 +715,6 @@ Phantump (小木灵) -> Trevenant (朽木妖)
 
 Pumpkaboo (南瓜精) -> Gourgeist (南瓜怪人)
 
-Pumpkaboo-Small -> Gourgeist-Small
-
-Pumpkaboo-Large -> Gourgeist-Large
-
-Pumpkaboo-Super -> Gourgeist-Super
-
 Bergmite (冰宝) -> Avalugg (冰岩怪)
 
 Noibat (嗡蝠) -> Noivern (音波龙)
@@ -769,9 +749,7 @@ Oricorio (花舞鸟)
 
 Cutiefly (萌虻) -> Ribombee (蝶结萌虻)
 
-Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人), Lycanroc-Midnight
-
-Rockruff-Dusk -> Lycanroc-Dusk
+Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人)
 
 Wishiwashi (弱丁鱼)
 

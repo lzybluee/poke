@@ -6,11 +6,9 @@ Squirtle (杰尼龟) -> Wartortle (卡咪龟) -> Blastoise (水箭龟)
 
 Caterpie (绿毛虫) -> Metapod (铁甲蛹) -> Butterfree (巴大蝶)
 
-Pichu (皮丘) -> Pikachu (皮卡丘) -> Raichu (雷丘), Raichu-Alola
+Pichu (皮丘) -> Pikachu (皮卡丘) -> Raichu (雷丘)
 
 Sandshrew (穿山鼠) -> Sandslash (穿山王)
-
-Sandshrew-Alola -> Sandslash-Alola
 
 Nidoran-F (尼多兰) -> Nidorina (尼多娜) -> Nidoqueen (尼多后)
 
@@ -20,8 +18,6 @@ Cleffa (皮宝宝) -> Clefairy (皮皮) -> Clefable (皮可西)
 
 Vulpix (六尾) -> Ninetales (九尾)
 
-Vulpix-Alola -> Ninetales-Alola
-
 Igglybuff (宝宝丁) -> Jigglypuff (胖丁) -> Wigglytuff (胖可丁)
 
 Zubat (超音蝠) -> Golbat (大嘴蝠) -> Crobat (叉字蝠)
@@ -30,11 +26,7 @@ Oddish (走路草) -> Gloom (臭臭花) -> Vileplume (霸王花), Bellossom (美
 
 Diglett (地鼠) -> Dugtrio (三地鼠)
 
-Diglett-Alola -> Dugtrio-Alola
-
 Meowth (喵喵) -> Persian (猫老大)
-
-Meowth-Alola -> Persian-Alola
 
 Meowth-Galar -> Perrserker (喵头目)
 
@@ -52,11 +44,7 @@ Tentacool (玛瑙水母) -> Tentacruel (毒刺水母)
 
 Ponyta (小火马) -> Rapidash (烈焰马)
 
-Ponyta-Galar -> Rapidash-Galar
-
 Slowpoke (呆呆兽) -> Slowbro (呆壳兽), Slowking (呆呆王)
-
-Slowpoke-Galar -> Slowbro-Galar, Slowking-Galar
 
 Magnemite (小磁怪) -> Magneton (三合一磁怪) -> Magnezone (自爆磁怪)
 
@@ -72,15 +60,15 @@ Onix (大岩蛇) -> Steelix (大钢蛇)
 
 Krabby (大钳蟹) -> Kingler (巨钳蟹)
 
-Exeggcute (蛋蛋) -> Exeggutor (椰蛋树), Exeggutor-Alola
+Exeggcute (蛋蛋) -> Exeggutor (椰蛋树)
 
-Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦), Marowak-Alola
+Cubone (卡拉卡拉) -> Marowak (嘎啦嘎啦)
 
 Tyrogue (无畏小子) -> Hitmonlee (飞腿郎), Hitmonchan (快拳郎), Hitmontop (战舞郎)
 
 Lickitung (大舌头) -> Lickilicky (大舌舔)
 
-Koffing (瓦斯弹) -> Weezing (双弹瓦斯), Weezing-Galar
+Koffing (瓦斯弹) -> Weezing (双弹瓦斯)
 
 Rhyhorn (独角犀牛) -> Rhydon (钻角犀兽) -> Rhyperior (超甲狂犀)
 
@@ -96,8 +84,9 @@ Goldeen (角金鱼) -> Seaking (金鱼王)
 
 Staryu (海星星) -> Starmie (宝石海星)
 
-Mime Jr. (魔尼尼) -> Mr. Mime-Galar -> Mr. Rime (踏冰人偶)
 Mime Jr. (魔尼尼) -> Mr. Mime (魔墙人偶)
+
+Mr. Mime-Galar -> Mr. Rime (踏冰人偶)
 
 Scyther (飞天螳螂) -> Scizor (巨钳螳螂)
 
@@ -205,7 +194,7 @@ Mudkip (水跃鱼) -> Marshtomp (沼跃鱼) -> Swampert (巨沼怪)
 
 Zigzagoon (蛇纹熊) -> Linoone (直冲熊)
 
-Zigzagoon-Galar -> Linoone-Galar -> Obstagoon (堵拦熊)
+Linoone-Galar -> Obstagoon (堵拦熊)
 
 Lotad (莲叶童子) -> Lombre (莲帽小童) -> Ludicolo (乐天河童)
 
@@ -375,8 +364,6 @@ Sandile (黑眼鳄) -> Krokorok (混混鳄) -> Krookodile (流氓鳄)
 
 Darumaka (火红不倒翁) -> Darmanitan (达摩狒狒)
 
-Darumaka-Galar -> Darmanitan-Galar
-
 Maractus (沙铃仙人掌)
 
 Dwebble (石居蟹) -> Crustle (岩殿居蟹)
@@ -483,7 +470,7 @@ Fletchling (小箭雀) -> Fletchinder (火箭雀) -> Talonflame (烈箭鹰)
 
 Pancham (顽皮熊猫) -> Pangoro (霸道熊猫)
 
-Espurr (妙喵) -> Meowstic (超能妙喵), Meowstic-F
+Espurr (妙喵) -> Meowstic (超能妙喵)
 
 Honedge (独剑鞘) -> Doublade (双剑鞘) -> Aegislash (坚盾剑怪)
 
@@ -519,12 +506,6 @@ Phantump (小木灵) -> Trevenant (朽木妖)
 
 Pumpkaboo (南瓜精) -> Gourgeist (南瓜怪人)
 
-Pumpkaboo-Small -> Gourgeist-Small
-
-Pumpkaboo-Large -> Gourgeist-Large
-
-Pumpkaboo-Super -> Gourgeist-Super
-
 Bergmite (冰宝) -> Avalugg (冰岩怪)
 
 Noibat (嗡蝠) -> Noivern (音波龙)
@@ -549,9 +530,7 @@ Grubbin (强颚鸡母虫) -> Charjabug (虫电宝) -> Vikavolt (锹农炮虫)
 
 Cutiefly (萌虻) -> Ribombee (蝶结萌虻)
 
-Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人), Lycanroc-Midnight
-
-Rockruff-Dusk -> Lycanroc-Dusk
+Rockruff (岩狗狗) -> Lycanroc (鬃岩狼人)
 
 Wishiwashi (弱丁鱼)
 
@@ -671,15 +650,13 @@ Cramorant (古月鸟)
 
 Arrokuda (刺梭鱼) -> Barraskewda (戽斗尖梭)
 
-Toxel (电音婴) -> Toxtricity (颤弦蝾螈), Toxtricity-Low-Key
+Toxel (电音婴) -> Toxtricity (颤弦蝾螈)
 
 Sizzlipede (烧火蚣) -> Centiskorch (焚焰蚣)
 
 Clobbopus (拳拳蛸) -> Grapploct (八爪武师)
 
 Sinistea (来悲茶) -> Polteageist (怖思壶)
-
-Sinistea-Antique -> Polteageist-Antique
 
 Hatenna (迷布莉姆) -> Hattrem (提布莉姆) -> Hatterene (布莉姆温)
 
@@ -721,7 +698,7 @@ Zamazenta (藏玛然特)
 
 Eternatus (无极汰那)
 
-Kubfu (熊徒弟) -> Urshifu (武道熊师), Urshifu-Rapid-Strike
+Kubfu (熊徒弟) -> Urshifu (武道熊师)
 
 Zarude (萨戮德)
 

@@ -421,7 +421,7 @@ Cranidos (头盖龙) -> Rampardos (战槌龙)
 
 Shieldon (盾甲龙) -> Bastiodon (护城龙)
 
-Burmy (结草儿) -> Wormadam (结草贵妇), Wormadam-Sandy, Wormadam-Trash, Mothim (绅士蛾)
+Burmy (结草儿) -> Wormadam (结草贵妇), Mothim (绅士蛾)
 
 Combee (三蜜蜂) -> Vespiquen (蜂女王)
 

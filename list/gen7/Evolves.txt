@@ -12,17 +12,13 @@ Pidgey -> Pidgeotto -> Pidgeot
 
 Rattata -> Raticate
 
-Rattata-Alola -> Raticate-Alola
-
 Spearow -> Fearow
 
 Ekans -> Arbok
 
-Pichu -> Pikachu -> Raichu, Raichu-Alola
+Pichu -> Pikachu -> Raichu
 
 Sandshrew -> Sandslash
-
-Sandshrew-Alola -> Sandslash-Alola
 
 Nidoran-F -> Nidorina -> Nidoqueen
 
@@ -31,8 +27,6 @@ Nidoran-M -> Nidorino -> Nidoking
 Cleffa -> Clefairy -> Clefable
 
 Vulpix -> Ninetales
-
-Vulpix-Alola -> Ninetales-Alola
 
 Igglybuff -> Jigglypuff -> Wigglytuff
 
@@ -46,11 +40,7 @@ Venonat -> Venomoth
 
 Diglett -> Dugtrio
 
-Diglett-Alola -> Dugtrio-Alola
-
 Meowth -> Persian
-
-Meowth-Alola -> Persian-Alola
 
 Psyduck -> Golduck
 
@@ -70,8 +60,6 @@ Tentacool -> Tentacruel
 
 Geodude -> Graveler -> Golem
 
-Geodude-Alola -> Graveler-Alola -> Golem-Alola
-
 Ponyta -> Rapidash
 
 Slowpoke -> Slowbro, Slowking
@@ -86,8 +74,6 @@ Seel -> Dewgong
 
 Grimer -> Muk
 
-Grimer-Alola -> Muk-Alola
-
 Shellder -> Cloyster
 
 Gastly -> Haunter -> Gengar
@@ -100,9 +86,9 @@ Krabby -> Kingler
 
 Voltorb -> Electrode
 
-Exeggcute -> Exeggutor, Exeggutor-Alola
+Exeggcute -> Exeggutor
 
-Cubone -> Marowak, Marowak-Alola
+Cubone -> Marowak
 
 Tyrogue -> Hitmonlee, Hitmonchan, Hitmontop
 
@@ -435,7 +421,7 @@ Cranidos -> Rampardos
 
 Shieldon -> Bastiodon
 
-Burmy -> Wormadam, Wormadam-Sandy, Wormadam-Trash, Mothim
+Burmy -> Wormadam, Mothim
 
 Combee -> Vespiquen
 
@@ -693,7 +679,7 @@ Pancham -> Pangoro
 
 Furfrou
 
-Espurr -> Meowstic, Meowstic-F
+Espurr -> Meowstic
 
 Honedge -> Doublade -> Aegislash
 
@@ -729,12 +715,6 @@ Phantump -> Trevenant
 
 Pumpkaboo -> Gourgeist
 
-Pumpkaboo-Small -> Gourgeist-Small
-
-Pumpkaboo-Large -> Gourgeist-Large
-
-Pumpkaboo-Super -> Gourgeist-Super
-
 Bergmite -> Avalugg
 
 Noibat -> Noivern
@@ -769,9 +749,7 @@ Oricorio
 
 Cutiefly -> Ribombee
 
-Rockruff -> Lycanroc, Lycanroc-Midnight
-
-Rockruff-Dusk -> Lycanroc-Dusk
+Rockruff -> Lycanroc
 
 Wishiwashi
 

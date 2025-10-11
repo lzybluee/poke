@@ -421,7 +421,7 @@ Cranidos -> Rampardos
 
 Shieldon -> Bastiodon
 
-Burmy -> Wormadam, Wormadam-Sandy, Wormadam-Trash, Mothim
+Burmy -> Wormadam, Mothim
 
 Combee -> Vespiquen
 

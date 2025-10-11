@@ -421,7 +421,7 @@ Cranidos (头盖龙) -> Rampardos (战槌龙)
 
 Shieldon (盾甲龙) -> Bastiodon (护城龙)
 
-Burmy (结草儿) -> Wormadam (结草贵妇), Wormadam-Sandy, Wormadam-Trash, Mothim (绅士蛾)
+Burmy (结草儿) -> Wormadam (结草贵妇), Mothim (绅士蛾)
 
 Combee (三蜜蜂) -> Vespiquen (蜂女王)
 
@@ -679,7 +679,7 @@ Pancham (顽皮熊猫) -> Pangoro (霸道熊猫)
 
 Furfrou (多丽米亚)
 
-Espurr (妙喵) -> Meowstic (超能妙喵), Meowstic-F
+Espurr (妙喵) -> Meowstic (超能妙喵)
 
 Honedge (独剑鞘) -> Doublade (双剑鞘) -> Aegislash (坚盾剑怪)
 
@@ -714,12 +714,6 @@ Klefki (钥圈儿)
 Phantump (小木灵) -> Trevenant (朽木妖)
 
 Pumpkaboo (南瓜精) -> Gourgeist (南瓜怪人)
-
-Pumpkaboo-Small -> Gourgeist-Small
-
-Pumpkaboo-Large -> Gourgeist-Large
-
-Pumpkaboo-Super -> Gourgeist-Super
 
 Bergmite (冰宝) -> Avalugg (冰岩怪)
 

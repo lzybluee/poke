@@ -303,14 +303,11 @@ function log_evolves(file, species_info) {
 
     let species_names = [];
     for (let i in species_info) {
-        if (!species_info[i].isCosmeticForme)
+        if (species_info[i].forme == '')
             species_names.push(species_info[i].name);
     }
 
     for (let i in species_info) {
-        if (species_info[i].isCosmeticForme)
-            continue;
-
         let evos = species_info[i].evos.filter(
             function(item) {
                 return species_names.includes(item);

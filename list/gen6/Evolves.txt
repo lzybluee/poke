@@ -421,7 +421,7 @@ Cranidos -> Rampardos
 
 Shieldon -> Bastiodon
 
-Burmy -> Wormadam, Wormadam-Sandy, Wormadam-Trash, Mothim
+Burmy -> Wormadam, Mothim
 
 Combee -> Vespiquen
 
@@ -679,7 +679,7 @@ Pancham -> Pangoro
 
 Furfrou
 
-Espurr -> Meowstic, Meowstic-F
+Espurr -> Meowstic
 
 Honedge -> Doublade -> Aegislash
 
@@ -714,12 +714,6 @@ Klefki
 Phantump -> Trevenant
 
 Pumpkaboo -> Gourgeist
-
-Pumpkaboo-Small -> Gourgeist-Small
-
-Pumpkaboo-Large -> Gourgeist-Large
-
-Pumpkaboo-Super -> Gourgeist-Super
 
 Bergmite -> Avalugg
 
