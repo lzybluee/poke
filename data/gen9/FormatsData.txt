@@ -338,7 +338,7 @@
   qwilfishhisui: { tier: 'PU', doublesTier: 'NFE', natDexTier: 'NFE' },
   overqwil: { tier: 'NU', doublesTier: '(DUU)', natDexTier: 'RU' },
   shuckle: { isNonstandard: 'Past', tier: 'Illegal', natDexTier: 'RU' },
-  heracross: { tier: 'PU', doublesTier: '(DUU)', natDexTier: 'RU' },
+  heracross: { tier: 'PUBL', doublesTier: '(DUU)', natDexTier: 'RU' },
   heracrossmega: { isNonstandard: 'Past', tier: 'Illegal', natDexTier: 'RUBL' },
   sneasel: { tier: 'NFE' },
   sneaselhisui: { tier: 'ZU', doublesTier: 'NFE', natDexTier: 'NFE' },

@@ -11744,7 +11744,7 @@ Species {
   types: [ 'Bug', 'Fighting' ],
   addedType: undefined,
   prevo: '',
-  tier: 'PU',
+  tier: 'PUBL',
   doublesTier: '(DUU)',
   natDexTier: 'RU',
   evos: [],
